@@ -1,0 +1,19 @@
+n_clusters,affinity,linkage,n_MoJo
+50,precomputed,complete, 162
+50,precomputed,average, 160
+50,precomputed,single, 158
+100,precomputed,complete, 194
+100,precomputed,average, 201
+100,precomputed,single, 196
+150,precomputed,complete, 219
+150,precomputed,average, 220
+150,precomputed,single, 224
+200,precomputed,complete, 238
+200,precomputed,average, 242
+200,precomputed,single, 245
+250,precomputed,complete, 260
+250,precomputed,average, 265
+250,precomputed,single, 262
+300,precomputed,complete, 284
+300,precomputed,average, 280
+300,precomputed,single, 277

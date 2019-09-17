@@ -1,0 +1,54 @@
+
+MoJo(test2/50_precomputed_complete_a.rsf,test2/50_precomputed_complete_b.rsf) = 162
+The total number of ojbects in source file does not equal the total number of objects in target file
+
+MoJo(test2/50_precomputed_average_a.rsf,test2/50_precomputed_average_b.rsf) = 160
+The total number of ojbects in source file does not equal the total number of objects in target file
+
+MoJo(test2/50_precomputed_single_a.rsf,test2/50_precomputed_single_b.rsf) = 158
+The total number of ojbects in source file does not equal the total number of objects in target file
+
+MoJo(test2/100_precomputed_complete_a.rsf,test2/100_precomputed_complete_b.rsf) = 194
+The total number of ojbects in source file does not equal the total number of objects in target file
+
+MoJo(test2/100_precomputed_average_a.rsf,test2/100_precomputed_average_b.rsf) = 201
+The total number of ojbects in source file does not equal the total number of objects in target file
+
+MoJo(test2/100_precomputed_single_a.rsf,test2/100_precomputed_single_b.rsf) = 196
+The total number of ojbects in source file does not equal the total number of objects in target file
+
+MoJo(test2/150_precomputed_complete_a.rsf,test2/150_precomputed_complete_b.rsf) = 219
+The total number of ojbects in source file does not equal the total number of objects in target file
+
+MoJo(test2/150_precomputed_average_a.rsf,test2/150_precomputed_average_b.rsf) = 220
+The total number of ojbects in source file does not equal the total number of objects in target file
+
+MoJo(test2/150_precomputed_single_a.rsf,test2/150_precomputed_single_b.rsf) = 224
+The total number of ojbects in source file does not equal the total number of objects in target file
+
+MoJo(test2/200_precomputed_complete_a.rsf,test2/200_precomputed_complete_b.rsf) = 238
+The total number of ojbects in source file does not equal the total number of objects in target file
+
+MoJo(test2/200_precomputed_average_a.rsf,test2/200_precomputed_average_b.rsf) = 242
+The total number of ojbects in source file does not equal the total number of objects in target file
+
+MoJo(test2/200_precomputed_single_a.rsf,test2/200_precomputed_single_b.rsf) = 245
+The total number of ojbects in source file does not equal the total number of objects in target file
+
+MoJo(test2/250_precomputed_complete_a.rsf,test2/250_precomputed_complete_b.rsf) = 260
+The total number of ojbects in source file does not equal the total number of objects in target file
+
+MoJo(test2/250_precomputed_average_a.rsf,test2/250_precomputed_average_b.rsf) = 265
+The total number of ojbects in source file does not equal the total number of objects in target file
+
+MoJo(test2/250_precomputed_single_a.rsf,test2/250_precomputed_single_b.rsf) = 262
+The total number of ojbects in source file does not equal the total number of objects in target file
+
+MoJo(test2/300_precomputed_complete_a.rsf,test2/300_precomputed_complete_b.rsf) = 284
+The total number of ojbects in source file does not equal the total number of objects in target file
+
+MoJo(test2/300_precomputed_average_a.rsf,test2/300_precomputed_average_b.rsf) = 280
+The total number of ojbects in source file does not equal the total number of objects in target file
+
+MoJo(test2/300_precomputed_single_a.rsf,test2/300_precomputed_single_b.rsf) = 277
+The total number of ojbects in source file does not equal the total number of objects in target file
