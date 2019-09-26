@@ -1,0 +1,2025 @@
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-2.6.0_50_euclidean_complete_a.rsf,airbnb-lottie-android/airbnb-lottie-android-2.6.0_50_euclidean_complete_b.rsf) = 121
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-2.6.0_50_euclidean_complete_b.rsf,airbnb-lottie-android/airbnb-lottie-android-2.6.0_50_euclidean_complete_a.rsf) = 123
+The Mojo value is 121
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-2.6.0_50_euclidean_average_a.rsf,airbnb-lottie-android/airbnb-lottie-android-2.6.0_50_euclidean_average_b.rsf) = 114
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-2.6.0_50_euclidean_average_b.rsf,airbnb-lottie-android/airbnb-lottie-android-2.6.0_50_euclidean_average_a.rsf) = 117
+The Mojo value is 114
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-2.6.0_50_euclidean_single_a.rsf,airbnb-lottie-android/airbnb-lottie-android-2.6.0_50_euclidean_single_b.rsf) = 116
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-2.6.0_50_euclidean_single_b.rsf,airbnb-lottie-android/airbnb-lottie-android-2.6.0_50_euclidean_single_a.rsf) = 92
+The Mojo value is 92
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-2.6.0_50_l1_complete_a.rsf,airbnb-lottie-android/airbnb-lottie-android-2.6.0_50_l1_complete_b.rsf) = 124
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-2.6.0_50_l1_complete_b.rsf,airbnb-lottie-android/airbnb-lottie-android-2.6.0_50_l1_complete_a.rsf) = 126
+The Mojo value is 124
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-2.6.0_50_l1_average_a.rsf,airbnb-lottie-android/airbnb-lottie-android-2.6.0_50_l1_average_b.rsf) = 133
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-2.6.0_50_l1_average_b.rsf,airbnb-lottie-android/airbnb-lottie-android-2.6.0_50_l1_average_a.rsf) = 122
+The Mojo value is 122
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-2.6.0_50_l1_single_a.rsf,airbnb-lottie-android/airbnb-lottie-android-2.6.0_50_l1_single_b.rsf) = 123
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-2.6.0_50_l1_single_b.rsf,airbnb-lottie-android/airbnb-lottie-android-2.6.0_50_l1_single_a.rsf) = 109
+The Mojo value is 109
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-2.6.0_50_l2_complete_a.rsf,airbnb-lottie-android/airbnb-lottie-android-2.6.0_50_l2_complete_b.rsf) = 119
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-2.6.0_50_l2_complete_b.rsf,airbnb-lottie-android/airbnb-lottie-android-2.6.0_50_l2_complete_a.rsf) = 119
+The Mojo value is 119
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-2.6.0_50_l2_average_a.rsf,airbnb-lottie-android/airbnb-lottie-android-2.6.0_50_l2_average_b.rsf) = 115
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-2.6.0_50_l2_average_b.rsf,airbnb-lottie-android/airbnb-lottie-android-2.6.0_50_l2_average_a.rsf) = 116
+The Mojo value is 115
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-2.6.0_50_l2_single_a.rsf,airbnb-lottie-android/airbnb-lottie-android-2.6.0_50_l2_single_b.rsf) = 108
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-2.6.0_50_l2_single_b.rsf,airbnb-lottie-android/airbnb-lottie-android-2.6.0_50_l2_single_a.rsf) = 90
+The Mojo value is 90
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-2.6.0_50_manhattan_complete_a.rsf,airbnb-lottie-android/airbnb-lottie-android-2.6.0_50_manhattan_complete_b.rsf) = 128
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-2.6.0_50_manhattan_complete_b.rsf,airbnb-lottie-android/airbnb-lottie-android-2.6.0_50_manhattan_complete_a.rsf) = 129
+The Mojo value is 128
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-2.6.0_50_manhattan_average_a.rsf,airbnb-lottie-android/airbnb-lottie-android-2.6.0_50_manhattan_average_b.rsf) = 127
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-2.6.0_50_manhattan_average_b.rsf,airbnb-lottie-android/airbnb-lottie-android-2.6.0_50_manhattan_average_a.rsf) = 114
+The Mojo value is 114
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-2.6.0_50_manhattan_single_a.rsf,airbnb-lottie-android/airbnb-lottie-android-2.6.0_50_manhattan_single_b.rsf) = 119
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-2.6.0_50_manhattan_single_b.rsf,airbnb-lottie-android/airbnb-lottie-android-2.6.0_50_manhattan_single_a.rsf) = 114
+The Mojo value is 114
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-2.6.0_50_cosine_complete_a.rsf,airbnb-lottie-android/airbnb-lottie-android-2.6.0_50_cosine_complete_b.rsf) = 118
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-2.6.0_50_cosine_complete_b.rsf,airbnb-lottie-android/airbnb-lottie-android-2.6.0_50_cosine_complete_a.rsf) = 118
+The Mojo value is 118
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-2.6.0_50_cosine_average_a.rsf,airbnb-lottie-android/airbnb-lottie-android-2.6.0_50_cosine_average_b.rsf) = 115
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-2.6.0_50_cosine_average_b.rsf,airbnb-lottie-android/airbnb-lottie-android-2.6.0_50_cosine_average_a.rsf) = 117
+The Mojo value is 115
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-2.6.0_50_cosine_single_a.rsf,airbnb-lottie-android/airbnb-lottie-android-2.6.0_50_cosine_single_b.rsf) = 110
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-2.6.0_50_cosine_single_b.rsf,airbnb-lottie-android/airbnb-lottie-android-2.6.0_50_cosine_single_a.rsf) = 84
+The Mojo value is 84
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-2.6.0_100_euclidean_complete_a.rsf,airbnb-lottie-android/airbnb-lottie-android-2.6.0_100_euclidean_complete_b.rsf) = 73
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-2.6.0_100_euclidean_complete_b.rsf,airbnb-lottie-android/airbnb-lottie-android-2.6.0_100_euclidean_complete_a.rsf) = 73
+The Mojo value is 73
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-2.6.0_100_euclidean_average_a.rsf,airbnb-lottie-android/airbnb-lottie-android-2.6.0_100_euclidean_average_b.rsf) = 73
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-2.6.0_100_euclidean_average_b.rsf,airbnb-lottie-android/airbnb-lottie-android-2.6.0_100_euclidean_average_a.rsf) = 73
+The Mojo value is 73
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-2.6.0_100_euclidean_single_a.rsf,airbnb-lottie-android/airbnb-lottie-android-2.6.0_100_euclidean_single_b.rsf) = 73
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-2.6.0_100_euclidean_single_b.rsf,airbnb-lottie-android/airbnb-lottie-android-2.6.0_100_euclidean_single_a.rsf) = 73
+The Mojo value is 73
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-2.6.0_100_l1_complete_a.rsf,airbnb-lottie-android/airbnb-lottie-android-2.6.0_100_l1_complete_b.rsf) = 78
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-2.6.0_100_l1_complete_b.rsf,airbnb-lottie-android/airbnb-lottie-android-2.6.0_100_l1_complete_a.rsf) = 78
+The Mojo value is 78
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-2.6.0_100_l1_average_a.rsf,airbnb-lottie-android/airbnb-lottie-android-2.6.0_100_l1_average_b.rsf) = 78
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-2.6.0_100_l1_average_b.rsf,airbnb-lottie-android/airbnb-lottie-android-2.6.0_100_l1_average_a.rsf) = 78
+The Mojo value is 78
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-2.6.0_100_l1_single_a.rsf,airbnb-lottie-android/airbnb-lottie-android-2.6.0_100_l1_single_b.rsf) = 76
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-2.6.0_100_l1_single_b.rsf,airbnb-lottie-android/airbnb-lottie-android-2.6.0_100_l1_single_a.rsf) = 76
+The Mojo value is 76
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-2.6.0_100_l2_complete_a.rsf,airbnb-lottie-android/airbnb-lottie-android-2.6.0_100_l2_complete_b.rsf) = 74
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-2.6.0_100_l2_complete_b.rsf,airbnb-lottie-android/airbnb-lottie-android-2.6.0_100_l2_complete_a.rsf) = 74
+The Mojo value is 74
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-2.6.0_100_l2_average_a.rsf,airbnb-lottie-android/airbnb-lottie-android-2.6.0_100_l2_average_b.rsf) = 72
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-2.6.0_100_l2_average_b.rsf,airbnb-lottie-android/airbnb-lottie-android-2.6.0_100_l2_average_a.rsf) = 72
+The Mojo value is 72
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-2.6.0_100_l2_single_a.rsf,airbnb-lottie-android/airbnb-lottie-android-2.6.0_100_l2_single_b.rsf) = 73
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-2.6.0_100_l2_single_b.rsf,airbnb-lottie-android/airbnb-lottie-android-2.6.0_100_l2_single_a.rsf) = 72
+The Mojo value is 72
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-2.6.0_100_manhattan_complete_a.rsf,airbnb-lottie-android/airbnb-lottie-android-2.6.0_100_manhattan_complete_b.rsf) = 78
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-2.6.0_100_manhattan_complete_b.rsf,airbnb-lottie-android/airbnb-lottie-android-2.6.0_100_manhattan_complete_a.rsf) = 78
+The Mojo value is 78
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-2.6.0_100_manhattan_average_a.rsf,airbnb-lottie-android/airbnb-lottie-android-2.6.0_100_manhattan_average_b.rsf) = 77
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-2.6.0_100_manhattan_average_b.rsf,airbnb-lottie-android/airbnb-lottie-android-2.6.0_100_manhattan_average_a.rsf) = 77
+The Mojo value is 77
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-2.6.0_100_manhattan_single_a.rsf,airbnb-lottie-android/airbnb-lottie-android-2.6.0_100_manhattan_single_b.rsf) = 76
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-2.6.0_100_manhattan_single_b.rsf,airbnb-lottie-android/airbnb-lottie-android-2.6.0_100_manhattan_single_a.rsf) = 76
+The Mojo value is 76
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-2.6.0_100_cosine_complete_a.rsf,airbnb-lottie-android/airbnb-lottie-android-2.6.0_100_cosine_complete_b.rsf) = 73
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-2.6.0_100_cosine_complete_b.rsf,airbnb-lottie-android/airbnb-lottie-android-2.6.0_100_cosine_complete_a.rsf) = 73
+The Mojo value is 73
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-2.6.0_100_cosine_average_a.rsf,airbnb-lottie-android/airbnb-lottie-android-2.6.0_100_cosine_average_b.rsf) = 73
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-2.6.0_100_cosine_average_b.rsf,airbnb-lottie-android/airbnb-lottie-android-2.6.0_100_cosine_average_a.rsf) = 73
+The Mojo value is 73
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-2.6.0_100_cosine_single_a.rsf,airbnb-lottie-android/airbnb-lottie-android-2.6.0_100_cosine_single_b.rsf) = 75
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-2.6.0_100_cosine_single_b.rsf,airbnb-lottie-android/airbnb-lottie-android-2.6.0_100_cosine_single_a.rsf) = 74
+The Mojo value is 74
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-2.6.1_50_euclidean_complete_a.rsf,airbnb-lottie-android/airbnb-lottie-android-2.6.1_50_euclidean_complete_b.rsf) = 121
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-2.6.1_50_euclidean_complete_b.rsf,airbnb-lottie-android/airbnb-lottie-android-2.6.1_50_euclidean_complete_a.rsf) = 123
+The Mojo value is 121
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-2.6.1_50_euclidean_average_a.rsf,airbnb-lottie-android/airbnb-lottie-android-2.6.1_50_euclidean_average_b.rsf) = 120
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-2.6.1_50_euclidean_average_b.rsf,airbnb-lottie-android/airbnb-lottie-android-2.6.1_50_euclidean_average_a.rsf) = 120
+The Mojo value is 120
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-2.6.1_50_euclidean_single_a.rsf,airbnb-lottie-android/airbnb-lottie-android-2.6.1_50_euclidean_single_b.rsf) = 112
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-2.6.1_50_euclidean_single_b.rsf,airbnb-lottie-android/airbnb-lottie-android-2.6.1_50_euclidean_single_a.rsf) = 92
+The Mojo value is 92
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-2.6.1_50_l1_complete_a.rsf,airbnb-lottie-android/airbnb-lottie-android-2.6.1_50_l1_complete_b.rsf) = 117
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-2.6.1_50_l1_complete_b.rsf,airbnb-lottie-android/airbnb-lottie-android-2.6.1_50_l1_complete_a.rsf) = 120
+The Mojo value is 117
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-2.6.1_50_l1_average_a.rsf,airbnb-lottie-android/airbnb-lottie-android-2.6.1_50_l1_average_b.rsf) = 131
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-2.6.1_50_l1_average_b.rsf,airbnb-lottie-android/airbnb-lottie-android-2.6.1_50_l1_average_a.rsf) = 112
+The Mojo value is 112
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-2.6.1_50_l1_single_a.rsf,airbnb-lottie-android/airbnb-lottie-android-2.6.1_50_l1_single_b.rsf) = 125
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-2.6.1_50_l1_single_b.rsf,airbnb-lottie-android/airbnb-lottie-android-2.6.1_50_l1_single_a.rsf) = 111
+The Mojo value is 111
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-2.6.1_50_l2_complete_a.rsf,airbnb-lottie-android/airbnb-lottie-android-2.6.1_50_l2_complete_b.rsf) = 122
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-2.6.1_50_l2_complete_b.rsf,airbnb-lottie-android/airbnb-lottie-android-2.6.1_50_l2_complete_a.rsf) = 122
+The Mojo value is 122
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-2.6.1_50_l2_average_a.rsf,airbnb-lottie-android/airbnb-lottie-android-2.6.1_50_l2_average_b.rsf) = 118
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-2.6.1_50_l2_average_b.rsf,airbnb-lottie-android/airbnb-lottie-android-2.6.1_50_l2_average_a.rsf) = 119
+The Mojo value is 118
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-2.6.1_50_l2_single_a.rsf,airbnb-lottie-android/airbnb-lottie-android-2.6.1_50_l2_single_b.rsf) = 112
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-2.6.1_50_l2_single_b.rsf,airbnb-lottie-android/airbnb-lottie-android-2.6.1_50_l2_single_a.rsf) = 83
+The Mojo value is 83
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-2.6.1_50_manhattan_complete_a.rsf,airbnb-lottie-android/airbnb-lottie-android-2.6.1_50_manhattan_complete_b.rsf) = 125
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-2.6.1_50_manhattan_complete_b.rsf,airbnb-lottie-android/airbnb-lottie-android-2.6.1_50_manhattan_complete_a.rsf) = 127
+The Mojo value is 125
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-2.6.1_50_manhattan_average_a.rsf,airbnb-lottie-android/airbnb-lottie-android-2.6.1_50_manhattan_average_b.rsf) = 127
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-2.6.1_50_manhattan_average_b.rsf,airbnb-lottie-android/airbnb-lottie-android-2.6.1_50_manhattan_average_a.rsf) = 111
+The Mojo value is 111
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-2.6.1_50_manhattan_single_a.rsf,airbnb-lottie-android/airbnb-lottie-android-2.6.1_50_manhattan_single_b.rsf) = 130
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-2.6.1_50_manhattan_single_b.rsf,airbnb-lottie-android/airbnb-lottie-android-2.6.1_50_manhattan_single_a.rsf) = 110
+The Mojo value is 110
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-2.6.1_50_cosine_complete_a.rsf,airbnb-lottie-android/airbnb-lottie-android-2.6.1_50_cosine_complete_b.rsf) = 119
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-2.6.1_50_cosine_complete_b.rsf,airbnb-lottie-android/airbnb-lottie-android-2.6.1_50_cosine_complete_a.rsf) = 120
+The Mojo value is 119
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-2.6.1_50_cosine_average_a.rsf,airbnb-lottie-android/airbnb-lottie-android-2.6.1_50_cosine_average_b.rsf) = 115
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-2.6.1_50_cosine_average_b.rsf,airbnb-lottie-android/airbnb-lottie-android-2.6.1_50_cosine_average_a.rsf) = 117
+The Mojo value is 115
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-2.6.1_50_cosine_single_a.rsf,airbnb-lottie-android/airbnb-lottie-android-2.6.1_50_cosine_single_b.rsf) = 104
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-2.6.1_50_cosine_single_b.rsf,airbnb-lottie-android/airbnb-lottie-android-2.6.1_50_cosine_single_a.rsf) = 85
+The Mojo value is 85
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-2.6.1_100_euclidean_complete_a.rsf,airbnb-lottie-android/airbnb-lottie-android-2.6.1_100_euclidean_complete_b.rsf) = 73
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-2.6.1_100_euclidean_complete_b.rsf,airbnb-lottie-android/airbnb-lottie-android-2.6.1_100_euclidean_complete_a.rsf) = 73
+The Mojo value is 73
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-2.6.1_100_euclidean_average_a.rsf,airbnb-lottie-android/airbnb-lottie-android-2.6.1_100_euclidean_average_b.rsf) = 75
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-2.6.1_100_euclidean_average_b.rsf,airbnb-lottie-android/airbnb-lottie-android-2.6.1_100_euclidean_average_a.rsf) = 75
+The Mojo value is 75
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-2.6.1_100_euclidean_single_a.rsf,airbnb-lottie-android/airbnb-lottie-android-2.6.1_100_euclidean_single_b.rsf) = 78
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-2.6.1_100_euclidean_single_b.rsf,airbnb-lottie-android/airbnb-lottie-android-2.6.1_100_euclidean_single_a.rsf) = 78
+The Mojo value is 78
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-2.6.1_100_l1_complete_a.rsf,airbnb-lottie-android/airbnb-lottie-android-2.6.1_100_l1_complete_b.rsf) = 75
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-2.6.1_100_l1_complete_b.rsf,airbnb-lottie-android/airbnb-lottie-android-2.6.1_100_l1_complete_a.rsf) = 75
+The Mojo value is 75
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-2.6.1_100_l1_average_a.rsf,airbnb-lottie-android/airbnb-lottie-android-2.6.1_100_l1_average_b.rsf) = 75
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-2.6.1_100_l1_average_b.rsf,airbnb-lottie-android/airbnb-lottie-android-2.6.1_100_l1_average_a.rsf) = 75
+The Mojo value is 75
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-2.6.1_100_l1_single_a.rsf,airbnb-lottie-android/airbnb-lottie-android-2.6.1_100_l1_single_b.rsf) = 76
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-2.6.1_100_l1_single_b.rsf,airbnb-lottie-android/airbnb-lottie-android-2.6.1_100_l1_single_a.rsf) = 76
+The Mojo value is 76
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-2.6.1_100_l2_complete_a.rsf,airbnb-lottie-android/airbnb-lottie-android-2.6.1_100_l2_complete_b.rsf) = 72
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-2.6.1_100_l2_complete_b.rsf,airbnb-lottie-android/airbnb-lottie-android-2.6.1_100_l2_complete_a.rsf) = 72
+The Mojo value is 72
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-2.6.1_100_l2_average_a.rsf,airbnb-lottie-android/airbnb-lottie-android-2.6.1_100_l2_average_b.rsf) = 75
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-2.6.1_100_l2_average_b.rsf,airbnb-lottie-android/airbnb-lottie-android-2.6.1_100_l2_average_a.rsf) = 75
+The Mojo value is 75
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-2.6.1_100_l2_single_a.rsf,airbnb-lottie-android/airbnb-lottie-android-2.6.1_100_l2_single_b.rsf) = 77
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-2.6.1_100_l2_single_b.rsf,airbnb-lottie-android/airbnb-lottie-android-2.6.1_100_l2_single_a.rsf) = 77
+The Mojo value is 77
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-2.6.1_100_manhattan_complete_a.rsf,airbnb-lottie-android/airbnb-lottie-android-2.6.1_100_manhattan_complete_b.rsf) = 76
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-2.6.1_100_manhattan_complete_b.rsf,airbnb-lottie-android/airbnb-lottie-android-2.6.1_100_manhattan_complete_a.rsf) = 76
+The Mojo value is 76
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-2.6.1_100_manhattan_average_a.rsf,airbnb-lottie-android/airbnb-lottie-android-2.6.1_100_manhattan_average_b.rsf) = 76
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-2.6.1_100_manhattan_average_b.rsf,airbnb-lottie-android/airbnb-lottie-android-2.6.1_100_manhattan_average_a.rsf) = 76
+The Mojo value is 76
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-2.6.1_100_manhattan_single_a.rsf,airbnb-lottie-android/airbnb-lottie-android-2.6.1_100_manhattan_single_b.rsf) = 76
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-2.6.1_100_manhattan_single_b.rsf,airbnb-lottie-android/airbnb-lottie-android-2.6.1_100_manhattan_single_a.rsf) = 76
+The Mojo value is 76
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-2.6.1_100_cosine_complete_a.rsf,airbnb-lottie-android/airbnb-lottie-android-2.6.1_100_cosine_complete_b.rsf) = 73
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-2.6.1_100_cosine_complete_b.rsf,airbnb-lottie-android/airbnb-lottie-android-2.6.1_100_cosine_complete_a.rsf) = 73
+The Mojo value is 73
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-2.6.1_100_cosine_average_a.rsf,airbnb-lottie-android/airbnb-lottie-android-2.6.1_100_cosine_average_b.rsf) = 76
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-2.6.1_100_cosine_average_b.rsf,airbnb-lottie-android/airbnb-lottie-android-2.6.1_100_cosine_average_a.rsf) = 76
+The Mojo value is 76
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-2.6.1_100_cosine_single_a.rsf,airbnb-lottie-android/airbnb-lottie-android-2.6.1_100_cosine_single_b.rsf) = 79
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-2.6.1_100_cosine_single_b.rsf,airbnb-lottie-android/airbnb-lottie-android-2.6.1_100_cosine_single_a.rsf) = 79
+The Mojo value is 79
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-2.7.0_50_euclidean_complete_a.rsf,airbnb-lottie-android/airbnb-lottie-android-2.7.0_50_euclidean_complete_b.rsf) = 121
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-2.7.0_50_euclidean_complete_b.rsf,airbnb-lottie-android/airbnb-lottie-android-2.7.0_50_euclidean_complete_a.rsf) = 122
+The Mojo value is 121
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-2.7.0_50_euclidean_average_a.rsf,airbnb-lottie-android/airbnb-lottie-android-2.7.0_50_euclidean_average_b.rsf) = 119
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-2.7.0_50_euclidean_average_b.rsf,airbnb-lottie-android/airbnb-lottie-android-2.7.0_50_euclidean_average_a.rsf) = 121
+The Mojo value is 119
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-2.7.0_50_euclidean_single_a.rsf,airbnb-lottie-android/airbnb-lottie-android-2.7.0_50_euclidean_single_b.rsf) = 112
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-2.7.0_50_euclidean_single_b.rsf,airbnb-lottie-android/airbnb-lottie-android-2.7.0_50_euclidean_single_a.rsf) = 94
+The Mojo value is 94
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-2.7.0_50_l1_complete_a.rsf,airbnb-lottie-android/airbnb-lottie-android-2.7.0_50_l1_complete_b.rsf) = 129
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-2.7.0_50_l1_complete_b.rsf,airbnb-lottie-android/airbnb-lottie-android-2.7.0_50_l1_complete_a.rsf) = 125
+The Mojo value is 125
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-2.7.0_50_l1_average_a.rsf,airbnb-lottie-android/airbnb-lottie-android-2.7.0_50_l1_average_b.rsf) = 116
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-2.7.0_50_l1_average_b.rsf,airbnb-lottie-android/airbnb-lottie-android-2.7.0_50_l1_average_a.rsf) = 113
+The Mojo value is 113
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-2.7.0_50_l1_single_a.rsf,airbnb-lottie-android/airbnb-lottie-android-2.7.0_50_l1_single_b.rsf) = 130
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-2.7.0_50_l1_single_b.rsf,airbnb-lottie-android/airbnb-lottie-android-2.7.0_50_l1_single_a.rsf) = 113
+The Mojo value is 113
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-2.7.0_50_l2_complete_a.rsf,airbnb-lottie-android/airbnb-lottie-android-2.7.0_50_l2_complete_b.rsf) = 116
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-2.7.0_50_l2_complete_b.rsf,airbnb-lottie-android/airbnb-lottie-android-2.7.0_50_l2_complete_a.rsf) = 120
+The Mojo value is 116
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-2.7.0_50_l2_average_a.rsf,airbnb-lottie-android/airbnb-lottie-android-2.7.0_50_l2_average_b.rsf) = 121
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-2.7.0_50_l2_average_b.rsf,airbnb-lottie-android/airbnb-lottie-android-2.7.0_50_l2_average_a.rsf) = 123
+The Mojo value is 121
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-2.7.0_50_l2_single_a.rsf,airbnb-lottie-android/airbnb-lottie-android-2.7.0_50_l2_single_b.rsf) = 109
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-2.7.0_50_l2_single_b.rsf,airbnb-lottie-android/airbnb-lottie-android-2.7.0_50_l2_single_a.rsf) = 89
+The Mojo value is 89
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-2.7.0_50_manhattan_complete_a.rsf,airbnb-lottie-android/airbnb-lottie-android-2.7.0_50_manhattan_complete_b.rsf) = 127
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-2.7.0_50_manhattan_complete_b.rsf,airbnb-lottie-android/airbnb-lottie-android-2.7.0_50_manhattan_complete_a.rsf) = 125
+The Mojo value is 125
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-2.7.0_50_manhattan_average_a.rsf,airbnb-lottie-android/airbnb-lottie-android-2.7.0_50_manhattan_average_b.rsf) = 123
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-2.7.0_50_manhattan_average_b.rsf,airbnb-lottie-android/airbnb-lottie-android-2.7.0_50_manhattan_average_a.rsf) = 114
+The Mojo value is 114
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-2.7.0_50_manhattan_single_a.rsf,airbnb-lottie-android/airbnb-lottie-android-2.7.0_50_manhattan_single_b.rsf) = 127
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-2.7.0_50_manhattan_single_b.rsf,airbnb-lottie-android/airbnb-lottie-android-2.7.0_50_manhattan_single_a.rsf) = 114
+The Mojo value is 114
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-2.7.0_50_cosine_complete_a.rsf,airbnb-lottie-android/airbnb-lottie-android-2.7.0_50_cosine_complete_b.rsf) = 117
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-2.7.0_50_cosine_complete_b.rsf,airbnb-lottie-android/airbnb-lottie-android-2.7.0_50_cosine_complete_a.rsf) = 117
+The Mojo value is 117
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-2.7.0_50_cosine_average_a.rsf,airbnb-lottie-android/airbnb-lottie-android-2.7.0_50_cosine_average_b.rsf) = 113
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-2.7.0_50_cosine_average_b.rsf,airbnb-lottie-android/airbnb-lottie-android-2.7.0_50_cosine_average_a.rsf) = 115
+The Mojo value is 113
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-2.7.0_50_cosine_single_a.rsf,airbnb-lottie-android/airbnb-lottie-android-2.7.0_50_cosine_single_b.rsf) = 116
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-2.7.0_50_cosine_single_b.rsf,airbnb-lottie-android/airbnb-lottie-android-2.7.0_50_cosine_single_a.rsf) = 88
+The Mojo value is 88
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-2.7.0_100_euclidean_complete_a.rsf,airbnb-lottie-android/airbnb-lottie-android-2.7.0_100_euclidean_complete_b.rsf) = 72
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-2.7.0_100_euclidean_complete_b.rsf,airbnb-lottie-android/airbnb-lottie-android-2.7.0_100_euclidean_complete_a.rsf) = 72
+The Mojo value is 72
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-2.7.0_100_euclidean_average_a.rsf,airbnb-lottie-android/airbnb-lottie-android-2.7.0_100_euclidean_average_b.rsf) = 72
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-2.7.0_100_euclidean_average_b.rsf,airbnb-lottie-android/airbnb-lottie-android-2.7.0_100_euclidean_average_a.rsf) = 72
+The Mojo value is 72
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-2.7.0_100_euclidean_single_a.rsf,airbnb-lottie-android/airbnb-lottie-android-2.7.0_100_euclidean_single_b.rsf) = 72
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-2.7.0_100_euclidean_single_b.rsf,airbnb-lottie-android/airbnb-lottie-android-2.7.0_100_euclidean_single_a.rsf) = 71
+The Mojo value is 71
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-2.7.0_100_l1_complete_a.rsf,airbnb-lottie-android/airbnb-lottie-android-2.7.0_100_l1_complete_b.rsf) = 74
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-2.7.0_100_l1_complete_b.rsf,airbnb-lottie-android/airbnb-lottie-android-2.7.0_100_l1_complete_a.rsf) = 74
+The Mojo value is 74
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-2.7.0_100_l1_average_a.rsf,airbnb-lottie-android/airbnb-lottie-android-2.7.0_100_l1_average_b.rsf) = 74
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-2.7.0_100_l1_average_b.rsf,airbnb-lottie-android/airbnb-lottie-android-2.7.0_100_l1_average_a.rsf) = 74
+The Mojo value is 74
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-2.7.0_100_l1_single_a.rsf,airbnb-lottie-android/airbnb-lottie-android-2.7.0_100_l1_single_b.rsf) = 78
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-2.7.0_100_l1_single_b.rsf,airbnb-lottie-android/airbnb-lottie-android-2.7.0_100_l1_single_a.rsf) = 78
+The Mojo value is 78
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-2.7.0_100_l2_complete_a.rsf,airbnb-lottie-android/airbnb-lottie-android-2.7.0_100_l2_complete_b.rsf) = 72
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-2.7.0_100_l2_complete_b.rsf,airbnb-lottie-android/airbnb-lottie-android-2.7.0_100_l2_complete_a.rsf) = 72
+The Mojo value is 72
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-2.7.0_100_l2_average_a.rsf,airbnb-lottie-android/airbnb-lottie-android-2.7.0_100_l2_average_b.rsf) = 72
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-2.7.0_100_l2_average_b.rsf,airbnb-lottie-android/airbnb-lottie-android-2.7.0_100_l2_average_a.rsf) = 72
+The Mojo value is 72
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-2.7.0_100_l2_single_a.rsf,airbnb-lottie-android/airbnb-lottie-android-2.7.0_100_l2_single_b.rsf) = 73
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-2.7.0_100_l2_single_b.rsf,airbnb-lottie-android/airbnb-lottie-android-2.7.0_100_l2_single_a.rsf) = 73
+The Mojo value is 73
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-2.7.0_100_manhattan_complete_a.rsf,airbnb-lottie-android/airbnb-lottie-android-2.7.0_100_manhattan_complete_b.rsf) = 75
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-2.7.0_100_manhattan_complete_b.rsf,airbnb-lottie-android/airbnb-lottie-android-2.7.0_100_manhattan_complete_a.rsf) = 75
+The Mojo value is 75
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-2.7.0_100_manhattan_average_a.rsf,airbnb-lottie-android/airbnb-lottie-android-2.7.0_100_manhattan_average_b.rsf) = 74
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-2.7.0_100_manhattan_average_b.rsf,airbnb-lottie-android/airbnb-lottie-android-2.7.0_100_manhattan_average_a.rsf) = 74
+The Mojo value is 74
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-2.7.0_100_manhattan_single_a.rsf,airbnb-lottie-android/airbnb-lottie-android-2.7.0_100_manhattan_single_b.rsf) = 77
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-2.7.0_100_manhattan_single_b.rsf,airbnb-lottie-android/airbnb-lottie-android-2.7.0_100_manhattan_single_a.rsf) = 77
+The Mojo value is 77
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-2.7.0_100_cosine_complete_a.rsf,airbnb-lottie-android/airbnb-lottie-android-2.7.0_100_cosine_complete_b.rsf) = 73
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-2.7.0_100_cosine_complete_b.rsf,airbnb-lottie-android/airbnb-lottie-android-2.7.0_100_cosine_complete_a.rsf) = 73
+The Mojo value is 73
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-2.7.0_100_cosine_average_a.rsf,airbnb-lottie-android/airbnb-lottie-android-2.7.0_100_cosine_average_b.rsf) = 72
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-2.7.0_100_cosine_average_b.rsf,airbnb-lottie-android/airbnb-lottie-android-2.7.0_100_cosine_average_a.rsf) = 72
+The Mojo value is 72
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-2.7.0_100_cosine_single_a.rsf,airbnb-lottie-android/airbnb-lottie-android-2.7.0_100_cosine_single_b.rsf) = 71
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-2.7.0_100_cosine_single_b.rsf,airbnb-lottie-android/airbnb-lottie-android-2.7.0_100_cosine_single_a.rsf) = 69
+The Mojo value is 69
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.0_50_euclidean_complete_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.0_50_euclidean_complete_b.rsf) = 125
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.0_50_euclidean_complete_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.0_50_euclidean_complete_a.rsf) = 119
+The Mojo value is 119
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.0_50_euclidean_average_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.0_50_euclidean_average_b.rsf) = 115
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.0_50_euclidean_average_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.0_50_euclidean_average_a.rsf) = 130
+The Mojo value is 115
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.0_50_euclidean_single_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.0_50_euclidean_single_b.rsf) = 115
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.0_50_euclidean_single_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.0_50_euclidean_single_a.rsf) = 93
+The Mojo value is 93
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.0_50_l1_complete_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.0_50_l1_complete_b.rsf) = 120
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.0_50_l1_complete_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.0_50_l1_complete_a.rsf) = 116
+The Mojo value is 116
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.0_50_l1_average_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.0_50_l1_average_b.rsf) = 123
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.0_50_l1_average_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.0_50_l1_average_a.rsf) = 83
+The Mojo value is 83
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.0_50_l1_single_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.0_50_l1_single_b.rsf) = 121
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.0_50_l1_single_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.0_50_l1_single_a.rsf) = 73
+The Mojo value is 73
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.0_50_l2_complete_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.0_50_l2_complete_b.rsf) = 119
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.0_50_l2_complete_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.0_50_l2_complete_a.rsf) = 122
+The Mojo value is 119
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.0_50_l2_average_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.0_50_l2_average_b.rsf) = 126
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.0_50_l2_average_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.0_50_l2_average_a.rsf) = 128
+The Mojo value is 126
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.0_50_l2_single_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.0_50_l2_single_b.rsf) = 126
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.0_50_l2_single_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.0_50_l2_single_a.rsf) = 97
+The Mojo value is 97
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.0_50_manhattan_complete_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.0_50_manhattan_complete_b.rsf) = 122
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.0_50_manhattan_complete_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.0_50_manhattan_complete_a.rsf) = 121
+The Mojo value is 121
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.0_50_manhattan_average_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.0_50_manhattan_average_b.rsf) = 114
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.0_50_manhattan_average_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.0_50_manhattan_average_a.rsf) = 92
+The Mojo value is 92
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.0_50_manhattan_single_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.0_50_manhattan_single_b.rsf) = 119
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.0_50_manhattan_single_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.0_50_manhattan_single_a.rsf) = 86
+The Mojo value is 86
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.0_50_cosine_complete_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.0_50_cosine_complete_b.rsf) = 125
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.0_50_cosine_complete_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.0_50_cosine_complete_a.rsf) = 132
+The Mojo value is 125
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.0_50_cosine_average_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.0_50_cosine_average_b.rsf) = 125
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.0_50_cosine_average_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.0_50_cosine_average_a.rsf) = 132
+The Mojo value is 125
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.0_50_cosine_single_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.0_50_cosine_single_b.rsf) = 116
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.0_50_cosine_single_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.0_50_cosine_single_a.rsf) = 84
+The Mojo value is 84
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.0_100_euclidean_complete_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.0_100_euclidean_complete_b.rsf) = 93
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.0_100_euclidean_complete_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.0_100_euclidean_complete_a.rsf) = 94
+The Mojo value is 93
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.0_100_euclidean_average_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.0_100_euclidean_average_b.rsf) = 97
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.0_100_euclidean_average_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.0_100_euclidean_average_a.rsf) = 97
+The Mojo value is 97
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.0_100_euclidean_single_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.0_100_euclidean_single_b.rsf) = 102
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.0_100_euclidean_single_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.0_100_euclidean_single_a.rsf) = 100
+The Mojo value is 100
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.0_100_l1_complete_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.0_100_l1_complete_b.rsf) = 98
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.0_100_l1_complete_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.0_100_l1_complete_a.rsf) = 97
+The Mojo value is 97
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.0_100_l1_average_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.0_100_l1_average_b.rsf) = 102
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.0_100_l1_average_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.0_100_l1_average_a.rsf) = 100
+The Mojo value is 100
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.0_100_l1_single_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.0_100_l1_single_b.rsf) = 103
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.0_100_l1_single_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.0_100_l1_single_a.rsf) = 97
+The Mojo value is 97
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.0_100_l2_complete_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.0_100_l2_complete_b.rsf) = 92
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.0_100_l2_complete_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.0_100_l2_complete_a.rsf) = 93
+The Mojo value is 92
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.0_100_l2_average_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.0_100_l2_average_b.rsf) = 97
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.0_100_l2_average_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.0_100_l2_average_a.rsf) = 97
+The Mojo value is 97
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.0_100_l2_single_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.0_100_l2_single_b.rsf) = 106
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.0_100_l2_single_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.0_100_l2_single_a.rsf) = 105
+The Mojo value is 105
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.0_100_manhattan_complete_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.0_100_manhattan_complete_b.rsf) = 98
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.0_100_manhattan_complete_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.0_100_manhattan_complete_a.rsf) = 98
+The Mojo value is 98
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.0_100_manhattan_average_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.0_100_manhattan_average_b.rsf) = 103
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.0_100_manhattan_average_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.0_100_manhattan_average_a.rsf) = 103
+The Mojo value is 103
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.0_100_manhattan_single_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.0_100_manhattan_single_b.rsf) = 102
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.0_100_manhattan_single_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.0_100_manhattan_single_a.rsf) = 97
+The Mojo value is 97
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.0_100_cosine_complete_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.0_100_cosine_complete_b.rsf) = 93
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.0_100_cosine_complete_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.0_100_cosine_complete_a.rsf) = 93
+The Mojo value is 93
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.0_100_cosine_average_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.0_100_cosine_average_b.rsf) = 93
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.0_100_cosine_average_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.0_100_cosine_average_a.rsf) = 97
+The Mojo value is 93
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.0_100_cosine_single_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.0_100_cosine_single_b.rsf) = 106
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.0_100_cosine_single_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.0_100_cosine_single_a.rsf) = 99
+The Mojo value is 99
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.0_150_euclidean_complete_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.0_150_euclidean_complete_b.rsf) = 36
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.0_150_euclidean_complete_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.0_150_euclidean_complete_a.rsf) = 36
+The Mojo value is 36
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.0_150_euclidean_average_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.0_150_euclidean_average_b.rsf) = 37
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.0_150_euclidean_average_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.0_150_euclidean_average_a.rsf) = 37
+The Mojo value is 37
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.0_150_euclidean_single_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.0_150_euclidean_single_b.rsf) = 36
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.0_150_euclidean_single_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.0_150_euclidean_single_a.rsf) = 36
+The Mojo value is 36
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.0_150_l1_complete_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.0_150_l1_complete_b.rsf) = 35
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.0_150_l1_complete_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.0_150_l1_complete_a.rsf) = 35
+The Mojo value is 35
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.0_150_l1_average_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.0_150_l1_average_b.rsf) = 36
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.0_150_l1_average_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.0_150_l1_average_a.rsf) = 36
+The Mojo value is 36
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.0_150_l1_single_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.0_150_l1_single_b.rsf) = 37
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.0_150_l1_single_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.0_150_l1_single_a.rsf) = 37
+The Mojo value is 37
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.0_150_l2_complete_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.0_150_l2_complete_b.rsf) = 37
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.0_150_l2_complete_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.0_150_l2_complete_a.rsf) = 37
+The Mojo value is 37
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.0_150_l2_average_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.0_150_l2_average_b.rsf) = 37
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.0_150_l2_average_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.0_150_l2_average_a.rsf) = 37
+The Mojo value is 37
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.0_150_l2_single_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.0_150_l2_single_b.rsf) = 36
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.0_150_l2_single_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.0_150_l2_single_a.rsf) = 36
+The Mojo value is 36
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.0_150_manhattan_complete_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.0_150_manhattan_complete_b.rsf) = 34
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.0_150_manhattan_complete_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.0_150_manhattan_complete_a.rsf) = 34
+The Mojo value is 34
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.0_150_manhattan_average_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.0_150_manhattan_average_b.rsf) = 37
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.0_150_manhattan_average_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.0_150_manhattan_average_a.rsf) = 37
+The Mojo value is 37
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.0_150_manhattan_single_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.0_150_manhattan_single_b.rsf) = 38
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.0_150_manhattan_single_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.0_150_manhattan_single_a.rsf) = 38
+The Mojo value is 38
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.0_150_cosine_complete_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.0_150_cosine_complete_b.rsf) = 38
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.0_150_cosine_complete_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.0_150_cosine_complete_a.rsf) = 38
+The Mojo value is 38
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.0_150_cosine_average_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.0_150_cosine_average_b.rsf) = 36
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.0_150_cosine_average_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.0_150_cosine_average_a.rsf) = 36
+The Mojo value is 36
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.0_150_cosine_single_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.0_150_cosine_single_b.rsf) = 37
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.0_150_cosine_single_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.0_150_cosine_single_a.rsf) = 37
+The Mojo value is 37
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.1_50_euclidean_complete_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.1_50_euclidean_complete_b.rsf) = 131
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.1_50_euclidean_complete_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.1_50_euclidean_complete_a.rsf) = 127
+The Mojo value is 127
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.1_50_euclidean_average_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.1_50_euclidean_average_b.rsf) = 131
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.1_50_euclidean_average_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.1_50_euclidean_average_a.rsf) = 132
+The Mojo value is 131
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.1_50_euclidean_single_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.1_50_euclidean_single_b.rsf) = 122
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.1_50_euclidean_single_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.1_50_euclidean_single_a.rsf) = 94
+The Mojo value is 94
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.1_50_l1_complete_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.1_50_l1_complete_b.rsf) = 126
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.1_50_l1_complete_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.1_50_l1_complete_a.rsf) = 128
+The Mojo value is 126
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.1_50_l1_average_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.1_50_l1_average_b.rsf) = 131
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.1_50_l1_average_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.1_50_l1_average_a.rsf) = 92
+The Mojo value is 92
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.1_50_l1_single_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.1_50_l1_single_b.rsf) = 125
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.1_50_l1_single_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.1_50_l1_single_a.rsf) = 85
+The Mojo value is 85
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.1_50_l2_complete_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.1_50_l2_complete_b.rsf) = 116
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.1_50_l2_complete_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.1_50_l2_complete_a.rsf) = 121
+The Mojo value is 116
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.1_50_l2_average_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.1_50_l2_average_b.rsf) = 123
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.1_50_l2_average_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.1_50_l2_average_a.rsf) = 131
+The Mojo value is 123
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.1_50_l2_single_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.1_50_l2_single_b.rsf) = 120
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.1_50_l2_single_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.1_50_l2_single_a.rsf) = 89
+The Mojo value is 89
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.1_50_manhattan_complete_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.1_50_manhattan_complete_b.rsf) = 104
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.1_50_manhattan_complete_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.1_50_manhattan_complete_a.rsf) = 114
+The Mojo value is 104
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.1_50_manhattan_average_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.1_50_manhattan_average_b.rsf) = 106
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.1_50_manhattan_average_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.1_50_manhattan_average_a.rsf) = 92
+The Mojo value is 92
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.1_50_manhattan_single_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.1_50_manhattan_single_b.rsf) = 124
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.1_50_manhattan_single_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.1_50_manhattan_single_a.rsf) = 80
+The Mojo value is 80
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.1_50_cosine_complete_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.1_50_cosine_complete_b.rsf) = 127
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.1_50_cosine_complete_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.1_50_cosine_complete_a.rsf) = 130
+The Mojo value is 127
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.1_50_cosine_average_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.1_50_cosine_average_b.rsf) = 127
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.1_50_cosine_average_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.1_50_cosine_average_a.rsf) = 131
+The Mojo value is 127
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.1_50_cosine_single_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.1_50_cosine_single_b.rsf) = 108
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.1_50_cosine_single_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.1_50_cosine_single_a.rsf) = 75
+The Mojo value is 75
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.1_100_euclidean_complete_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.1_100_euclidean_complete_b.rsf) = 88
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.1_100_euclidean_complete_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.1_100_euclidean_complete_a.rsf) = 88
+The Mojo value is 88
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.1_100_euclidean_average_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.1_100_euclidean_average_b.rsf) = 95
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.1_100_euclidean_average_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.1_100_euclidean_average_a.rsf) = 98
+The Mojo value is 95
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.1_100_euclidean_single_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.1_100_euclidean_single_b.rsf) = 97
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.1_100_euclidean_single_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.1_100_euclidean_single_a.rsf) = 92
+The Mojo value is 92
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.1_100_l1_complete_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.1_100_l1_complete_b.rsf) = 97
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.1_100_l1_complete_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.1_100_l1_complete_a.rsf) = 98
+The Mojo value is 97
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.1_100_l1_average_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.1_100_l1_average_b.rsf) = 100
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.1_100_l1_average_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.1_100_l1_average_a.rsf) = 102
+The Mojo value is 100
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.1_100_l1_single_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.1_100_l1_single_b.rsf) = 100
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.1_100_l1_single_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.1_100_l1_single_a.rsf) = 98
+The Mojo value is 98
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.1_100_l2_complete_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.1_100_l2_complete_b.rsf) = 90
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.1_100_l2_complete_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.1_100_l2_complete_a.rsf) = 90
+The Mojo value is 90
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.1_100_l2_average_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.1_100_l2_average_b.rsf) = 91
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.1_100_l2_average_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.1_100_l2_average_a.rsf) = 92
+The Mojo value is 91
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.1_100_l2_single_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.1_100_l2_single_b.rsf) = 100
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.1_100_l2_single_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.1_100_l2_single_a.rsf) = 96
+The Mojo value is 96
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.1_100_manhattan_complete_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.1_100_manhattan_complete_b.rsf) = 95
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.1_100_manhattan_complete_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.1_100_manhattan_complete_a.rsf) = 95
+The Mojo value is 95
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.1_100_manhattan_average_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.1_100_manhattan_average_b.rsf) = 99
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.1_100_manhattan_average_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.1_100_manhattan_average_a.rsf) = 99
+The Mojo value is 99
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.1_100_manhattan_single_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.1_100_manhattan_single_b.rsf) = 93
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.1_100_manhattan_single_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.1_100_manhattan_single_a.rsf) = 92
+The Mojo value is 92
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.1_100_cosine_complete_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.1_100_cosine_complete_b.rsf) = 89
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.1_100_cosine_complete_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.1_100_cosine_complete_a.rsf) = 89
+The Mojo value is 89
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.1_100_cosine_average_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.1_100_cosine_average_b.rsf) = 89
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.1_100_cosine_average_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.1_100_cosine_average_a.rsf) = 89
+The Mojo value is 89
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.1_100_cosine_single_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.1_100_cosine_single_b.rsf) = 101
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.1_100_cosine_single_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.1_100_cosine_single_a.rsf) = 93
+The Mojo value is 93
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.1_150_euclidean_complete_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.1_150_euclidean_complete_b.rsf) = 37
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.1_150_euclidean_complete_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.1_150_euclidean_complete_a.rsf) = 37
+The Mojo value is 37
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.1_150_euclidean_average_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.1_150_euclidean_average_b.rsf) = 37
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.1_150_euclidean_average_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.1_150_euclidean_average_a.rsf) = 37
+The Mojo value is 37
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.1_150_euclidean_single_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.1_150_euclidean_single_b.rsf) = 35
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.1_150_euclidean_single_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.1_150_euclidean_single_a.rsf) = 35
+The Mojo value is 35
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.1_150_l1_complete_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.1_150_l1_complete_b.rsf) = 39
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.1_150_l1_complete_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.1_150_l1_complete_a.rsf) = 39
+The Mojo value is 39
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.1_150_l1_average_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.1_150_l1_average_b.rsf) = 38
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.1_150_l1_average_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.1_150_l1_average_a.rsf) = 38
+The Mojo value is 38
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.1_150_l1_single_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.1_150_l1_single_b.rsf) = 39
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.1_150_l1_single_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.1_150_l1_single_a.rsf) = 39
+The Mojo value is 39
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.1_150_l2_complete_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.1_150_l2_complete_b.rsf) = 37
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.1_150_l2_complete_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.1_150_l2_complete_a.rsf) = 37
+The Mojo value is 37
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.1_150_l2_average_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.1_150_l2_average_b.rsf) = 35
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.1_150_l2_average_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.1_150_l2_average_a.rsf) = 35
+The Mojo value is 35
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.1_150_l2_single_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.1_150_l2_single_b.rsf) = 35
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.1_150_l2_single_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.1_150_l2_single_a.rsf) = 35
+The Mojo value is 35
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.1_150_manhattan_complete_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.1_150_manhattan_complete_b.rsf) = 39
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.1_150_manhattan_complete_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.1_150_manhattan_complete_a.rsf) = 39
+The Mojo value is 39
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.1_150_manhattan_average_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.1_150_manhattan_average_b.rsf) = 38
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.1_150_manhattan_average_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.1_150_manhattan_average_a.rsf) = 38
+The Mojo value is 38
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.1_150_manhattan_single_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.1_150_manhattan_single_b.rsf) = 39
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.1_150_manhattan_single_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.1_150_manhattan_single_a.rsf) = 39
+The Mojo value is 39
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.1_150_cosine_complete_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.1_150_cosine_complete_b.rsf) = 34
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.1_150_cosine_complete_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.1_150_cosine_complete_a.rsf) = 34
+The Mojo value is 34
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.1_150_cosine_average_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.1_150_cosine_average_b.rsf) = 35
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.1_150_cosine_average_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.1_150_cosine_average_a.rsf) = 35
+The Mojo value is 35
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.1_150_cosine_single_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.1_150_cosine_single_b.rsf) = 36
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.1_150_cosine_single_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.1_150_cosine_single_a.rsf) = 36
+The Mojo value is 36
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.2_50_euclidean_complete_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.2_50_euclidean_complete_b.rsf) = 125
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.2_50_euclidean_complete_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.2_50_euclidean_complete_a.rsf) = 127
+The Mojo value is 125
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.2_50_euclidean_average_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.2_50_euclidean_average_b.rsf) = 131
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.2_50_euclidean_average_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.2_50_euclidean_average_a.rsf) = 136
+The Mojo value is 131
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.2_50_euclidean_single_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.2_50_euclidean_single_b.rsf) = 133
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.2_50_euclidean_single_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.2_50_euclidean_single_a.rsf) = 82
+The Mojo value is 82
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.2_50_l1_complete_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.2_50_l1_complete_b.rsf) = 130
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.2_50_l1_complete_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.2_50_l1_complete_a.rsf) = 137
+The Mojo value is 130
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.2_50_l1_average_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.2_50_l1_average_b.rsf) = 126
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.2_50_l1_average_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.2_50_l1_average_a.rsf) = 86
+The Mojo value is 86
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.2_50_l1_single_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.2_50_l1_single_b.rsf) = 134
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.2_50_l1_single_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.2_50_l1_single_a.rsf) = 93
+The Mojo value is 93
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.2_50_l2_complete_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.2_50_l2_complete_b.rsf) = 118
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.2_50_l2_complete_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.2_50_l2_complete_a.rsf) = 129
+The Mojo value is 118
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.2_50_l2_average_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.2_50_l2_average_b.rsf) = 132
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.2_50_l2_average_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.2_50_l2_average_a.rsf) = 133
+The Mojo value is 132
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.2_50_l2_single_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.2_50_l2_single_b.rsf) = 129
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.2_50_l2_single_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.2_50_l2_single_a.rsf) = 74
+The Mojo value is 74
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.2_50_manhattan_complete_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.2_50_manhattan_complete_b.rsf) = 132
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.2_50_manhattan_complete_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.2_50_manhattan_complete_a.rsf) = 130
+The Mojo value is 130
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.2_50_manhattan_average_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.2_50_manhattan_average_b.rsf) = 132
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.2_50_manhattan_average_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.2_50_manhattan_average_a.rsf) = 90
+The Mojo value is 90
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.2_50_manhattan_single_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.2_50_manhattan_single_b.rsf) = 129
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.2_50_manhattan_single_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.2_50_manhattan_single_a.rsf) = 92
+The Mojo value is 92
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.2_50_cosine_complete_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.2_50_cosine_complete_b.rsf) = 130
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.2_50_cosine_complete_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.2_50_cosine_complete_a.rsf) = 132
+The Mojo value is 130
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.2_50_cosine_average_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.2_50_cosine_average_b.rsf) = 113
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.2_50_cosine_average_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.2_50_cosine_average_a.rsf) = 125
+The Mojo value is 113
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.2_50_cosine_single_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.2_50_cosine_single_b.rsf) = 119
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.2_50_cosine_single_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.2_50_cosine_single_a.rsf) = 77
+The Mojo value is 77
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.2_100_euclidean_complete_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.2_100_euclidean_complete_b.rsf) = 94
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.2_100_euclidean_complete_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.2_100_euclidean_complete_a.rsf) = 94
+The Mojo value is 94
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.2_100_euclidean_average_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.2_100_euclidean_average_b.rsf) = 95
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.2_100_euclidean_average_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.2_100_euclidean_average_a.rsf) = 96
+The Mojo value is 95
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.2_100_euclidean_single_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.2_100_euclidean_single_b.rsf) = 100
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.2_100_euclidean_single_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.2_100_euclidean_single_a.rsf) = 97
+The Mojo value is 97
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.2_100_l1_complete_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.2_100_l1_complete_b.rsf) = 103
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.2_100_l1_complete_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.2_100_l1_complete_a.rsf) = 102
+The Mojo value is 102
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.2_100_l1_average_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.2_100_l1_average_b.rsf) = 104
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.2_100_l1_average_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.2_100_l1_average_a.rsf) = 103
+The Mojo value is 103
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.2_100_l1_single_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.2_100_l1_single_b.rsf) = 108
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.2_100_l1_single_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.2_100_l1_single_a.rsf) = 101
+The Mojo value is 101
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.2_100_l2_complete_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.2_100_l2_complete_b.rsf) = 93
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.2_100_l2_complete_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.2_100_l2_complete_a.rsf) = 94
+The Mojo value is 93
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.2_100_l2_average_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.2_100_l2_average_b.rsf) = 95
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.2_100_l2_average_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.2_100_l2_average_a.rsf) = 95
+The Mojo value is 95
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.2_100_l2_single_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.2_100_l2_single_b.rsf) = 99
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.2_100_l2_single_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.2_100_l2_single_a.rsf) = 95
+The Mojo value is 95
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.2_100_manhattan_complete_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.2_100_manhattan_complete_b.rsf) = 100
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.2_100_manhattan_complete_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.2_100_manhattan_complete_a.rsf) = 99
+The Mojo value is 99
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.2_100_manhattan_average_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.2_100_manhattan_average_b.rsf) = 101
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.2_100_manhattan_average_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.2_100_manhattan_average_a.rsf) = 100
+The Mojo value is 100
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.2_100_manhattan_single_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.2_100_manhattan_single_b.rsf) = 107
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.2_100_manhattan_single_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.2_100_manhattan_single_a.rsf) = 100
+The Mojo value is 100
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.2_100_cosine_complete_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.2_100_cosine_complete_b.rsf) = 96
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.2_100_cosine_complete_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.2_100_cosine_complete_a.rsf) = 96
+The Mojo value is 96
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.2_100_cosine_average_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.2_100_cosine_average_b.rsf) = 94
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.2_100_cosine_average_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.2_100_cosine_average_a.rsf) = 94
+The Mojo value is 94
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.2_100_cosine_single_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.2_100_cosine_single_b.rsf) = 103
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.2_100_cosine_single_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.2_100_cosine_single_a.rsf) = 92
+The Mojo value is 92
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.2_150_euclidean_complete_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.2_150_euclidean_complete_b.rsf) = 40
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.2_150_euclidean_complete_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.2_150_euclidean_complete_a.rsf) = 40
+The Mojo value is 40
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.2_150_euclidean_average_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.2_150_euclidean_average_b.rsf) = 40
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.2_150_euclidean_average_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.2_150_euclidean_average_a.rsf) = 40
+The Mojo value is 40
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.2_150_euclidean_single_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.2_150_euclidean_single_b.rsf) = 40
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.2_150_euclidean_single_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.2_150_euclidean_single_a.rsf) = 40
+The Mojo value is 40
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.2_150_l1_complete_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.2_150_l1_complete_b.rsf) = 44
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.2_150_l1_complete_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.2_150_l1_complete_a.rsf) = 44
+The Mojo value is 44
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.2_150_l1_average_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.2_150_l1_average_b.rsf) = 45
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.2_150_l1_average_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.2_150_l1_average_a.rsf) = 45
+The Mojo value is 45
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.2_150_l1_single_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.2_150_l1_single_b.rsf) = 45
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.2_150_l1_single_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.2_150_l1_single_a.rsf) = 45
+The Mojo value is 45
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.2_150_l2_complete_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.2_150_l2_complete_b.rsf) = 38
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.2_150_l2_complete_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.2_150_l2_complete_a.rsf) = 38
+The Mojo value is 38
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.2_150_l2_average_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.2_150_l2_average_b.rsf) = 41
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.2_150_l2_average_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.2_150_l2_average_a.rsf) = 41
+The Mojo value is 41
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.2_150_l2_single_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.2_150_l2_single_b.rsf) = 42
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.2_150_l2_single_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.2_150_l2_single_a.rsf) = 42
+The Mojo value is 42
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.2_150_manhattan_complete_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.2_150_manhattan_complete_b.rsf) = 43
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.2_150_manhattan_complete_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.2_150_manhattan_complete_a.rsf) = 43
+The Mojo value is 43
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.2_150_manhattan_average_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.2_150_manhattan_average_b.rsf) = 45
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.2_150_manhattan_average_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.2_150_manhattan_average_a.rsf) = 45
+The Mojo value is 45
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.2_150_manhattan_single_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.2_150_manhattan_single_b.rsf) = 45
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.2_150_manhattan_single_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.2_150_manhattan_single_a.rsf) = 45
+The Mojo value is 45
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.2_150_cosine_complete_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.2_150_cosine_complete_b.rsf) = 39
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.2_150_cosine_complete_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.2_150_cosine_complete_a.rsf) = 39
+The Mojo value is 39
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.2_150_cosine_average_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.2_150_cosine_average_b.rsf) = 41
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.2_150_cosine_average_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.2_150_cosine_average_a.rsf) = 41
+The Mojo value is 41
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.2_150_cosine_single_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.2_150_cosine_single_b.rsf) = 42
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.2_150_cosine_single_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.2_150_cosine_single_a.rsf) = 42
+The Mojo value is 42
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.3_50_euclidean_complete_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.3_50_euclidean_complete_b.rsf) = 129
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.3_50_euclidean_complete_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.3_50_euclidean_complete_a.rsf) = 129
+The Mojo value is 129
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.3_50_euclidean_average_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.3_50_euclidean_average_b.rsf) = 118
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.3_50_euclidean_average_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.3_50_euclidean_average_a.rsf) = 131
+The Mojo value is 118
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.3_50_euclidean_single_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.3_50_euclidean_single_b.rsf) = 131
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.3_50_euclidean_single_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.3_50_euclidean_single_a.rsf) = 80
+The Mojo value is 80
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.3_50_l1_complete_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.3_50_l1_complete_b.rsf) = 134
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.3_50_l1_complete_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.3_50_l1_complete_a.rsf) = 133
+The Mojo value is 133
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.3_50_l1_average_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.3_50_l1_average_b.rsf) = 136
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.3_50_l1_average_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.3_50_l1_average_a.rsf) = 97
+The Mojo value is 97
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.3_50_l1_single_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.3_50_l1_single_b.rsf) = 130
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.3_50_l1_single_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.3_50_l1_single_a.rsf) = 97
+The Mojo value is 97
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.3_50_l2_complete_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.3_50_l2_complete_b.rsf) = 119
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.3_50_l2_complete_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.3_50_l2_complete_a.rsf) = 126
+The Mojo value is 119
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.3_50_l2_average_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.3_50_l2_average_b.rsf) = 128
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.3_50_l2_average_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.3_50_l2_average_a.rsf) = 135
+The Mojo value is 128
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.3_50_l2_single_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.3_50_l2_single_b.rsf) = 131
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.3_50_l2_single_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.3_50_l2_single_a.rsf) = 81
+The Mojo value is 81
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.3_50_manhattan_complete_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.3_50_manhattan_complete_b.rsf) = 133
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.3_50_manhattan_complete_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.3_50_manhattan_complete_a.rsf) = 129
+The Mojo value is 129
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.3_50_manhattan_average_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.3_50_manhattan_average_b.rsf) = 127
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.3_50_manhattan_average_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.3_50_manhattan_average_a.rsf) = 95
+The Mojo value is 95
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.3_50_manhattan_single_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.3_50_manhattan_single_b.rsf) = 135
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.3_50_manhattan_single_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.3_50_manhattan_single_a.rsf) = 93
+The Mojo value is 93
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.3_50_cosine_complete_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.3_50_cosine_complete_b.rsf) = 124
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.3_50_cosine_complete_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.3_50_cosine_complete_a.rsf) = 127
+The Mojo value is 124
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.3_50_cosine_average_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.3_50_cosine_average_b.rsf) = 109
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.3_50_cosine_average_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.3_50_cosine_average_a.rsf) = 127
+The Mojo value is 109
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.3_50_cosine_single_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.3_50_cosine_single_b.rsf) = 124
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.3_50_cosine_single_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.3_50_cosine_single_a.rsf) = 74
+The Mojo value is 74
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.3_100_euclidean_complete_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.3_100_euclidean_complete_b.rsf) = 96
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.3_100_euclidean_complete_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.3_100_euclidean_complete_a.rsf) = 97
+The Mojo value is 96
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.3_100_euclidean_average_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.3_100_euclidean_average_b.rsf) = 92
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.3_100_euclidean_average_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.3_100_euclidean_average_a.rsf) = 93
+The Mojo value is 92
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.3_100_euclidean_single_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.3_100_euclidean_single_b.rsf) = 102
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.3_100_euclidean_single_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.3_100_euclidean_single_a.rsf) = 101
+The Mojo value is 101
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.3_100_l1_complete_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.3_100_l1_complete_b.rsf) = 101
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.3_100_l1_complete_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.3_100_l1_complete_a.rsf) = 101
+The Mojo value is 101
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.3_100_l1_average_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.3_100_l1_average_b.rsf) = 102
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.3_100_l1_average_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.3_100_l1_average_a.rsf) = 102
+The Mojo value is 102
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.3_100_l1_single_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.3_100_l1_single_b.rsf) = 100
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.3_100_l1_single_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.3_100_l1_single_a.rsf) = 92
+The Mojo value is 92
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.3_100_l2_complete_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.3_100_l2_complete_b.rsf) = 92
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.3_100_l2_complete_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.3_100_l2_complete_a.rsf) = 94
+The Mojo value is 92
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.3_100_l2_average_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.3_100_l2_average_b.rsf) = 97
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.3_100_l2_average_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.3_100_l2_average_a.rsf) = 98
+The Mojo value is 97
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.3_100_l2_single_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.3_100_l2_single_b.rsf) = 96
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.3_100_l2_single_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.3_100_l2_single_a.rsf) = 93
+The Mojo value is 93
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.3_100_manhattan_complete_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.3_100_manhattan_complete_b.rsf) = 102
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.3_100_manhattan_complete_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.3_100_manhattan_complete_a.rsf) = 102
+The Mojo value is 102
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.3_100_manhattan_average_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.3_100_manhattan_average_b.rsf) = 100
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.3_100_manhattan_average_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.3_100_manhattan_average_a.rsf) = 98
+The Mojo value is 98
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.3_100_manhattan_single_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.3_100_manhattan_single_b.rsf) = 105
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.3_100_manhattan_single_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.3_100_manhattan_single_a.rsf) = 95
+The Mojo value is 95
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.3_100_cosine_complete_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.3_100_cosine_complete_b.rsf) = 89
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.3_100_cosine_complete_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.3_100_cosine_complete_a.rsf) = 92
+The Mojo value is 89
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.3_100_cosine_average_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.3_100_cosine_average_b.rsf) = 92
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.3_100_cosine_average_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.3_100_cosine_average_a.rsf) = 94
+The Mojo value is 92
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.3_100_cosine_single_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.3_100_cosine_single_b.rsf) = 97
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.3_100_cosine_single_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.3_100_cosine_single_a.rsf) = 88
+The Mojo value is 88
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.3_150_euclidean_complete_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.3_150_euclidean_complete_b.rsf) = 38
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.3_150_euclidean_complete_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.3_150_euclidean_complete_a.rsf) = 38
+The Mojo value is 38
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.3_150_euclidean_average_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.3_150_euclidean_average_b.rsf) = 38
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.3_150_euclidean_average_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.3_150_euclidean_average_a.rsf) = 38
+The Mojo value is 38
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.3_150_euclidean_single_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.3_150_euclidean_single_b.rsf) = 41
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.3_150_euclidean_single_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.3_150_euclidean_single_a.rsf) = 41
+The Mojo value is 41
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.3_150_l1_complete_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.3_150_l1_complete_b.rsf) = 39
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.3_150_l1_complete_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.3_150_l1_complete_a.rsf) = 39
+The Mojo value is 39
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.3_150_l1_average_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.3_150_l1_average_b.rsf) = 38
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.3_150_l1_average_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.3_150_l1_average_a.rsf) = 38
+The Mojo value is 38
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.3_150_l1_single_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.3_150_l1_single_b.rsf) = 40
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.3_150_l1_single_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.3_150_l1_single_a.rsf) = 40
+The Mojo value is 40
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.3_150_l2_complete_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.3_150_l2_complete_b.rsf) = 38
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.3_150_l2_complete_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.3_150_l2_complete_a.rsf) = 38
+The Mojo value is 38
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.3_150_l2_average_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.3_150_l2_average_b.rsf) = 36
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.3_150_l2_average_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.3_150_l2_average_a.rsf) = 36
+The Mojo value is 36
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.3_150_l2_single_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.3_150_l2_single_b.rsf) = 41
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.3_150_l2_single_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.3_150_l2_single_a.rsf) = 41
+The Mojo value is 41
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.3_150_manhattan_complete_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.3_150_manhattan_complete_b.rsf) = 39
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.3_150_manhattan_complete_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.3_150_manhattan_complete_a.rsf) = 39
+The Mojo value is 39
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.3_150_manhattan_average_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.3_150_manhattan_average_b.rsf) = 40
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.3_150_manhattan_average_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.3_150_manhattan_average_a.rsf) = 40
+The Mojo value is 40
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.3_150_manhattan_single_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.3_150_manhattan_single_b.rsf) = 41
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.3_150_manhattan_single_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.3_150_manhattan_single_a.rsf) = 41
+The Mojo value is 41
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.3_150_cosine_complete_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.3_150_cosine_complete_b.rsf) = 38
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.3_150_cosine_complete_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.3_150_cosine_complete_a.rsf) = 38
+The Mojo value is 38
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.3_150_cosine_average_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.3_150_cosine_average_b.rsf) = 38
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.3_150_cosine_average_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.3_150_cosine_average_a.rsf) = 38
+The Mojo value is 38
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.3_150_cosine_single_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.3_150_cosine_single_b.rsf) = 43
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.3_150_cosine_single_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.3_150_cosine_single_a.rsf) = 43
+The Mojo value is 43
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.4_50_euclidean_complete_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.4_50_euclidean_complete_b.rsf) = 125
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.4_50_euclidean_complete_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.4_50_euclidean_complete_a.rsf) = 125
+The Mojo value is 125
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.4_50_euclidean_average_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.4_50_euclidean_average_b.rsf) = 123
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.4_50_euclidean_average_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.4_50_euclidean_average_a.rsf) = 135
+The Mojo value is 123
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.4_50_euclidean_single_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.4_50_euclidean_single_b.rsf) = 127
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.4_50_euclidean_single_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.4_50_euclidean_single_a.rsf) = 95
+The Mojo value is 95
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.4_50_l1_complete_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.4_50_l1_complete_b.rsf) = 121
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.4_50_l1_complete_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.4_50_l1_complete_a.rsf) = 125
+The Mojo value is 121
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.4_50_l1_average_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.4_50_l1_average_b.rsf) = 120
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.4_50_l1_average_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.4_50_l1_average_a.rsf) = 97
+The Mojo value is 97
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.4_50_l1_single_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.4_50_l1_single_b.rsf) = 128
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.4_50_l1_single_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.4_50_l1_single_a.rsf) = 96
+The Mojo value is 96
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.4_50_l2_complete_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.4_50_l2_complete_b.rsf) = 118
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.4_50_l2_complete_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.4_50_l2_complete_a.rsf) = 127
+The Mojo value is 118
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.4_50_l2_average_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.4_50_l2_average_b.rsf) = 131
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.4_50_l2_average_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.4_50_l2_average_a.rsf) = 138
+The Mojo value is 131
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.4_50_l2_single_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.4_50_l2_single_b.rsf) = 128
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.4_50_l2_single_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.4_50_l2_single_a.rsf) = 92
+The Mojo value is 92
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.4_50_manhattan_complete_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.4_50_manhattan_complete_b.rsf) = 140
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.4_50_manhattan_complete_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.4_50_manhattan_complete_a.rsf) = 133
+The Mojo value is 133
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.4_50_manhattan_average_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.4_50_manhattan_average_b.rsf) = 113
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.4_50_manhattan_average_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.4_50_manhattan_average_a.rsf) = 86
+The Mojo value is 86
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.4_50_manhattan_single_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.4_50_manhattan_single_b.rsf) = 146
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.4_50_manhattan_single_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.4_50_manhattan_single_a.rsf) = 102
+The Mojo value is 102
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.4_50_cosine_complete_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.4_50_cosine_complete_b.rsf) = 128
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.4_50_cosine_complete_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.4_50_cosine_complete_a.rsf) = 138
+The Mojo value is 128
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.4_50_cosine_average_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.4_50_cosine_average_b.rsf) = 122
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.4_50_cosine_average_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.4_50_cosine_average_a.rsf) = 131
+The Mojo value is 122
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.4_50_cosine_single_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.4_50_cosine_single_b.rsf) = 129
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.4_50_cosine_single_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.4_50_cosine_single_a.rsf) = 70
+The Mojo value is 70
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.4_100_euclidean_complete_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.4_100_euclidean_complete_b.rsf) = 102
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.4_100_euclidean_complete_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.4_100_euclidean_complete_a.rsf) = 103
+The Mojo value is 102
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.4_100_euclidean_average_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.4_100_euclidean_average_b.rsf) = 98
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.4_100_euclidean_average_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.4_100_euclidean_average_a.rsf) = 99
+The Mojo value is 98
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.4_100_euclidean_single_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.4_100_euclidean_single_b.rsf) = 105
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.4_100_euclidean_single_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.4_100_euclidean_single_a.rsf) = 109
+The Mojo value is 105
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.4_100_l1_complete_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.4_100_l1_complete_b.rsf) = 100
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.4_100_l1_complete_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.4_100_l1_complete_a.rsf) = 100
+The Mojo value is 100
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.4_100_l1_average_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.4_100_l1_average_b.rsf) = 105
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.4_100_l1_average_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.4_100_l1_average_a.rsf) = 102
+The Mojo value is 102
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.4_100_l1_single_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.4_100_l1_single_b.rsf) = 100
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.4_100_l1_single_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.4_100_l1_single_a.rsf) = 94
+The Mojo value is 94
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.4_100_l2_complete_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.4_100_l2_complete_b.rsf) = 98
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.4_100_l2_complete_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.4_100_l2_complete_a.rsf) = 98
+The Mojo value is 98
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.4_100_l2_average_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.4_100_l2_average_b.rsf) = 103
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.4_100_l2_average_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.4_100_l2_average_a.rsf) = 104
+The Mojo value is 103
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.4_100_l2_single_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.4_100_l2_single_b.rsf) = 101
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.4_100_l2_single_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.4_100_l2_single_a.rsf) = 104
+The Mojo value is 101
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.4_100_manhattan_complete_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.4_100_manhattan_complete_b.rsf) = 101
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.4_100_manhattan_complete_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.4_100_manhattan_complete_a.rsf) = 101
+The Mojo value is 101
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.4_100_manhattan_average_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.4_100_manhattan_average_b.rsf) = 100
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.4_100_manhattan_average_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.4_100_manhattan_average_a.rsf) = 98
+The Mojo value is 98
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.4_100_manhattan_single_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.4_100_manhattan_single_b.rsf) = 103
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.4_100_manhattan_single_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.4_100_manhattan_single_a.rsf) = 96
+The Mojo value is 96
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.4_100_cosine_complete_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.4_100_cosine_complete_b.rsf) = 98
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.4_100_cosine_complete_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.4_100_cosine_complete_a.rsf) = 98
+The Mojo value is 98
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.4_100_cosine_average_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.4_100_cosine_average_b.rsf) = 109
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.4_100_cosine_average_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.4_100_cosine_average_a.rsf) = 110
+The Mojo value is 109
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.4_100_cosine_single_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.4_100_cosine_single_b.rsf) = 103
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.4_100_cosine_single_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.4_100_cosine_single_a.rsf) = 99
+The Mojo value is 99
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.4_150_euclidean_complete_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.4_150_euclidean_complete_b.rsf) = 47
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.4_150_euclidean_complete_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.4_150_euclidean_complete_a.rsf) = 47
+The Mojo value is 47
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.4_150_euclidean_average_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.4_150_euclidean_average_b.rsf) = 48
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.4_150_euclidean_average_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.4_150_euclidean_average_a.rsf) = 48
+The Mojo value is 48
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.4_150_euclidean_single_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.4_150_euclidean_single_b.rsf) = 48
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.4_150_euclidean_single_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.4_150_euclidean_single_a.rsf) = 48
+The Mojo value is 48
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.4_150_l1_complete_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.4_150_l1_complete_b.rsf) = 43
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.4_150_l1_complete_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.4_150_l1_complete_a.rsf) = 43
+The Mojo value is 43
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.4_150_l1_average_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.4_150_l1_average_b.rsf) = 45
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.4_150_l1_average_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.4_150_l1_average_a.rsf) = 45
+The Mojo value is 45
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.4_150_l1_single_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.4_150_l1_single_b.rsf) = 45
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.4_150_l1_single_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.4_150_l1_single_a.rsf) = 45
+The Mojo value is 45
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.4_150_l2_complete_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.4_150_l2_complete_b.rsf) = 45
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.4_150_l2_complete_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.4_150_l2_complete_a.rsf) = 45
+The Mojo value is 45
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.4_150_l2_average_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.4_150_l2_average_b.rsf) = 47
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.4_150_l2_average_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.4_150_l2_average_a.rsf) = 47
+The Mojo value is 47
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.4_150_l2_single_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.4_150_l2_single_b.rsf) = 48
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.4_150_l2_single_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.4_150_l2_single_a.rsf) = 48
+The Mojo value is 48
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.4_150_manhattan_complete_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.4_150_manhattan_complete_b.rsf) = 45
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.4_150_manhattan_complete_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.4_150_manhattan_complete_a.rsf) = 45
+The Mojo value is 45
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.4_150_manhattan_average_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.4_150_manhattan_average_b.rsf) = 45
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.4_150_manhattan_average_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.4_150_manhattan_average_a.rsf) = 45
+The Mojo value is 45
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.4_150_manhattan_single_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.4_150_manhattan_single_b.rsf) = 46
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.4_150_manhattan_single_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.4_150_manhattan_single_a.rsf) = 46
+The Mojo value is 46
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.4_150_cosine_complete_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.4_150_cosine_complete_b.rsf) = 47
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.4_150_cosine_complete_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.4_150_cosine_complete_a.rsf) = 47
+The Mojo value is 47
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.4_150_cosine_average_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.4_150_cosine_average_b.rsf) = 47
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.4_150_cosine_average_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.4_150_cosine_average_a.rsf) = 47
+The Mojo value is 47
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.4_150_cosine_single_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.4_150_cosine_single_b.rsf) = 49
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.4_150_cosine_single_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.4_150_cosine_single_a.rsf) = 49
+The Mojo value is 49
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.5_50_euclidean_complete_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.5_50_euclidean_complete_b.rsf) = 129
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.5_50_euclidean_complete_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.5_50_euclidean_complete_a.rsf) = 129
+The Mojo value is 129
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.5_50_euclidean_average_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.5_50_euclidean_average_b.rsf) = 138
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.5_50_euclidean_average_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.5_50_euclidean_average_a.rsf) = 140
+The Mojo value is 138
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.5_50_euclidean_single_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.5_50_euclidean_single_b.rsf) = 113
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.5_50_euclidean_single_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.5_50_euclidean_single_a.rsf) = 94
+The Mojo value is 94
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.5_50_l1_complete_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.5_50_l1_complete_b.rsf) = 128
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.5_50_l1_complete_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.5_50_l1_complete_a.rsf) = 127
+The Mojo value is 127
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.5_50_l1_average_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.5_50_l1_average_b.rsf) = 130
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.5_50_l1_average_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.5_50_l1_average_a.rsf) = 93
+The Mojo value is 93
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.5_50_l1_single_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.5_50_l1_single_b.rsf) = 132
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.5_50_l1_single_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.5_50_l1_single_a.rsf) = 99
+The Mojo value is 99
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.5_50_l2_complete_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.5_50_l2_complete_b.rsf) = 137
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.5_50_l2_complete_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.5_50_l2_complete_a.rsf) = 134
+The Mojo value is 134
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.5_50_l2_average_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.5_50_l2_average_b.rsf) = 136
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.5_50_l2_average_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.5_50_l2_average_a.rsf) = 139
+The Mojo value is 136
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.5_50_l2_single_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.5_50_l2_single_b.rsf) = 119
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.5_50_l2_single_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.5_50_l2_single_a.rsf) = 91
+The Mojo value is 91
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.5_50_manhattan_complete_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.5_50_manhattan_complete_b.rsf) = 130
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.5_50_manhattan_complete_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.5_50_manhattan_complete_a.rsf) = 125
+The Mojo value is 125
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.5_50_manhattan_average_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.5_50_manhattan_average_b.rsf) = 127
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.5_50_manhattan_average_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.5_50_manhattan_average_a.rsf) = 97
+The Mojo value is 97
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.5_50_manhattan_single_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.5_50_manhattan_single_b.rsf) = 124
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.5_50_manhattan_single_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.5_50_manhattan_single_a.rsf) = 86
+The Mojo value is 86
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.5_50_cosine_complete_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.5_50_cosine_complete_b.rsf) = 127
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.5_50_cosine_complete_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.5_50_cosine_complete_a.rsf) = 135
+The Mojo value is 127
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.5_50_cosine_average_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.5_50_cosine_average_b.rsf) = 124
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.5_50_cosine_average_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.5_50_cosine_average_a.rsf) = 135
+The Mojo value is 124
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.5_50_cosine_single_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.5_50_cosine_single_b.rsf) = 132
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.5_50_cosine_single_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.5_50_cosine_single_a.rsf) = 77
+The Mojo value is 77
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.5_100_euclidean_complete_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.5_100_euclidean_complete_b.rsf) = 103
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.5_100_euclidean_complete_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.5_100_euclidean_complete_a.rsf) = 104
+The Mojo value is 103
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.5_100_euclidean_average_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.5_100_euclidean_average_b.rsf) = 98
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.5_100_euclidean_average_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.5_100_euclidean_average_a.rsf) = 98
+The Mojo value is 98
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.5_100_euclidean_single_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.5_100_euclidean_single_b.rsf) = 104
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.5_100_euclidean_single_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.5_100_euclidean_single_a.rsf) = 101
+The Mojo value is 101
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.5_100_l1_complete_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.5_100_l1_complete_b.rsf) = 108
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.5_100_l1_complete_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.5_100_l1_complete_a.rsf) = 108
+The Mojo value is 108
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.5_100_l1_average_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.5_100_l1_average_b.rsf) = 104
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.5_100_l1_average_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.5_100_l1_average_a.rsf) = 102
+The Mojo value is 102
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.5_100_l1_single_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.5_100_l1_single_b.rsf) = 101
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.5_100_l1_single_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.5_100_l1_single_a.rsf) = 94
+The Mojo value is 94
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.5_100_l2_complete_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.5_100_l2_complete_b.rsf) = 94
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.5_100_l2_complete_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.5_100_l2_complete_a.rsf) = 95
+The Mojo value is 94
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.5_100_l2_average_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.5_100_l2_average_b.rsf) = 96
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.5_100_l2_average_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.5_100_l2_average_a.rsf) = 96
+The Mojo value is 96
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.5_100_l2_single_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.5_100_l2_single_b.rsf) = 102
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.5_100_l2_single_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.5_100_l2_single_a.rsf) = 99
+The Mojo value is 99
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.5_100_manhattan_complete_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.5_100_manhattan_complete_b.rsf) = 100
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.5_100_manhattan_complete_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.5_100_manhattan_complete_a.rsf) = 102
+The Mojo value is 100
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.5_100_manhattan_average_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.5_100_manhattan_average_b.rsf) = 105
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.5_100_manhattan_average_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.5_100_manhattan_average_a.rsf) = 104
+The Mojo value is 104
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.5_100_manhattan_single_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.5_100_manhattan_single_b.rsf) = 100
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.5_100_manhattan_single_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.5_100_manhattan_single_a.rsf) = 94
+The Mojo value is 94
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.5_100_cosine_complete_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.5_100_cosine_complete_b.rsf) = 97
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.5_100_cosine_complete_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.5_100_cosine_complete_a.rsf) = 97
+The Mojo value is 97
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.5_100_cosine_average_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.5_100_cosine_average_b.rsf) = 98
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.5_100_cosine_average_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.5_100_cosine_average_a.rsf) = 101
+The Mojo value is 98
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.5_100_cosine_single_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.5_100_cosine_single_b.rsf) = 102
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.5_100_cosine_single_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.5_100_cosine_single_a.rsf) = 92
+The Mojo value is 92
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.5_150_euclidean_complete_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.5_150_euclidean_complete_b.rsf) = 46
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.5_150_euclidean_complete_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.5_150_euclidean_complete_a.rsf) = 46
+The Mojo value is 46
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.5_150_euclidean_average_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.5_150_euclidean_average_b.rsf) = 44
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.5_150_euclidean_average_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.5_150_euclidean_average_a.rsf) = 44
+The Mojo value is 44
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.5_150_euclidean_single_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.5_150_euclidean_single_b.rsf) = 46
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.5_150_euclidean_single_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.5_150_euclidean_single_a.rsf) = 46
+The Mojo value is 46
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.5_150_l1_complete_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.5_150_l1_complete_b.rsf) = 46
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.5_150_l1_complete_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.5_150_l1_complete_a.rsf) = 46
+The Mojo value is 46
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.5_150_l1_average_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.5_150_l1_average_b.rsf) = 47
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.5_150_l1_average_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.5_150_l1_average_a.rsf) = 47
+The Mojo value is 47
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.5_150_l1_single_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.5_150_l1_single_b.rsf) = 48
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.5_150_l1_single_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.5_150_l1_single_a.rsf) = 48
+The Mojo value is 48
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.5_150_l2_complete_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.5_150_l2_complete_b.rsf) = 43
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.5_150_l2_complete_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.5_150_l2_complete_a.rsf) = 43
+The Mojo value is 43
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.5_150_l2_average_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.5_150_l2_average_b.rsf) = 43
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.5_150_l2_average_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.5_150_l2_average_a.rsf) = 43
+The Mojo value is 43
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.5_150_l2_single_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.5_150_l2_single_b.rsf) = 45
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.5_150_l2_single_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.5_150_l2_single_a.rsf) = 45
+The Mojo value is 45
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.5_150_manhattan_complete_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.5_150_manhattan_complete_b.rsf) = 46
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.5_150_manhattan_complete_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.5_150_manhattan_complete_a.rsf) = 46
+The Mojo value is 46
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.5_150_manhattan_average_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.5_150_manhattan_average_b.rsf) = 47
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.5_150_manhattan_average_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.5_150_manhattan_average_a.rsf) = 47
+The Mojo value is 47
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.5_150_manhattan_single_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.5_150_manhattan_single_b.rsf) = 48
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.5_150_manhattan_single_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.5_150_manhattan_single_a.rsf) = 48
+The Mojo value is 48
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.5_150_cosine_complete_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.5_150_cosine_complete_b.rsf) = 46
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.5_150_cosine_complete_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.5_150_cosine_complete_a.rsf) = 46
+The Mojo value is 46
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.5_150_cosine_average_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.5_150_cosine_average_b.rsf) = 44
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.5_150_cosine_average_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.5_150_cosine_average_a.rsf) = 44
+The Mojo value is 44
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.5_150_cosine_single_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.5_150_cosine_single_b.rsf) = 44
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.5_150_cosine_single_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.5_150_cosine_single_a.rsf) = 44
+The Mojo value is 44
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.6_50_euclidean_complete_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.6_50_euclidean_complete_b.rsf) = 128
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.6_50_euclidean_complete_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.6_50_euclidean_complete_a.rsf) = 131
+The Mojo value is 128
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.6_50_euclidean_average_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.6_50_euclidean_average_b.rsf) = 133
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.6_50_euclidean_average_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.6_50_euclidean_average_a.rsf) = 137
+The Mojo value is 133
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.6_50_euclidean_single_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.6_50_euclidean_single_b.rsf) = 125
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.6_50_euclidean_single_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.6_50_euclidean_single_a.rsf) = 94
+The Mojo value is 94
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.6_50_l1_complete_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.6_50_l1_complete_b.rsf) = 122
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.6_50_l1_complete_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.6_50_l1_complete_a.rsf) = 125
+The Mojo value is 122
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.6_50_l1_average_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.6_50_l1_average_b.rsf) = 138
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.6_50_l1_average_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.6_50_l1_average_a.rsf) = 94
+The Mojo value is 94
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.6_50_l1_single_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.6_50_l1_single_b.rsf) = 133
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.6_50_l1_single_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.6_50_l1_single_a.rsf) = 95
+The Mojo value is 95
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.6_50_l2_complete_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.6_50_l2_complete_b.rsf) = 127
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.6_50_l2_complete_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.6_50_l2_complete_a.rsf) = 123
+The Mojo value is 123
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.6_50_l2_average_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.6_50_l2_average_b.rsf) = 128
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.6_50_l2_average_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.6_50_l2_average_a.rsf) = 135
+The Mojo value is 128
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.6_50_l2_single_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.6_50_l2_single_b.rsf) = 122
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.6_50_l2_single_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.6_50_l2_single_a.rsf) = 87
+The Mojo value is 87
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.6_50_manhattan_complete_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.6_50_manhattan_complete_b.rsf) = 121
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.6_50_manhattan_complete_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.6_50_manhattan_complete_a.rsf) = 119
+The Mojo value is 119
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.6_50_manhattan_average_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.6_50_manhattan_average_b.rsf) = 133
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.6_50_manhattan_average_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.6_50_manhattan_average_a.rsf) = 101
+The Mojo value is 101
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.6_50_manhattan_single_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.6_50_manhattan_single_b.rsf) = 143
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.6_50_manhattan_single_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.6_50_manhattan_single_a.rsf) = 94
+The Mojo value is 94
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.6_50_cosine_complete_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.6_50_cosine_complete_b.rsf) = 128
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.6_50_cosine_complete_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.6_50_cosine_complete_a.rsf) = 132
+The Mojo value is 128
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.6_50_cosine_average_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.6_50_cosine_average_b.rsf) = 120
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.6_50_cosine_average_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.6_50_cosine_average_a.rsf) = 133
+The Mojo value is 120
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.6_50_cosine_single_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.6_50_cosine_single_b.rsf) = 136
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.6_50_cosine_single_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.6_50_cosine_single_a.rsf) = 84
+The Mojo value is 84
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.6_100_euclidean_complete_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.6_100_euclidean_complete_b.rsf) = 95
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.6_100_euclidean_complete_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.6_100_euclidean_complete_a.rsf) = 95
+The Mojo value is 95
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.6_100_euclidean_average_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.6_100_euclidean_average_b.rsf) = 99
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.6_100_euclidean_average_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.6_100_euclidean_average_a.rsf) = 99
+The Mojo value is 99
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.6_100_euclidean_single_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.6_100_euclidean_single_b.rsf) = 104
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.6_100_euclidean_single_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.6_100_euclidean_single_a.rsf) = 106
+The Mojo value is 104
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.6_100_l1_complete_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.6_100_l1_complete_b.rsf) = 105
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.6_100_l1_complete_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.6_100_l1_complete_a.rsf) = 104
+The Mojo value is 104
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.6_100_l1_average_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.6_100_l1_average_b.rsf) = 111
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.6_100_l1_average_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.6_100_l1_average_a.rsf) = 110
+The Mojo value is 110
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.6_100_l1_single_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.6_100_l1_single_b.rsf) = 111
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.6_100_l1_single_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.6_100_l1_single_a.rsf) = 102
+The Mojo value is 102
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.6_100_l2_complete_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.6_100_l2_complete_b.rsf) = 96
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.6_100_l2_complete_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.6_100_l2_complete_a.rsf) = 96
+The Mojo value is 96
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.6_100_l2_average_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.6_100_l2_average_b.rsf) = 100
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.6_100_l2_average_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.6_100_l2_average_a.rsf) = 100
+The Mojo value is 100
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.6_100_l2_single_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.6_100_l2_single_b.rsf) = 106
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.6_100_l2_single_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.6_100_l2_single_a.rsf) = 105
+The Mojo value is 105
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.6_100_manhattan_complete_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.6_100_manhattan_complete_b.rsf) = 110
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.6_100_manhattan_complete_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.6_100_manhattan_complete_a.rsf) = 109
+The Mojo value is 109
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.6_100_manhattan_average_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.6_100_manhattan_average_b.rsf) = 111
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.6_100_manhattan_average_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.6_100_manhattan_average_a.rsf) = 108
+The Mojo value is 108
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.6_100_manhattan_single_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.6_100_manhattan_single_b.rsf) = 101
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.6_100_manhattan_single_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.6_100_manhattan_single_a.rsf) = 98
+The Mojo value is 98
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.6_100_cosine_complete_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.6_100_cosine_complete_b.rsf) = 99
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.6_100_cosine_complete_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.6_100_cosine_complete_a.rsf) = 99
+The Mojo value is 99
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.6_100_cosine_average_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.6_100_cosine_average_b.rsf) = 101
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.6_100_cosine_average_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.6_100_cosine_average_a.rsf) = 102
+The Mojo value is 101
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.6_100_cosine_single_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.6_100_cosine_single_b.rsf) = 105
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.6_100_cosine_single_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.6_100_cosine_single_a.rsf) = 95
+The Mojo value is 95
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.6_150_euclidean_complete_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.6_150_euclidean_complete_b.rsf) = 40
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.6_150_euclidean_complete_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.6_150_euclidean_complete_a.rsf) = 40
+The Mojo value is 40
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.6_150_euclidean_average_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.6_150_euclidean_average_b.rsf) = 40
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.6_150_euclidean_average_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.6_150_euclidean_average_a.rsf) = 40
+The Mojo value is 40
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.6_150_euclidean_single_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.6_150_euclidean_single_b.rsf) = 45
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.6_150_euclidean_single_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.6_150_euclidean_single_a.rsf) = 45
+The Mojo value is 45
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.6_150_l1_complete_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.6_150_l1_complete_b.rsf) = 46
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.6_150_l1_complete_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.6_150_l1_complete_a.rsf) = 46
+The Mojo value is 46
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.6_150_l1_average_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.6_150_l1_average_b.rsf) = 46
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.6_150_l1_average_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.6_150_l1_average_a.rsf) = 46
+The Mojo value is 46
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.6_150_l1_single_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.6_150_l1_single_b.rsf) = 48
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.6_150_l1_single_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.6_150_l1_single_a.rsf) = 48
+The Mojo value is 48
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.6_150_l2_complete_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.6_150_l2_complete_b.rsf) = 40
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.6_150_l2_complete_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.6_150_l2_complete_a.rsf) = 40
+The Mojo value is 40
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.6_150_l2_average_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.6_150_l2_average_b.rsf) = 40
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.6_150_l2_average_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.6_150_l2_average_a.rsf) = 40
+The Mojo value is 40
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.6_150_l2_single_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.6_150_l2_single_b.rsf) = 46
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.6_150_l2_single_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.6_150_l2_single_a.rsf) = 46
+The Mojo value is 46
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.6_150_manhattan_complete_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.6_150_manhattan_complete_b.rsf) = 45
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.6_150_manhattan_complete_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.6_150_manhattan_complete_a.rsf) = 45
+The Mojo value is 45
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.6_150_manhattan_average_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.6_150_manhattan_average_b.rsf) = 47
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.6_150_manhattan_average_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.6_150_manhattan_average_a.rsf) = 47
+The Mojo value is 47
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.6_150_manhattan_single_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.6_150_manhattan_single_b.rsf) = 49
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.6_150_manhattan_single_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.6_150_manhattan_single_a.rsf) = 49
+The Mojo value is 49
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.6_150_cosine_complete_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.6_150_cosine_complete_b.rsf) = 45
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.6_150_cosine_complete_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.6_150_cosine_complete_a.rsf) = 45
+The Mojo value is 45
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.6_150_cosine_average_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.6_150_cosine_average_b.rsf) = 44
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.6_150_cosine_average_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.6_150_cosine_average_a.rsf) = 44
+The Mojo value is 44
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.6_150_cosine_single_a.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.6_150_cosine_single_b.rsf) = 47
+
+MoJo(airbnb-lottie-android/airbnb-lottie-android-3.0.6_150_cosine_single_b.rsf,airbnb-lottie-android/airbnb-lottie-android-3.0.6_150_cosine_single_a.rsf) = 47
+The Mojo value is 47

@@ -1,0 +1,525 @@
+
+MoJo(apache-log4j/apache-log4j-1.2.13_50_euclidean_complete_a.rsf,apache-log4j/apache-log4j-1.2.13_50_euclidean_complete_b.rsf) = 237
+
+MoJo(apache-log4j/apache-log4j-1.2.13_50_euclidean_complete_b.rsf,apache-log4j/apache-log4j-1.2.13_50_euclidean_complete_a.rsf) = 235
+The Mojo value is 235
+
+MoJo(apache-log4j/apache-log4j-1.2.13_50_euclidean_average_a.rsf,apache-log4j/apache-log4j-1.2.13_50_euclidean_average_b.rsf) = 237
+
+MoJo(apache-log4j/apache-log4j-1.2.13_50_euclidean_average_b.rsf,apache-log4j/apache-log4j-1.2.13_50_euclidean_average_a.rsf) = 234
+The Mojo value is 234
+
+MoJo(apache-log4j/apache-log4j-1.2.13_50_euclidean_single_a.rsf,apache-log4j/apache-log4j-1.2.13_50_euclidean_single_b.rsf) = 232
+
+MoJo(apache-log4j/apache-log4j-1.2.13_50_euclidean_single_b.rsf,apache-log4j/apache-log4j-1.2.13_50_euclidean_single_a.rsf) = 199
+The Mojo value is 199
+
+MoJo(apache-log4j/apache-log4j-1.2.13_50_l1_complete_a.rsf,apache-log4j/apache-log4j-1.2.13_50_l1_complete_b.rsf) = 247
+
+MoJo(apache-log4j/apache-log4j-1.2.13_50_l1_complete_b.rsf,apache-log4j/apache-log4j-1.2.13_50_l1_complete_a.rsf) = 243
+The Mojo value is 243
+
+MoJo(apache-log4j/apache-log4j-1.2.13_50_l1_average_a.rsf,apache-log4j/apache-log4j-1.2.13_50_l1_average_b.rsf) = 246
+
+MoJo(apache-log4j/apache-log4j-1.2.13_50_l1_average_b.rsf,apache-log4j/apache-log4j-1.2.13_50_l1_average_a.rsf) = 242
+The Mojo value is 242
+
+MoJo(apache-log4j/apache-log4j-1.2.13_50_l1_single_a.rsf,apache-log4j/apache-log4j-1.2.13_50_l1_single_b.rsf) = 250
+
+MoJo(apache-log4j/apache-log4j-1.2.13_50_l1_single_b.rsf,apache-log4j/apache-log4j-1.2.13_50_l1_single_a.rsf) = 236
+The Mojo value is 236
+
+MoJo(apache-log4j/apache-log4j-1.2.13_50_l2_complete_a.rsf,apache-log4j/apache-log4j-1.2.13_50_l2_complete_b.rsf) = 239
+
+MoJo(apache-log4j/apache-log4j-1.2.13_50_l2_complete_b.rsf,apache-log4j/apache-log4j-1.2.13_50_l2_complete_a.rsf) = 237
+The Mojo value is 237
+
+MoJo(apache-log4j/apache-log4j-1.2.13_50_l2_average_a.rsf,apache-log4j/apache-log4j-1.2.13_50_l2_average_b.rsf) = 238
+
+MoJo(apache-log4j/apache-log4j-1.2.13_50_l2_average_b.rsf,apache-log4j/apache-log4j-1.2.13_50_l2_average_a.rsf) = 235
+The Mojo value is 235
+
+MoJo(apache-log4j/apache-log4j-1.2.13_50_l2_single_a.rsf,apache-log4j/apache-log4j-1.2.13_50_l2_single_b.rsf) = 236
+
+MoJo(apache-log4j/apache-log4j-1.2.13_50_l2_single_b.rsf,apache-log4j/apache-log4j-1.2.13_50_l2_single_a.rsf) = 202
+The Mojo value is 202
+
+MoJo(apache-log4j/apache-log4j-1.2.13_50_manhattan_complete_a.rsf,apache-log4j/apache-log4j-1.2.13_50_manhattan_complete_b.rsf) = 246
+
+MoJo(apache-log4j/apache-log4j-1.2.13_50_manhattan_complete_b.rsf,apache-log4j/apache-log4j-1.2.13_50_manhattan_complete_a.rsf) = 243
+The Mojo value is 243
+
+MoJo(apache-log4j/apache-log4j-1.2.13_50_manhattan_average_a.rsf,apache-log4j/apache-log4j-1.2.13_50_manhattan_average_b.rsf) = 245
+
+MoJo(apache-log4j/apache-log4j-1.2.13_50_manhattan_average_b.rsf,apache-log4j/apache-log4j-1.2.13_50_manhattan_average_a.rsf) = 240
+The Mojo value is 240
+
+MoJo(apache-log4j/apache-log4j-1.2.13_50_manhattan_single_a.rsf,apache-log4j/apache-log4j-1.2.13_50_manhattan_single_b.rsf) = 249
+
+MoJo(apache-log4j/apache-log4j-1.2.13_50_manhattan_single_b.rsf,apache-log4j/apache-log4j-1.2.13_50_manhattan_single_a.rsf) = 231
+The Mojo value is 231
+
+MoJo(apache-log4j/apache-log4j-1.2.13_50_cosine_complete_a.rsf,apache-log4j/apache-log4j-1.2.13_50_cosine_complete_b.rsf) = 234
+
+MoJo(apache-log4j/apache-log4j-1.2.13_50_cosine_complete_b.rsf,apache-log4j/apache-log4j-1.2.13_50_cosine_complete_a.rsf) = 227
+The Mojo value is 227
+
+MoJo(apache-log4j/apache-log4j-1.2.13_50_cosine_average_a.rsf,apache-log4j/apache-log4j-1.2.13_50_cosine_average_b.rsf) = 234
+
+MoJo(apache-log4j/apache-log4j-1.2.13_50_cosine_average_b.rsf,apache-log4j/apache-log4j-1.2.13_50_cosine_average_a.rsf) = 224
+The Mojo value is 224
+
+MoJo(apache-log4j/apache-log4j-1.2.13_50_cosine_single_a.rsf,apache-log4j/apache-log4j-1.2.13_50_cosine_single_b.rsf) = 234
+
+MoJo(apache-log4j/apache-log4j-1.2.13_50_cosine_single_b.rsf,apache-log4j/apache-log4j-1.2.13_50_cosine_single_a.rsf) = 208
+The Mojo value is 208
+
+MoJo(apache-log4j/apache-log4j-1.2.13_100_euclidean_complete_a.rsf,apache-log4j/apache-log4j-1.2.13_100_euclidean_complete_b.rsf) = 192
+
+MoJo(apache-log4j/apache-log4j-1.2.13_100_euclidean_complete_b.rsf,apache-log4j/apache-log4j-1.2.13_100_euclidean_complete_a.rsf) = 192
+The Mojo value is 192
+
+MoJo(apache-log4j/apache-log4j-1.2.13_100_euclidean_average_a.rsf,apache-log4j/apache-log4j-1.2.13_100_euclidean_average_b.rsf) = 191
+
+MoJo(apache-log4j/apache-log4j-1.2.13_100_euclidean_average_b.rsf,apache-log4j/apache-log4j-1.2.13_100_euclidean_average_a.rsf) = 190
+The Mojo value is 190
+
+MoJo(apache-log4j/apache-log4j-1.2.13_100_euclidean_single_a.rsf,apache-log4j/apache-log4j-1.2.13_100_euclidean_single_b.rsf) = 194
+
+MoJo(apache-log4j/apache-log4j-1.2.13_100_euclidean_single_b.rsf,apache-log4j/apache-log4j-1.2.13_100_euclidean_single_a.rsf) = 194
+The Mojo value is 194
+
+MoJo(apache-log4j/apache-log4j-1.2.13_100_l1_complete_a.rsf,apache-log4j/apache-log4j-1.2.13_100_l1_complete_b.rsf) = 190
+
+MoJo(apache-log4j/apache-log4j-1.2.13_100_l1_complete_b.rsf,apache-log4j/apache-log4j-1.2.13_100_l1_complete_a.rsf) = 190
+The Mojo value is 190
+
+MoJo(apache-log4j/apache-log4j-1.2.13_100_l1_average_a.rsf,apache-log4j/apache-log4j-1.2.13_100_l1_average_b.rsf) = 190
+
+MoJo(apache-log4j/apache-log4j-1.2.13_100_l1_average_b.rsf,apache-log4j/apache-log4j-1.2.13_100_l1_average_a.rsf) = 190
+The Mojo value is 190
+
+MoJo(apache-log4j/apache-log4j-1.2.13_100_l1_single_a.rsf,apache-log4j/apache-log4j-1.2.13_100_l1_single_b.rsf) = 193
+
+MoJo(apache-log4j/apache-log4j-1.2.13_100_l1_single_b.rsf,apache-log4j/apache-log4j-1.2.13_100_l1_single_a.rsf) = 193
+The Mojo value is 193
+
+MoJo(apache-log4j/apache-log4j-1.2.13_100_l2_complete_a.rsf,apache-log4j/apache-log4j-1.2.13_100_l2_complete_b.rsf) = 192
+
+MoJo(apache-log4j/apache-log4j-1.2.13_100_l2_complete_b.rsf,apache-log4j/apache-log4j-1.2.13_100_l2_complete_a.rsf) = 192
+The Mojo value is 192
+
+MoJo(apache-log4j/apache-log4j-1.2.13_100_l2_average_a.rsf,apache-log4j/apache-log4j-1.2.13_100_l2_average_b.rsf) = 191
+
+MoJo(apache-log4j/apache-log4j-1.2.13_100_l2_average_b.rsf,apache-log4j/apache-log4j-1.2.13_100_l2_average_a.rsf) = 191
+The Mojo value is 191
+
+MoJo(apache-log4j/apache-log4j-1.2.13_100_l2_single_a.rsf,apache-log4j/apache-log4j-1.2.13_100_l2_single_b.rsf) = 193
+
+MoJo(apache-log4j/apache-log4j-1.2.13_100_l2_single_b.rsf,apache-log4j/apache-log4j-1.2.13_100_l2_single_a.rsf) = 193
+The Mojo value is 193
+
+MoJo(apache-log4j/apache-log4j-1.2.13_100_manhattan_complete_a.rsf,apache-log4j/apache-log4j-1.2.13_100_manhattan_complete_b.rsf) = 191
+
+MoJo(apache-log4j/apache-log4j-1.2.13_100_manhattan_complete_b.rsf,apache-log4j/apache-log4j-1.2.13_100_manhattan_complete_a.rsf) = 191
+The Mojo value is 191
+
+MoJo(apache-log4j/apache-log4j-1.2.13_100_manhattan_average_a.rsf,apache-log4j/apache-log4j-1.2.13_100_manhattan_average_b.rsf) = 191
+
+MoJo(apache-log4j/apache-log4j-1.2.13_100_manhattan_average_b.rsf,apache-log4j/apache-log4j-1.2.13_100_manhattan_average_a.rsf) = 191
+The Mojo value is 191
+
+MoJo(apache-log4j/apache-log4j-1.2.13_100_manhattan_single_a.rsf,apache-log4j/apache-log4j-1.2.13_100_manhattan_single_b.rsf) = 191
+
+MoJo(apache-log4j/apache-log4j-1.2.13_100_manhattan_single_b.rsf,apache-log4j/apache-log4j-1.2.13_100_manhattan_single_a.rsf) = 191
+The Mojo value is 191
+
+MoJo(apache-log4j/apache-log4j-1.2.13_100_cosine_complete_a.rsf,apache-log4j/apache-log4j-1.2.13_100_cosine_complete_b.rsf) = 191
+
+MoJo(apache-log4j/apache-log4j-1.2.13_100_cosine_complete_b.rsf,apache-log4j/apache-log4j-1.2.13_100_cosine_complete_a.rsf) = 191
+The Mojo value is 191
+
+MoJo(apache-log4j/apache-log4j-1.2.13_100_cosine_average_a.rsf,apache-log4j/apache-log4j-1.2.13_100_cosine_average_b.rsf) = 192
+
+MoJo(apache-log4j/apache-log4j-1.2.13_100_cosine_average_b.rsf,apache-log4j/apache-log4j-1.2.13_100_cosine_average_a.rsf) = 192
+The Mojo value is 192
+
+MoJo(apache-log4j/apache-log4j-1.2.13_100_cosine_single_a.rsf,apache-log4j/apache-log4j-1.2.13_100_cosine_single_b.rsf) = 192
+
+MoJo(apache-log4j/apache-log4j-1.2.13_100_cosine_single_b.rsf,apache-log4j/apache-log4j-1.2.13_100_cosine_single_a.rsf) = 191
+The Mojo value is 191
+
+MoJo(apache-log4j/apache-log4j-1.2.14_50_euclidean_complete_a.rsf,apache-log4j/apache-log4j-1.2.14_50_euclidean_complete_b.rsf) = 253
+
+MoJo(apache-log4j/apache-log4j-1.2.14_50_euclidean_complete_b.rsf,apache-log4j/apache-log4j-1.2.14_50_euclidean_complete_a.rsf) = 249
+The Mojo value is 249
+
+MoJo(apache-log4j/apache-log4j-1.2.14_50_euclidean_average_a.rsf,apache-log4j/apache-log4j-1.2.14_50_euclidean_average_b.rsf) = 251
+
+MoJo(apache-log4j/apache-log4j-1.2.14_50_euclidean_average_b.rsf,apache-log4j/apache-log4j-1.2.14_50_euclidean_average_a.rsf) = 246
+The Mojo value is 246
+
+MoJo(apache-log4j/apache-log4j-1.2.14_50_euclidean_single_a.rsf,apache-log4j/apache-log4j-1.2.14_50_euclidean_single_b.rsf) = 249
+
+MoJo(apache-log4j/apache-log4j-1.2.14_50_euclidean_single_b.rsf,apache-log4j/apache-log4j-1.2.14_50_euclidean_single_a.rsf) = 216
+The Mojo value is 216
+
+MoJo(apache-log4j/apache-log4j-1.2.14_50_l1_complete_a.rsf,apache-log4j/apache-log4j-1.2.14_50_l1_complete_b.rsf) = 252
+
+MoJo(apache-log4j/apache-log4j-1.2.14_50_l1_complete_b.rsf,apache-log4j/apache-log4j-1.2.14_50_l1_complete_a.rsf) = 250
+The Mojo value is 250
+
+MoJo(apache-log4j/apache-log4j-1.2.14_50_l1_average_a.rsf,apache-log4j/apache-log4j-1.2.14_50_l1_average_b.rsf) = 262
+
+MoJo(apache-log4j/apache-log4j-1.2.14_50_l1_average_b.rsf,apache-log4j/apache-log4j-1.2.14_50_l1_average_a.rsf) = 257
+The Mojo value is 257
+
+MoJo(apache-log4j/apache-log4j-1.2.14_50_l1_single_a.rsf,apache-log4j/apache-log4j-1.2.14_50_l1_single_b.rsf) = 258
+
+MoJo(apache-log4j/apache-log4j-1.2.14_50_l1_single_b.rsf,apache-log4j/apache-log4j-1.2.14_50_l1_single_a.rsf) = 234
+The Mojo value is 234
+
+MoJo(apache-log4j/apache-log4j-1.2.14_50_l2_complete_a.rsf,apache-log4j/apache-log4j-1.2.14_50_l2_complete_b.rsf) = 251
+
+MoJo(apache-log4j/apache-log4j-1.2.14_50_l2_complete_b.rsf,apache-log4j/apache-log4j-1.2.14_50_l2_complete_a.rsf) = 243
+The Mojo value is 243
+
+MoJo(apache-log4j/apache-log4j-1.2.14_50_l2_average_a.rsf,apache-log4j/apache-log4j-1.2.14_50_l2_average_b.rsf) = 251
+
+MoJo(apache-log4j/apache-log4j-1.2.14_50_l2_average_b.rsf,apache-log4j/apache-log4j-1.2.14_50_l2_average_a.rsf) = 247
+The Mojo value is 247
+
+MoJo(apache-log4j/apache-log4j-1.2.14_50_l2_single_a.rsf,apache-log4j/apache-log4j-1.2.14_50_l2_single_b.rsf) = 248
+
+MoJo(apache-log4j/apache-log4j-1.2.14_50_l2_single_b.rsf,apache-log4j/apache-log4j-1.2.14_50_l2_single_a.rsf) = 220
+The Mojo value is 220
+
+MoJo(apache-log4j/apache-log4j-1.2.14_50_manhattan_complete_a.rsf,apache-log4j/apache-log4j-1.2.14_50_manhattan_complete_b.rsf) = 260
+
+MoJo(apache-log4j/apache-log4j-1.2.14_50_manhattan_complete_b.rsf,apache-log4j/apache-log4j-1.2.14_50_manhattan_complete_a.rsf) = 257
+The Mojo value is 257
+
+MoJo(apache-log4j/apache-log4j-1.2.14_50_manhattan_average_a.rsf,apache-log4j/apache-log4j-1.2.14_50_manhattan_average_b.rsf) = 259
+
+MoJo(apache-log4j/apache-log4j-1.2.14_50_manhattan_average_b.rsf,apache-log4j/apache-log4j-1.2.14_50_manhattan_average_a.rsf) = 255
+The Mojo value is 255
+
+MoJo(apache-log4j/apache-log4j-1.2.14_50_manhattan_single_a.rsf,apache-log4j/apache-log4j-1.2.14_50_manhattan_single_b.rsf) = 258
+
+MoJo(apache-log4j/apache-log4j-1.2.14_50_manhattan_single_b.rsf,apache-log4j/apache-log4j-1.2.14_50_manhattan_single_a.rsf) = 237
+The Mojo value is 237
+
+MoJo(apache-log4j/apache-log4j-1.2.14_50_cosine_complete_a.rsf,apache-log4j/apache-log4j-1.2.14_50_cosine_complete_b.rsf) = 251
+
+MoJo(apache-log4j/apache-log4j-1.2.14_50_cosine_complete_b.rsf,apache-log4j/apache-log4j-1.2.14_50_cosine_complete_a.rsf) = 248
+The Mojo value is 248
+
+MoJo(apache-log4j/apache-log4j-1.2.14_50_cosine_average_a.rsf,apache-log4j/apache-log4j-1.2.14_50_cosine_average_b.rsf) = 249
+
+MoJo(apache-log4j/apache-log4j-1.2.14_50_cosine_average_b.rsf,apache-log4j/apache-log4j-1.2.14_50_cosine_average_a.rsf) = 235
+The Mojo value is 235
+
+MoJo(apache-log4j/apache-log4j-1.2.14_50_cosine_single_a.rsf,apache-log4j/apache-log4j-1.2.14_50_cosine_single_b.rsf) = 248
+
+MoJo(apache-log4j/apache-log4j-1.2.14_50_cosine_single_b.rsf,apache-log4j/apache-log4j-1.2.14_50_cosine_single_a.rsf) = 216
+The Mojo value is 216
+
+MoJo(apache-log4j/apache-log4j-1.2.14_100_euclidean_complete_a.rsf,apache-log4j/apache-log4j-1.2.14_100_euclidean_complete_b.rsf) = 207
+
+MoJo(apache-log4j/apache-log4j-1.2.14_100_euclidean_complete_b.rsf,apache-log4j/apache-log4j-1.2.14_100_euclidean_complete_a.rsf) = 207
+The Mojo value is 207
+
+MoJo(apache-log4j/apache-log4j-1.2.14_100_euclidean_average_a.rsf,apache-log4j/apache-log4j-1.2.14_100_euclidean_average_b.rsf) = 207
+
+MoJo(apache-log4j/apache-log4j-1.2.14_100_euclidean_average_b.rsf,apache-log4j/apache-log4j-1.2.14_100_euclidean_average_a.rsf) = 207
+The Mojo value is 207
+
+MoJo(apache-log4j/apache-log4j-1.2.14_100_euclidean_single_a.rsf,apache-log4j/apache-log4j-1.2.14_100_euclidean_single_b.rsf) = 207
+
+MoJo(apache-log4j/apache-log4j-1.2.14_100_euclidean_single_b.rsf,apache-log4j/apache-log4j-1.2.14_100_euclidean_single_a.rsf) = 207
+The Mojo value is 207
+
+MoJo(apache-log4j/apache-log4j-1.2.14_100_l1_complete_a.rsf,apache-log4j/apache-log4j-1.2.14_100_l1_complete_b.rsf) = 207
+
+MoJo(apache-log4j/apache-log4j-1.2.14_100_l1_complete_b.rsf,apache-log4j/apache-log4j-1.2.14_100_l1_complete_a.rsf) = 207
+The Mojo value is 207
+
+MoJo(apache-log4j/apache-log4j-1.2.14_100_l1_average_a.rsf,apache-log4j/apache-log4j-1.2.14_100_l1_average_b.rsf) = 206
+
+MoJo(apache-log4j/apache-log4j-1.2.14_100_l1_average_b.rsf,apache-log4j/apache-log4j-1.2.14_100_l1_average_a.rsf) = 206
+The Mojo value is 206
+
+MoJo(apache-log4j/apache-log4j-1.2.14_100_l1_single_a.rsf,apache-log4j/apache-log4j-1.2.14_100_l1_single_b.rsf) = 206
+
+MoJo(apache-log4j/apache-log4j-1.2.14_100_l1_single_b.rsf,apache-log4j/apache-log4j-1.2.14_100_l1_single_a.rsf) = 206
+The Mojo value is 206
+
+MoJo(apache-log4j/apache-log4j-1.2.14_100_l2_complete_a.rsf,apache-log4j/apache-log4j-1.2.14_100_l2_complete_b.rsf) = 207
+
+MoJo(apache-log4j/apache-log4j-1.2.14_100_l2_complete_b.rsf,apache-log4j/apache-log4j-1.2.14_100_l2_complete_a.rsf) = 207
+The Mojo value is 207
+
+MoJo(apache-log4j/apache-log4j-1.2.14_100_l2_average_a.rsf,apache-log4j/apache-log4j-1.2.14_100_l2_average_b.rsf) = 207
+
+MoJo(apache-log4j/apache-log4j-1.2.14_100_l2_average_b.rsf,apache-log4j/apache-log4j-1.2.14_100_l2_average_a.rsf) = 207
+The Mojo value is 207
+
+MoJo(apache-log4j/apache-log4j-1.2.14_100_l2_single_a.rsf,apache-log4j/apache-log4j-1.2.14_100_l2_single_b.rsf) = 207
+
+MoJo(apache-log4j/apache-log4j-1.2.14_100_l2_single_b.rsf,apache-log4j/apache-log4j-1.2.14_100_l2_single_a.rsf) = 207
+The Mojo value is 207
+
+MoJo(apache-log4j/apache-log4j-1.2.14_100_manhattan_complete_a.rsf,apache-log4j/apache-log4j-1.2.14_100_manhattan_complete_b.rsf) = 207
+
+MoJo(apache-log4j/apache-log4j-1.2.14_100_manhattan_complete_b.rsf,apache-log4j/apache-log4j-1.2.14_100_manhattan_complete_a.rsf) = 207
+The Mojo value is 207
+
+MoJo(apache-log4j/apache-log4j-1.2.14_100_manhattan_average_a.rsf,apache-log4j/apache-log4j-1.2.14_100_manhattan_average_b.rsf) = 206
+
+MoJo(apache-log4j/apache-log4j-1.2.14_100_manhattan_average_b.rsf,apache-log4j/apache-log4j-1.2.14_100_manhattan_average_a.rsf) = 206
+The Mojo value is 206
+
+MoJo(apache-log4j/apache-log4j-1.2.14_100_manhattan_single_a.rsf,apache-log4j/apache-log4j-1.2.14_100_manhattan_single_b.rsf) = 206
+
+MoJo(apache-log4j/apache-log4j-1.2.14_100_manhattan_single_b.rsf,apache-log4j/apache-log4j-1.2.14_100_manhattan_single_a.rsf) = 206
+The Mojo value is 206
+
+MoJo(apache-log4j/apache-log4j-1.2.14_100_cosine_complete_a.rsf,apache-log4j/apache-log4j-1.2.14_100_cosine_complete_b.rsf) = 207
+
+MoJo(apache-log4j/apache-log4j-1.2.14_100_cosine_complete_b.rsf,apache-log4j/apache-log4j-1.2.14_100_cosine_complete_a.rsf) = 207
+The Mojo value is 207
+
+MoJo(apache-log4j/apache-log4j-1.2.14_100_cosine_average_a.rsf,apache-log4j/apache-log4j-1.2.14_100_cosine_average_b.rsf) = 207
+
+MoJo(apache-log4j/apache-log4j-1.2.14_100_cosine_average_b.rsf,apache-log4j/apache-log4j-1.2.14_100_cosine_average_a.rsf) = 207
+The Mojo value is 207
+
+MoJo(apache-log4j/apache-log4j-1.2.14_100_cosine_single_a.rsf,apache-log4j/apache-log4j-1.2.14_100_cosine_single_b.rsf) = 207
+
+MoJo(apache-log4j/apache-log4j-1.2.14_100_cosine_single_b.rsf,apache-log4j/apache-log4j-1.2.14_100_cosine_single_a.rsf) = 207
+The Mojo value is 207
+
+MoJo(apache-log4j/apache-log4j-1.2.4_50_euclidean_complete_a.rsf,apache-log4j/apache-log4j-1.2.4_50_euclidean_complete_b.rsf) = 229
+
+MoJo(apache-log4j/apache-log4j-1.2.4_50_euclidean_complete_b.rsf,apache-log4j/apache-log4j-1.2.4_50_euclidean_complete_a.rsf) = 228
+The Mojo value is 228
+
+MoJo(apache-log4j/apache-log4j-1.2.4_50_euclidean_average_a.rsf,apache-log4j/apache-log4j-1.2.4_50_euclidean_average_b.rsf) = 231
+
+MoJo(apache-log4j/apache-log4j-1.2.4_50_euclidean_average_b.rsf,apache-log4j/apache-log4j-1.2.4_50_euclidean_average_a.rsf) = 231
+The Mojo value is 231
+
+MoJo(apache-log4j/apache-log4j-1.2.4_50_euclidean_single_a.rsf,apache-log4j/apache-log4j-1.2.4_50_euclidean_single_b.rsf) = 222
+
+MoJo(apache-log4j/apache-log4j-1.2.4_50_euclidean_single_b.rsf,apache-log4j/apache-log4j-1.2.4_50_euclidean_single_a.rsf) = 217
+The Mojo value is 217
+
+MoJo(apache-log4j/apache-log4j-1.2.4_50_l1_complete_a.rsf,apache-log4j/apache-log4j-1.2.4_50_l1_complete_b.rsf) = 238
+
+MoJo(apache-log4j/apache-log4j-1.2.4_50_l1_complete_b.rsf,apache-log4j/apache-log4j-1.2.4_50_l1_complete_a.rsf) = 238
+The Mojo value is 238
+
+MoJo(apache-log4j/apache-log4j-1.2.4_50_l1_average_a.rsf,apache-log4j/apache-log4j-1.2.4_50_l1_average_b.rsf) = 238
+
+MoJo(apache-log4j/apache-log4j-1.2.4_50_l1_average_b.rsf,apache-log4j/apache-log4j-1.2.4_50_l1_average_a.rsf) = 239
+The Mojo value is 238
+
+MoJo(apache-log4j/apache-log4j-1.2.4_50_l1_single_a.rsf,apache-log4j/apache-log4j-1.2.4_50_l1_single_b.rsf) = 234
+
+MoJo(apache-log4j/apache-log4j-1.2.4_50_l1_single_b.rsf,apache-log4j/apache-log4j-1.2.4_50_l1_single_a.rsf) = 230
+The Mojo value is 230
+
+MoJo(apache-log4j/apache-log4j-1.2.4_50_l2_complete_a.rsf,apache-log4j/apache-log4j-1.2.4_50_l2_complete_b.rsf) = 229
+
+MoJo(apache-log4j/apache-log4j-1.2.4_50_l2_complete_b.rsf,apache-log4j/apache-log4j-1.2.4_50_l2_complete_a.rsf) = 229
+The Mojo value is 229
+
+MoJo(apache-log4j/apache-log4j-1.2.4_50_l2_average_a.rsf,apache-log4j/apache-log4j-1.2.4_50_l2_average_b.rsf) = 233
+
+MoJo(apache-log4j/apache-log4j-1.2.4_50_l2_average_b.rsf,apache-log4j/apache-log4j-1.2.4_50_l2_average_a.rsf) = 230
+The Mojo value is 230
+
+MoJo(apache-log4j/apache-log4j-1.2.4_50_l2_single_a.rsf,apache-log4j/apache-log4j-1.2.4_50_l2_single_b.rsf) = 222
+
+MoJo(apache-log4j/apache-log4j-1.2.4_50_l2_single_b.rsf,apache-log4j/apache-log4j-1.2.4_50_l2_single_a.rsf) = 219
+The Mojo value is 219
+
+MoJo(apache-log4j/apache-log4j-1.2.4_50_manhattan_complete_a.rsf,apache-log4j/apache-log4j-1.2.4_50_manhattan_complete_b.rsf) = 239
+
+MoJo(apache-log4j/apache-log4j-1.2.4_50_manhattan_complete_b.rsf,apache-log4j/apache-log4j-1.2.4_50_manhattan_complete_a.rsf) = 239
+The Mojo value is 239
+
+MoJo(apache-log4j/apache-log4j-1.2.4_50_manhattan_average_a.rsf,apache-log4j/apache-log4j-1.2.4_50_manhattan_average_b.rsf) = 234
+
+MoJo(apache-log4j/apache-log4j-1.2.4_50_manhattan_average_b.rsf,apache-log4j/apache-log4j-1.2.4_50_manhattan_average_a.rsf) = 237
+The Mojo value is 234
+
+MoJo(apache-log4j/apache-log4j-1.2.4_50_manhattan_single_a.rsf,apache-log4j/apache-log4j-1.2.4_50_manhattan_single_b.rsf) = 234
+
+MoJo(apache-log4j/apache-log4j-1.2.4_50_manhattan_single_b.rsf,apache-log4j/apache-log4j-1.2.4_50_manhattan_single_a.rsf) = 228
+The Mojo value is 228
+
+MoJo(apache-log4j/apache-log4j-1.2.4_50_cosine_complete_a.rsf,apache-log4j/apache-log4j-1.2.4_50_cosine_complete_b.rsf) = 228
+
+MoJo(apache-log4j/apache-log4j-1.2.4_50_cosine_complete_b.rsf,apache-log4j/apache-log4j-1.2.4_50_cosine_complete_a.rsf) = 229
+The Mojo value is 228
+
+MoJo(apache-log4j/apache-log4j-1.2.4_50_cosine_average_a.rsf,apache-log4j/apache-log4j-1.2.4_50_cosine_average_b.rsf) = 221
+
+MoJo(apache-log4j/apache-log4j-1.2.4_50_cosine_average_b.rsf,apache-log4j/apache-log4j-1.2.4_50_cosine_average_a.rsf) = 219
+The Mojo value is 219
+
+MoJo(apache-log4j/apache-log4j-1.2.4_50_cosine_single_a.rsf,apache-log4j/apache-log4j-1.2.4_50_cosine_single_b.rsf) = 223
+
+MoJo(apache-log4j/apache-log4j-1.2.4_50_cosine_single_b.rsf,apache-log4j/apache-log4j-1.2.4_50_cosine_single_a.rsf) = 217
+The Mojo value is 217
+
+MoJo(apache-log4j/apache-log4j-1.2.6_50_euclidean_complete_a.rsf,apache-log4j/apache-log4j-1.2.6_50_euclidean_complete_b.rsf) = 228
+
+MoJo(apache-log4j/apache-log4j-1.2.6_50_euclidean_complete_b.rsf,apache-log4j/apache-log4j-1.2.6_50_euclidean_complete_a.rsf) = 231
+The Mojo value is 228
+
+MoJo(apache-log4j/apache-log4j-1.2.6_50_euclidean_average_a.rsf,apache-log4j/apache-log4j-1.2.6_50_euclidean_average_b.rsf) = 228
+
+MoJo(apache-log4j/apache-log4j-1.2.6_50_euclidean_average_b.rsf,apache-log4j/apache-log4j-1.2.6_50_euclidean_average_a.rsf) = 228
+The Mojo value is 228
+
+MoJo(apache-log4j/apache-log4j-1.2.6_50_euclidean_single_a.rsf,apache-log4j/apache-log4j-1.2.6_50_euclidean_single_b.rsf) = 218
+
+MoJo(apache-log4j/apache-log4j-1.2.6_50_euclidean_single_b.rsf,apache-log4j/apache-log4j-1.2.6_50_euclidean_single_a.rsf) = 211
+The Mojo value is 211
+
+MoJo(apache-log4j/apache-log4j-1.2.6_50_l1_complete_a.rsf,apache-log4j/apache-log4j-1.2.6_50_l1_complete_b.rsf) = 240
+
+MoJo(apache-log4j/apache-log4j-1.2.6_50_l1_complete_b.rsf,apache-log4j/apache-log4j-1.2.6_50_l1_complete_a.rsf) = 240
+The Mojo value is 240
+
+MoJo(apache-log4j/apache-log4j-1.2.6_50_l1_average_a.rsf,apache-log4j/apache-log4j-1.2.6_50_l1_average_b.rsf) = 238
+
+MoJo(apache-log4j/apache-log4j-1.2.6_50_l1_average_b.rsf,apache-log4j/apache-log4j-1.2.6_50_l1_average_a.rsf) = 240
+The Mojo value is 238
+
+MoJo(apache-log4j/apache-log4j-1.2.6_50_l1_single_a.rsf,apache-log4j/apache-log4j-1.2.6_50_l1_single_b.rsf) = 230
+
+MoJo(apache-log4j/apache-log4j-1.2.6_50_l1_single_b.rsf,apache-log4j/apache-log4j-1.2.6_50_l1_single_a.rsf) = 223
+The Mojo value is 223
+
+MoJo(apache-log4j/apache-log4j-1.2.6_50_l2_complete_a.rsf,apache-log4j/apache-log4j-1.2.6_50_l2_complete_b.rsf) = 230
+
+MoJo(apache-log4j/apache-log4j-1.2.6_50_l2_complete_b.rsf,apache-log4j/apache-log4j-1.2.6_50_l2_complete_a.rsf) = 230
+The Mojo value is 230
+
+MoJo(apache-log4j/apache-log4j-1.2.6_50_l2_average_a.rsf,apache-log4j/apache-log4j-1.2.6_50_l2_average_b.rsf) = 231
+
+MoJo(apache-log4j/apache-log4j-1.2.6_50_l2_average_b.rsf,apache-log4j/apache-log4j-1.2.6_50_l2_average_a.rsf) = 230
+The Mojo value is 230
+
+MoJo(apache-log4j/apache-log4j-1.2.6_50_l2_single_a.rsf,apache-log4j/apache-log4j-1.2.6_50_l2_single_b.rsf) = 217
+
+MoJo(apache-log4j/apache-log4j-1.2.6_50_l2_single_b.rsf,apache-log4j/apache-log4j-1.2.6_50_l2_single_a.rsf) = 212
+The Mojo value is 212
+
+MoJo(apache-log4j/apache-log4j-1.2.6_50_manhattan_complete_a.rsf,apache-log4j/apache-log4j-1.2.6_50_manhattan_complete_b.rsf) = 238
+
+MoJo(apache-log4j/apache-log4j-1.2.6_50_manhattan_complete_b.rsf,apache-log4j/apache-log4j-1.2.6_50_manhattan_complete_a.rsf) = 239
+The Mojo value is 238
+
+MoJo(apache-log4j/apache-log4j-1.2.6_50_manhattan_average_a.rsf,apache-log4j/apache-log4j-1.2.6_50_manhattan_average_b.rsf) = 237
+
+MoJo(apache-log4j/apache-log4j-1.2.6_50_manhattan_average_b.rsf,apache-log4j/apache-log4j-1.2.6_50_manhattan_average_a.rsf) = 239
+The Mojo value is 237
+
+MoJo(apache-log4j/apache-log4j-1.2.6_50_manhattan_single_a.rsf,apache-log4j/apache-log4j-1.2.6_50_manhattan_single_b.rsf) = 231
+
+MoJo(apache-log4j/apache-log4j-1.2.6_50_manhattan_single_b.rsf,apache-log4j/apache-log4j-1.2.6_50_manhattan_single_a.rsf) = 228
+The Mojo value is 228
+
+MoJo(apache-log4j/apache-log4j-1.2.6_50_cosine_complete_a.rsf,apache-log4j/apache-log4j-1.2.6_50_cosine_complete_b.rsf) = 228
+
+MoJo(apache-log4j/apache-log4j-1.2.6_50_cosine_complete_b.rsf,apache-log4j/apache-log4j-1.2.6_50_cosine_complete_a.rsf) = 227
+The Mojo value is 227
+
+MoJo(apache-log4j/apache-log4j-1.2.6_50_cosine_average_a.rsf,apache-log4j/apache-log4j-1.2.6_50_cosine_average_b.rsf) = 220
+
+MoJo(apache-log4j/apache-log4j-1.2.6_50_cosine_average_b.rsf,apache-log4j/apache-log4j-1.2.6_50_cosine_average_a.rsf) = 216
+The Mojo value is 216
+
+MoJo(apache-log4j/apache-log4j-1.2.6_50_cosine_single_a.rsf,apache-log4j/apache-log4j-1.2.6_50_cosine_single_b.rsf) = 226
+
+MoJo(apache-log4j/apache-log4j-1.2.6_50_cosine_single_b.rsf,apache-log4j/apache-log4j-1.2.6_50_cosine_single_a.rsf) = 213
+The Mojo value is 213
+
+MoJo(apache-log4j/apache-log4j-1.2.7_50_euclidean_complete_a.rsf,apache-log4j/apache-log4j-1.2.7_50_euclidean_complete_b.rsf) = 237
+
+MoJo(apache-log4j/apache-log4j-1.2.7_50_euclidean_complete_b.rsf,apache-log4j/apache-log4j-1.2.7_50_euclidean_complete_a.rsf) = 237
+The Mojo value is 237
+
+MoJo(apache-log4j/apache-log4j-1.2.7_50_euclidean_average_a.rsf,apache-log4j/apache-log4j-1.2.7_50_euclidean_average_b.rsf) = 237
+
+MoJo(apache-log4j/apache-log4j-1.2.7_50_euclidean_average_b.rsf,apache-log4j/apache-log4j-1.2.7_50_euclidean_average_a.rsf) = 237
+The Mojo value is 237
+
+MoJo(apache-log4j/apache-log4j-1.2.7_50_euclidean_single_a.rsf,apache-log4j/apache-log4j-1.2.7_50_euclidean_single_b.rsf) = 224
+
+MoJo(apache-log4j/apache-log4j-1.2.7_50_euclidean_single_b.rsf,apache-log4j/apache-log4j-1.2.7_50_euclidean_single_a.rsf) = 216
+The Mojo value is 216
+
+MoJo(apache-log4j/apache-log4j-1.2.7_50_l1_complete_a.rsf,apache-log4j/apache-log4j-1.2.7_50_l1_complete_b.rsf) = 239
+
+MoJo(apache-log4j/apache-log4j-1.2.7_50_l1_complete_b.rsf,apache-log4j/apache-log4j-1.2.7_50_l1_complete_a.rsf) = 241
+The Mojo value is 239
+
+MoJo(apache-log4j/apache-log4j-1.2.7_50_l1_average_a.rsf,apache-log4j/apache-log4j-1.2.7_50_l1_average_b.rsf) = 242
+
+MoJo(apache-log4j/apache-log4j-1.2.7_50_l1_average_b.rsf,apache-log4j/apache-log4j-1.2.7_50_l1_average_a.rsf) = 245
+The Mojo value is 242
+
+MoJo(apache-log4j/apache-log4j-1.2.7_50_l1_single_a.rsf,apache-log4j/apache-log4j-1.2.7_50_l1_single_b.rsf) = 241
+
+MoJo(apache-log4j/apache-log4j-1.2.7_50_l1_single_b.rsf,apache-log4j/apache-log4j-1.2.7_50_l1_single_a.rsf) = 241
+The Mojo value is 241
+
+MoJo(apache-log4j/apache-log4j-1.2.7_50_l2_complete_a.rsf,apache-log4j/apache-log4j-1.2.7_50_l2_complete_b.rsf) = 236
+
+MoJo(apache-log4j/apache-log4j-1.2.7_50_l2_complete_b.rsf,apache-log4j/apache-log4j-1.2.7_50_l2_complete_a.rsf) = 237
+The Mojo value is 236
+
+MoJo(apache-log4j/apache-log4j-1.2.7_50_l2_average_a.rsf,apache-log4j/apache-log4j-1.2.7_50_l2_average_b.rsf) = 237
+
+MoJo(apache-log4j/apache-log4j-1.2.7_50_l2_average_b.rsf,apache-log4j/apache-log4j-1.2.7_50_l2_average_a.rsf) = 238
+The Mojo value is 237
+
+MoJo(apache-log4j/apache-log4j-1.2.7_50_l2_single_a.rsf,apache-log4j/apache-log4j-1.2.7_50_l2_single_b.rsf) = 220
+
+MoJo(apache-log4j/apache-log4j-1.2.7_50_l2_single_b.rsf,apache-log4j/apache-log4j-1.2.7_50_l2_single_a.rsf) = 214
+The Mojo value is 214
+
+MoJo(apache-log4j/apache-log4j-1.2.7_50_manhattan_complete_a.rsf,apache-log4j/apache-log4j-1.2.7_50_manhattan_complete_b.rsf) = 241
+
+MoJo(apache-log4j/apache-log4j-1.2.7_50_manhattan_complete_b.rsf,apache-log4j/apache-log4j-1.2.7_50_manhattan_complete_a.rsf) = 242
+The Mojo value is 241
+
+MoJo(apache-log4j/apache-log4j-1.2.7_50_manhattan_average_a.rsf,apache-log4j/apache-log4j-1.2.7_50_manhattan_average_b.rsf) = 241
+
+MoJo(apache-log4j/apache-log4j-1.2.7_50_manhattan_average_b.rsf,apache-log4j/apache-log4j-1.2.7_50_manhattan_average_a.rsf) = 243
+The Mojo value is 241
+
+MoJo(apache-log4j/apache-log4j-1.2.7_50_manhattan_single_a.rsf,apache-log4j/apache-log4j-1.2.7_50_manhattan_single_b.rsf) = 241
+
+MoJo(apache-log4j/apache-log4j-1.2.7_50_manhattan_single_b.rsf,apache-log4j/apache-log4j-1.2.7_50_manhattan_single_a.rsf) = 243
+The Mojo value is 241
+
+MoJo(apache-log4j/apache-log4j-1.2.7_50_cosine_complete_a.rsf,apache-log4j/apache-log4j-1.2.7_50_cosine_complete_b.rsf) = 233
+
+MoJo(apache-log4j/apache-log4j-1.2.7_50_cosine_complete_b.rsf,apache-log4j/apache-log4j-1.2.7_50_cosine_complete_a.rsf) = 231
+The Mojo value is 231
+
+MoJo(apache-log4j/apache-log4j-1.2.7_50_cosine_average_a.rsf,apache-log4j/apache-log4j-1.2.7_50_cosine_average_b.rsf) = 229
+
+MoJo(apache-log4j/apache-log4j-1.2.7_50_cosine_average_b.rsf,apache-log4j/apache-log4j-1.2.7_50_cosine_average_a.rsf) = 222
+The Mojo value is 222
+
+MoJo(apache-log4j/apache-log4j-1.2.7_50_cosine_single_a.rsf,apache-log4j/apache-log4j-1.2.7_50_cosine_single_b.rsf) = 223
+
+MoJo(apache-log4j/apache-log4j-1.2.7_50_cosine_single_b.rsf,apache-log4j/apache-log4j-1.2.7_50_cosine_single_a.rsf) = 216
+The Mojo value is 216
