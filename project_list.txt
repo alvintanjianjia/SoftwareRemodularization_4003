@@ -8,3 +8,4 @@ apache-maven
 apache-spark
 apache-tomcat
 rzwitserloot-lombok
+apache-tika
