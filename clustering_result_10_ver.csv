@@ -98,3 +98,13 @@ rzwitserloot-lombok,1.18.10,50,cosine,single,246,73.37662337662339
 rzwitserloot-lombok,1.18.2,50,l1,single,129,86.03896103896103
 rzwitserloot-lombok,1.18.4,50,manhattan,single,181,80.41125541125541
 rzwitserloot-lombok,1.18.6,50,l1,single,204,77.92207792207793
+apache-tika,1.19.1,50,euclidean,single,666,22.377622377622373
+apache-tika,1.2,50,cosine,single,118,86.24708624708624
+apache-tika,1.20,50,cosine,single,655,23.659673659673665
+apache-tika,1.21,50,euclidean,single,634,26.10722610722611
+apache-tika,1.22,50,euclidean,single,640,25.407925407925404
+apache-tika,1.3,50,l1,single,101,88.22843822843824
+apache-tika,1.4,50,cosine,single,105,87.76223776223776
+apache-tika,1.5,50,l1,single,120,86.01398601398601
+apache-tika,1.6,50,euclidean,single,132,84.61538461538461
+apache-tika,1.7,50,l2,single,169,80.3030303030303
