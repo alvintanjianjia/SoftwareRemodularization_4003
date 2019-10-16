@@ -1,0 +1,135 @@
+
+MoJo(google-dagger/google-dagger-2.19_hillclimbing_a.rsf,google-dagger/google-dagger-2.19_hillclimbing_b.rsf) = 798
+
+MoJo(google-dagger/google-dagger-2.19_hillclimbing_b.rsf,google-dagger/google-dagger-2.19_hillclimbing_a.rsf) = 795
+The Mojo value is 795
+
+MoJo(google-dagger/google-dagger-2.19_ga_a.rsf,google-dagger/google-dagger-2.19_ga_b.rsf) = 799
+
+MoJo(google-dagger/google-dagger-2.19_ga_b.rsf,google-dagger/google-dagger-2.19_ga_a.rsf) = 794
+The Mojo value is 794
+
+MoJo(google-dagger/google-dagger-2.19_exhaustive_a.rsf,google-dagger/google-dagger-2.19_exhaustive_b.rsf) = 791
+
+MoJo(google-dagger/google-dagger-2.19_exhaustive_b.rsf,google-dagger/google-dagger-2.19_exhaustive_a.rsf) = 790
+The Mojo value is 790
+
+MoJo(google-dagger/google-dagger-2.20_hillclimbing_a.rsf,google-dagger/google-dagger-2.20_hillclimbing_b.rsf) = 666
+
+MoJo(google-dagger/google-dagger-2.20_hillclimbing_b.rsf,google-dagger/google-dagger-2.20_hillclimbing_a.rsf) = 648
+The Mojo value is 648
+
+MoJo(google-dagger/google-dagger-2.20_ga_a.rsf,google-dagger/google-dagger-2.20_ga_b.rsf) = 694
+
+MoJo(google-dagger/google-dagger-2.20_ga_b.rsf,google-dagger/google-dagger-2.20_ga_a.rsf) = 721
+The Mojo value is 694
+
+MoJo(google-dagger/google-dagger-2.20_exhaustive_a.rsf,google-dagger/google-dagger-2.20_exhaustive_b.rsf) = 694
+
+MoJo(google-dagger/google-dagger-2.20_exhaustive_b.rsf,google-dagger/google-dagger-2.20_exhaustive_a.rsf) = 663
+The Mojo value is 663
+
+MoJo(google-dagger/google-dagger-2.21_hillclimbing_a.rsf,google-dagger/google-dagger-2.21_hillclimbing_b.rsf) = 714
+
+MoJo(google-dagger/google-dagger-2.21_hillclimbing_b.rsf,google-dagger/google-dagger-2.21_hillclimbing_a.rsf) = 608
+The Mojo value is 608
+
+MoJo(google-dagger/google-dagger-2.21_ga_a.rsf,google-dagger/google-dagger-2.21_ga_b.rsf) = 689
+
+MoJo(google-dagger/google-dagger-2.21_ga_b.rsf,google-dagger/google-dagger-2.21_ga_a.rsf) = 704
+The Mojo value is 689
+
+MoJo(google-dagger/google-dagger-2.21_exhaustive_a.rsf,google-dagger/google-dagger-2.21_exhaustive_b.rsf) = 631
+
+MoJo(google-dagger/google-dagger-2.21_exhaustive_b.rsf,google-dagger/google-dagger-2.21_exhaustive_a.rsf) = 670
+The Mojo value is 631
+
+MoJo(google-dagger/google-dagger-2.22_hillclimbing_a.rsf,google-dagger/google-dagger-2.22_hillclimbing_b.rsf) = 734
+
+MoJo(google-dagger/google-dagger-2.22_hillclimbing_b.rsf,google-dagger/google-dagger-2.22_hillclimbing_a.rsf) = 763
+The Mojo value is 734
+
+MoJo(google-dagger/google-dagger-2.22_ga_a.rsf,google-dagger/google-dagger-2.22_ga_b.rsf) = 650
+
+MoJo(google-dagger/google-dagger-2.22_ga_b.rsf,google-dagger/google-dagger-2.22_ga_a.rsf) = 651
+The Mojo value is 650
+
+MoJo(google-dagger/google-dagger-2.22_exhaustive_a.rsf,google-dagger/google-dagger-2.22_exhaustive_b.rsf) = 740
+
+MoJo(google-dagger/google-dagger-2.22_exhaustive_b.rsf,google-dagger/google-dagger-2.22_exhaustive_a.rsf) = 737
+The Mojo value is 737
+
+MoJo(google-dagger/google-dagger-2.22.1_hillclimbing_a.rsf,google-dagger/google-dagger-2.22.1_hillclimbing_b.rsf) = 723
+
+MoJo(google-dagger/google-dagger-2.22.1_hillclimbing_b.rsf,google-dagger/google-dagger-2.22.1_hillclimbing_a.rsf) = 718
+The Mojo value is 718
+
+MoJo(google-dagger/google-dagger-2.22.1_ga_a.rsf,google-dagger/google-dagger-2.22.1_ga_b.rsf) = 638
+
+MoJo(google-dagger/google-dagger-2.22.1_ga_b.rsf,google-dagger/google-dagger-2.22.1_ga_a.rsf) = 745
+The Mojo value is 638
+
+MoJo(google-dagger/google-dagger-2.22.1_exhaustive_a.rsf,google-dagger/google-dagger-2.22.1_exhaustive_b.rsf) = 699
+
+MoJo(google-dagger/google-dagger-2.22.1_exhaustive_b.rsf,google-dagger/google-dagger-2.22.1_exhaustive_a.rsf) = 708
+The Mojo value is 699
+
+MoJo(google-dagger/google-dagger-2.23_hillclimbing_a.rsf,google-dagger/google-dagger-2.23_hillclimbing_b.rsf) = 748
+
+MoJo(google-dagger/google-dagger-2.23_hillclimbing_b.rsf,google-dagger/google-dagger-2.23_hillclimbing_a.rsf) = 776
+The Mojo value is 748
+
+MoJo(google-dagger/google-dagger-2.23_ga_a.rsf,google-dagger/google-dagger-2.23_ga_b.rsf) = 741
+
+MoJo(google-dagger/google-dagger-2.23_ga_b.rsf,google-dagger/google-dagger-2.23_ga_a.rsf) = 731
+The Mojo value is 731
+
+MoJo(google-dagger/google-dagger-2.23_exhaustive_a.rsf,google-dagger/google-dagger-2.23_exhaustive_b.rsf) = 624
+
+MoJo(google-dagger/google-dagger-2.23_exhaustive_b.rsf,google-dagger/google-dagger-2.23_exhaustive_a.rsf) = 538
+The Mojo value is 538
+
+MoJo(google-dagger/google-dagger-2.23.1_hillclimbing_a.rsf,google-dagger/google-dagger-2.23.1_hillclimbing_b.rsf) = 727
+
+MoJo(google-dagger/google-dagger-2.23.1_hillclimbing_b.rsf,google-dagger/google-dagger-2.23.1_hillclimbing_a.rsf) = 730
+The Mojo value is 727
+
+MoJo(google-dagger/google-dagger-2.23.1_ga_a.rsf,google-dagger/google-dagger-2.23.1_ga_b.rsf) = 594
+
+MoJo(google-dagger/google-dagger-2.23.1_ga_b.rsf,google-dagger/google-dagger-2.23.1_ga_a.rsf) = 567
+The Mojo value is 567
+
+MoJo(google-dagger/google-dagger-2.23.1_exhaustive_a.rsf,google-dagger/google-dagger-2.23.1_exhaustive_b.rsf) = 734
+
+MoJo(google-dagger/google-dagger-2.23.1_exhaustive_b.rsf,google-dagger/google-dagger-2.23.1_exhaustive_a.rsf) = 779
+The Mojo value is 734
+
+MoJo(google-dagger/google-dagger-2.23.2_hillclimbing_a.rsf,google-dagger/google-dagger-2.23.2_hillclimbing_b.rsf) = 683
+
+MoJo(google-dagger/google-dagger-2.23.2_hillclimbing_b.rsf,google-dagger/google-dagger-2.23.2_hillclimbing_a.rsf) = 749
+The Mojo value is 683
+
+MoJo(google-dagger/google-dagger-2.23.2_ga_a.rsf,google-dagger/google-dagger-2.23.2_ga_b.rsf) = 589
+
+MoJo(google-dagger/google-dagger-2.23.2_ga_b.rsf,google-dagger/google-dagger-2.23.2_ga_a.rsf) = 731
+The Mojo value is 589
+
+MoJo(google-dagger/google-dagger-2.23.2_exhaustive_a.rsf,google-dagger/google-dagger-2.23.2_exhaustive_b.rsf) = 732
+
+MoJo(google-dagger/google-dagger-2.23.2_exhaustive_b.rsf,google-dagger/google-dagger-2.23.2_exhaustive_a.rsf) = 769
+The Mojo value is 732
+
+MoJo(google-dagger/google-dagger-2.24_hillclimbing_a.rsf,google-dagger/google-dagger-2.24_hillclimbing_b.rsf) = 703
+
+MoJo(google-dagger/google-dagger-2.24_hillclimbing_b.rsf,google-dagger/google-dagger-2.24_hillclimbing_a.rsf) = 735
+The Mojo value is 703
+
+MoJo(google-dagger/google-dagger-2.24_ga_a.rsf,google-dagger/google-dagger-2.24_ga_b.rsf) = 720
+
+MoJo(google-dagger/google-dagger-2.24_ga_b.rsf,google-dagger/google-dagger-2.24_ga_a.rsf) = 716
+The Mojo value is 716
+
+MoJo(google-dagger/google-dagger-2.24_exhaustive_a.rsf,google-dagger/google-dagger-2.24_exhaustive_b.rsf) = 586
+
+MoJo(google-dagger/google-dagger-2.24_exhaustive_b.rsf,google-dagger/google-dagger-2.24_exhaustive_a.rsf) = 595
+The Mojo value is 586

@@ -1,0 +1,150 @@
+
+MoJo(mybatis-mybatis-3/mybatis-mybatis-3-3.3.1_hillclimbing_a.rsf,mybatis-mybatis-3/mybatis-mybatis-3-3.3.1_hillclimbing_b.rsf) = 594
+
+MoJo(mybatis-mybatis-3/mybatis-mybatis-3-3.3.1_hillclimbing_b.rsf,mybatis-mybatis-3/mybatis-mybatis-3-3.3.1_hillclimbing_a.rsf) = 632
+The Mojo value is 594
+
+MoJo(mybatis-mybatis-3/mybatis-mybatis-3-3.3.1_ga_a.rsf,mybatis-mybatis-3/mybatis-mybatis-3-3.3.1_ga_b.rsf) = 677
+
+MoJo(mybatis-mybatis-3/mybatis-mybatis-3-3.3.1_ga_b.rsf,mybatis-mybatis-3/mybatis-mybatis-3-3.3.1_ga_a.rsf) = 695
+The Mojo value is 677
+
+MoJo(mybatis-mybatis-3/mybatis-mybatis-3-3.3.1_exhaustive_a.rsf,mybatis-mybatis-3/mybatis-mybatis-3-3.3.1_exhaustive_b.rsf) = 676
+
+MoJo(mybatis-mybatis-3/mybatis-mybatis-3-3.3.1_exhaustive_b.rsf,mybatis-mybatis-3/mybatis-mybatis-3-3.3.1_exhaustive_a.rsf) = 756
+The Mojo value is 676
+
+MoJo(mybatis-mybatis-3/mybatis-mybatis-3-3.4.0_hillclimbing_a.rsf,mybatis-mybatis-3/mybatis-mybatis-3-3.4.0_hillclimbing_b.rsf) = 686
+
+MoJo(mybatis-mybatis-3/mybatis-mybatis-3-3.4.0_hillclimbing_b.rsf,mybatis-mybatis-3/mybatis-mybatis-3-3.4.0_hillclimbing_a.rsf) = 689
+The Mojo value is 686
+
+MoJo(mybatis-mybatis-3/mybatis-mybatis-3-3.4.0_ga_a.rsf,mybatis-mybatis-3/mybatis-mybatis-3-3.4.0_ga_b.rsf) = 701
+
+MoJo(mybatis-mybatis-3/mybatis-mybatis-3-3.4.0_ga_b.rsf,mybatis-mybatis-3/mybatis-mybatis-3-3.4.0_ga_a.rsf) = 758
+The Mojo value is 701
+
+MoJo(mybatis-mybatis-3/mybatis-mybatis-3-3.4.0_exhaustive_a.rsf,mybatis-mybatis-3/mybatis-mybatis-3-3.4.0_exhaustive_b.rsf) = 758
+
+MoJo(mybatis-mybatis-3/mybatis-mybatis-3-3.4.0_exhaustive_b.rsf,mybatis-mybatis-3/mybatis-mybatis-3-3.4.0_exhaustive_a.rsf) = 727
+The Mojo value is 727
+
+MoJo(mybatis-mybatis-3/mybatis-mybatis-3-3.4.1_hillclimbing_a.rsf,mybatis-mybatis-3/mybatis-mybatis-3-3.4.1_hillclimbing_b.rsf) = 721
+
+MoJo(mybatis-mybatis-3/mybatis-mybatis-3-3.4.1_hillclimbing_b.rsf,mybatis-mybatis-3/mybatis-mybatis-3-3.4.1_hillclimbing_a.rsf) = 821
+The Mojo value is 721
+
+MoJo(mybatis-mybatis-3/mybatis-mybatis-3-3.4.1_ga_a.rsf,mybatis-mybatis-3/mybatis-mybatis-3-3.4.1_ga_b.rsf) = 712
+
+MoJo(mybatis-mybatis-3/mybatis-mybatis-3-3.4.1_ga_b.rsf,mybatis-mybatis-3/mybatis-mybatis-3-3.4.1_ga_a.rsf) = 831
+The Mojo value is 712
+
+MoJo(mybatis-mybatis-3/mybatis-mybatis-3-3.4.1_exhaustive_a.rsf,mybatis-mybatis-3/mybatis-mybatis-3-3.4.1_exhaustive_b.rsf) = 717
+
+MoJo(mybatis-mybatis-3/mybatis-mybatis-3-3.4.1_exhaustive_b.rsf,mybatis-mybatis-3/mybatis-mybatis-3-3.4.1_exhaustive_a.rsf) = 705
+The Mojo value is 705
+
+MoJo(mybatis-mybatis-3/mybatis-mybatis-3-3.4.2_hillclimbing_a.rsf,mybatis-mybatis-3/mybatis-mybatis-3-3.4.2_hillclimbing_b.rsf) = 739
+
+MoJo(mybatis-mybatis-3/mybatis-mybatis-3-3.4.2_hillclimbing_b.rsf,mybatis-mybatis-3/mybatis-mybatis-3-3.4.2_hillclimbing_a.rsf) = 825
+The Mojo value is 739
+
+MoJo(mybatis-mybatis-3/mybatis-mybatis-3-3.4.2_ga_a.rsf,mybatis-mybatis-3/mybatis-mybatis-3-3.4.2_ga_b.rsf) = 818
+
+MoJo(mybatis-mybatis-3/mybatis-mybatis-3-3.4.2_ga_b.rsf,mybatis-mybatis-3/mybatis-mybatis-3-3.4.2_ga_a.rsf) = 865
+The Mojo value is 818
+
+MoJo(mybatis-mybatis-3/mybatis-mybatis-3-3.4.2_exhaustive_a.rsf,mybatis-mybatis-3/mybatis-mybatis-3-3.4.2_exhaustive_b.rsf) = 692
+
+MoJo(mybatis-mybatis-3/mybatis-mybatis-3-3.4.2_exhaustive_b.rsf,mybatis-mybatis-3/mybatis-mybatis-3-3.4.2_exhaustive_a.rsf) = 765
+The Mojo value is 692
+
+MoJo(mybatis-mybatis-3/mybatis-mybatis-3-3.4.3_hillclimbing_a.rsf,mybatis-mybatis-3/mybatis-mybatis-3-3.4.3_hillclimbing_b.rsf) = 688
+
+MoJo(mybatis-mybatis-3/mybatis-mybatis-3-3.4.3_hillclimbing_b.rsf,mybatis-mybatis-3/mybatis-mybatis-3-3.4.3_hillclimbing_a.rsf) = 730
+The Mojo value is 688
+
+MoJo(mybatis-mybatis-3/mybatis-mybatis-3-3.4.3_ga_a.rsf,mybatis-mybatis-3/mybatis-mybatis-3-3.4.3_ga_b.rsf) = 796
+
+MoJo(mybatis-mybatis-3/mybatis-mybatis-3-3.4.3_ga_b.rsf,mybatis-mybatis-3/mybatis-mybatis-3-3.4.3_ga_a.rsf) = 832
+The Mojo value is 796
+
+MoJo(mybatis-mybatis-3/mybatis-mybatis-3-3.4.3_exhaustive_a.rsf,mybatis-mybatis-3/mybatis-mybatis-3-3.4.3_exhaustive_b.rsf) = 660
+
+MoJo(mybatis-mybatis-3/mybatis-mybatis-3-3.4.3_exhaustive_b.rsf,mybatis-mybatis-3/mybatis-mybatis-3-3.4.3_exhaustive_a.rsf) = 644
+The Mojo value is 644
+
+MoJo(mybatis-mybatis-3/mybatis-mybatis-3-3.4.4_hillclimbing_a.rsf,mybatis-mybatis-3/mybatis-mybatis-3-3.4.4_hillclimbing_b.rsf) = 705
+
+MoJo(mybatis-mybatis-3/mybatis-mybatis-3-3.4.4_hillclimbing_b.rsf,mybatis-mybatis-3/mybatis-mybatis-3-3.4.4_hillclimbing_a.rsf) = 801
+The Mojo value is 705
+
+MoJo(mybatis-mybatis-3/mybatis-mybatis-3-3.4.4_ga_a.rsf,mybatis-mybatis-3/mybatis-mybatis-3-3.4.4_ga_b.rsf) = 751
+
+MoJo(mybatis-mybatis-3/mybatis-mybatis-3-3.4.4_ga_b.rsf,mybatis-mybatis-3/mybatis-mybatis-3-3.4.4_ga_a.rsf) = 813
+The Mojo value is 751
+
+MoJo(mybatis-mybatis-3/mybatis-mybatis-3-3.4.4_exhaustive_a.rsf,mybatis-mybatis-3/mybatis-mybatis-3-3.4.4_exhaustive_b.rsf) = 674
+
+MoJo(mybatis-mybatis-3/mybatis-mybatis-3-3.4.4_exhaustive_b.rsf,mybatis-mybatis-3/mybatis-mybatis-3-3.4.4_exhaustive_a.rsf) = 777
+The Mojo value is 674
+
+MoJo(mybatis-mybatis-3/mybatis-mybatis-3-3.4.5_hillclimbing_a.rsf,mybatis-mybatis-3/mybatis-mybatis-3-3.4.5_hillclimbing_b.rsf) = 641
+
+MoJo(mybatis-mybatis-3/mybatis-mybatis-3-3.4.5_hillclimbing_b.rsf,mybatis-mybatis-3/mybatis-mybatis-3-3.4.5_hillclimbing_a.rsf) = 728
+The Mojo value is 641
+
+MoJo(mybatis-mybatis-3/mybatis-mybatis-3-3.4.5_ga_a.rsf,mybatis-mybatis-3/mybatis-mybatis-3-3.4.5_ga_b.rsf) = 823
+
+MoJo(mybatis-mybatis-3/mybatis-mybatis-3-3.4.5_ga_b.rsf,mybatis-mybatis-3/mybatis-mybatis-3-3.4.5_ga_a.rsf) = 922
+The Mojo value is 823
+
+MoJo(mybatis-mybatis-3/mybatis-mybatis-3-3.4.5_exhaustive_a.rsf,mybatis-mybatis-3/mybatis-mybatis-3-3.4.5_exhaustive_b.rsf) = 792
+
+MoJo(mybatis-mybatis-3/mybatis-mybatis-3-3.4.5_exhaustive_b.rsf,mybatis-mybatis-3/mybatis-mybatis-3-3.4.5_exhaustive_a.rsf) = 884
+The Mojo value is 792
+
+MoJo(mybatis-mybatis-3/mybatis-mybatis-3-3.4.6_hillclimbing_a.rsf,mybatis-mybatis-3/mybatis-mybatis-3-3.4.6_hillclimbing_b.rsf) = 725
+
+MoJo(mybatis-mybatis-3/mybatis-mybatis-3-3.4.6_hillclimbing_b.rsf,mybatis-mybatis-3/mybatis-mybatis-3-3.4.6_hillclimbing_a.rsf) = 927
+The Mojo value is 725
+
+MoJo(mybatis-mybatis-3/mybatis-mybatis-3-3.4.6_ga_a.rsf,mybatis-mybatis-3/mybatis-mybatis-3-3.4.6_ga_b.rsf) = 768
+
+MoJo(mybatis-mybatis-3/mybatis-mybatis-3-3.4.6_ga_b.rsf,mybatis-mybatis-3/mybatis-mybatis-3-3.4.6_ga_a.rsf) = 941
+The Mojo value is 768
+
+MoJo(mybatis-mybatis-3/mybatis-mybatis-3-3.4.6_exhaustive_a.rsf,mybatis-mybatis-3/mybatis-mybatis-3-3.4.6_exhaustive_b.rsf) = 799
+
+MoJo(mybatis-mybatis-3/mybatis-mybatis-3-3.4.6_exhaustive_b.rsf,mybatis-mybatis-3/mybatis-mybatis-3-3.4.6_exhaustive_a.rsf) = 822
+The Mojo value is 799
+
+MoJo(mybatis-mybatis-3/mybatis-mybatis-3-3.5.0_hillclimbing_a.rsf,mybatis-mybatis-3/mybatis-mybatis-3-3.5.0_hillclimbing_b.rsf) = 767
+
+MoJo(mybatis-mybatis-3/mybatis-mybatis-3-3.5.0_hillclimbing_b.rsf,mybatis-mybatis-3/mybatis-mybatis-3-3.5.0_hillclimbing_a.rsf) = 871
+The Mojo value is 767
+
+MoJo(mybatis-mybatis-3/mybatis-mybatis-3-3.5.0_ga_a.rsf,mybatis-mybatis-3/mybatis-mybatis-3-3.5.0_ga_b.rsf) = 838
+
+MoJo(mybatis-mybatis-3/mybatis-mybatis-3-3.5.0_ga_b.rsf,mybatis-mybatis-3/mybatis-mybatis-3-3.5.0_ga_a.rsf) = 929
+The Mojo value is 838
+
+MoJo(mybatis-mybatis-3/mybatis-mybatis-3-3.5.0_exhaustive_a.rsf,mybatis-mybatis-3/mybatis-mybatis-3-3.5.0_exhaustive_b.rsf) = 915
+
+MoJo(mybatis-mybatis-3/mybatis-mybatis-3-3.5.0_exhaustive_b.rsf,mybatis-mybatis-3/mybatis-mybatis-3-3.5.0_exhaustive_a.rsf) = 842
+The Mojo value is 842
+
+MoJo(mybatis-mybatis-3/mybatis-mybatis-3-3.5.1_hillclimbing_a.rsf,mybatis-mybatis-3/mybatis-mybatis-3-3.5.1_hillclimbing_b.rsf) = 804
+
+MoJo(mybatis-mybatis-3/mybatis-mybatis-3-3.5.1_hillclimbing_b.rsf,mybatis-mybatis-3/mybatis-mybatis-3-3.5.1_hillclimbing_a.rsf) = 899
+The Mojo value is 804
+
+MoJo(mybatis-mybatis-3/mybatis-mybatis-3-3.5.1_ga_a.rsf,mybatis-mybatis-3/mybatis-mybatis-3-3.5.1_ga_b.rsf) = 751
+
+MoJo(mybatis-mybatis-3/mybatis-mybatis-3-3.5.1_ga_b.rsf,mybatis-mybatis-3/mybatis-mybatis-3-3.5.1_ga_a.rsf) = 771
+The Mojo value is 751
+
+MoJo(mybatis-mybatis-3/mybatis-mybatis-3-3.5.1_exhaustive_a.rsf,mybatis-mybatis-3/mybatis-mybatis-3-3.5.1_exhaustive_b.rsf) = 743
+
+MoJo(mybatis-mybatis-3/mybatis-mybatis-3-3.5.1_exhaustive_b.rsf,mybatis-mybatis-3/mybatis-mybatis-3-3.5.1_exhaustive_a.rsf) = 875
+The Mojo value is 743

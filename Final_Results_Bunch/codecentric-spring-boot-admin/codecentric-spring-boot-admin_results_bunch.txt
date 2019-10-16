@@ -1,0 +1,55 @@
+
+MoJo(codecentric-spring-boot-admin/codecentric-spring-boot-admin-2.1.0_hillclimbing_a.rsf,codecentric-spring-boot-admin/codecentric-spring-boot-admin-2.1.0_hillclimbing_b.rsf) = 216
+
+MoJo(codecentric-spring-boot-admin/codecentric-spring-boot-admin-2.1.0_hillclimbing_b.rsf,codecentric-spring-boot-admin/codecentric-spring-boot-admin-2.1.0_hillclimbing_a.rsf) = 216
+The Mojo value is 216
+
+MoJo(codecentric-spring-boot-admin/codecentric-spring-boot-admin-2.1.2_hillclimbing_a.rsf,codecentric-spring-boot-admin/codecentric-spring-boot-admin-2.1.2_hillclimbing_b.rsf) = 213
+
+MoJo(codecentric-spring-boot-admin/codecentric-spring-boot-admin-2.1.2_hillclimbing_b.rsf,codecentric-spring-boot-admin/codecentric-spring-boot-admin-2.1.2_hillclimbing_a.rsf) = 213
+The Mojo value is 213
+
+MoJo(codecentric-spring-boot-admin/codecentric-spring-boot-admin-2.1.3_hillclimbing_a.rsf,codecentric-spring-boot-admin/codecentric-spring-boot-admin-2.1.3_hillclimbing_b.rsf) = 169
+
+MoJo(codecentric-spring-boot-admin/codecentric-spring-boot-admin-2.1.3_hillclimbing_b.rsf,codecentric-spring-boot-admin/codecentric-spring-boot-admin-2.1.3_hillclimbing_a.rsf) = 161
+The Mojo value is 161
+
+MoJo(codecentric-spring-boot-admin/codecentric-spring-boot-admin-2.1.3_ga_a.rsf,codecentric-spring-boot-admin/codecentric-spring-boot-admin-2.1.3_ga_b.rsf) = 188
+
+MoJo(codecentric-spring-boot-admin/codecentric-spring-boot-admin-2.1.3_ga_b.rsf,codecentric-spring-boot-admin/codecentric-spring-boot-admin-2.1.3_ga_a.rsf) = 177
+The Mojo value is 177
+
+MoJo(codecentric-spring-boot-admin/codecentric-spring-boot-admin-2.1.3_exhaustive_a.rsf,codecentric-spring-boot-admin/codecentric-spring-boot-admin-2.1.3_exhaustive_b.rsf) = 166
+
+MoJo(codecentric-spring-boot-admin/codecentric-spring-boot-admin-2.1.3_exhaustive_b.rsf,codecentric-spring-boot-admin/codecentric-spring-boot-admin-2.1.3_exhaustive_a.rsf) = 112
+The Mojo value is 112
+
+MoJo(codecentric-spring-boot-admin/codecentric-spring-boot-admin-2.1.4_hillclimbing_a.rsf,codecentric-spring-boot-admin/codecentric-spring-boot-admin-2.1.4_hillclimbing_b.rsf) = 187
+
+MoJo(codecentric-spring-boot-admin/codecentric-spring-boot-admin-2.1.4_hillclimbing_b.rsf,codecentric-spring-boot-admin/codecentric-spring-boot-admin-2.1.4_hillclimbing_a.rsf) = 140
+The Mojo value is 140
+
+MoJo(codecentric-spring-boot-admin/codecentric-spring-boot-admin-2.1.4_ga_a.rsf,codecentric-spring-boot-admin/codecentric-spring-boot-admin-2.1.4_ga_b.rsf) = 182
+
+MoJo(codecentric-spring-boot-admin/codecentric-spring-boot-admin-2.1.4_ga_b.rsf,codecentric-spring-boot-admin/codecentric-spring-boot-admin-2.1.4_ga_a.rsf) = 175
+The Mojo value is 175
+
+MoJo(codecentric-spring-boot-admin/codecentric-spring-boot-admin-2.1.4_exhaustive_a.rsf,codecentric-spring-boot-admin/codecentric-spring-boot-admin-2.1.4_exhaustive_b.rsf) = 180
+
+MoJo(codecentric-spring-boot-admin/codecentric-spring-boot-admin-2.1.4_exhaustive_b.rsf,codecentric-spring-boot-admin/codecentric-spring-boot-admin-2.1.4_exhaustive_a.rsf) = 174
+The Mojo value is 174
+
+MoJo(codecentric-spring-boot-admin/codecentric-spring-boot-admin-2.1.5_hillclimbing_a.rsf,codecentric-spring-boot-admin/codecentric-spring-boot-admin-2.1.5_hillclimbing_b.rsf) = 186
+
+MoJo(codecentric-spring-boot-admin/codecentric-spring-boot-admin-2.1.5_hillclimbing_b.rsf,codecentric-spring-boot-admin/codecentric-spring-boot-admin-2.1.5_hillclimbing_a.rsf) = 185
+The Mojo value is 185
+
+MoJo(codecentric-spring-boot-admin/codecentric-spring-boot-admin-2.1.5_ga_a.rsf,codecentric-spring-boot-admin/codecentric-spring-boot-admin-2.1.5_ga_b.rsf) = 175
+
+MoJo(codecentric-spring-boot-admin/codecentric-spring-boot-admin-2.1.5_ga_b.rsf,codecentric-spring-boot-admin/codecentric-spring-boot-admin-2.1.5_ga_a.rsf) = 142
+The Mojo value is 142
+
+MoJo(codecentric-spring-boot-admin/codecentric-spring-boot-admin-2.1.5_exhaustive_a.rsf,codecentric-spring-boot-admin/codecentric-spring-boot-admin-2.1.5_exhaustive_b.rsf) = 191
+
+MoJo(codecentric-spring-boot-admin/codecentric-spring-boot-admin-2.1.5_exhaustive_b.rsf,codecentric-spring-boot-admin/codecentric-spring-boot-admin-2.1.5_exhaustive_a.rsf) = 187
+The Mojo value is 187

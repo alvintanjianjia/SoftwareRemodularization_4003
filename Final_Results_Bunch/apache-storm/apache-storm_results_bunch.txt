@@ -1,0 +1,150 @@
+
+MoJo(apache-storm/apache-storm-1.1.0_hillclimbing_a.rsf,apache-storm/apache-storm-1.1.0_hillclimbing_b.rsf) = 1716
+
+MoJo(apache-storm/apache-storm-1.1.0_hillclimbing_b.rsf,apache-storm/apache-storm-1.1.0_hillclimbing_a.rsf) = 1702
+The Mojo value is 1702
+
+MoJo(apache-storm/apache-storm-1.1.0_ga_a.rsf,apache-storm/apache-storm-1.1.0_ga_b.rsf) = 1690
+
+MoJo(apache-storm/apache-storm-1.1.0_ga_b.rsf,apache-storm/apache-storm-1.1.0_ga_a.rsf) = 1632
+The Mojo value is 1632
+
+MoJo(apache-storm/apache-storm-1.1.0_exhaustive_a.rsf,apache-storm/apache-storm-1.1.0_exhaustive_b.rsf) = 1715
+
+MoJo(apache-storm/apache-storm-1.1.0_exhaustive_b.rsf,apache-storm/apache-storm-1.1.0_exhaustive_a.rsf) = 1698
+The Mojo value is 1698
+
+MoJo(apache-storm/apache-storm-1.1.1_hillclimbing_a.rsf,apache-storm/apache-storm-1.1.1_hillclimbing_b.rsf) = 1728
+
+MoJo(apache-storm/apache-storm-1.1.1_hillclimbing_b.rsf,apache-storm/apache-storm-1.1.1_hillclimbing_a.rsf) = 1693
+The Mojo value is 1693
+
+MoJo(apache-storm/apache-storm-1.1.1_ga_a.rsf,apache-storm/apache-storm-1.1.1_ga_b.rsf) = 1720
+
+MoJo(apache-storm/apache-storm-1.1.1_ga_b.rsf,apache-storm/apache-storm-1.1.1_ga_a.rsf) = 1695
+The Mojo value is 1695
+
+MoJo(apache-storm/apache-storm-1.1.1_exhaustive_a.rsf,apache-storm/apache-storm-1.1.1_exhaustive_b.rsf) = 1723
+
+MoJo(apache-storm/apache-storm-1.1.1_exhaustive_b.rsf,apache-storm/apache-storm-1.1.1_exhaustive_a.rsf) = 1703
+The Mojo value is 1703
+
+MoJo(apache-storm/apache-storm-1.1.2_hillclimbing_a.rsf,apache-storm/apache-storm-1.1.2_hillclimbing_b.rsf) = 1325
+
+MoJo(apache-storm/apache-storm-1.1.2_hillclimbing_b.rsf,apache-storm/apache-storm-1.1.2_hillclimbing_a.rsf) = 1224
+The Mojo value is 1224
+
+MoJo(apache-storm/apache-storm-1.1.2_ga_a.rsf,apache-storm/apache-storm-1.1.2_ga_b.rsf) = 1604
+
+MoJo(apache-storm/apache-storm-1.1.2_ga_b.rsf,apache-storm/apache-storm-1.1.2_ga_a.rsf) = 1492
+The Mojo value is 1492
+
+MoJo(apache-storm/apache-storm-1.1.2_exhaustive_a.rsf,apache-storm/apache-storm-1.1.2_exhaustive_b.rsf) = 1386
+
+MoJo(apache-storm/apache-storm-1.1.2_exhaustive_b.rsf,apache-storm/apache-storm-1.1.2_exhaustive_a.rsf) = 1516
+The Mojo value is 1386
+
+MoJo(apache-storm/apache-storm-1.1.3_hillclimbing_a.rsf,apache-storm/apache-storm-1.1.3_hillclimbing_b.rsf) = 1543
+
+MoJo(apache-storm/apache-storm-1.1.3_hillclimbing_b.rsf,apache-storm/apache-storm-1.1.3_hillclimbing_a.rsf) = 1546
+The Mojo value is 1543
+
+MoJo(apache-storm/apache-storm-1.1.3_ga_a.rsf,apache-storm/apache-storm-1.1.3_ga_b.rsf) = 1290
+
+MoJo(apache-storm/apache-storm-1.1.3_ga_b.rsf,apache-storm/apache-storm-1.1.3_ga_a.rsf) = 1414
+The Mojo value is 1290
+
+MoJo(apache-storm/apache-storm-1.1.3_exhaustive_a.rsf,apache-storm/apache-storm-1.1.3_exhaustive_b.rsf) = 1652
+
+MoJo(apache-storm/apache-storm-1.1.3_exhaustive_b.rsf,apache-storm/apache-storm-1.1.3_exhaustive_a.rsf) = 1575
+The Mojo value is 1575
+
+MoJo(apache-storm/apache-storm-1.1.4_hillclimbing_a.rsf,apache-storm/apache-storm-1.1.4_hillclimbing_b.rsf) = 1553
+
+MoJo(apache-storm/apache-storm-1.1.4_hillclimbing_b.rsf,apache-storm/apache-storm-1.1.4_hillclimbing_a.rsf) = 1512
+The Mojo value is 1512
+
+MoJo(apache-storm/apache-storm-1.1.4_ga_a.rsf,apache-storm/apache-storm-1.1.4_ga_b.rsf) = 1630
+
+MoJo(apache-storm/apache-storm-1.1.4_ga_b.rsf,apache-storm/apache-storm-1.1.4_ga_a.rsf) = 1495
+The Mojo value is 1495
+
+MoJo(apache-storm/apache-storm-1.1.4_exhaustive_a.rsf,apache-storm/apache-storm-1.1.4_exhaustive_b.rsf) = 1628
+
+MoJo(apache-storm/apache-storm-1.1.4_exhaustive_b.rsf,apache-storm/apache-storm-1.1.4_exhaustive_a.rsf) = 1594
+The Mojo value is 1594
+
+MoJo(apache-storm/apache-storm-1.2.0_hillclimbing_a.rsf,apache-storm/apache-storm-1.2.0_hillclimbing_b.rsf) = 1672
+
+MoJo(apache-storm/apache-storm-1.2.0_hillclimbing_b.rsf,apache-storm/apache-storm-1.2.0_hillclimbing_a.rsf) = 1595
+The Mojo value is 1595
+
+MoJo(apache-storm/apache-storm-1.2.0_ga_a.rsf,apache-storm/apache-storm-1.2.0_ga_b.rsf) = 1686
+
+MoJo(apache-storm/apache-storm-1.2.0_ga_b.rsf,apache-storm/apache-storm-1.2.0_ga_a.rsf) = 1607
+The Mojo value is 1607
+
+MoJo(apache-storm/apache-storm-1.2.0_exhaustive_a.rsf,apache-storm/apache-storm-1.2.0_exhaustive_b.rsf) = 1677
+
+MoJo(apache-storm/apache-storm-1.2.0_exhaustive_b.rsf,apache-storm/apache-storm-1.2.0_exhaustive_a.rsf) = 1679
+The Mojo value is 1677
+
+MoJo(apache-storm/apache-storm-1.2.1_hillclimbing_a.rsf,apache-storm/apache-storm-1.2.1_hillclimbing_b.rsf) = 1349
+
+MoJo(apache-storm/apache-storm-1.2.1_hillclimbing_b.rsf,apache-storm/apache-storm-1.2.1_hillclimbing_a.rsf) = 847
+The Mojo value is 847
+
+MoJo(apache-storm/apache-storm-1.2.1_ga_a.rsf,apache-storm/apache-storm-1.2.1_ga_b.rsf) = 1274
+
+MoJo(apache-storm/apache-storm-1.2.1_ga_b.rsf,apache-storm/apache-storm-1.2.1_ga_a.rsf) = 1459
+The Mojo value is 1274
+
+MoJo(apache-storm/apache-storm-1.2.1_exhaustive_a.rsf,apache-storm/apache-storm-1.2.1_exhaustive_b.rsf) = 1674
+
+MoJo(apache-storm/apache-storm-1.2.1_exhaustive_b.rsf,apache-storm/apache-storm-1.2.1_exhaustive_a.rsf) = 1660
+The Mojo value is 1660
+
+MoJo(apache-storm/apache-storm-1.2.2_hillclimbing_a.rsf,apache-storm/apache-storm-1.2.2_hillclimbing_b.rsf) = 1604
+
+MoJo(apache-storm/apache-storm-1.2.2_hillclimbing_b.rsf,apache-storm/apache-storm-1.2.2_hillclimbing_a.rsf) = 1572
+The Mojo value is 1572
+
+MoJo(apache-storm/apache-storm-1.2.2_ga_a.rsf,apache-storm/apache-storm-1.2.2_ga_b.rsf) = 1712
+
+MoJo(apache-storm/apache-storm-1.2.2_ga_b.rsf,apache-storm/apache-storm-1.2.2_ga_a.rsf) = 1663
+The Mojo value is 1663
+
+MoJo(apache-storm/apache-storm-1.2.2_exhaustive_a.rsf,apache-storm/apache-storm-1.2.2_exhaustive_b.rsf) = 1547
+
+MoJo(apache-storm/apache-storm-1.2.2_exhaustive_b.rsf,apache-storm/apache-storm-1.2.2_exhaustive_a.rsf) = 1518
+The Mojo value is 1518
+
+MoJo(apache-storm/apache-storm-1.2.3_hillclimbing_a.rsf,apache-storm/apache-storm-1.2.3_hillclimbing_b.rsf) = 1195
+
+MoJo(apache-storm/apache-storm-1.2.3_hillclimbing_b.rsf,apache-storm/apache-storm-1.2.3_hillclimbing_a.rsf) = 1466
+The Mojo value is 1195
+
+MoJo(apache-storm/apache-storm-1.2.3_ga_a.rsf,apache-storm/apache-storm-1.2.3_ga_b.rsf) = 1703
+
+MoJo(apache-storm/apache-storm-1.2.3_ga_b.rsf,apache-storm/apache-storm-1.2.3_ga_a.rsf) = 1494
+The Mojo value is 1494
+
+MoJo(apache-storm/apache-storm-1.2.3_exhaustive_a.rsf,apache-storm/apache-storm-1.2.3_exhaustive_b.rsf) = 1637
+
+MoJo(apache-storm/apache-storm-1.2.3_exhaustive_b.rsf,apache-storm/apache-storm-1.2.3_exhaustive_a.rsf) = 1667
+The Mojo value is 1637
+
+MoJo(apache-storm/apache-storm-2.0.0_hillclimbing_a.rsf,apache-storm/apache-storm-2.0.0_hillclimbing_b.rsf) = 2255
+
+MoJo(apache-storm/apache-storm-2.0.0_hillclimbing_b.rsf,apache-storm/apache-storm-2.0.0_hillclimbing_a.rsf) = 2233
+The Mojo value is 2233
+
+MoJo(apache-storm/apache-storm-2.0.0_ga_a.rsf,apache-storm/apache-storm-2.0.0_ga_b.rsf) = 2250
+
+MoJo(apache-storm/apache-storm-2.0.0_ga_b.rsf,apache-storm/apache-storm-2.0.0_ga_a.rsf) = 2219
+The Mojo value is 2219
+
+MoJo(apache-storm/apache-storm-2.0.0_exhaustive_a.rsf,apache-storm/apache-storm-2.0.0_exhaustive_b.rsf) = 2248
+
+MoJo(apache-storm/apache-storm-2.0.0_exhaustive_b.rsf,apache-storm/apache-storm-2.0.0_exhaustive_a.rsf) = 2226
+The Mojo value is 2226

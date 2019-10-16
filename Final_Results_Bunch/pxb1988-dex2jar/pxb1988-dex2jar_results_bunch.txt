@@ -1,0 +1,90 @@
+
+MoJo(pxb1988-dex2jar/pxb1988-dex2jar-0.0.9.4_hillclimbing_a.rsf,pxb1988-dex2jar/pxb1988-dex2jar-0.0.9.4_hillclimbing_b.rsf) = 93
+
+MoJo(pxb1988-dex2jar/pxb1988-dex2jar-0.0.9.4_hillclimbing_b.rsf,pxb1988-dex2jar/pxb1988-dex2jar-0.0.9.4_hillclimbing_a.rsf) = 94
+The Mojo value is 93
+
+MoJo(pxb1988-dex2jar/pxb1988-dex2jar-0.0.9.4_ga_a.rsf,pxb1988-dex2jar/pxb1988-dex2jar-0.0.9.4_ga_b.rsf) = 99
+
+MoJo(pxb1988-dex2jar/pxb1988-dex2jar-0.0.9.4_ga_b.rsf,pxb1988-dex2jar/pxb1988-dex2jar-0.0.9.4_ga_a.rsf) = 97
+The Mojo value is 97
+
+MoJo(pxb1988-dex2jar/pxb1988-dex2jar-0.0.9.4_exhaustive_a.rsf,pxb1988-dex2jar/pxb1988-dex2jar-0.0.9.4_exhaustive_b.rsf) = 86
+
+MoJo(pxb1988-dex2jar/pxb1988-dex2jar-0.0.9.4_exhaustive_b.rsf,pxb1988-dex2jar/pxb1988-dex2jar-0.0.9.4_exhaustive_a.rsf) = 69
+The Mojo value is 69
+
+MoJo(pxb1988-dex2jar/pxb1988-dex2jar-0.0.9.5_hillclimbing_a.rsf,pxb1988-dex2jar/pxb1988-dex2jar-0.0.9.5_hillclimbing_b.rsf) = 100
+
+MoJo(pxb1988-dex2jar/pxb1988-dex2jar-0.0.9.5_hillclimbing_b.rsf,pxb1988-dex2jar/pxb1988-dex2jar-0.0.9.5_hillclimbing_a.rsf) = 95
+The Mojo value is 95
+
+MoJo(pxb1988-dex2jar/pxb1988-dex2jar-0.0.9.5_ga_a.rsf,pxb1988-dex2jar/pxb1988-dex2jar-0.0.9.5_ga_b.rsf) = 95
+
+MoJo(pxb1988-dex2jar/pxb1988-dex2jar-0.0.9.5_ga_b.rsf,pxb1988-dex2jar/pxb1988-dex2jar-0.0.9.5_ga_a.rsf) = 94
+The Mojo value is 94
+
+MoJo(pxb1988-dex2jar/pxb1988-dex2jar-0.0.9.5_exhaustive_a.rsf,pxb1988-dex2jar/pxb1988-dex2jar-0.0.9.5_exhaustive_b.rsf) = 93
+
+MoJo(pxb1988-dex2jar/pxb1988-dex2jar-0.0.9.5_exhaustive_b.rsf,pxb1988-dex2jar/pxb1988-dex2jar-0.0.9.5_exhaustive_a.rsf) = 90
+The Mojo value is 90
+
+MoJo(pxb1988-dex2jar/pxb1988-dex2jar-0.0.9.6_hillclimbing_a.rsf,pxb1988-dex2jar/pxb1988-dex2jar-0.0.9.6_hillclimbing_b.rsf) = 101
+
+MoJo(pxb1988-dex2jar/pxb1988-dex2jar-0.0.9.6_hillclimbing_b.rsf,pxb1988-dex2jar/pxb1988-dex2jar-0.0.9.6_hillclimbing_a.rsf) = 99
+The Mojo value is 99
+
+MoJo(pxb1988-dex2jar/pxb1988-dex2jar-0.0.9.6_ga_a.rsf,pxb1988-dex2jar/pxb1988-dex2jar-0.0.9.6_ga_b.rsf) = 106
+
+MoJo(pxb1988-dex2jar/pxb1988-dex2jar-0.0.9.6_ga_b.rsf,pxb1988-dex2jar/pxb1988-dex2jar-0.0.9.6_ga_a.rsf) = 104
+The Mojo value is 104
+
+MoJo(pxb1988-dex2jar/pxb1988-dex2jar-0.0.9.6_exhaustive_a.rsf,pxb1988-dex2jar/pxb1988-dex2jar-0.0.9.6_exhaustive_b.rsf) = 102
+
+MoJo(pxb1988-dex2jar/pxb1988-dex2jar-0.0.9.6_exhaustive_b.rsf,pxb1988-dex2jar/pxb1988-dex2jar-0.0.9.6_exhaustive_a.rsf) = 96
+The Mojo value is 96
+
+MoJo(pxb1988-dex2jar/pxb1988-dex2jar-0.0.9.7_hillclimbing_a.rsf,pxb1988-dex2jar/pxb1988-dex2jar-0.0.9.7_hillclimbing_b.rsf) = 109
+
+MoJo(pxb1988-dex2jar/pxb1988-dex2jar-0.0.9.7_hillclimbing_b.rsf,pxb1988-dex2jar/pxb1988-dex2jar-0.0.9.7_hillclimbing_a.rsf) = 91
+The Mojo value is 91
+
+MoJo(pxb1988-dex2jar/pxb1988-dex2jar-0.0.9.7_ga_a.rsf,pxb1988-dex2jar/pxb1988-dex2jar-0.0.9.7_ga_b.rsf) = 102
+
+MoJo(pxb1988-dex2jar/pxb1988-dex2jar-0.0.9.7_ga_b.rsf,pxb1988-dex2jar/pxb1988-dex2jar-0.0.9.7_ga_a.rsf) = 94
+The Mojo value is 94
+
+MoJo(pxb1988-dex2jar/pxb1988-dex2jar-0.0.9.7_exhaustive_a.rsf,pxb1988-dex2jar/pxb1988-dex2jar-0.0.9.7_exhaustive_b.rsf) = 112
+
+MoJo(pxb1988-dex2jar/pxb1988-dex2jar-0.0.9.7_exhaustive_b.rsf,pxb1988-dex2jar/pxb1988-dex2jar-0.0.9.7_exhaustive_a.rsf) = 107
+The Mojo value is 107
+
+MoJo(pxb1988-dex2jar/pxb1988-dex2jar-0.0.9.8_hillclimbing_a.rsf,pxb1988-dex2jar/pxb1988-dex2jar-0.0.9.8_hillclimbing_b.rsf) = 115
+
+MoJo(pxb1988-dex2jar/pxb1988-dex2jar-0.0.9.8_hillclimbing_b.rsf,pxb1988-dex2jar/pxb1988-dex2jar-0.0.9.8_hillclimbing_a.rsf) = 112
+The Mojo value is 112
+
+MoJo(pxb1988-dex2jar/pxb1988-dex2jar-0.0.9.8_ga_a.rsf,pxb1988-dex2jar/pxb1988-dex2jar-0.0.9.8_ga_b.rsf) = 108
+
+MoJo(pxb1988-dex2jar/pxb1988-dex2jar-0.0.9.8_ga_b.rsf,pxb1988-dex2jar/pxb1988-dex2jar-0.0.9.8_ga_a.rsf) = 107
+The Mojo value is 107
+
+MoJo(pxb1988-dex2jar/pxb1988-dex2jar-0.0.9.8_exhaustive_a.rsf,pxb1988-dex2jar/pxb1988-dex2jar-0.0.9.8_exhaustive_b.rsf) = 113
+
+MoJo(pxb1988-dex2jar/pxb1988-dex2jar-0.0.9.8_exhaustive_b.rsf,pxb1988-dex2jar/pxb1988-dex2jar-0.0.9.8_exhaustive_a.rsf) = 107
+The Mojo value is 107
+
+MoJo(pxb1988-dex2jar/pxb1988-dex2jar-0.0.9.9_hillclimbing_a.rsf,pxb1988-dex2jar/pxb1988-dex2jar-0.0.9.9_hillclimbing_b.rsf) = 118
+
+MoJo(pxb1988-dex2jar/pxb1988-dex2jar-0.0.9.9_hillclimbing_b.rsf,pxb1988-dex2jar/pxb1988-dex2jar-0.0.9.9_hillclimbing_a.rsf) = 114
+The Mojo value is 114
+
+MoJo(pxb1988-dex2jar/pxb1988-dex2jar-0.0.9.9_ga_a.rsf,pxb1988-dex2jar/pxb1988-dex2jar-0.0.9.9_ga_b.rsf) = 115
+
+MoJo(pxb1988-dex2jar/pxb1988-dex2jar-0.0.9.9_ga_b.rsf,pxb1988-dex2jar/pxb1988-dex2jar-0.0.9.9_ga_a.rsf) = 106
+The Mojo value is 106
+
+MoJo(pxb1988-dex2jar/pxb1988-dex2jar-0.0.9.9_exhaustive_a.rsf,pxb1988-dex2jar/pxb1988-dex2jar-0.0.9.9_exhaustive_b.rsf) = 113
+
+MoJo(pxb1988-dex2jar/pxb1988-dex2jar-0.0.9.9_exhaustive_b.rsf,pxb1988-dex2jar/pxb1988-dex2jar-0.0.9.9_exhaustive_a.rsf) = 104
+The Mojo value is 104

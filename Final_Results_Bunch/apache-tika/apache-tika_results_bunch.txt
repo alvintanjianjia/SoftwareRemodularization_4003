@@ -1,0 +1,150 @@
+
+MoJo(apache-tika/apache-tika-1.19.1_hillclimbing_a.rsf,apache-tika/apache-tika-1.19.1_hillclimbing_b.rsf) = 951
+
+MoJo(apache-tika/apache-tika-1.19.1_hillclimbing_b.rsf,apache-tika/apache-tika-1.19.1_hillclimbing_a.rsf) = 942
+The Mojo value is 942
+
+MoJo(apache-tika/apache-tika-1.19.1_ga_a.rsf,apache-tika/apache-tika-1.19.1_ga_b.rsf) = 939
+
+MoJo(apache-tika/apache-tika-1.19.1_ga_b.rsf,apache-tika/apache-tika-1.19.1_ga_a.rsf) = 937
+The Mojo value is 937
+
+MoJo(apache-tika/apache-tika-1.19.1_exhaustive_a.rsf,apache-tika/apache-tika-1.19.1_exhaustive_b.rsf) = 943
+
+MoJo(apache-tika/apache-tika-1.19.1_exhaustive_b.rsf,apache-tika/apache-tika-1.19.1_exhaustive_a.rsf) = 948
+The Mojo value is 943
+
+MoJo(apache-tika/apache-tika-1.2_hillclimbing_a.rsf,apache-tika/apache-tika-1.2_hillclimbing_b.rsf) = 361
+
+MoJo(apache-tika/apache-tika-1.2_hillclimbing_b.rsf,apache-tika/apache-tika-1.2_hillclimbing_a.rsf) = 343
+The Mojo value is 343
+
+MoJo(apache-tika/apache-tika-1.2_ga_a.rsf,apache-tika/apache-tika-1.2_ga_b.rsf) = 323
+
+MoJo(apache-tika/apache-tika-1.2_ga_b.rsf,apache-tika/apache-tika-1.2_ga_a.rsf) = 327
+The Mojo value is 323
+
+MoJo(apache-tika/apache-tika-1.2_exhaustive_a.rsf,apache-tika/apache-tika-1.2_exhaustive_b.rsf) = 342
+
+MoJo(apache-tika/apache-tika-1.2_exhaustive_b.rsf,apache-tika/apache-tika-1.2_exhaustive_a.rsf) = 358
+The Mojo value is 342
+
+MoJo(apache-tika/apache-tika-1.20_hillclimbing_a.rsf,apache-tika/apache-tika-1.20_hillclimbing_b.rsf) = 898
+
+MoJo(apache-tika/apache-tika-1.20_hillclimbing_b.rsf,apache-tika/apache-tika-1.20_hillclimbing_a.rsf) = 943
+The Mojo value is 898
+
+MoJo(apache-tika/apache-tika-1.20_ga_a.rsf,apache-tika/apache-tika-1.20_ga_b.rsf) = 926
+
+MoJo(apache-tika/apache-tika-1.20_ga_b.rsf,apache-tika/apache-tika-1.20_ga_a.rsf) = 931
+The Mojo value is 926
+
+MoJo(apache-tika/apache-tika-1.20_exhaustive_a.rsf,apache-tika/apache-tika-1.20_exhaustive_b.rsf) = 905
+
+MoJo(apache-tika/apache-tika-1.20_exhaustive_b.rsf,apache-tika/apache-tika-1.20_exhaustive_a.rsf) = 956
+The Mojo value is 905
+
+MoJo(apache-tika/apache-tika-1.21_hillclimbing_a.rsf,apache-tika/apache-tika-1.21_hillclimbing_b.rsf) = 932
+
+MoJo(apache-tika/apache-tika-1.21_hillclimbing_b.rsf,apache-tika/apache-tika-1.21_hillclimbing_a.rsf) = 934
+The Mojo value is 932
+
+MoJo(apache-tika/apache-tika-1.21_ga_a.rsf,apache-tika/apache-tika-1.21_ga_b.rsf) = 881
+
+MoJo(apache-tika/apache-tika-1.21_ga_b.rsf,apache-tika/apache-tika-1.21_ga_a.rsf) = 905
+The Mojo value is 881
+
+MoJo(apache-tika/apache-tika-1.21_exhaustive_a.rsf,apache-tika/apache-tika-1.21_exhaustive_b.rsf) = 941
+
+MoJo(apache-tika/apache-tika-1.21_exhaustive_b.rsf,apache-tika/apache-tika-1.21_exhaustive_a.rsf) = 963
+The Mojo value is 941
+
+MoJo(apache-tika/apache-tika-1.22_hillclimbing_a.rsf,apache-tika/apache-tika-1.22_hillclimbing_b.rsf) = 972
+
+MoJo(apache-tika/apache-tika-1.22_hillclimbing_b.rsf,apache-tika/apache-tika-1.22_hillclimbing_a.rsf) = 904
+The Mojo value is 904
+
+MoJo(apache-tika/apache-tika-1.22_ga_a.rsf,apache-tika/apache-tika-1.22_ga_b.rsf) = 906
+
+MoJo(apache-tika/apache-tika-1.22_ga_b.rsf,apache-tika/apache-tika-1.22_ga_a.rsf) = 959
+The Mojo value is 906
+
+MoJo(apache-tika/apache-tika-1.22_exhaustive_a.rsf,apache-tika/apache-tika-1.22_exhaustive_b.rsf) = 978
+
+MoJo(apache-tika/apache-tika-1.22_exhaustive_b.rsf,apache-tika/apache-tika-1.22_exhaustive_a.rsf) = 932
+The Mojo value is 932
+
+MoJo(apache-tika/apache-tika-1.3_hillclimbing_a.rsf,apache-tika/apache-tika-1.3_hillclimbing_b.rsf) = 320
+
+MoJo(apache-tika/apache-tika-1.3_hillclimbing_b.rsf,apache-tika/apache-tika-1.3_hillclimbing_a.rsf) = 291
+The Mojo value is 291
+
+MoJo(apache-tika/apache-tika-1.3_ga_a.rsf,apache-tika/apache-tika-1.3_ga_b.rsf) = 365
+
+MoJo(apache-tika/apache-tika-1.3_ga_b.rsf,apache-tika/apache-tika-1.3_ga_a.rsf) = 300
+The Mojo value is 300
+
+MoJo(apache-tika/apache-tika-1.3_exhaustive_a.rsf,apache-tika/apache-tika-1.3_exhaustive_b.rsf) = 308
+
+MoJo(apache-tika/apache-tika-1.3_exhaustive_b.rsf,apache-tika/apache-tika-1.3_exhaustive_a.rsf) = 300
+The Mojo value is 300
+
+MoJo(apache-tika/apache-tika-1.4_hillclimbing_a.rsf,apache-tika/apache-tika-1.4_hillclimbing_b.rsf) = 301
+
+MoJo(apache-tika/apache-tika-1.4_hillclimbing_b.rsf,apache-tika/apache-tika-1.4_hillclimbing_a.rsf) = 272
+The Mojo value is 272
+
+MoJo(apache-tika/apache-tika-1.4_ga_a.rsf,apache-tika/apache-tika-1.4_ga_b.rsf) = 361
+
+MoJo(apache-tika/apache-tika-1.4_ga_b.rsf,apache-tika/apache-tika-1.4_ga_a.rsf) = 318
+The Mojo value is 318
+
+MoJo(apache-tika/apache-tika-1.4_exhaustive_a.rsf,apache-tika/apache-tika-1.4_exhaustive_b.rsf) = 372
+
+MoJo(apache-tika/apache-tika-1.4_exhaustive_b.rsf,apache-tika/apache-tika-1.4_exhaustive_a.rsf) = 354
+The Mojo value is 354
+
+MoJo(apache-tika/apache-tika-1.5_hillclimbing_a.rsf,apache-tika/apache-tika-1.5_hillclimbing_b.rsf) = 361
+
+MoJo(apache-tika/apache-tika-1.5_hillclimbing_b.rsf,apache-tika/apache-tika-1.5_hillclimbing_a.rsf) = 323
+The Mojo value is 323
+
+MoJo(apache-tika/apache-tika-1.5_ga_a.rsf,apache-tika/apache-tika-1.5_ga_b.rsf) = 335
+
+MoJo(apache-tika/apache-tika-1.5_ga_b.rsf,apache-tika/apache-tika-1.5_ga_a.rsf) = 365
+The Mojo value is 335
+
+MoJo(apache-tika/apache-tika-1.5_exhaustive_a.rsf,apache-tika/apache-tika-1.5_exhaustive_b.rsf) = 332
+
+MoJo(apache-tika/apache-tika-1.5_exhaustive_b.rsf,apache-tika/apache-tika-1.5_exhaustive_a.rsf) = 382
+The Mojo value is 332
+
+MoJo(apache-tika/apache-tika-1.6_hillclimbing_a.rsf,apache-tika/apache-tika-1.6_hillclimbing_b.rsf) = 347
+
+MoJo(apache-tika/apache-tika-1.6_hillclimbing_b.rsf,apache-tika/apache-tika-1.6_hillclimbing_a.rsf) = 382
+The Mojo value is 347
+
+MoJo(apache-tika/apache-tika-1.6_ga_a.rsf,apache-tika/apache-tika-1.6_ga_b.rsf) = 417
+
+MoJo(apache-tika/apache-tika-1.6_ga_b.rsf,apache-tika/apache-tika-1.6_ga_a.rsf) = 403
+The Mojo value is 403
+
+MoJo(apache-tika/apache-tika-1.6_exhaustive_a.rsf,apache-tika/apache-tika-1.6_exhaustive_b.rsf) = 362
+
+MoJo(apache-tika/apache-tika-1.6_exhaustive_b.rsf,apache-tika/apache-tika-1.6_exhaustive_a.rsf) = 338
+The Mojo value is 338
+
+MoJo(apache-tika/apache-tika-1.7_hillclimbing_a.rsf,apache-tika/apache-tika-1.7_hillclimbing_b.rsf) = 296
+
+MoJo(apache-tika/apache-tika-1.7_hillclimbing_b.rsf,apache-tika/apache-tika-1.7_hillclimbing_a.rsf) = 329
+The Mojo value is 296
+
+MoJo(apache-tika/apache-tika-1.7_ga_a.rsf,apache-tika/apache-tika-1.7_ga_b.rsf) = 356
+
+MoJo(apache-tika/apache-tika-1.7_ga_b.rsf,apache-tika/apache-tika-1.7_ga_a.rsf) = 399
+The Mojo value is 356
+
+MoJo(apache-tika/apache-tika-1.7_exhaustive_a.rsf,apache-tika/apache-tika-1.7_exhaustive_b.rsf) = 441
+
+MoJo(apache-tika/apache-tika-1.7_exhaustive_b.rsf,apache-tika/apache-tika-1.7_exhaustive_a.rsf) = 436
+The Mojo value is 436

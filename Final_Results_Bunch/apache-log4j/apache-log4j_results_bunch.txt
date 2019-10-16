@@ -1,0 +1,140 @@
+
+MoJo(apache-log4j/apache-log4j-1.2.13_hillclimbing_a.rsf,apache-log4j/apache-log4j-1.2.13_hillclimbing_b.rsf) = 262
+
+MoJo(apache-log4j/apache-log4j-1.2.13_hillclimbing_b.rsf,apache-log4j/apache-log4j-1.2.13_hillclimbing_a.rsf) = 256
+The Mojo value is 256
+
+MoJo(apache-log4j/apache-log4j-1.2.13_ga_a.rsf,apache-log4j/apache-log4j-1.2.13_ga_b.rsf) = 258
+
+MoJo(apache-log4j/apache-log4j-1.2.13_ga_b.rsf,apache-log4j/apache-log4j-1.2.13_ga_a.rsf) = 253
+The Mojo value is 253
+
+MoJo(apache-log4j/apache-log4j-1.2.13_exhaustive_a.rsf,apache-log4j/apache-log4j-1.2.13_exhaustive_b.rsf) = 228
+
+MoJo(apache-log4j/apache-log4j-1.2.13_exhaustive_b.rsf,apache-log4j/apache-log4j-1.2.13_exhaustive_a.rsf) = 235
+The Mojo value is 228
+
+MoJo(apache-log4j/apache-log4j-1.2.14_hillclimbing_a.rsf,apache-log4j/apache-log4j-1.2.14_hillclimbing_b.rsf) = 253
+
+MoJo(apache-log4j/apache-log4j-1.2.14_hillclimbing_b.rsf,apache-log4j/apache-log4j-1.2.14_hillclimbing_a.rsf) = 262
+The Mojo value is 253
+
+MoJo(apache-log4j/apache-log4j-1.2.14_ga_a.rsf,apache-log4j/apache-log4j-1.2.14_ga_b.rsf) = 276
+
+MoJo(apache-log4j/apache-log4j-1.2.14_ga_b.rsf,apache-log4j/apache-log4j-1.2.14_ga_a.rsf) = 245
+The Mojo value is 245
+
+MoJo(apache-log4j/apache-log4j-1.2.14_exhaustive_a.rsf,apache-log4j/apache-log4j-1.2.14_exhaustive_b.rsf) = 276
+
+MoJo(apache-log4j/apache-log4j-1.2.14_exhaustive_b.rsf,apache-log4j/apache-log4j-1.2.14_exhaustive_a.rsf) = 270
+The Mojo value is 270
+
+MoJo(apache-log4j/apache-log4j-1.2.15_exhaustive_a.rsf,apache-log4j/apache-log4j-1.2.15_exhaustive_b.rsf) = 283
+
+MoJo(apache-log4j/apache-log4j-1.2.15_exhaustive_b.rsf,apache-log4j/apache-log4j-1.2.15_exhaustive_a.rsf) = 283
+The Mojo value is 283
+
+MoJo(apache-log4j/apache-log4j-1.2.16_hillclimbing_a.rsf,apache-log4j/apache-log4j-1.2.16_hillclimbing_b.rsf) = 332
+
+MoJo(apache-log4j/apache-log4j-1.2.16_hillclimbing_b.rsf,apache-log4j/apache-log4j-1.2.16_hillclimbing_a.rsf) = 332
+The Mojo value is 332
+
+MoJo(apache-log4j/apache-log4j-1.2.16_ga_a.rsf,apache-log4j/apache-log4j-1.2.16_ga_b.rsf) = 330
+
+MoJo(apache-log4j/apache-log4j-1.2.16_ga_b.rsf,apache-log4j/apache-log4j-1.2.16_ga_a.rsf) = 329
+The Mojo value is 329
+
+MoJo(apache-log4j/apache-log4j-1.2.16_exhaustive_a.rsf,apache-log4j/apache-log4j-1.2.16_exhaustive_b.rsf) = 329
+
+MoJo(apache-log4j/apache-log4j-1.2.16_exhaustive_b.rsf,apache-log4j/apache-log4j-1.2.16_exhaustive_a.rsf) = 327
+The Mojo value is 327
+
+MoJo(apache-log4j/apache-log4j-1.2.17_hillclimbing_a.rsf,apache-log4j/apache-log4j-1.2.17_hillclimbing_b.rsf) = 339
+
+MoJo(apache-log4j/apache-log4j-1.2.17_hillclimbing_b.rsf,apache-log4j/apache-log4j-1.2.17_hillclimbing_a.rsf) = 338
+The Mojo value is 338
+
+MoJo(apache-log4j/apache-log4j-1.2.17_ga_a.rsf,apache-log4j/apache-log4j-1.2.17_ga_b.rsf) = 339
+
+MoJo(apache-log4j/apache-log4j-1.2.17_ga_b.rsf,apache-log4j/apache-log4j-1.2.17_ga_a.rsf) = 339
+The Mojo value is 339
+
+MoJo(apache-log4j/apache-log4j-1.2.17_exhaustive_a.rsf,apache-log4j/apache-log4j-1.2.17_exhaustive_b.rsf) = 325
+
+MoJo(apache-log4j/apache-log4j-1.2.17_exhaustive_b.rsf,apache-log4j/apache-log4j-1.2.17_exhaustive_a.rsf) = 325
+The Mojo value is 325
+
+MoJo(apache-log4j/apache-log4j-1.2.2_hillclimbing_a.rsf,apache-log4j/apache-log4j-1.2.2_hillclimbing_b.rsf) = 250
+
+MoJo(apache-log4j/apache-log4j-1.2.2_hillclimbing_b.rsf,apache-log4j/apache-log4j-1.2.2_hillclimbing_a.rsf) = 249
+The Mojo value is 249
+
+MoJo(apache-log4j/apache-log4j-1.2.2_ga_a.rsf,apache-log4j/apache-log4j-1.2.2_ga_b.rsf) = 256
+
+MoJo(apache-log4j/apache-log4j-1.2.2_ga_b.rsf,apache-log4j/apache-log4j-1.2.2_ga_a.rsf) = 254
+The Mojo value is 254
+
+MoJo(apache-log4j/apache-log4j-1.2.2_exhaustive_a.rsf,apache-log4j/apache-log4j-1.2.2_exhaustive_b.rsf) = 256
+
+MoJo(apache-log4j/apache-log4j-1.2.2_exhaustive_b.rsf,apache-log4j/apache-log4j-1.2.2_exhaustive_a.rsf) = 255
+The Mojo value is 255
+
+MoJo(apache-log4j/apache-log4j-1.2.3_hillclimbing_a.rsf,apache-log4j/apache-log4j-1.2.3_hillclimbing_b.rsf) = 256
+
+MoJo(apache-log4j/apache-log4j-1.2.3_hillclimbing_b.rsf,apache-log4j/apache-log4j-1.2.3_hillclimbing_a.rsf) = 253
+The Mojo value is 253
+
+MoJo(apache-log4j/apache-log4j-1.2.3_ga_a.rsf,apache-log4j/apache-log4j-1.2.3_ga_b.rsf) = 259
+
+MoJo(apache-log4j/apache-log4j-1.2.3_ga_b.rsf,apache-log4j/apache-log4j-1.2.3_ga_a.rsf) = 257
+The Mojo value is 257
+
+MoJo(apache-log4j/apache-log4j-1.2.3_exhaustive_a.rsf,apache-log4j/apache-log4j-1.2.3_exhaustive_b.rsf) = 261
+
+MoJo(apache-log4j/apache-log4j-1.2.3_exhaustive_b.rsf,apache-log4j/apache-log4j-1.2.3_exhaustive_a.rsf) = 260
+The Mojo value is 260
+
+MoJo(apache-log4j/apache-log4j-1.2.4_hillclimbing_a.rsf,apache-log4j/apache-log4j-1.2.4_hillclimbing_b.rsf) = 259
+
+MoJo(apache-log4j/apache-log4j-1.2.4_hillclimbing_b.rsf,apache-log4j/apache-log4j-1.2.4_hillclimbing_a.rsf) = 253
+The Mojo value is 253
+
+MoJo(apache-log4j/apache-log4j-1.2.4_ga_a.rsf,apache-log4j/apache-log4j-1.2.4_ga_b.rsf) = 258
+
+MoJo(apache-log4j/apache-log4j-1.2.4_ga_b.rsf,apache-log4j/apache-log4j-1.2.4_ga_a.rsf) = 250
+The Mojo value is 250
+
+MoJo(apache-log4j/apache-log4j-1.2.4_exhaustive_a.rsf,apache-log4j/apache-log4j-1.2.4_exhaustive_b.rsf) = 261
+
+MoJo(apache-log4j/apache-log4j-1.2.4_exhaustive_b.rsf,apache-log4j/apache-log4j-1.2.4_exhaustive_a.rsf) = 242
+The Mojo value is 242
+
+MoJo(apache-log4j/apache-log4j-1.2.6_hillclimbing_a.rsf,apache-log4j/apache-log4j-1.2.6_hillclimbing_b.rsf) = 263
+
+MoJo(apache-log4j/apache-log4j-1.2.6_hillclimbing_b.rsf,apache-log4j/apache-log4j-1.2.6_hillclimbing_a.rsf) = 261
+The Mojo value is 261
+
+MoJo(apache-log4j/apache-log4j-1.2.6_ga_a.rsf,apache-log4j/apache-log4j-1.2.6_ga_b.rsf) = 250
+
+MoJo(apache-log4j/apache-log4j-1.2.6_ga_b.rsf,apache-log4j/apache-log4j-1.2.6_ga_a.rsf) = 249
+The Mojo value is 249
+
+MoJo(apache-log4j/apache-log4j-1.2.6_exhaustive_a.rsf,apache-log4j/apache-log4j-1.2.6_exhaustive_b.rsf) = 250
+
+MoJo(apache-log4j/apache-log4j-1.2.6_exhaustive_b.rsf,apache-log4j/apache-log4j-1.2.6_exhaustive_a.rsf) = 249
+The Mojo value is 249
+
+MoJo(apache-log4j/apache-log4j-1.2.7_hillclimbing_a.rsf,apache-log4j/apache-log4j-1.2.7_hillclimbing_b.rsf) = 249
+
+MoJo(apache-log4j/apache-log4j-1.2.7_hillclimbing_b.rsf,apache-log4j/apache-log4j-1.2.7_hillclimbing_a.rsf) = 244
+The Mojo value is 244
+
+MoJo(apache-log4j/apache-log4j-1.2.7_ga_a.rsf,apache-log4j/apache-log4j-1.2.7_ga_b.rsf) = 266
+
+MoJo(apache-log4j/apache-log4j-1.2.7_ga_b.rsf,apache-log4j/apache-log4j-1.2.7_ga_a.rsf) = 262
+The Mojo value is 262
+
+MoJo(apache-log4j/apache-log4j-1.2.7_exhaustive_a.rsf,apache-log4j/apache-log4j-1.2.7_exhaustive_b.rsf) = 258
+
+MoJo(apache-log4j/apache-log4j-1.2.7_exhaustive_b.rsf,apache-log4j/apache-log4j-1.2.7_exhaustive_a.rsf) = 233
+The Mojo value is 233

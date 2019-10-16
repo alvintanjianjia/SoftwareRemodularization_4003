@@ -1,0 +1,150 @@
+
+MoJo(apache-cassandra/apache-cassandra-3.11.3_hillclimbing_a.rsf,apache-cassandra/apache-cassandra-3.11.3_hillclimbing_b.rsf) = 1996
+
+MoJo(apache-cassandra/apache-cassandra-3.11.3_hillclimbing_b.rsf,apache-cassandra/apache-cassandra-3.11.3_hillclimbing_a.rsf) = 1839
+The Mojo value is 1839
+
+MoJo(apache-cassandra/apache-cassandra-3.11.3_ga_a.rsf,apache-cassandra/apache-cassandra-3.11.3_ga_b.rsf) = 1718
+
+MoJo(apache-cassandra/apache-cassandra-3.11.3_ga_b.rsf,apache-cassandra/apache-cassandra-3.11.3_ga_a.rsf) = 1895
+The Mojo value is 1718
+
+MoJo(apache-cassandra/apache-cassandra-3.11.3_exhaustive_a.rsf,apache-cassandra/apache-cassandra-3.11.3_exhaustive_b.rsf) = 1835
+
+MoJo(apache-cassandra/apache-cassandra-3.11.3_exhaustive_b.rsf,apache-cassandra/apache-cassandra-3.11.3_exhaustive_a.rsf) = 1836
+The Mojo value is 1835
+
+MoJo(apache-cassandra/apache-cassandra-3.11.4_hillclimbing_a.rsf,apache-cassandra/apache-cassandra-3.11.4_hillclimbing_b.rsf) = 1937
+
+MoJo(apache-cassandra/apache-cassandra-3.11.4_hillclimbing_b.rsf,apache-cassandra/apache-cassandra-3.11.4_hillclimbing_a.rsf) = 1840
+The Mojo value is 1840
+
+MoJo(apache-cassandra/apache-cassandra-3.11.4_ga_a.rsf,apache-cassandra/apache-cassandra-3.11.4_ga_b.rsf) = 2017
+
+MoJo(apache-cassandra/apache-cassandra-3.11.4_ga_b.rsf,apache-cassandra/apache-cassandra-3.11.4_ga_a.rsf) = 1893
+The Mojo value is 1893
+
+MoJo(apache-cassandra/apache-cassandra-3.11.4_exhaustive_a.rsf,apache-cassandra/apache-cassandra-3.11.4_exhaustive_b.rsf) = 1979
+
+MoJo(apache-cassandra/apache-cassandra-3.11.4_exhaustive_b.rsf,apache-cassandra/apache-cassandra-3.11.4_exhaustive_a.rsf) = 1945
+The Mojo value is 1945
+
+MoJo(apache-cassandra/apache-cassandra-3.2_hillclimbing_a.rsf,apache-cassandra/apache-cassandra-3.2_hillclimbing_b.rsf) = 1626
+
+MoJo(apache-cassandra/apache-cassandra-3.2_hillclimbing_b.rsf,apache-cassandra/apache-cassandra-3.2_hillclimbing_a.rsf) = 1555
+The Mojo value is 1555
+
+MoJo(apache-cassandra/apache-cassandra-3.2_ga_a.rsf,apache-cassandra/apache-cassandra-3.2_ga_b.rsf) = 1630
+
+MoJo(apache-cassandra/apache-cassandra-3.2_ga_b.rsf,apache-cassandra/apache-cassandra-3.2_ga_a.rsf) = 1589
+The Mojo value is 1589
+
+MoJo(apache-cassandra/apache-cassandra-3.2_exhaustive_a.rsf,apache-cassandra/apache-cassandra-3.2_exhaustive_b.rsf) = 1498
+
+MoJo(apache-cassandra/apache-cassandra-3.2_exhaustive_b.rsf,apache-cassandra/apache-cassandra-3.2_exhaustive_a.rsf) = 1121
+The Mojo value is 1121
+
+MoJo(apache-cassandra/apache-cassandra-3.2.1_hillclimbing_a.rsf,apache-cassandra/apache-cassandra-3.2.1_hillclimbing_b.rsf) = 1609
+
+MoJo(apache-cassandra/apache-cassandra-3.2.1_hillclimbing_b.rsf,apache-cassandra/apache-cassandra-3.2.1_hillclimbing_a.rsf) = 1636
+The Mojo value is 1609
+
+MoJo(apache-cassandra/apache-cassandra-3.2.1_ga_a.rsf,apache-cassandra/apache-cassandra-3.2.1_ga_b.rsf) = 1610
+
+MoJo(apache-cassandra/apache-cassandra-3.2.1_ga_b.rsf,apache-cassandra/apache-cassandra-3.2.1_ga_a.rsf) = 1444
+The Mojo value is 1444
+
+MoJo(apache-cassandra/apache-cassandra-3.2.1_exhaustive_a.rsf,apache-cassandra/apache-cassandra-3.2.1_exhaustive_b.rsf) = 1643
+
+MoJo(apache-cassandra/apache-cassandra-3.2.1_exhaustive_b.rsf,apache-cassandra/apache-cassandra-3.2.1_exhaustive_a.rsf) = 1600
+The Mojo value is 1600
+
+MoJo(apache-cassandra/apache-cassandra-3.3_hillclimbing_a.rsf,apache-cassandra/apache-cassandra-3.3_hillclimbing_b.rsf) = 1379
+
+MoJo(apache-cassandra/apache-cassandra-3.3_hillclimbing_b.rsf,apache-cassandra/apache-cassandra-3.3_hillclimbing_a.rsf) = 1333
+The Mojo value is 1333
+
+MoJo(apache-cassandra/apache-cassandra-3.3_ga_a.rsf,apache-cassandra/apache-cassandra-3.3_ga_b.rsf) = 1384
+
+MoJo(apache-cassandra/apache-cassandra-3.3_ga_b.rsf,apache-cassandra/apache-cassandra-3.3_ga_a.rsf) = 1180
+The Mojo value is 1180
+
+MoJo(apache-cassandra/apache-cassandra-3.3_exhaustive_a.rsf,apache-cassandra/apache-cassandra-3.3_exhaustive_b.rsf) = 1658
+
+MoJo(apache-cassandra/apache-cassandra-3.3_exhaustive_b.rsf,apache-cassandra/apache-cassandra-3.3_exhaustive_a.rsf) = 1286
+The Mojo value is 1286
+
+MoJo(apache-cassandra/apache-cassandra-3.4_hillclimbing_a.rsf,apache-cassandra/apache-cassandra-3.4_hillclimbing_b.rsf) = 1659
+
+MoJo(apache-cassandra/apache-cassandra-3.4_hillclimbing_b.rsf,apache-cassandra/apache-cassandra-3.4_hillclimbing_a.rsf) = 1628
+The Mojo value is 1628
+
+MoJo(apache-cassandra/apache-cassandra-3.4_ga_a.rsf,apache-cassandra/apache-cassandra-3.4_ga_b.rsf) = 1775
+
+MoJo(apache-cassandra/apache-cassandra-3.4_ga_b.rsf,apache-cassandra/apache-cassandra-3.4_ga_a.rsf) = 1653
+The Mojo value is 1653
+
+MoJo(apache-cassandra/apache-cassandra-3.4_exhaustive_a.rsf,apache-cassandra/apache-cassandra-3.4_exhaustive_b.rsf) = 1736
+
+MoJo(apache-cassandra/apache-cassandra-3.4_exhaustive_b.rsf,apache-cassandra/apache-cassandra-3.4_exhaustive_a.rsf) = 1723
+The Mojo value is 1723
+
+MoJo(apache-cassandra/apache-cassandra-3.5_hillclimbing_a.rsf,apache-cassandra/apache-cassandra-3.5_hillclimbing_b.rsf) = 1620
+
+MoJo(apache-cassandra/apache-cassandra-3.5_hillclimbing_b.rsf,apache-cassandra/apache-cassandra-3.5_hillclimbing_a.rsf) = 1611
+The Mojo value is 1611
+
+MoJo(apache-cassandra/apache-cassandra-3.5_ga_a.rsf,apache-cassandra/apache-cassandra-3.5_ga_b.rsf) = 1724
+
+MoJo(apache-cassandra/apache-cassandra-3.5_ga_b.rsf,apache-cassandra/apache-cassandra-3.5_ga_a.rsf) = 1671
+The Mojo value is 1671
+
+MoJo(apache-cassandra/apache-cassandra-3.5_exhaustive_a.rsf,apache-cassandra/apache-cassandra-3.5_exhaustive_b.rsf) = 1606
+
+MoJo(apache-cassandra/apache-cassandra-3.5_exhaustive_b.rsf,apache-cassandra/apache-cassandra-3.5_exhaustive_a.rsf) = 1674
+The Mojo value is 1606
+
+MoJo(apache-cassandra/apache-cassandra-3.6_hillclimbing_a.rsf,apache-cassandra/apache-cassandra-3.6_hillclimbing_b.rsf) = 1822
+
+MoJo(apache-cassandra/apache-cassandra-3.6_hillclimbing_b.rsf,apache-cassandra/apache-cassandra-3.6_hillclimbing_a.rsf) = 1513
+The Mojo value is 1513
+
+MoJo(apache-cassandra/apache-cassandra-3.6_ga_a.rsf,apache-cassandra/apache-cassandra-3.6_ga_b.rsf) = 1750
+
+MoJo(apache-cassandra/apache-cassandra-3.6_ga_b.rsf,apache-cassandra/apache-cassandra-3.6_ga_a.rsf) = 1736
+The Mojo value is 1736
+
+MoJo(apache-cassandra/apache-cassandra-3.6_exhaustive_a.rsf,apache-cassandra/apache-cassandra-3.6_exhaustive_b.rsf) = 1819
+
+MoJo(apache-cassandra/apache-cassandra-3.6_exhaustive_b.rsf,apache-cassandra/apache-cassandra-3.6_exhaustive_a.rsf) = 1501
+The Mojo value is 1501
+
+MoJo(apache-cassandra/apache-cassandra-3.7_hillclimbing_a.rsf,apache-cassandra/apache-cassandra-3.7_hillclimbing_b.rsf) = 1809
+
+MoJo(apache-cassandra/apache-cassandra-3.7_hillclimbing_b.rsf,apache-cassandra/apache-cassandra-3.7_hillclimbing_a.rsf) = 1732
+The Mojo value is 1732
+
+MoJo(apache-cassandra/apache-cassandra-3.7_ga_a.rsf,apache-cassandra/apache-cassandra-3.7_ga_b.rsf) = 1737
+
+MoJo(apache-cassandra/apache-cassandra-3.7_ga_b.rsf,apache-cassandra/apache-cassandra-3.7_ga_a.rsf) = 1714
+The Mojo value is 1714
+
+MoJo(apache-cassandra/apache-cassandra-3.7_exhaustive_a.rsf,apache-cassandra/apache-cassandra-3.7_exhaustive_b.rsf) = 1544
+
+MoJo(apache-cassandra/apache-cassandra-3.7_exhaustive_b.rsf,apache-cassandra/apache-cassandra-3.7_exhaustive_a.rsf) = 1672
+The Mojo value is 1544
+
+MoJo(apache-cassandra/apache-cassandra-3.8_hillclimbing_a.rsf,apache-cassandra/apache-cassandra-3.8_hillclimbing_b.rsf) = 1769
+
+MoJo(apache-cassandra/apache-cassandra-3.8_hillclimbing_b.rsf,apache-cassandra/apache-cassandra-3.8_hillclimbing_a.rsf) = 1371
+The Mojo value is 1371
+
+MoJo(apache-cassandra/apache-cassandra-3.8_ga_a.rsf,apache-cassandra/apache-cassandra-3.8_ga_b.rsf) = 1516
+
+MoJo(apache-cassandra/apache-cassandra-3.8_ga_b.rsf,apache-cassandra/apache-cassandra-3.8_ga_a.rsf) = 1773
+The Mojo value is 1516
+
+MoJo(apache-cassandra/apache-cassandra-3.8_exhaustive_a.rsf,apache-cassandra/apache-cassandra-3.8_exhaustive_b.rsf) = 1753
+
+MoJo(apache-cassandra/apache-cassandra-3.8_exhaustive_b.rsf,apache-cassandra/apache-cassandra-3.8_exhaustive_a.rsf) = 1565
+The Mojo value is 1565

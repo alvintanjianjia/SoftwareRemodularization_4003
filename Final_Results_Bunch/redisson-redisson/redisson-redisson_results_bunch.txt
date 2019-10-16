@@ -1,0 +1,150 @@
+
+MoJo(redisson-redisson/redisson-redisson-3.11.2_hillclimbing_a.rsf,redisson-redisson/redisson-redisson-3.11.2_hillclimbing_b.rsf) = 945
+
+MoJo(redisson-redisson/redisson-redisson-3.11.2_hillclimbing_b.rsf,redisson-redisson/redisson-redisson-3.11.2_hillclimbing_a.rsf) = 1088
+The Mojo value is 945
+
+MoJo(redisson-redisson/redisson-redisson-3.11.2_ga_a.rsf,redisson-redisson/redisson-redisson-3.11.2_ga_b.rsf) = 1054
+
+MoJo(redisson-redisson/redisson-redisson-3.11.2_ga_b.rsf,redisson-redisson/redisson-redisson-3.11.2_ga_a.rsf) = 1044
+The Mojo value is 1044
+
+MoJo(redisson-redisson/redisson-redisson-3.11.2_exhaustive_a.rsf,redisson-redisson/redisson-redisson-3.11.2_exhaustive_b.rsf) = 1109
+
+MoJo(redisson-redisson/redisson-redisson-3.11.2_exhaustive_b.rsf,redisson-redisson/redisson-redisson-3.11.2_exhaustive_a.rsf) = 1136
+The Mojo value is 1109
+
+MoJo(redisson-redisson/redisson-redisson-3.11.3_hillclimbing_a.rsf,redisson-redisson/redisson-redisson-3.11.3_hillclimbing_b.rsf) = 901
+
+MoJo(redisson-redisson/redisson-redisson-3.11.3_hillclimbing_b.rsf,redisson-redisson/redisson-redisson-3.11.3_hillclimbing_a.rsf) = 783
+The Mojo value is 783
+
+MoJo(redisson-redisson/redisson-redisson-3.11.3_ga_a.rsf,redisson-redisson/redisson-redisson-3.11.3_ga_b.rsf) = 1083
+
+MoJo(redisson-redisson/redisson-redisson-3.11.3_ga_b.rsf,redisson-redisson/redisson-redisson-3.11.3_ga_a.rsf) = 1119
+The Mojo value is 1083
+
+MoJo(redisson-redisson/redisson-redisson-3.11.3_exhaustive_a.rsf,redisson-redisson/redisson-redisson-3.11.3_exhaustive_b.rsf) = 1133
+
+MoJo(redisson-redisson/redisson-redisson-3.11.3_exhaustive_b.rsf,redisson-redisson/redisson-redisson-3.11.3_exhaustive_a.rsf) = 1169
+The Mojo value is 1133
+
+MoJo(redisson-redisson/redisson-redisson-3.7.2_hillclimbing_a.rsf,redisson-redisson/redisson-redisson-3.7.2_hillclimbing_b.rsf) = 708
+
+MoJo(redisson-redisson/redisson-redisson-3.7.2_hillclimbing_b.rsf,redisson-redisson/redisson-redisson-3.7.2_hillclimbing_a.rsf) = 749
+The Mojo value is 708
+
+MoJo(redisson-redisson/redisson-redisson-3.7.2_ga_a.rsf,redisson-redisson/redisson-redisson-3.7.2_ga_b.rsf) = 722
+
+MoJo(redisson-redisson/redisson-redisson-3.7.2_ga_b.rsf,redisson-redisson/redisson-redisson-3.7.2_ga_a.rsf) = 738
+The Mojo value is 722
+
+MoJo(redisson-redisson/redisson-redisson-3.7.2_exhaustive_a.rsf,redisson-redisson/redisson-redisson-3.7.2_exhaustive_b.rsf) = 694
+
+MoJo(redisson-redisson/redisson-redisson-3.7.2_exhaustive_b.rsf,redisson-redisson/redisson-redisson-3.7.2_exhaustive_a.rsf) = 750
+The Mojo value is 694
+
+MoJo(redisson-redisson/redisson-redisson-3.7.3_hillclimbing_a.rsf,redisson-redisson/redisson-redisson-3.7.3_hillclimbing_b.rsf) = 528
+
+MoJo(redisson-redisson/redisson-redisson-3.7.3_hillclimbing_b.rsf,redisson-redisson/redisson-redisson-3.7.3_hillclimbing_a.rsf) = 721
+The Mojo value is 528
+
+MoJo(redisson-redisson/redisson-redisson-3.7.3_ga_a.rsf,redisson-redisson/redisson-redisson-3.7.3_ga_b.rsf) = 692
+
+MoJo(redisson-redisson/redisson-redisson-3.7.3_ga_b.rsf,redisson-redisson/redisson-redisson-3.7.3_ga_a.rsf) = 632
+The Mojo value is 632
+
+MoJo(redisson-redisson/redisson-redisson-3.7.3_exhaustive_a.rsf,redisson-redisson/redisson-redisson-3.7.3_exhaustive_b.rsf) = 734
+
+MoJo(redisson-redisson/redisson-redisson-3.7.3_exhaustive_b.rsf,redisson-redisson/redisson-redisson-3.7.3_exhaustive_a.rsf) = 770
+The Mojo value is 734
+
+MoJo(redisson-redisson/redisson-redisson-3.7.4_hillclimbing_a.rsf,redisson-redisson/redisson-redisson-3.7.4_hillclimbing_b.rsf) = 477
+
+MoJo(redisson-redisson/redisson-redisson-3.7.4_hillclimbing_b.rsf,redisson-redisson/redisson-redisson-3.7.4_hillclimbing_a.rsf) = 482
+The Mojo value is 477
+
+MoJo(redisson-redisson/redisson-redisson-3.7.4_ga_a.rsf,redisson-redisson/redisson-redisson-3.7.4_ga_b.rsf) = 736
+
+MoJo(redisson-redisson/redisson-redisson-3.7.4_ga_b.rsf,redisson-redisson/redisson-redisson-3.7.4_ga_a.rsf) = 769
+The Mojo value is 736
+
+MoJo(redisson-redisson/redisson-redisson-3.7.4_exhaustive_a.rsf,redisson-redisson/redisson-redisson-3.7.4_exhaustive_b.rsf) = 726
+
+MoJo(redisson-redisson/redisson-redisson-3.7.4_exhaustive_b.rsf,redisson-redisson/redisson-redisson-3.7.4_exhaustive_a.rsf) = 719
+The Mojo value is 719
+
+MoJo(redisson-redisson/redisson-redisson-3.7.5_hillclimbing_a.rsf,redisson-redisson/redisson-redisson-3.7.5_hillclimbing_b.rsf) = 397
+
+MoJo(redisson-redisson/redisson-redisson-3.7.5_hillclimbing_b.rsf,redisson-redisson/redisson-redisson-3.7.5_hillclimbing_a.rsf) = 712
+The Mojo value is 397
+
+MoJo(redisson-redisson/redisson-redisson-3.7.5_ga_a.rsf,redisson-redisson/redisson-redisson-3.7.5_ga_b.rsf) = 697
+
+MoJo(redisson-redisson/redisson-redisson-3.7.5_ga_b.rsf,redisson-redisson/redisson-redisson-3.7.5_ga_a.rsf) = 705
+The Mojo value is 697
+
+MoJo(redisson-redisson/redisson-redisson-3.7.5_exhaustive_a.rsf,redisson-redisson/redisson-redisson-3.7.5_exhaustive_b.rsf) = 714
+
+MoJo(redisson-redisson/redisson-redisson-3.7.5_exhaustive_b.rsf,redisson-redisson/redisson-redisson-3.7.5_exhaustive_a.rsf) = 466
+The Mojo value is 466
+
+MoJo(redisson-redisson/redisson-redisson-3.8.0_hillclimbing_a.rsf,redisson-redisson/redisson-redisson-3.8.0_hillclimbing_b.rsf) = 848
+
+MoJo(redisson-redisson/redisson-redisson-3.8.0_hillclimbing_b.rsf,redisson-redisson/redisson-redisson-3.8.0_hillclimbing_a.rsf) = 815
+The Mojo value is 815
+
+MoJo(redisson-redisson/redisson-redisson-3.8.0_ga_a.rsf,redisson-redisson/redisson-redisson-3.8.0_ga_b.rsf) = 847
+
+MoJo(redisson-redisson/redisson-redisson-3.8.0_ga_b.rsf,redisson-redisson/redisson-redisson-3.8.0_ga_a.rsf) = 825
+The Mojo value is 825
+
+MoJo(redisson-redisson/redisson-redisson-3.8.0_exhaustive_a.rsf,redisson-redisson/redisson-redisson-3.8.0_exhaustive_b.rsf) = 849
+
+MoJo(redisson-redisson/redisson-redisson-3.8.0_exhaustive_b.rsf,redisson-redisson/redisson-redisson-3.8.0_exhaustive_a.rsf) = 864
+The Mojo value is 849
+
+MoJo(redisson-redisson/redisson-redisson-3.8.1_hillclimbing_a.rsf,redisson-redisson/redisson-redisson-3.8.1_hillclimbing_b.rsf) = 861
+
+MoJo(redisson-redisson/redisson-redisson-3.8.1_hillclimbing_b.rsf,redisson-redisson/redisson-redisson-3.8.1_hillclimbing_a.rsf) = 879
+The Mojo value is 861
+
+MoJo(redisson-redisson/redisson-redisson-3.8.1_ga_a.rsf,redisson-redisson/redisson-redisson-3.8.1_ga_b.rsf) = 831
+
+MoJo(redisson-redisson/redisson-redisson-3.8.1_ga_b.rsf,redisson-redisson/redisson-redisson-3.8.1_ga_a.rsf) = 744
+The Mojo value is 744
+
+MoJo(redisson-redisson/redisson-redisson-3.8.1_exhaustive_a.rsf,redisson-redisson/redisson-redisson-3.8.1_exhaustive_b.rsf) = 873
+
+MoJo(redisson-redisson/redisson-redisson-3.8.1_exhaustive_b.rsf,redisson-redisson/redisson-redisson-3.8.1_exhaustive_a.rsf) = 895
+The Mojo value is 873
+
+MoJo(redisson-redisson/redisson-redisson-3.8.2_hillclimbing_a.rsf,redisson-redisson/redisson-redisson-3.8.2_hillclimbing_b.rsf) = 826
+
+MoJo(redisson-redisson/redisson-redisson-3.8.2_hillclimbing_b.rsf,redisson-redisson/redisson-redisson-3.8.2_hillclimbing_a.rsf) = 842
+The Mojo value is 826
+
+MoJo(redisson-redisson/redisson-redisson-3.8.2_ga_a.rsf,redisson-redisson/redisson-redisson-3.8.2_ga_b.rsf) = 861
+
+MoJo(redisson-redisson/redisson-redisson-3.8.2_ga_b.rsf,redisson-redisson/redisson-redisson-3.8.2_ga_a.rsf) = 838
+The Mojo value is 838
+
+MoJo(redisson-redisson/redisson-redisson-3.8.2_exhaustive_a.rsf,redisson-redisson/redisson-redisson-3.8.2_exhaustive_b.rsf) = 747
+
+MoJo(redisson-redisson/redisson-redisson-3.8.2_exhaustive_b.rsf,redisson-redisson/redisson-redisson-3.8.2_exhaustive_a.rsf) = 756
+The Mojo value is 747
+
+MoJo(redisson-redisson/redisson-redisson-3.9.0_hillclimbing_a.rsf,redisson-redisson/redisson-redisson-3.9.0_hillclimbing_b.rsf) = 727
+
+MoJo(redisson-redisson/redisson-redisson-3.9.0_hillclimbing_b.rsf,redisson-redisson/redisson-redisson-3.9.0_hillclimbing_a.rsf) = 697
+The Mojo value is 697
+
+MoJo(redisson-redisson/redisson-redisson-3.9.0_ga_a.rsf,redisson-redisson/redisson-redisson-3.9.0_ga_b.rsf) = 922
+
+MoJo(redisson-redisson/redisson-redisson-3.9.0_ga_b.rsf,redisson-redisson/redisson-redisson-3.9.0_ga_a.rsf) = 829
+The Mojo value is 829
+
+MoJo(redisson-redisson/redisson-redisson-3.9.0_exhaustive_a.rsf,redisson-redisson/redisson-redisson-3.9.0_exhaustive_b.rsf) = 896
+
+MoJo(redisson-redisson/redisson-redisson-3.9.0_exhaustive_b.rsf,redisson-redisson/redisson-redisson-3.9.0_exhaustive_a.rsf) = 885
+The Mojo value is 885

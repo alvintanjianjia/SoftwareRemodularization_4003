@@ -1,0 +1,150 @@
+
+MoJo(apache-jmeter/apache-jmeter-2.7_hillclimbing_a.rsf,apache-jmeter/apache-jmeter-2.7_hillclimbing_b.rsf) = 817
+
+MoJo(apache-jmeter/apache-jmeter-2.7_hillclimbing_b.rsf,apache-jmeter/apache-jmeter-2.7_hillclimbing_a.rsf) = 840
+The Mojo value is 817
+
+MoJo(apache-jmeter/apache-jmeter-2.7_ga_a.rsf,apache-jmeter/apache-jmeter-2.7_ga_b.rsf) = 843
+
+MoJo(apache-jmeter/apache-jmeter-2.7_ga_b.rsf,apache-jmeter/apache-jmeter-2.7_ga_a.rsf) = 814
+The Mojo value is 814
+
+MoJo(apache-jmeter/apache-jmeter-2.7_exhaustive_a.rsf,apache-jmeter/apache-jmeter-2.7_exhaustive_b.rsf) = 861
+
+MoJo(apache-jmeter/apache-jmeter-2.7_exhaustive_b.rsf,apache-jmeter/apache-jmeter-2.7_exhaustive_a.rsf) = 835
+The Mojo value is 835
+
+MoJo(apache-jmeter/apache-jmeter-2.8_hillclimbing_a.rsf,apache-jmeter/apache-jmeter-2.8_hillclimbing_b.rsf) = 875
+
+MoJo(apache-jmeter/apache-jmeter-2.8_hillclimbing_b.rsf,apache-jmeter/apache-jmeter-2.8_hillclimbing_a.rsf) = 752
+The Mojo value is 752
+
+MoJo(apache-jmeter/apache-jmeter-2.8_ga_a.rsf,apache-jmeter/apache-jmeter-2.8_ga_b.rsf) = 809
+
+MoJo(apache-jmeter/apache-jmeter-2.8_ga_b.rsf,apache-jmeter/apache-jmeter-2.8_ga_a.rsf) = 752
+The Mojo value is 752
+
+MoJo(apache-jmeter/apache-jmeter-2.8_exhaustive_a.rsf,apache-jmeter/apache-jmeter-2.8_exhaustive_b.rsf) = 719
+
+MoJo(apache-jmeter/apache-jmeter-2.8_exhaustive_b.rsf,apache-jmeter/apache-jmeter-2.8_exhaustive_a.rsf) = 735
+The Mojo value is 719
+
+MoJo(apache-jmeter/apache-jmeter-2.9_hillclimbing_a.rsf,apache-jmeter/apache-jmeter-2.9_hillclimbing_b.rsf) = 891
+
+MoJo(apache-jmeter/apache-jmeter-2.9_hillclimbing_b.rsf,apache-jmeter/apache-jmeter-2.9_hillclimbing_a.rsf) = 850
+The Mojo value is 850
+
+MoJo(apache-jmeter/apache-jmeter-2.9_ga_a.rsf,apache-jmeter/apache-jmeter-2.9_ga_b.rsf) = 883
+
+MoJo(apache-jmeter/apache-jmeter-2.9_ga_b.rsf,apache-jmeter/apache-jmeter-2.9_ga_a.rsf) = 795
+The Mojo value is 795
+
+MoJo(apache-jmeter/apache-jmeter-2.9_exhaustive_a.rsf,apache-jmeter/apache-jmeter-2.9_exhaustive_b.rsf) = 881
+
+MoJo(apache-jmeter/apache-jmeter-2.9_exhaustive_b.rsf,apache-jmeter/apache-jmeter-2.9_exhaustive_a.rsf) = 866
+The Mojo value is 866
+
+MoJo(apache-jmeter/apache-jmeter-3.0_hillclimbing_a.rsf,apache-jmeter/apache-jmeter-3.0_hillclimbing_b.rsf) = 1031
+
+MoJo(apache-jmeter/apache-jmeter-3.0_hillclimbing_b.rsf,apache-jmeter/apache-jmeter-3.0_hillclimbing_a.rsf) = 869
+The Mojo value is 869
+
+MoJo(apache-jmeter/apache-jmeter-3.0_ga_a.rsf,apache-jmeter/apache-jmeter-3.0_ga_b.rsf) = 1046
+
+MoJo(apache-jmeter/apache-jmeter-3.0_ga_b.rsf,apache-jmeter/apache-jmeter-3.0_ga_a.rsf) = 834
+The Mojo value is 834
+
+MoJo(apache-jmeter/apache-jmeter-3.0_exhaustive_a.rsf,apache-jmeter/apache-jmeter-3.0_exhaustive_b.rsf) = 1010
+
+MoJo(apache-jmeter/apache-jmeter-3.0_exhaustive_b.rsf,apache-jmeter/apache-jmeter-3.0_exhaustive_a.rsf) = 955
+The Mojo value is 955
+
+MoJo(apache-jmeter/apache-jmeter-3.1_hillclimbing_a.rsf,apache-jmeter/apache-jmeter-3.1_hillclimbing_b.rsf) = 967
+
+MoJo(apache-jmeter/apache-jmeter-3.1_hillclimbing_b.rsf,apache-jmeter/apache-jmeter-3.1_hillclimbing_a.rsf) = 821
+The Mojo value is 821
+
+MoJo(apache-jmeter/apache-jmeter-3.1_ga_a.rsf,apache-jmeter/apache-jmeter-3.1_ga_b.rsf) = 1041
+
+MoJo(apache-jmeter/apache-jmeter-3.1_ga_b.rsf,apache-jmeter/apache-jmeter-3.1_ga_a.rsf) = 1033
+The Mojo value is 1033
+
+MoJo(apache-jmeter/apache-jmeter-3.1_exhaustive_a.rsf,apache-jmeter/apache-jmeter-3.1_exhaustive_b.rsf) = 1024
+
+MoJo(apache-jmeter/apache-jmeter-3.1_exhaustive_b.rsf,apache-jmeter/apache-jmeter-3.1_exhaustive_a.rsf) = 908
+The Mojo value is 908
+
+MoJo(apache-jmeter/apache-jmeter-3.2_hillclimbing_a.rsf,apache-jmeter/apache-jmeter-3.2_hillclimbing_b.rsf) = 956
+
+MoJo(apache-jmeter/apache-jmeter-3.2_hillclimbing_b.rsf,apache-jmeter/apache-jmeter-3.2_hillclimbing_a.rsf) = 889
+The Mojo value is 889
+
+MoJo(apache-jmeter/apache-jmeter-3.2_ga_a.rsf,apache-jmeter/apache-jmeter-3.2_ga_b.rsf) = 1099
+
+MoJo(apache-jmeter/apache-jmeter-3.2_ga_b.rsf,apache-jmeter/apache-jmeter-3.2_ga_a.rsf) = 1062
+The Mojo value is 1062
+
+MoJo(apache-jmeter/apache-jmeter-3.2_exhaustive_a.rsf,apache-jmeter/apache-jmeter-3.2_exhaustive_b.rsf) = 1085
+
+MoJo(apache-jmeter/apache-jmeter-3.2_exhaustive_b.rsf,apache-jmeter/apache-jmeter-3.2_exhaustive_a.rsf) = 1046
+The Mojo value is 1046
+
+MoJo(apache-jmeter/apache-jmeter-3.3_hillclimbing_a.rsf,apache-jmeter/apache-jmeter-3.3_hillclimbing_b.rsf) = 1091
+
+MoJo(apache-jmeter/apache-jmeter-3.3_hillclimbing_b.rsf,apache-jmeter/apache-jmeter-3.3_hillclimbing_a.rsf) = 1060
+The Mojo value is 1060
+
+MoJo(apache-jmeter/apache-jmeter-3.3_ga_a.rsf,apache-jmeter/apache-jmeter-3.3_ga_b.rsf) = 1080
+
+MoJo(apache-jmeter/apache-jmeter-3.3_ga_b.rsf,apache-jmeter/apache-jmeter-3.3_ga_a.rsf) = 1073
+The Mojo value is 1073
+
+MoJo(apache-jmeter/apache-jmeter-3.3_exhaustive_a.rsf,apache-jmeter/apache-jmeter-3.3_exhaustive_b.rsf) = 1080
+
+MoJo(apache-jmeter/apache-jmeter-3.3_exhaustive_b.rsf,apache-jmeter/apache-jmeter-3.3_exhaustive_a.rsf) = 970
+The Mojo value is 970
+
+MoJo(apache-jmeter/apache-jmeter-4.0_hillclimbing_a.rsf,apache-jmeter/apache-jmeter-4.0_hillclimbing_b.rsf) = 1106
+
+MoJo(apache-jmeter/apache-jmeter-4.0_hillclimbing_b.rsf,apache-jmeter/apache-jmeter-4.0_hillclimbing_a.rsf) = 1015
+The Mojo value is 1015
+
+MoJo(apache-jmeter/apache-jmeter-4.0_ga_a.rsf,apache-jmeter/apache-jmeter-4.0_ga_b.rsf) = 1131
+
+MoJo(apache-jmeter/apache-jmeter-4.0_ga_b.rsf,apache-jmeter/apache-jmeter-4.0_ga_a.rsf) = 1056
+The Mojo value is 1056
+
+MoJo(apache-jmeter/apache-jmeter-4.0_exhaustive_a.rsf,apache-jmeter/apache-jmeter-4.0_exhaustive_b.rsf) = 1137
+
+MoJo(apache-jmeter/apache-jmeter-4.0_exhaustive_b.rsf,apache-jmeter/apache-jmeter-4.0_exhaustive_a.rsf) = 1126
+The Mojo value is 1126
+
+MoJo(apache-jmeter/apache-jmeter-5.0_hillclimbing_a.rsf,apache-jmeter/apache-jmeter-5.0_hillclimbing_b.rsf) = 1166
+
+MoJo(apache-jmeter/apache-jmeter-5.0_hillclimbing_b.rsf,apache-jmeter/apache-jmeter-5.0_hillclimbing_a.rsf) = 1135
+The Mojo value is 1135
+
+MoJo(apache-jmeter/apache-jmeter-5.0_ga_a.rsf,apache-jmeter/apache-jmeter-5.0_ga_b.rsf) = 1147
+
+MoJo(apache-jmeter/apache-jmeter-5.0_ga_b.rsf,apache-jmeter/apache-jmeter-5.0_ga_a.rsf) = 1049
+The Mojo value is 1049
+
+MoJo(apache-jmeter/apache-jmeter-5.0_exhaustive_a.rsf,apache-jmeter/apache-jmeter-5.0_exhaustive_b.rsf) = 1129
+
+MoJo(apache-jmeter/apache-jmeter-5.0_exhaustive_b.rsf,apache-jmeter/apache-jmeter-5.0_exhaustive_a.rsf) = 1122
+The Mojo value is 1122
+
+MoJo(apache-jmeter/apache-jmeter-5.1_hillclimbing_a.rsf,apache-jmeter/apache-jmeter-5.1_hillclimbing_b.rsf) = 1172
+
+MoJo(apache-jmeter/apache-jmeter-5.1_hillclimbing_b.rsf,apache-jmeter/apache-jmeter-5.1_hillclimbing_a.rsf) = 1150
+The Mojo value is 1150
+
+MoJo(apache-jmeter/apache-jmeter-5.1_ga_a.rsf,apache-jmeter/apache-jmeter-5.1_ga_b.rsf) = 1166
+
+MoJo(apache-jmeter/apache-jmeter-5.1_ga_b.rsf,apache-jmeter/apache-jmeter-5.1_ga_a.rsf) = 998
+The Mojo value is 998
+
+MoJo(apache-jmeter/apache-jmeter-5.1_exhaustive_a.rsf,apache-jmeter/apache-jmeter-5.1_exhaustive_b.rsf) = 1167
+
+MoJo(apache-jmeter/apache-jmeter-5.1_exhaustive_b.rsf,apache-jmeter/apache-jmeter-5.1_exhaustive_a.rsf) = 985
+The Mojo value is 985

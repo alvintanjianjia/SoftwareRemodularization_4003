@@ -1,0 +1,150 @@
+
+MoJo(alibaba-fastjson/alibaba-fastjson-1.2.51_hillclimbing_a.rsf,alibaba-fastjson/alibaba-fastjson-1.2.51_hillclimbing_b.rsf) = 1574
+
+MoJo(alibaba-fastjson/alibaba-fastjson-1.2.51_hillclimbing_b.rsf,alibaba-fastjson/alibaba-fastjson-1.2.51_hillclimbing_a.rsf) = 1581
+The Mojo value is 1574
+
+MoJo(alibaba-fastjson/alibaba-fastjson-1.2.51_ga_a.rsf,alibaba-fastjson/alibaba-fastjson-1.2.51_ga_b.rsf) = 1573
+
+MoJo(alibaba-fastjson/alibaba-fastjson-1.2.51_ga_b.rsf,alibaba-fastjson/alibaba-fastjson-1.2.51_ga_a.rsf) = 1300
+The Mojo value is 1300
+
+MoJo(alibaba-fastjson/alibaba-fastjson-1.2.51_exhaustive_a.rsf,alibaba-fastjson/alibaba-fastjson-1.2.51_exhaustive_b.rsf) = 2033
+
+MoJo(alibaba-fastjson/alibaba-fastjson-1.2.51_exhaustive_b.rsf,alibaba-fastjson/alibaba-fastjson-1.2.51_exhaustive_a.rsf) = 1457
+The Mojo value is 1457
+
+MoJo(alibaba-fastjson/alibaba-fastjson-1.2.52_hillclimbing_a.rsf,alibaba-fastjson/alibaba-fastjson-1.2.52_hillclimbing_b.rsf) = 1906
+
+MoJo(alibaba-fastjson/alibaba-fastjson-1.2.52_hillclimbing_b.rsf,alibaba-fastjson/alibaba-fastjson-1.2.52_hillclimbing_a.rsf) = 1911
+The Mojo value is 1906
+
+MoJo(alibaba-fastjson/alibaba-fastjson-1.2.52_ga_a.rsf,alibaba-fastjson/alibaba-fastjson-1.2.52_ga_b.rsf) = 2044
+
+MoJo(alibaba-fastjson/alibaba-fastjson-1.2.52_ga_b.rsf,alibaba-fastjson/alibaba-fastjson-1.2.52_ga_a.rsf) = 1776
+The Mojo value is 1776
+
+MoJo(alibaba-fastjson/alibaba-fastjson-1.2.52_exhaustive_a.rsf,alibaba-fastjson/alibaba-fastjson-1.2.52_exhaustive_b.rsf) = 1442
+
+MoJo(alibaba-fastjson/alibaba-fastjson-1.2.52_exhaustive_b.rsf,alibaba-fastjson/alibaba-fastjson-1.2.52_exhaustive_a.rsf) = 1748
+The Mojo value is 1442
+
+MoJo(alibaba-fastjson/alibaba-fastjson-1.2.54_hillclimbing_a.rsf,alibaba-fastjson/alibaba-fastjson-1.2.54_hillclimbing_b.rsf) = 1762
+
+MoJo(alibaba-fastjson/alibaba-fastjson-1.2.54_hillclimbing_b.rsf,alibaba-fastjson/alibaba-fastjson-1.2.54_hillclimbing_a.rsf) = 1701
+The Mojo value is 1701
+
+MoJo(alibaba-fastjson/alibaba-fastjson-1.2.54_ga_a.rsf,alibaba-fastjson/alibaba-fastjson-1.2.54_ga_b.rsf) = 1643
+
+MoJo(alibaba-fastjson/alibaba-fastjson-1.2.54_ga_b.rsf,alibaba-fastjson/alibaba-fastjson-1.2.54_ga_a.rsf) = 1913
+The Mojo value is 1643
+
+MoJo(alibaba-fastjson/alibaba-fastjson-1.2.54_exhaustive_a.rsf,alibaba-fastjson/alibaba-fastjson-1.2.54_exhaustive_b.rsf) = 1558
+
+MoJo(alibaba-fastjson/alibaba-fastjson-1.2.54_exhaustive_b.rsf,alibaba-fastjson/alibaba-fastjson-1.2.54_exhaustive_a.rsf) = 1936
+The Mojo value is 1558
+
+MoJo(alibaba-fastjson/alibaba-fastjson-1.2.55_hillclimbing_a.rsf,alibaba-fastjson/alibaba-fastjson-1.2.55_hillclimbing_b.rsf) = 1996
+
+MoJo(alibaba-fastjson/alibaba-fastjson-1.2.55_hillclimbing_b.rsf,alibaba-fastjson/alibaba-fastjson-1.2.55_hillclimbing_a.rsf) = 1908
+The Mojo value is 1908
+
+MoJo(alibaba-fastjson/alibaba-fastjson-1.2.55_ga_a.rsf,alibaba-fastjson/alibaba-fastjson-1.2.55_ga_b.rsf) = 1822
+
+MoJo(alibaba-fastjson/alibaba-fastjson-1.2.55_ga_b.rsf,alibaba-fastjson/alibaba-fastjson-1.2.55_ga_a.rsf) = 2015
+The Mojo value is 1822
+
+MoJo(alibaba-fastjson/alibaba-fastjson-1.2.55_exhaustive_a.rsf,alibaba-fastjson/alibaba-fastjson-1.2.55_exhaustive_b.rsf) = 1972
+
+MoJo(alibaba-fastjson/alibaba-fastjson-1.2.55_exhaustive_b.rsf,alibaba-fastjson/alibaba-fastjson-1.2.55_exhaustive_a.rsf) = 1778
+The Mojo value is 1778
+
+MoJo(alibaba-fastjson/alibaba-fastjson-1.2.56_hillclimbing_a.rsf,alibaba-fastjson/alibaba-fastjson-1.2.56_hillclimbing_b.rsf) = 2027
+
+MoJo(alibaba-fastjson/alibaba-fastjson-1.2.56_hillclimbing_b.rsf,alibaba-fastjson/alibaba-fastjson-1.2.56_hillclimbing_a.rsf) = 1952
+The Mojo value is 1952
+
+MoJo(alibaba-fastjson/alibaba-fastjson-1.2.56_ga_a.rsf,alibaba-fastjson/alibaba-fastjson-1.2.56_ga_b.rsf) = 1664
+
+MoJo(alibaba-fastjson/alibaba-fastjson-1.2.56_ga_b.rsf,alibaba-fastjson/alibaba-fastjson-1.2.56_ga_a.rsf) = 1869
+The Mojo value is 1664
+
+MoJo(alibaba-fastjson/alibaba-fastjson-1.2.56_exhaustive_a.rsf,alibaba-fastjson/alibaba-fastjson-1.2.56_exhaustive_b.rsf) = 1807
+
+MoJo(alibaba-fastjson/alibaba-fastjson-1.2.56_exhaustive_b.rsf,alibaba-fastjson/alibaba-fastjson-1.2.56_exhaustive_a.rsf) = 1853
+The Mojo value is 1807
+
+MoJo(alibaba-fastjson/alibaba-fastjson-1.2.57_hillclimbing_a.rsf,alibaba-fastjson/alibaba-fastjson-1.2.57_hillclimbing_b.rsf) = 1050
+
+MoJo(alibaba-fastjson/alibaba-fastjson-1.2.57_hillclimbing_b.rsf,alibaba-fastjson/alibaba-fastjson-1.2.57_hillclimbing_a.rsf) = 1638
+The Mojo value is 1050
+
+MoJo(alibaba-fastjson/alibaba-fastjson-1.2.57_ga_a.rsf,alibaba-fastjson/alibaba-fastjson-1.2.57_ga_b.rsf) = 1415
+
+MoJo(alibaba-fastjson/alibaba-fastjson-1.2.57_ga_b.rsf,alibaba-fastjson/alibaba-fastjson-1.2.57_ga_a.rsf) = 1530
+The Mojo value is 1415
+
+MoJo(alibaba-fastjson/alibaba-fastjson-1.2.57_exhaustive_a.rsf,alibaba-fastjson/alibaba-fastjson-1.2.57_exhaustive_b.rsf) = 1919
+
+MoJo(alibaba-fastjson/alibaba-fastjson-1.2.57_exhaustive_b.rsf,alibaba-fastjson/alibaba-fastjson-1.2.57_exhaustive_a.rsf) = 1440
+The Mojo value is 1440
+
+MoJo(alibaba-fastjson/alibaba-fastjson-1.2.58_hillclimbing_a.rsf,alibaba-fastjson/alibaba-fastjson-1.2.58_hillclimbing_b.rsf) = 1888
+
+MoJo(alibaba-fastjson/alibaba-fastjson-1.2.58_hillclimbing_b.rsf,alibaba-fastjson/alibaba-fastjson-1.2.58_hillclimbing_a.rsf) = 1992
+The Mojo value is 1888
+
+MoJo(alibaba-fastjson/alibaba-fastjson-1.2.58_ga_a.rsf,alibaba-fastjson/alibaba-fastjson-1.2.58_ga_b.rsf) = 1779
+
+MoJo(alibaba-fastjson/alibaba-fastjson-1.2.58_ga_b.rsf,alibaba-fastjson/alibaba-fastjson-1.2.58_ga_a.rsf) = 2093
+The Mojo value is 1779
+
+MoJo(alibaba-fastjson/alibaba-fastjson-1.2.58_exhaustive_a.rsf,alibaba-fastjson/alibaba-fastjson-1.2.58_exhaustive_b.rsf) = 2200
+
+MoJo(alibaba-fastjson/alibaba-fastjson-1.2.58_exhaustive_b.rsf,alibaba-fastjson/alibaba-fastjson-1.2.58_exhaustive_a.rsf) = 1481
+The Mojo value is 1481
+
+MoJo(alibaba-fastjson/alibaba-fastjson-1.2.59_hillclimbing_a.rsf,alibaba-fastjson/alibaba-fastjson-1.2.59_hillclimbing_b.rsf) = 1713
+
+MoJo(alibaba-fastjson/alibaba-fastjson-1.2.59_hillclimbing_b.rsf,alibaba-fastjson/alibaba-fastjson-1.2.59_hillclimbing_a.rsf) = 275
+The Mojo value is 275
+
+MoJo(alibaba-fastjson/alibaba-fastjson-1.2.59_ga_a.rsf,alibaba-fastjson/alibaba-fastjson-1.2.59_ga_b.rsf) = 1689
+
+MoJo(alibaba-fastjson/alibaba-fastjson-1.2.59_ga_b.rsf,alibaba-fastjson/alibaba-fastjson-1.2.59_ga_a.rsf) = 1223
+The Mojo value is 1223
+
+MoJo(alibaba-fastjson/alibaba-fastjson-1.2.59_exhaustive_a.rsf,alibaba-fastjson/alibaba-fastjson-1.2.59_exhaustive_b.rsf) = 1685
+
+MoJo(alibaba-fastjson/alibaba-fastjson-1.2.59_exhaustive_b.rsf,alibaba-fastjson/alibaba-fastjson-1.2.59_exhaustive_a.rsf) = 2016
+The Mojo value is 1685
+
+MoJo(alibaba-fastjson/alibaba-fastjson-1.2.60_hillclimbing_a.rsf,alibaba-fastjson/alibaba-fastjson-1.2.60_hillclimbing_b.rsf) = 1422
+
+MoJo(alibaba-fastjson/alibaba-fastjson-1.2.60_hillclimbing_b.rsf,alibaba-fastjson/alibaba-fastjson-1.2.60_hillclimbing_a.rsf) = 1519
+The Mojo value is 1422
+
+MoJo(alibaba-fastjson/alibaba-fastjson-1.2.60_ga_a.rsf,alibaba-fastjson/alibaba-fastjson-1.2.60_ga_b.rsf) = 1653
+
+MoJo(alibaba-fastjson/alibaba-fastjson-1.2.60_ga_b.rsf,alibaba-fastjson/alibaba-fastjson-1.2.60_ga_a.rsf) = 1908
+The Mojo value is 1653
+
+MoJo(alibaba-fastjson/alibaba-fastjson-1.2.60_exhaustive_a.rsf,alibaba-fastjson/alibaba-fastjson-1.2.60_exhaustive_b.rsf) = 2295
+
+MoJo(alibaba-fastjson/alibaba-fastjson-1.2.60_exhaustive_b.rsf,alibaba-fastjson/alibaba-fastjson-1.2.60_exhaustive_a.rsf) = 1842
+The Mojo value is 1842
+
+MoJo(alibaba-fastjson/alibaba-fastjson-1.2.61_hillclimbing_a.rsf,alibaba-fastjson/alibaba-fastjson-1.2.61_hillclimbing_b.rsf) = 1419
+
+MoJo(alibaba-fastjson/alibaba-fastjson-1.2.61_hillclimbing_b.rsf,alibaba-fastjson/alibaba-fastjson-1.2.61_hillclimbing_a.rsf) = 1351
+The Mojo value is 1351
+
+MoJo(alibaba-fastjson/alibaba-fastjson-1.2.61_ga_a.rsf,alibaba-fastjson/alibaba-fastjson-1.2.61_ga_b.rsf) = 2006
+
+MoJo(alibaba-fastjson/alibaba-fastjson-1.2.61_ga_b.rsf,alibaba-fastjson/alibaba-fastjson-1.2.61_ga_a.rsf) = 1643
+The Mojo value is 1643
+
+MoJo(alibaba-fastjson/alibaba-fastjson-1.2.61_exhaustive_a.rsf,alibaba-fastjson/alibaba-fastjson-1.2.61_exhaustive_b.rsf) = 1853
+
+MoJo(alibaba-fastjson/alibaba-fastjson-1.2.61_exhaustive_b.rsf,alibaba-fastjson/alibaba-fastjson-1.2.61_exhaustive_a.rsf) = 1634
+The Mojo value is 1634

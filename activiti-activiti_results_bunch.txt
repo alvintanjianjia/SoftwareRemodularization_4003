@@ -1,0 +1,150 @@
+
+MoJo(activiti-activiti/activiti-activiti-7.1.74_hillclimbing_a.rsf,activiti-activiti/activiti-activiti-7.1.74_hillclimbing_b.rsf) = 2061
+
+MoJo(activiti-activiti/activiti-activiti-7.1.74_hillclimbing_b.rsf,activiti-activiti/activiti-activiti-7.1.74_hillclimbing_a.rsf) = 1954
+The Mojo value is 1954
+
+MoJo(activiti-activiti/activiti-activiti-7.1.74_ga_a.rsf,activiti-activiti/activiti-activiti-7.1.74_ga_b.rsf) = 1793
+
+MoJo(activiti-activiti/activiti-activiti-7.1.74_ga_b.rsf,activiti-activiti/activiti-activiti-7.1.74_ga_a.rsf) = 1704
+The Mojo value is 1704
+
+MoJo(activiti-activiti/activiti-activiti-7.1.74_exhaustive_a.rsf,activiti-activiti/activiti-activiti-7.1.74_exhaustive_b.rsf) = 2044
+
+MoJo(activiti-activiti/activiti-activiti-7.1.74_exhaustive_b.rsf,activiti-activiti/activiti-activiti-7.1.74_exhaustive_a.rsf) = 2025
+The Mojo value is 2025
+
+MoJo(activiti-activiti/activiti-activiti-7.1.75_hillclimbing_a.rsf,activiti-activiti/activiti-activiti-7.1.75_hillclimbing_b.rsf) = 1997
+
+MoJo(activiti-activiti/activiti-activiti-7.1.75_hillclimbing_b.rsf,activiti-activiti/activiti-activiti-7.1.75_hillclimbing_a.rsf) = 1987
+The Mojo value is 1987
+
+MoJo(activiti-activiti/activiti-activiti-7.1.75_ga_a.rsf,activiti-activiti/activiti-activiti-7.1.75_ga_b.rsf) = 1969
+
+MoJo(activiti-activiti/activiti-activiti-7.1.75_ga_b.rsf,activiti-activiti/activiti-activiti-7.1.75_ga_a.rsf) = 1877
+The Mojo value is 1877
+
+MoJo(activiti-activiti/activiti-activiti-7.1.75_exhaustive_a.rsf,activiti-activiti/activiti-activiti-7.1.75_exhaustive_b.rsf) = 1731
+
+MoJo(activiti-activiti/activiti-activiti-7.1.75_exhaustive_b.rsf,activiti-activiti/activiti-activiti-7.1.75_exhaustive_a.rsf) = 1755
+The Mojo value is 1731
+
+MoJo(activiti-activiti/activiti-activiti-7.1.76_hillclimbing_a.rsf,activiti-activiti/activiti-activiti-7.1.76_hillclimbing_b.rsf) = 2010
+
+MoJo(activiti-activiti/activiti-activiti-7.1.76_hillclimbing_b.rsf,activiti-activiti/activiti-activiti-7.1.76_hillclimbing_a.rsf) = 2082
+The Mojo value is 2010
+
+MoJo(activiti-activiti/activiti-activiti-7.1.76_ga_a.rsf,activiti-activiti/activiti-activiti-7.1.76_ga_b.rsf) = 1903
+
+MoJo(activiti-activiti/activiti-activiti-7.1.76_ga_b.rsf,activiti-activiti/activiti-activiti-7.1.76_ga_a.rsf) = 1823
+The Mojo value is 1823
+
+MoJo(activiti-activiti/activiti-activiti-7.1.76_exhaustive_a.rsf,activiti-activiti/activiti-activiti-7.1.76_exhaustive_b.rsf) = 2062
+
+MoJo(activiti-activiti/activiti-activiti-7.1.76_exhaustive_b.rsf,activiti-activiti/activiti-activiti-7.1.76_exhaustive_a.rsf) = 1952
+The Mojo value is 1952
+
+MoJo(activiti-activiti/activiti-activiti-7.1.77_hillclimbing_a.rsf,activiti-activiti/activiti-activiti-7.1.77_hillclimbing_b.rsf) = 1855
+
+MoJo(activiti-activiti/activiti-activiti-7.1.77_hillclimbing_b.rsf,activiti-activiti/activiti-activiti-7.1.77_hillclimbing_a.rsf) = 1857
+The Mojo value is 1855
+
+MoJo(activiti-activiti/activiti-activiti-7.1.77_ga_a.rsf,activiti-activiti/activiti-activiti-7.1.77_ga_b.rsf) = 1896
+
+MoJo(activiti-activiti/activiti-activiti-7.1.77_ga_b.rsf,activiti-activiti/activiti-activiti-7.1.77_ga_a.rsf) = 1701
+The Mojo value is 1701
+
+MoJo(activiti-activiti/activiti-activiti-7.1.77_exhaustive_a.rsf,activiti-activiti/activiti-activiti-7.1.77_exhaustive_b.rsf) = 1383
+
+MoJo(activiti-activiti/activiti-activiti-7.1.77_exhaustive_b.rsf,activiti-activiti/activiti-activiti-7.1.77_exhaustive_a.rsf) = 1269
+The Mojo value is 1269
+
+MoJo(activiti-activiti/activiti-activiti-7.1.78_hillclimbing_a.rsf,activiti-activiti/activiti-activiti-7.1.78_hillclimbing_b.rsf) = 2066
+
+MoJo(activiti-activiti/activiti-activiti-7.1.78_hillclimbing_b.rsf,activiti-activiti/activiti-activiti-7.1.78_hillclimbing_a.rsf) = 1841
+The Mojo value is 1841
+
+MoJo(activiti-activiti/activiti-activiti-7.1.78_ga_a.rsf,activiti-activiti/activiti-activiti-7.1.78_ga_b.rsf) = 1585
+
+MoJo(activiti-activiti/activiti-activiti-7.1.78_ga_b.rsf,activiti-activiti/activiti-activiti-7.1.78_ga_a.rsf) = 1737
+The Mojo value is 1585
+
+MoJo(activiti-activiti/activiti-activiti-7.1.78_exhaustive_a.rsf,activiti-activiti/activiti-activiti-7.1.78_exhaustive_b.rsf) = 1558
+
+MoJo(activiti-activiti/activiti-activiti-7.1.78_exhaustive_b.rsf,activiti-activiti/activiti-activiti-7.1.78_exhaustive_a.rsf) = 1713
+The Mojo value is 1558
+
+MoJo(activiti-activiti/activiti-activiti-7.1.79_hillclimbing_a.rsf,activiti-activiti/activiti-activiti-7.1.79_hillclimbing_b.rsf) = 2017
+
+MoJo(activiti-activiti/activiti-activiti-7.1.79_hillclimbing_b.rsf,activiti-activiti/activiti-activiti-7.1.79_hillclimbing_a.rsf) = 1988
+The Mojo value is 1988
+
+MoJo(activiti-activiti/activiti-activiti-7.1.79_ga_a.rsf,activiti-activiti/activiti-activiti-7.1.79_ga_b.rsf) = 1900
+
+MoJo(activiti-activiti/activiti-activiti-7.1.79_ga_b.rsf,activiti-activiti/activiti-activiti-7.1.79_ga_a.rsf) = 1881
+The Mojo value is 1881
+
+MoJo(activiti-activiti/activiti-activiti-7.1.79_exhaustive_a.rsf,activiti-activiti/activiti-activiti-7.1.79_exhaustive_b.rsf) = 1965
+
+MoJo(activiti-activiti/activiti-activiti-7.1.79_exhaustive_b.rsf,activiti-activiti/activiti-activiti-7.1.79_exhaustive_a.rsf) = 1925
+The Mojo value is 1925
+
+MoJo(activiti-activiti/activiti-activiti-7.1.80_hillclimbing_a.rsf,activiti-activiti/activiti-activiti-7.1.80_hillclimbing_b.rsf) = 1933
+
+MoJo(activiti-activiti/activiti-activiti-7.1.80_hillclimbing_b.rsf,activiti-activiti/activiti-activiti-7.1.80_hillclimbing_a.rsf) = 1872
+The Mojo value is 1872
+
+MoJo(activiti-activiti/activiti-activiti-7.1.80_ga_a.rsf,activiti-activiti/activiti-activiti-7.1.80_ga_b.rsf) = 1909
+
+MoJo(activiti-activiti/activiti-activiti-7.1.80_ga_b.rsf,activiti-activiti/activiti-activiti-7.1.80_ga_a.rsf) = 1658
+The Mojo value is 1658
+
+MoJo(activiti-activiti/activiti-activiti-7.1.80_exhaustive_a.rsf,activiti-activiti/activiti-activiti-7.1.80_exhaustive_b.rsf) = 1886
+
+MoJo(activiti-activiti/activiti-activiti-7.1.80_exhaustive_b.rsf,activiti-activiti/activiti-activiti-7.1.80_exhaustive_a.rsf) = 1712
+The Mojo value is 1712
+
+MoJo(activiti-activiti/activiti-activiti-7.1.81_hillclimbing_a.rsf,activiti-activiti/activiti-activiti-7.1.81_hillclimbing_b.rsf) = 2001
+
+MoJo(activiti-activiti/activiti-activiti-7.1.81_hillclimbing_b.rsf,activiti-activiti/activiti-activiti-7.1.81_hillclimbing_a.rsf) = 1784
+The Mojo value is 1784
+
+MoJo(activiti-activiti/activiti-activiti-7.1.81_ga_a.rsf,activiti-activiti/activiti-activiti-7.1.81_ga_b.rsf) = 2021
+
+MoJo(activiti-activiti/activiti-activiti-7.1.81_ga_b.rsf,activiti-activiti/activiti-activiti-7.1.81_ga_a.rsf) = 1732
+The Mojo value is 1732
+
+MoJo(activiti-activiti/activiti-activiti-7.1.81_exhaustive_a.rsf,activiti-activiti/activiti-activiti-7.1.81_exhaustive_b.rsf) = 2050
+
+MoJo(activiti-activiti/activiti-activiti-7.1.81_exhaustive_b.rsf,activiti-activiti/activiti-activiti-7.1.81_exhaustive_a.rsf) = 1853
+The Mojo value is 1853
+
+MoJo(activiti-activiti/activiti-activiti-7.1.82_hillclimbing_a.rsf,activiti-activiti/activiti-activiti-7.1.82_hillclimbing_b.rsf) = 1954
+
+MoJo(activiti-activiti/activiti-activiti-7.1.82_hillclimbing_b.rsf,activiti-activiti/activiti-activiti-7.1.82_hillclimbing_a.rsf) = 1911
+The Mojo value is 1911
+
+MoJo(activiti-activiti/activiti-activiti-7.1.82_ga_a.rsf,activiti-activiti/activiti-activiti-7.1.82_ga_b.rsf) = 1977
+
+MoJo(activiti-activiti/activiti-activiti-7.1.82_ga_b.rsf,activiti-activiti/activiti-activiti-7.1.82_ga_a.rsf) = 1865
+The Mojo value is 1865
+
+MoJo(activiti-activiti/activiti-activiti-7.1.82_exhaustive_a.rsf,activiti-activiti/activiti-activiti-7.1.82_exhaustive_b.rsf) = 2061
+
+MoJo(activiti-activiti/activiti-activiti-7.1.82_exhaustive_b.rsf,activiti-activiti/activiti-activiti-7.1.82_exhaustive_a.rsf) = 2073
+The Mojo value is 2061
+
+MoJo(activiti-activiti/activiti-activiti-7.1.83_hillclimbing_a.rsf,activiti-activiti/activiti-activiti-7.1.83_hillclimbing_b.rsf) = 1614
+
+MoJo(activiti-activiti/activiti-activiti-7.1.83_hillclimbing_b.rsf,activiti-activiti/activiti-activiti-7.1.83_hillclimbing_a.rsf) = 1721
+The Mojo value is 1614
+
+MoJo(activiti-activiti/activiti-activiti-7.1.83_ga_a.rsf,activiti-activiti/activiti-activiti-7.1.83_ga_b.rsf) = 1892
+
+MoJo(activiti-activiti/activiti-activiti-7.1.83_ga_b.rsf,activiti-activiti/activiti-activiti-7.1.83_ga_a.rsf) = 1932
+The Mojo value is 1892
+
+MoJo(activiti-activiti/activiti-activiti-7.1.83_exhaustive_a.rsf,activiti-activiti/activiti-activiti-7.1.83_exhaustive_b.rsf) = 1969
+
+MoJo(activiti-activiti/activiti-activiti-7.1.83_exhaustive_b.rsf,activiti-activiti/activiti-activiti-7.1.83_exhaustive_a.rsf) = 1859
+The Mojo value is 1859

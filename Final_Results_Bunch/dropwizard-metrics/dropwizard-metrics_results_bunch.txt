@@ -1,0 +1,150 @@
+
+MoJo(dropwizard-metrics/dropwizard-metrics-3.2.4_hillclimbing_a.rsf,dropwizard-metrics/dropwizard-metrics-3.2.4_hillclimbing_b.rsf) = 89
+
+MoJo(dropwizard-metrics/dropwizard-metrics-3.2.4_hillclimbing_b.rsf,dropwizard-metrics/dropwizard-metrics-3.2.4_hillclimbing_a.rsf) = 115
+The Mojo value is 89
+
+MoJo(dropwizard-metrics/dropwizard-metrics-3.2.4_ga_a.rsf,dropwizard-metrics/dropwizard-metrics-3.2.4_ga_b.rsf) = 112
+
+MoJo(dropwizard-metrics/dropwizard-metrics-3.2.4_ga_b.rsf,dropwizard-metrics/dropwizard-metrics-3.2.4_ga_a.rsf) = 106
+The Mojo value is 106
+
+MoJo(dropwizard-metrics/dropwizard-metrics-3.2.4_exhaustive_a.rsf,dropwizard-metrics/dropwizard-metrics-3.2.4_exhaustive_b.rsf) = 160
+
+MoJo(dropwizard-metrics/dropwizard-metrics-3.2.4_exhaustive_b.rsf,dropwizard-metrics/dropwizard-metrics-3.2.4_exhaustive_a.rsf) = 145
+The Mojo value is 145
+
+MoJo(dropwizard-metrics/dropwizard-metrics-3.2.5_hillclimbing_a.rsf,dropwizard-metrics/dropwizard-metrics-3.2.5_hillclimbing_b.rsf) = 172
+
+MoJo(dropwizard-metrics/dropwizard-metrics-3.2.5_hillclimbing_b.rsf,dropwizard-metrics/dropwizard-metrics-3.2.5_hillclimbing_a.rsf) = 179
+The Mojo value is 172
+
+MoJo(dropwizard-metrics/dropwizard-metrics-3.2.5_ga_a.rsf,dropwizard-metrics/dropwizard-metrics-3.2.5_ga_b.rsf) = 171
+
+MoJo(dropwizard-metrics/dropwizard-metrics-3.2.5_ga_b.rsf,dropwizard-metrics/dropwizard-metrics-3.2.5_ga_a.rsf) = 181
+The Mojo value is 171
+
+MoJo(dropwizard-metrics/dropwizard-metrics-3.2.5_exhaustive_a.rsf,dropwizard-metrics/dropwizard-metrics-3.2.5_exhaustive_b.rsf) = 151
+
+MoJo(dropwizard-metrics/dropwizard-metrics-3.2.5_exhaustive_b.rsf,dropwizard-metrics/dropwizard-metrics-3.2.5_exhaustive_a.rsf) = 186
+The Mojo value is 151
+
+MoJo(dropwizard-metrics/dropwizard-metrics-3.2.6_hillclimbing_a.rsf,dropwizard-metrics/dropwizard-metrics-3.2.6_hillclimbing_b.rsf) = 185
+
+MoJo(dropwizard-metrics/dropwizard-metrics-3.2.6_hillclimbing_b.rsf,dropwizard-metrics/dropwizard-metrics-3.2.6_hillclimbing_a.rsf) = 174
+The Mojo value is 174
+
+MoJo(dropwizard-metrics/dropwizard-metrics-3.2.6_ga_a.rsf,dropwizard-metrics/dropwizard-metrics-3.2.6_ga_b.rsf) = 173
+
+MoJo(dropwizard-metrics/dropwizard-metrics-3.2.6_ga_b.rsf,dropwizard-metrics/dropwizard-metrics-3.2.6_ga_a.rsf) = 177
+The Mojo value is 173
+
+MoJo(dropwizard-metrics/dropwizard-metrics-3.2.6_exhaustive_a.rsf,dropwizard-metrics/dropwizard-metrics-3.2.6_exhaustive_b.rsf) = 154
+
+MoJo(dropwizard-metrics/dropwizard-metrics-3.2.6_exhaustive_b.rsf,dropwizard-metrics/dropwizard-metrics-3.2.6_exhaustive_a.rsf) = 144
+The Mojo value is 144
+
+MoJo(dropwizard-metrics/dropwizard-metrics-4.0.0_hillclimbing_a.rsf,dropwizard-metrics/dropwizard-metrics-4.0.0_hillclimbing_b.rsf) = 92
+
+MoJo(dropwizard-metrics/dropwizard-metrics-4.0.0_hillclimbing_b.rsf,dropwizard-metrics/dropwizard-metrics-4.0.0_hillclimbing_a.rsf) = 154
+The Mojo value is 92
+
+MoJo(dropwizard-metrics/dropwizard-metrics-4.0.0_ga_a.rsf,dropwizard-metrics/dropwizard-metrics-4.0.0_ga_b.rsf) = 149
+
+MoJo(dropwizard-metrics/dropwizard-metrics-4.0.0_ga_b.rsf,dropwizard-metrics/dropwizard-metrics-4.0.0_ga_a.rsf) = 170
+The Mojo value is 149
+
+MoJo(dropwizard-metrics/dropwizard-metrics-4.0.0_exhaustive_a.rsf,dropwizard-metrics/dropwizard-metrics-4.0.0_exhaustive_b.rsf) = 185
+
+MoJo(dropwizard-metrics/dropwizard-metrics-4.0.0_exhaustive_b.rsf,dropwizard-metrics/dropwizard-metrics-4.0.0_exhaustive_a.rsf) = 190
+The Mojo value is 185
+
+MoJo(dropwizard-metrics/dropwizard-metrics-4.0.1_hillclimbing_a.rsf,dropwizard-metrics/dropwizard-metrics-4.0.1_hillclimbing_b.rsf) = 188
+
+MoJo(dropwizard-metrics/dropwizard-metrics-4.0.1_hillclimbing_b.rsf,dropwizard-metrics/dropwizard-metrics-4.0.1_hillclimbing_a.rsf) = 185
+The Mojo value is 185
+
+MoJo(dropwizard-metrics/dropwizard-metrics-4.0.1_ga_a.rsf,dropwizard-metrics/dropwizard-metrics-4.0.1_ga_b.rsf) = 184
+
+MoJo(dropwizard-metrics/dropwizard-metrics-4.0.1_ga_b.rsf,dropwizard-metrics/dropwizard-metrics-4.0.1_ga_a.rsf) = 190
+The Mojo value is 184
+
+MoJo(dropwizard-metrics/dropwizard-metrics-4.0.1_exhaustive_a.rsf,dropwizard-metrics/dropwizard-metrics-4.0.1_exhaustive_b.rsf) = 185
+
+MoJo(dropwizard-metrics/dropwizard-metrics-4.0.1_exhaustive_b.rsf,dropwizard-metrics/dropwizard-metrics-4.0.1_exhaustive_a.rsf) = 179
+The Mojo value is 179
+
+MoJo(dropwizard-metrics/dropwizard-metrics-4.0.2_hillclimbing_a.rsf,dropwizard-metrics/dropwizard-metrics-4.0.2_hillclimbing_b.rsf) = 164
+
+MoJo(dropwizard-metrics/dropwizard-metrics-4.0.2_hillclimbing_b.rsf,dropwizard-metrics/dropwizard-metrics-4.0.2_hillclimbing_a.rsf) = 180
+The Mojo value is 164
+
+MoJo(dropwizard-metrics/dropwizard-metrics-4.0.2_ga_a.rsf,dropwizard-metrics/dropwizard-metrics-4.0.2_ga_b.rsf) = 183
+
+MoJo(dropwizard-metrics/dropwizard-metrics-4.0.2_ga_b.rsf,dropwizard-metrics/dropwizard-metrics-4.0.2_ga_a.rsf) = 186
+The Mojo value is 183
+
+MoJo(dropwizard-metrics/dropwizard-metrics-4.0.2_exhaustive_a.rsf,dropwizard-metrics/dropwizard-metrics-4.0.2_exhaustive_b.rsf) = 128
+
+MoJo(dropwizard-metrics/dropwizard-metrics-4.0.2_exhaustive_b.rsf,dropwizard-metrics/dropwizard-metrics-4.0.2_exhaustive_a.rsf) = 165
+The Mojo value is 128
+
+MoJo(dropwizard-metrics/dropwizard-metrics-4.0.3_hillclimbing_a.rsf,dropwizard-metrics/dropwizard-metrics-4.0.3_hillclimbing_b.rsf) = 173
+
+MoJo(dropwizard-metrics/dropwizard-metrics-4.0.3_hillclimbing_b.rsf,dropwizard-metrics/dropwizard-metrics-4.0.3_hillclimbing_a.rsf) = 176
+The Mojo value is 173
+
+MoJo(dropwizard-metrics/dropwizard-metrics-4.0.3_ga_a.rsf,dropwizard-metrics/dropwizard-metrics-4.0.3_ga_b.rsf) = 149
+
+MoJo(dropwizard-metrics/dropwizard-metrics-4.0.3_ga_b.rsf,dropwizard-metrics/dropwizard-metrics-4.0.3_ga_a.rsf) = 175
+The Mojo value is 149
+
+MoJo(dropwizard-metrics/dropwizard-metrics-4.0.3_exhaustive_a.rsf,dropwizard-metrics/dropwizard-metrics-4.0.3_exhaustive_b.rsf) = 174
+
+MoJo(dropwizard-metrics/dropwizard-metrics-4.0.3_exhaustive_b.rsf,dropwizard-metrics/dropwizard-metrics-4.0.3_exhaustive_a.rsf) = 171
+The Mojo value is 171
+
+MoJo(dropwizard-metrics/dropwizard-metrics-4.0.4_hillclimbing_a.rsf,dropwizard-metrics/dropwizard-metrics-4.0.4_hillclimbing_b.rsf) = 184
+
+MoJo(dropwizard-metrics/dropwizard-metrics-4.0.4_hillclimbing_b.rsf,dropwizard-metrics/dropwizard-metrics-4.0.4_hillclimbing_a.rsf) = 155
+The Mojo value is 155
+
+MoJo(dropwizard-metrics/dropwizard-metrics-4.0.4_ga_a.rsf,dropwizard-metrics/dropwizard-metrics-4.0.4_ga_b.rsf) = 181
+
+MoJo(dropwizard-metrics/dropwizard-metrics-4.0.4_ga_b.rsf,dropwizard-metrics/dropwizard-metrics-4.0.4_ga_a.rsf) = 171
+The Mojo value is 171
+
+MoJo(dropwizard-metrics/dropwizard-metrics-4.0.4_exhaustive_a.rsf,dropwizard-metrics/dropwizard-metrics-4.0.4_exhaustive_b.rsf) = 173
+
+MoJo(dropwizard-metrics/dropwizard-metrics-4.0.4_exhaustive_b.rsf,dropwizard-metrics/dropwizard-metrics-4.0.4_exhaustive_a.rsf) = 188
+The Mojo value is 173
+
+MoJo(dropwizard-metrics/dropwizard-metrics-4.0.5_hillclimbing_a.rsf,dropwizard-metrics/dropwizard-metrics-4.0.5_hillclimbing_b.rsf) = 187
+
+MoJo(dropwizard-metrics/dropwizard-metrics-4.0.5_hillclimbing_b.rsf,dropwizard-metrics/dropwizard-metrics-4.0.5_hillclimbing_a.rsf) = 161
+The Mojo value is 161
+
+MoJo(dropwizard-metrics/dropwizard-metrics-4.0.5_ga_a.rsf,dropwizard-metrics/dropwizard-metrics-4.0.5_ga_b.rsf) = 189
+
+MoJo(dropwizard-metrics/dropwizard-metrics-4.0.5_ga_b.rsf,dropwizard-metrics/dropwizard-metrics-4.0.5_ga_a.rsf) = 192
+The Mojo value is 189
+
+MoJo(dropwizard-metrics/dropwizard-metrics-4.0.5_exhaustive_a.rsf,dropwizard-metrics/dropwizard-metrics-4.0.5_exhaustive_b.rsf) = 186
+
+MoJo(dropwizard-metrics/dropwizard-metrics-4.0.5_exhaustive_b.rsf,dropwizard-metrics/dropwizard-metrics-4.0.5_exhaustive_a.rsf) = 192
+The Mojo value is 186
+
+MoJo(dropwizard-metrics/dropwizard-metrics-4.0.6_hillclimbing_a.rsf,dropwizard-metrics/dropwizard-metrics-4.0.6_hillclimbing_b.rsf) = 170
+
+MoJo(dropwizard-metrics/dropwizard-metrics-4.0.6_hillclimbing_b.rsf,dropwizard-metrics/dropwizard-metrics-4.0.6_hillclimbing_a.rsf) = 179
+The Mojo value is 170
+
+MoJo(dropwizard-metrics/dropwizard-metrics-4.0.6_ga_a.rsf,dropwizard-metrics/dropwizard-metrics-4.0.6_ga_b.rsf) = 178
+
+MoJo(dropwizard-metrics/dropwizard-metrics-4.0.6_ga_b.rsf,dropwizard-metrics/dropwizard-metrics-4.0.6_ga_a.rsf) = 168
+The Mojo value is 168
+
+MoJo(dropwizard-metrics/dropwizard-metrics-4.0.6_exhaustive_a.rsf,dropwizard-metrics/dropwizard-metrics-4.0.6_exhaustive_b.rsf) = 102
+
+MoJo(dropwizard-metrics/dropwizard-metrics-4.0.6_exhaustive_b.rsf,dropwizard-metrics/dropwizard-metrics-4.0.6_exhaustive_a.rsf) = 150
+The Mojo value is 102

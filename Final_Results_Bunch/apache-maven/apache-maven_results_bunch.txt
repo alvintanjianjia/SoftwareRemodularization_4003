@@ -1,0 +1,150 @@
+
+MoJo(apache-maven/apache-maven-3.3.7_hillclimbing_a.rsf,apache-maven/apache-maven-3.3.7_hillclimbing_b.rsf) = 749
+
+MoJo(apache-maven/apache-maven-3.3.7_hillclimbing_b.rsf,apache-maven/apache-maven-3.3.7_hillclimbing_a.rsf) = 736
+The Mojo value is 736
+
+MoJo(apache-maven/apache-maven-3.3.7_ga_a.rsf,apache-maven/apache-maven-3.3.7_ga_b.rsf) = 646
+
+MoJo(apache-maven/apache-maven-3.3.7_ga_b.rsf,apache-maven/apache-maven-3.3.7_ga_a.rsf) = 614
+The Mojo value is 614
+
+MoJo(apache-maven/apache-maven-3.3.7_exhaustive_a.rsf,apache-maven/apache-maven-3.3.7_exhaustive_b.rsf) = 788
+
+MoJo(apache-maven/apache-maven-3.3.7_exhaustive_b.rsf,apache-maven/apache-maven-3.3.7_exhaustive_a.rsf) = 749
+The Mojo value is 749
+
+MoJo(apache-maven/apache-maven-3.3.8_hillclimbing_a.rsf,apache-maven/apache-maven-3.3.8_hillclimbing_b.rsf) = 746
+
+MoJo(apache-maven/apache-maven-3.3.8_hillclimbing_b.rsf,apache-maven/apache-maven-3.3.8_hillclimbing_a.rsf) = 715
+The Mojo value is 715
+
+MoJo(apache-maven/apache-maven-3.3.8_ga_a.rsf,apache-maven/apache-maven-3.3.8_ga_b.rsf) = 712
+
+MoJo(apache-maven/apache-maven-3.3.8_ga_b.rsf,apache-maven/apache-maven-3.3.8_ga_a.rsf) = 637
+The Mojo value is 637
+
+MoJo(apache-maven/apache-maven-3.3.8_exhaustive_a.rsf,apache-maven/apache-maven-3.3.8_exhaustive_b.rsf) = 720
+
+MoJo(apache-maven/apache-maven-3.3.8_exhaustive_b.rsf,apache-maven/apache-maven-3.3.8_exhaustive_a.rsf) = 710
+The Mojo value is 710
+
+MoJo(apache-maven/apache-maven-3.3.9_hillclimbing_a.rsf,apache-maven/apache-maven-3.3.9_hillclimbing_b.rsf) = 737
+
+MoJo(apache-maven/apache-maven-3.3.9_hillclimbing_b.rsf,apache-maven/apache-maven-3.3.9_hillclimbing_a.rsf) = 716
+The Mojo value is 716
+
+MoJo(apache-maven/apache-maven-3.3.9_ga_a.rsf,apache-maven/apache-maven-3.3.9_ga_b.rsf) = 653
+
+MoJo(apache-maven/apache-maven-3.3.9_ga_b.rsf,apache-maven/apache-maven-3.3.9_ga_a.rsf) = 697
+The Mojo value is 653
+
+MoJo(apache-maven/apache-maven-3.3.9_exhaustive_a.rsf,apache-maven/apache-maven-3.3.9_exhaustive_b.rsf) = 768
+
+MoJo(apache-maven/apache-maven-3.3.9_exhaustive_b.rsf,apache-maven/apache-maven-3.3.9_exhaustive_a.rsf) = 758
+The Mojo value is 758
+
+MoJo(apache-maven/apache-maven-3.5.0_hillclimbing_a.rsf,apache-maven/apache-maven-3.5.0_hillclimbing_b.rsf) = 748
+
+MoJo(apache-maven/apache-maven-3.5.0_hillclimbing_b.rsf,apache-maven/apache-maven-3.5.0_hillclimbing_a.rsf) = 689
+The Mojo value is 689
+
+MoJo(apache-maven/apache-maven-3.5.0_ga_a.rsf,apache-maven/apache-maven-3.5.0_ga_b.rsf) = 756
+
+MoJo(apache-maven/apache-maven-3.5.0_ga_b.rsf,apache-maven/apache-maven-3.5.0_ga_a.rsf) = 686
+The Mojo value is 686
+
+MoJo(apache-maven/apache-maven-3.5.0_exhaustive_a.rsf,apache-maven/apache-maven-3.5.0_exhaustive_b.rsf) = 551
+
+MoJo(apache-maven/apache-maven-3.5.0_exhaustive_b.rsf,apache-maven/apache-maven-3.5.0_exhaustive_a.rsf) = 376
+The Mojo value is 376
+
+MoJo(apache-maven/apache-maven-3.5.1_hillclimbing_a.rsf,apache-maven/apache-maven-3.5.1_hillclimbing_b.rsf) = 718
+
+MoJo(apache-maven/apache-maven-3.5.1_hillclimbing_b.rsf,apache-maven/apache-maven-3.5.1_hillclimbing_a.rsf) = 671
+The Mojo value is 671
+
+MoJo(apache-maven/apache-maven-3.5.1_ga_a.rsf,apache-maven/apache-maven-3.5.1_ga_b.rsf) = 697
+
+MoJo(apache-maven/apache-maven-3.5.1_ga_b.rsf,apache-maven/apache-maven-3.5.1_ga_a.rsf) = 486
+The Mojo value is 486
+
+MoJo(apache-maven/apache-maven-3.5.1_exhaustive_a.rsf,apache-maven/apache-maven-3.5.1_exhaustive_b.rsf) = 776
+
+MoJo(apache-maven/apache-maven-3.5.1_exhaustive_b.rsf,apache-maven/apache-maven-3.5.1_exhaustive_a.rsf) = 765
+The Mojo value is 765
+
+MoJo(apache-maven/apache-maven-3.5.2_hillclimbing_a.rsf,apache-maven/apache-maven-3.5.2_hillclimbing_b.rsf) = 783
+
+MoJo(apache-maven/apache-maven-3.5.2_hillclimbing_b.rsf,apache-maven/apache-maven-3.5.2_hillclimbing_a.rsf) = 752
+The Mojo value is 752
+
+MoJo(apache-maven/apache-maven-3.5.2_ga_a.rsf,apache-maven/apache-maven-3.5.2_ga_b.rsf) = 673
+
+MoJo(apache-maven/apache-maven-3.5.2_ga_b.rsf,apache-maven/apache-maven-3.5.2_ga_a.rsf) = 767
+The Mojo value is 673
+
+MoJo(apache-maven/apache-maven-3.5.2_exhaustive_a.rsf,apache-maven/apache-maven-3.5.2_exhaustive_b.rsf) = 709
+
+MoJo(apache-maven/apache-maven-3.5.2_exhaustive_b.rsf,apache-maven/apache-maven-3.5.2_exhaustive_a.rsf) = 674
+The Mojo value is 674
+
+MoJo(apache-maven/apache-maven-3.5.3_hillclimbing_a.rsf,apache-maven/apache-maven-3.5.3_hillclimbing_b.rsf) = 780
+
+MoJo(apache-maven/apache-maven-3.5.3_hillclimbing_b.rsf,apache-maven/apache-maven-3.5.3_hillclimbing_a.rsf) = 737
+The Mojo value is 737
+
+MoJo(apache-maven/apache-maven-3.5.3_ga_a.rsf,apache-maven/apache-maven-3.5.3_ga_b.rsf) = 757
+
+MoJo(apache-maven/apache-maven-3.5.3_ga_b.rsf,apache-maven/apache-maven-3.5.3_ga_a.rsf) = 758
+The Mojo value is 757
+
+MoJo(apache-maven/apache-maven-3.5.3_exhaustive_a.rsf,apache-maven/apache-maven-3.5.3_exhaustive_b.rsf) = 749
+
+MoJo(apache-maven/apache-maven-3.5.3_exhaustive_b.rsf,apache-maven/apache-maven-3.5.3_exhaustive_a.rsf) = 690
+The Mojo value is 690
+
+MoJo(apache-maven/apache-maven-3.5.4_hillclimbing_a.rsf,apache-maven/apache-maven-3.5.4_hillclimbing_b.rsf) = 739
+
+MoJo(apache-maven/apache-maven-3.5.4_hillclimbing_b.rsf,apache-maven/apache-maven-3.5.4_hillclimbing_a.rsf) = 756
+The Mojo value is 739
+
+MoJo(apache-maven/apache-maven-3.5.4_ga_a.rsf,apache-maven/apache-maven-3.5.4_ga_b.rsf) = 760
+
+MoJo(apache-maven/apache-maven-3.5.4_ga_b.rsf,apache-maven/apache-maven-3.5.4_ga_a.rsf) = 744
+The Mojo value is 744
+
+MoJo(apache-maven/apache-maven-3.5.4_exhaustive_a.rsf,apache-maven/apache-maven-3.5.4_exhaustive_b.rsf) = 612
+
+MoJo(apache-maven/apache-maven-3.5.4_exhaustive_b.rsf,apache-maven/apache-maven-3.5.4_exhaustive_a.rsf) = 716
+The Mojo value is 612
+
+MoJo(apache-maven/apache-maven-3.6.0_hillclimbing_a.rsf,apache-maven/apache-maven-3.6.0_hillclimbing_b.rsf) = 760
+
+MoJo(apache-maven/apache-maven-3.6.0_hillclimbing_b.rsf,apache-maven/apache-maven-3.6.0_hillclimbing_a.rsf) = 724
+The Mojo value is 724
+
+MoJo(apache-maven/apache-maven-3.6.0_ga_a.rsf,apache-maven/apache-maven-3.6.0_ga_b.rsf) = 621
+
+MoJo(apache-maven/apache-maven-3.6.0_ga_b.rsf,apache-maven/apache-maven-3.6.0_ga_a.rsf) = 722
+The Mojo value is 621
+
+MoJo(apache-maven/apache-maven-3.6.0_exhaustive_a.rsf,apache-maven/apache-maven-3.6.0_exhaustive_b.rsf) = 788
+
+MoJo(apache-maven/apache-maven-3.6.0_exhaustive_b.rsf,apache-maven/apache-maven-3.6.0_exhaustive_a.rsf) = 773
+The Mojo value is 773
+
+MoJo(apache-maven/apache-maven-3.6.1_hillclimbing_a.rsf,apache-maven/apache-maven-3.6.1_hillclimbing_b.rsf) = 788
+
+MoJo(apache-maven/apache-maven-3.6.1_hillclimbing_b.rsf,apache-maven/apache-maven-3.6.1_hillclimbing_a.rsf) = 752
+The Mojo value is 752
+
+MoJo(apache-maven/apache-maven-3.6.1_ga_a.rsf,apache-maven/apache-maven-3.6.1_ga_b.rsf) = 739
+
+MoJo(apache-maven/apache-maven-3.6.1_ga_b.rsf,apache-maven/apache-maven-3.6.1_ga_a.rsf) = 678
+The Mojo value is 678
+
+MoJo(apache-maven/apache-maven-3.6.1_exhaustive_a.rsf,apache-maven/apache-maven-3.6.1_exhaustive_b.rsf) = 683
+
+MoJo(apache-maven/apache-maven-3.6.1_exhaustive_b.rsf,apache-maven/apache-maven-3.6.1_exhaustive_a.rsf) = 712
+The Mojo value is 683

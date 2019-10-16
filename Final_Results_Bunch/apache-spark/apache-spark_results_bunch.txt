@@ -1,0 +1,150 @@
+
+MoJo(apache-spark/apache-spark-2.2.3_hillclimbing_a.rsf,apache-spark/apache-spark-2.2.3_hillclimbing_b.rsf) = 558
+
+MoJo(apache-spark/apache-spark-2.2.3_hillclimbing_b.rsf,apache-spark/apache-spark-2.2.3_hillclimbing_a.rsf) = 486
+The Mojo value is 486
+
+MoJo(apache-spark/apache-spark-2.2.3_ga_a.rsf,apache-spark/apache-spark-2.2.3_ga_b.rsf) = 582
+
+MoJo(apache-spark/apache-spark-2.2.3_ga_b.rsf,apache-spark/apache-spark-2.2.3_ga_a.rsf) = 526
+The Mojo value is 526
+
+MoJo(apache-spark/apache-spark-2.2.3_exhaustive_a.rsf,apache-spark/apache-spark-2.2.3_exhaustive_b.rsf) = 566
+
+MoJo(apache-spark/apache-spark-2.2.3_exhaustive_b.rsf,apache-spark/apache-spark-2.2.3_exhaustive_a.rsf) = 533
+The Mojo value is 533
+
+MoJo(apache-spark/apache-spark-2.3.0_hillclimbing_a.rsf,apache-spark/apache-spark-2.3.0_hillclimbing_b.rsf) = 655
+
+MoJo(apache-spark/apache-spark-2.3.0_hillclimbing_b.rsf,apache-spark/apache-spark-2.3.0_hillclimbing_a.rsf) = 541
+The Mojo value is 541
+
+MoJo(apache-spark/apache-spark-2.3.0_ga_a.rsf,apache-spark/apache-spark-2.3.0_ga_b.rsf) = 627
+
+MoJo(apache-spark/apache-spark-2.3.0_ga_b.rsf,apache-spark/apache-spark-2.3.0_ga_a.rsf) = 551
+The Mojo value is 551
+
+MoJo(apache-spark/apache-spark-2.3.0_exhaustive_a.rsf,apache-spark/apache-spark-2.3.0_exhaustive_b.rsf) = 667
+
+MoJo(apache-spark/apache-spark-2.3.0_exhaustive_b.rsf,apache-spark/apache-spark-2.3.0_exhaustive_a.rsf) = 610
+The Mojo value is 610
+
+MoJo(apache-spark/apache-spark-2.3.1_hillclimbing_a.rsf,apache-spark/apache-spark-2.3.1_hillclimbing_b.rsf) = 643
+
+MoJo(apache-spark/apache-spark-2.3.1_hillclimbing_b.rsf,apache-spark/apache-spark-2.3.1_hillclimbing_a.rsf) = 640
+The Mojo value is 640
+
+MoJo(apache-spark/apache-spark-2.3.1_ga_a.rsf,apache-spark/apache-spark-2.3.1_ga_b.rsf) = 661
+
+MoJo(apache-spark/apache-spark-2.3.1_ga_b.rsf,apache-spark/apache-spark-2.3.1_ga_a.rsf) = 540
+The Mojo value is 540
+
+MoJo(apache-spark/apache-spark-2.3.1_exhaustive_a.rsf,apache-spark/apache-spark-2.3.1_exhaustive_b.rsf) = 652
+
+MoJo(apache-spark/apache-spark-2.3.1_exhaustive_b.rsf,apache-spark/apache-spark-2.3.1_exhaustive_a.rsf) = 630
+The Mojo value is 630
+
+MoJo(apache-spark/apache-spark-2.3.2_hillclimbing_a.rsf,apache-spark/apache-spark-2.3.2_hillclimbing_b.rsf) = 686
+
+MoJo(apache-spark/apache-spark-2.3.2_hillclimbing_b.rsf,apache-spark/apache-spark-2.3.2_hillclimbing_a.rsf) = 618
+The Mojo value is 618
+
+MoJo(apache-spark/apache-spark-2.3.2_ga_a.rsf,apache-spark/apache-spark-2.3.2_ga_b.rsf) = 630
+
+MoJo(apache-spark/apache-spark-2.3.2_ga_b.rsf,apache-spark/apache-spark-2.3.2_ga_a.rsf) = 571
+The Mojo value is 571
+
+MoJo(apache-spark/apache-spark-2.3.2_exhaustive_a.rsf,apache-spark/apache-spark-2.3.2_exhaustive_b.rsf) = 686
+
+MoJo(apache-spark/apache-spark-2.3.2_exhaustive_b.rsf,apache-spark/apache-spark-2.3.2_exhaustive_a.rsf) = 662
+The Mojo value is 662
+
+MoJo(apache-spark/apache-spark-2.3.3_hillclimbing_a.rsf,apache-spark/apache-spark-2.3.3_hillclimbing_b.rsf) = 666
+
+MoJo(apache-spark/apache-spark-2.3.3_hillclimbing_b.rsf,apache-spark/apache-spark-2.3.3_hillclimbing_a.rsf) = 665
+The Mojo value is 665
+
+MoJo(apache-spark/apache-spark-2.3.3_ga_a.rsf,apache-spark/apache-spark-2.3.3_ga_b.rsf) = 643
+
+MoJo(apache-spark/apache-spark-2.3.3_ga_b.rsf,apache-spark/apache-spark-2.3.3_ga_a.rsf) = 579
+The Mojo value is 579
+
+MoJo(apache-spark/apache-spark-2.3.3_exhaustive_a.rsf,apache-spark/apache-spark-2.3.3_exhaustive_b.rsf) = 648
+
+MoJo(apache-spark/apache-spark-2.3.3_exhaustive_b.rsf,apache-spark/apache-spark-2.3.3_exhaustive_a.rsf) = 608
+The Mojo value is 608
+
+MoJo(apache-spark/apache-spark-2.3.4_hillclimbing_a.rsf,apache-spark/apache-spark-2.3.4_hillclimbing_b.rsf) = 662
+
+MoJo(apache-spark/apache-spark-2.3.4_hillclimbing_b.rsf,apache-spark/apache-spark-2.3.4_hillclimbing_a.rsf) = 604
+The Mojo value is 604
+
+MoJo(apache-spark/apache-spark-2.3.4_ga_a.rsf,apache-spark/apache-spark-2.3.4_ga_b.rsf) = 587
+
+MoJo(apache-spark/apache-spark-2.3.4_ga_b.rsf,apache-spark/apache-spark-2.3.4_ga_a.rsf) = 523
+The Mojo value is 523
+
+MoJo(apache-spark/apache-spark-2.3.4_exhaustive_a.rsf,apache-spark/apache-spark-2.3.4_exhaustive_b.rsf) = 669
+
+MoJo(apache-spark/apache-spark-2.3.4_exhaustive_b.rsf,apache-spark/apache-spark-2.3.4_exhaustive_a.rsf) = 641
+The Mojo value is 641
+
+MoJo(apache-spark/apache-spark-2.4.0_hillclimbing_a.rsf,apache-spark/apache-spark-2.4.0_hillclimbing_b.rsf) = 687
+
+MoJo(apache-spark/apache-spark-2.4.0_hillclimbing_b.rsf,apache-spark/apache-spark-2.4.0_hillclimbing_a.rsf) = 629
+The Mojo value is 629
+
+MoJo(apache-spark/apache-spark-2.4.0_ga_a.rsf,apache-spark/apache-spark-2.4.0_ga_b.rsf) = 664
+
+MoJo(apache-spark/apache-spark-2.4.0_ga_b.rsf,apache-spark/apache-spark-2.4.0_ga_a.rsf) = 609
+The Mojo value is 609
+
+MoJo(apache-spark/apache-spark-2.4.0_exhaustive_a.rsf,apache-spark/apache-spark-2.4.0_exhaustive_b.rsf) = 649
+
+MoJo(apache-spark/apache-spark-2.4.0_exhaustive_b.rsf,apache-spark/apache-spark-2.4.0_exhaustive_a.rsf) = 644
+The Mojo value is 644
+
+MoJo(apache-spark/apache-spark-2.4.1_hillclimbing_a.rsf,apache-spark/apache-spark-2.4.1_hillclimbing_b.rsf) = 644
+
+MoJo(apache-spark/apache-spark-2.4.1_hillclimbing_b.rsf,apache-spark/apache-spark-2.4.1_hillclimbing_a.rsf) = 542
+The Mojo value is 542
+
+MoJo(apache-spark/apache-spark-2.4.1_ga_a.rsf,apache-spark/apache-spark-2.4.1_ga_b.rsf) = 671
+
+MoJo(apache-spark/apache-spark-2.4.1_ga_b.rsf,apache-spark/apache-spark-2.4.1_ga_a.rsf) = 660
+The Mojo value is 660
+
+MoJo(apache-spark/apache-spark-2.4.1_exhaustive_a.rsf,apache-spark/apache-spark-2.4.1_exhaustive_b.rsf) = 663
+
+MoJo(apache-spark/apache-spark-2.4.1_exhaustive_b.rsf,apache-spark/apache-spark-2.4.1_exhaustive_a.rsf) = 594
+The Mojo value is 594
+
+MoJo(apache-spark/apache-spark-2.4.2_hillclimbing_a.rsf,apache-spark/apache-spark-2.4.2_hillclimbing_b.rsf) = 685
+
+MoJo(apache-spark/apache-spark-2.4.2_hillclimbing_b.rsf,apache-spark/apache-spark-2.4.2_hillclimbing_a.rsf) = 685
+The Mojo value is 685
+
+MoJo(apache-spark/apache-spark-2.4.2_ga_a.rsf,apache-spark/apache-spark-2.4.2_ga_b.rsf) = 693
+
+MoJo(apache-spark/apache-spark-2.4.2_ga_b.rsf,apache-spark/apache-spark-2.4.2_ga_a.rsf) = 663
+The Mojo value is 663
+
+MoJo(apache-spark/apache-spark-2.4.2_exhaustive_a.rsf,apache-spark/apache-spark-2.4.2_exhaustive_b.rsf) = 688
+
+MoJo(apache-spark/apache-spark-2.4.2_exhaustive_b.rsf,apache-spark/apache-spark-2.4.2_exhaustive_a.rsf) = 640
+The Mojo value is 640
+
+MoJo(apache-spark/apache-spark-2.4.3_hillclimbing_a.rsf,apache-spark/apache-spark-2.4.3_hillclimbing_b.rsf) = 657
+
+MoJo(apache-spark/apache-spark-2.4.3_hillclimbing_b.rsf,apache-spark/apache-spark-2.4.3_hillclimbing_a.rsf) = 593
+The Mojo value is 593
+
+MoJo(apache-spark/apache-spark-2.4.3_ga_a.rsf,apache-spark/apache-spark-2.4.3_ga_b.rsf) = 682
+
+MoJo(apache-spark/apache-spark-2.4.3_ga_b.rsf,apache-spark/apache-spark-2.4.3_ga_a.rsf) = 676
+The Mojo value is 676
+
+MoJo(apache-spark/apache-spark-2.4.3_exhaustive_a.rsf,apache-spark/apache-spark-2.4.3_exhaustive_b.rsf) = 649
+
+MoJo(apache-spark/apache-spark-2.4.3_exhaustive_b.rsf,apache-spark/apache-spark-2.4.3_exhaustive_a.rsf) = 661
+The Mojo value is 649

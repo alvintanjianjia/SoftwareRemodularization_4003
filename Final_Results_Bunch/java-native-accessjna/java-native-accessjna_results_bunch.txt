@@ -1,0 +1,150 @@
+
+MoJo(java-native-accessjna/java-native-accessjna-4.3.0_hillclimbing_a.rsf,java-native-accessjna/java-native-accessjna-4.3.0_hillclimbing_b.rsf) = 414
+
+MoJo(java-native-accessjna/java-native-accessjna-4.3.0_hillclimbing_b.rsf,java-native-accessjna/java-native-accessjna-4.3.0_hillclimbing_a.rsf) = 432
+The Mojo value is 414
+
+MoJo(java-native-accessjna/java-native-accessjna-4.3.0_ga_a.rsf,java-native-accessjna/java-native-accessjna-4.3.0_ga_b.rsf) = 414
+
+MoJo(java-native-accessjna/java-native-accessjna-4.3.0_ga_b.rsf,java-native-accessjna/java-native-accessjna-4.3.0_ga_a.rsf) = 422
+The Mojo value is 414
+
+MoJo(java-native-accessjna/java-native-accessjna-4.3.0_exhaustive_a.rsf,java-native-accessjna/java-native-accessjna-4.3.0_exhaustive_b.rsf) = 411
+
+MoJo(java-native-accessjna/java-native-accessjna-4.3.0_exhaustive_b.rsf,java-native-accessjna/java-native-accessjna-4.3.0_exhaustive_a.rsf) = 412
+The Mojo value is 411
+
+MoJo(java-native-accessjna/java-native-accessjna-4.4.0_hillclimbing_a.rsf,java-native-accessjna/java-native-accessjna-4.4.0_hillclimbing_b.rsf) = 342
+
+MoJo(java-native-accessjna/java-native-accessjna-4.4.0_hillclimbing_b.rsf,java-native-accessjna/java-native-accessjna-4.4.0_hillclimbing_a.rsf) = 423
+The Mojo value is 342
+
+MoJo(java-native-accessjna/java-native-accessjna-4.4.0_ga_a.rsf,java-native-accessjna/java-native-accessjna-4.4.0_ga_b.rsf) = 364
+
+MoJo(java-native-accessjna/java-native-accessjna-4.4.0_ga_b.rsf,java-native-accessjna/java-native-accessjna-4.4.0_ga_a.rsf) = 421
+The Mojo value is 364
+
+MoJo(java-native-accessjna/java-native-accessjna-4.4.0_exhaustive_a.rsf,java-native-accessjna/java-native-accessjna-4.4.0_exhaustive_b.rsf) = 357
+
+MoJo(java-native-accessjna/java-native-accessjna-4.4.0_exhaustive_b.rsf,java-native-accessjna/java-native-accessjna-4.4.0_exhaustive_a.rsf) = 429
+The Mojo value is 357
+
+MoJo(java-native-accessjna/java-native-accessjna-4.5.0_hillclimbing_a.rsf,java-native-accessjna/java-native-accessjna-4.5.0_hillclimbing_b.rsf) = 365
+
+MoJo(java-native-accessjna/java-native-accessjna-4.5.0_hillclimbing_b.rsf,java-native-accessjna/java-native-accessjna-4.5.0_hillclimbing_a.rsf) = 437
+The Mojo value is 365
+
+MoJo(java-native-accessjna/java-native-accessjna-4.5.0_ga_a.rsf,java-native-accessjna/java-native-accessjna-4.5.0_ga_b.rsf) = 426
+
+MoJo(java-native-accessjna/java-native-accessjna-4.5.0_ga_b.rsf,java-native-accessjna/java-native-accessjna-4.5.0_ga_a.rsf) = 433
+The Mojo value is 426
+
+MoJo(java-native-accessjna/java-native-accessjna-4.5.0_exhaustive_a.rsf,java-native-accessjna/java-native-accessjna-4.5.0_exhaustive_b.rsf) = 423
+
+MoJo(java-native-accessjna/java-native-accessjna-4.5.0_exhaustive_b.rsf,java-native-accessjna/java-native-accessjna-4.5.0_exhaustive_a.rsf) = 439
+The Mojo value is 423
+
+MoJo(java-native-accessjna/java-native-accessjna-4.5.1_hillclimbing_a.rsf,java-native-accessjna/java-native-accessjna-4.5.1_hillclimbing_b.rsf) = 437
+
+MoJo(java-native-accessjna/java-native-accessjna-4.5.1_hillclimbing_b.rsf,java-native-accessjna/java-native-accessjna-4.5.1_hillclimbing_a.rsf) = 438
+The Mojo value is 437
+
+MoJo(java-native-accessjna/java-native-accessjna-4.5.1_ga_a.rsf,java-native-accessjna/java-native-accessjna-4.5.1_ga_b.rsf) = 384
+
+MoJo(java-native-accessjna/java-native-accessjna-4.5.1_ga_b.rsf,java-native-accessjna/java-native-accessjna-4.5.1_ga_a.rsf) = 444
+The Mojo value is 384
+
+MoJo(java-native-accessjna/java-native-accessjna-4.5.1_exhaustive_a.rsf,java-native-accessjna/java-native-accessjna-4.5.1_exhaustive_b.rsf) = 429
+
+MoJo(java-native-accessjna/java-native-accessjna-4.5.1_exhaustive_b.rsf,java-native-accessjna/java-native-accessjna-4.5.1_exhaustive_a.rsf) = 432
+The Mojo value is 429
+
+MoJo(java-native-accessjna/java-native-accessjna-4.5.2_hillclimbing_a.rsf,java-native-accessjna/java-native-accessjna-4.5.2_hillclimbing_b.rsf) = 419
+
+MoJo(java-native-accessjna/java-native-accessjna-4.5.2_hillclimbing_b.rsf,java-native-accessjna/java-native-accessjna-4.5.2_hillclimbing_a.rsf) = 422
+The Mojo value is 419
+
+MoJo(java-native-accessjna/java-native-accessjna-4.5.2_ga_a.rsf,java-native-accessjna/java-native-accessjna-4.5.2_ga_b.rsf) = 417
+
+MoJo(java-native-accessjna/java-native-accessjna-4.5.2_ga_b.rsf,java-native-accessjna/java-native-accessjna-4.5.2_ga_a.rsf) = 443
+The Mojo value is 417
+
+MoJo(java-native-accessjna/java-native-accessjna-4.5.2_exhaustive_a.rsf,java-native-accessjna/java-native-accessjna-4.5.2_exhaustive_b.rsf) = 415
+
+MoJo(java-native-accessjna/java-native-accessjna-4.5.2_exhaustive_b.rsf,java-native-accessjna/java-native-accessjna-4.5.2_exhaustive_a.rsf) = 448
+The Mojo value is 415
+
+MoJo(java-native-accessjna/java-native-accessjna-5.0.0_hillclimbing_a.rsf,java-native-accessjna/java-native-accessjna-5.0.0_hillclimbing_b.rsf) = 432
+
+MoJo(java-native-accessjna/java-native-accessjna-5.0.0_hillclimbing_b.rsf,java-native-accessjna/java-native-accessjna-5.0.0_hillclimbing_a.rsf) = 407
+The Mojo value is 407
+
+MoJo(java-native-accessjna/java-native-accessjna-5.0.0_ga_a.rsf,java-native-accessjna/java-native-accessjna-5.0.0_ga_b.rsf) = 386
+
+MoJo(java-native-accessjna/java-native-accessjna-5.0.0_ga_b.rsf,java-native-accessjna/java-native-accessjna-5.0.0_ga_a.rsf) = 462
+The Mojo value is 386
+
+MoJo(java-native-accessjna/java-native-accessjna-5.0.0_exhaustive_a.rsf,java-native-accessjna/java-native-accessjna-5.0.0_exhaustive_b.rsf) = 437
+
+MoJo(java-native-accessjna/java-native-accessjna-5.0.0_exhaustive_b.rsf,java-native-accessjna/java-native-accessjna-5.0.0_exhaustive_a.rsf) = 369
+The Mojo value is 369
+
+MoJo(java-native-accessjna/java-native-accessjna-5.1.0_hillclimbing_a.rsf,java-native-accessjna/java-native-accessjna-5.1.0_hillclimbing_b.rsf) = 406
+
+MoJo(java-native-accessjna/java-native-accessjna-5.1.0_hillclimbing_b.rsf,java-native-accessjna/java-native-accessjna-5.1.0_hillclimbing_a.rsf) = 407
+The Mojo value is 406
+
+MoJo(java-native-accessjna/java-native-accessjna-5.1.0_ga_a.rsf,java-native-accessjna/java-native-accessjna-5.1.0_ga_b.rsf) = 434
+
+MoJo(java-native-accessjna/java-native-accessjna-5.1.0_ga_b.rsf,java-native-accessjna/java-native-accessjna-5.1.0_ga_a.rsf) = 454
+The Mojo value is 434
+
+MoJo(java-native-accessjna/java-native-accessjna-5.1.0_exhaustive_a.rsf,java-native-accessjna/java-native-accessjna-5.1.0_exhaustive_b.rsf) = 424
+
+MoJo(java-native-accessjna/java-native-accessjna-5.1.0_exhaustive_b.rsf,java-native-accessjna/java-native-accessjna-5.1.0_exhaustive_a.rsf) = 396
+The Mojo value is 396
+
+MoJo(java-native-accessjna/java-native-accessjna-5.2.0_hillclimbing_a.rsf,java-native-accessjna/java-native-accessjna-5.2.0_hillclimbing_b.rsf) = 363
+
+MoJo(java-native-accessjna/java-native-accessjna-5.2.0_hillclimbing_b.rsf,java-native-accessjna/java-native-accessjna-5.2.0_hillclimbing_a.rsf) = 444
+The Mojo value is 363
+
+MoJo(java-native-accessjna/java-native-accessjna-5.2.0_ga_a.rsf,java-native-accessjna/java-native-accessjna-5.2.0_ga_b.rsf) = 228
+
+MoJo(java-native-accessjna/java-native-accessjna-5.2.0_ga_b.rsf,java-native-accessjna/java-native-accessjna-5.2.0_ga_a.rsf) = 401
+The Mojo value is 228
+
+MoJo(java-native-accessjna/java-native-accessjna-5.2.0_exhaustive_a.rsf,java-native-accessjna/java-native-accessjna-5.2.0_exhaustive_b.rsf) = 364
+
+MoJo(java-native-accessjna/java-native-accessjna-5.2.0_exhaustive_b.rsf,java-native-accessjna/java-native-accessjna-5.2.0_exhaustive_a.rsf) = 316
+The Mojo value is 316
+
+MoJo(java-native-accessjna/java-native-accessjna-5.3.0_hillclimbing_a.rsf,java-native-accessjna/java-native-accessjna-5.3.0_hillclimbing_b.rsf) = 348
+
+MoJo(java-native-accessjna/java-native-accessjna-5.3.0_hillclimbing_b.rsf,java-native-accessjna/java-native-accessjna-5.3.0_hillclimbing_a.rsf) = 453
+The Mojo value is 348
+
+MoJo(java-native-accessjna/java-native-accessjna-5.3.0_ga_a.rsf,java-native-accessjna/java-native-accessjna-5.3.0_ga_b.rsf) = 320
+
+MoJo(java-native-accessjna/java-native-accessjna-5.3.0_ga_b.rsf,java-native-accessjna/java-native-accessjna-5.3.0_ga_a.rsf) = 394
+The Mojo value is 320
+
+MoJo(java-native-accessjna/java-native-accessjna-5.3.0_exhaustive_a.rsf,java-native-accessjna/java-native-accessjna-5.3.0_exhaustive_b.rsf) = 282
+
+MoJo(java-native-accessjna/java-native-accessjna-5.3.0_exhaustive_b.rsf,java-native-accessjna/java-native-accessjna-5.3.0_exhaustive_a.rsf) = 322
+The Mojo value is 282
+
+MoJo(java-native-accessjna/java-native-accessjna-5.3.1_hillclimbing_a.rsf,java-native-accessjna/java-native-accessjna-5.3.1_hillclimbing_b.rsf) = 410
+
+MoJo(java-native-accessjna/java-native-accessjna-5.3.1_hillclimbing_b.rsf,java-native-accessjna/java-native-accessjna-5.3.1_hillclimbing_a.rsf) = 450
+The Mojo value is 410
+
+MoJo(java-native-accessjna/java-native-accessjna-5.3.1_ga_a.rsf,java-native-accessjna/java-native-accessjna-5.3.1_ga_b.rsf) = 341
+
+MoJo(java-native-accessjna/java-native-accessjna-5.3.1_ga_b.rsf,java-native-accessjna/java-native-accessjna-5.3.1_ga_a.rsf) = 405
+The Mojo value is 341
+
+MoJo(java-native-accessjna/java-native-accessjna-5.3.1_exhaustive_a.rsf,java-native-accessjna/java-native-accessjna-5.3.1_exhaustive_b.rsf) = 365
+
+MoJo(java-native-accessjna/java-native-accessjna-5.3.1_exhaustive_b.rsf,java-native-accessjna/java-native-accessjna-5.3.1_exhaustive_a.rsf) = 431
+The Mojo value is 365

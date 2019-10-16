@@ -1,0 +1,150 @@
+
+MoJo(grpc-grpc-java/grpc-grpc-java-1.17.1_hillclimbing_a.rsf,grpc-grpc-java/grpc-grpc-java-1.17.1_hillclimbing_b.rsf) = 712
+
+MoJo(grpc-grpc-java/grpc-grpc-java-1.17.1_hillclimbing_b.rsf,grpc-grpc-java/grpc-grpc-java-1.17.1_hillclimbing_a.rsf) = 562
+The Mojo value is 562
+
+MoJo(grpc-grpc-java/grpc-grpc-java-1.17.1_ga_a.rsf,grpc-grpc-java/grpc-grpc-java-1.17.1_ga_b.rsf) = 690
+
+MoJo(grpc-grpc-java/grpc-grpc-java-1.17.1_ga_b.rsf,grpc-grpc-java/grpc-grpc-java-1.17.1_ga_a.rsf) = 495
+The Mojo value is 495
+
+MoJo(grpc-grpc-java/grpc-grpc-java-1.17.1_exhaustive_a.rsf,grpc-grpc-java/grpc-grpc-java-1.17.1_exhaustive_b.rsf) = 790
+
+MoJo(grpc-grpc-java/grpc-grpc-java-1.17.1_exhaustive_b.rsf,grpc-grpc-java/grpc-grpc-java-1.17.1_exhaustive_a.rsf) = 794
+The Mojo value is 790
+
+MoJo(grpc-grpc-java/grpc-grpc-java-1.17.2_hillclimbing_a.rsf,grpc-grpc-java/grpc-grpc-java-1.17.2_hillclimbing_b.rsf) = 547
+
+MoJo(grpc-grpc-java/grpc-grpc-java-1.17.2_hillclimbing_b.rsf,grpc-grpc-java/grpc-grpc-java-1.17.2_hillclimbing_a.rsf) = 648
+The Mojo value is 547
+
+MoJo(grpc-grpc-java/grpc-grpc-java-1.17.2_ga_a.rsf,grpc-grpc-java/grpc-grpc-java-1.17.2_ga_b.rsf) = 740
+
+MoJo(grpc-grpc-java/grpc-grpc-java-1.17.2_ga_b.rsf,grpc-grpc-java/grpc-grpc-java-1.17.2_ga_a.rsf) = 777
+The Mojo value is 740
+
+MoJo(grpc-grpc-java/grpc-grpc-java-1.17.2_exhaustive_a.rsf,grpc-grpc-java/grpc-grpc-java-1.17.2_exhaustive_b.rsf) = 660
+
+MoJo(grpc-grpc-java/grpc-grpc-java-1.17.2_exhaustive_b.rsf,grpc-grpc-java/grpc-grpc-java-1.17.2_exhaustive_a.rsf) = 523
+The Mojo value is 523
+
+MoJo(grpc-grpc-java/grpc-grpc-java-1.18.0_hillclimbing_a.rsf,grpc-grpc-java/grpc-grpc-java-1.18.0_hillclimbing_b.rsf) = 911
+
+MoJo(grpc-grpc-java/grpc-grpc-java-1.18.0_hillclimbing_b.rsf,grpc-grpc-java/grpc-grpc-java-1.18.0_hillclimbing_a.rsf) = 842
+The Mojo value is 842
+
+MoJo(grpc-grpc-java/grpc-grpc-java-1.18.0_ga_a.rsf,grpc-grpc-java/grpc-grpc-java-1.18.0_ga_b.rsf) = 924
+
+MoJo(grpc-grpc-java/grpc-grpc-java-1.18.0_ga_b.rsf,grpc-grpc-java/grpc-grpc-java-1.18.0_ga_a.rsf) = 790
+The Mojo value is 790
+
+MoJo(grpc-grpc-java/grpc-grpc-java-1.18.0_exhaustive_a.rsf,grpc-grpc-java/grpc-grpc-java-1.18.0_exhaustive_b.rsf) = 960
+
+MoJo(grpc-grpc-java/grpc-grpc-java-1.18.0_exhaustive_b.rsf,grpc-grpc-java/grpc-grpc-java-1.18.0_exhaustive_a.rsf) = 873
+The Mojo value is 873
+
+MoJo(grpc-grpc-java/grpc-grpc-java-1.19.0_hillclimbing_a.rsf,grpc-grpc-java/grpc-grpc-java-1.19.0_hillclimbing_b.rsf) = 786
+
+MoJo(grpc-grpc-java/grpc-grpc-java-1.19.0_hillclimbing_b.rsf,grpc-grpc-java/grpc-grpc-java-1.19.0_hillclimbing_a.rsf) = 894
+The Mojo value is 786
+
+MoJo(grpc-grpc-java/grpc-grpc-java-1.19.0_ga_a.rsf,grpc-grpc-java/grpc-grpc-java-1.19.0_ga_b.rsf) = 846
+
+MoJo(grpc-grpc-java/grpc-grpc-java-1.19.0_ga_b.rsf,grpc-grpc-java/grpc-grpc-java-1.19.0_ga_a.rsf) = 978
+The Mojo value is 846
+
+MoJo(grpc-grpc-java/grpc-grpc-java-1.19.0_exhaustive_a.rsf,grpc-grpc-java/grpc-grpc-java-1.19.0_exhaustive_b.rsf) = 863
+
+MoJo(grpc-grpc-java/grpc-grpc-java-1.19.0_exhaustive_b.rsf,grpc-grpc-java/grpc-grpc-java-1.19.0_exhaustive_a.rsf) = 735
+The Mojo value is 735
+
+MoJo(grpc-grpc-java/grpc-grpc-java-1.20.0_hillclimbing_a.rsf,grpc-grpc-java/grpc-grpc-java-1.20.0_hillclimbing_b.rsf) = 629
+
+MoJo(grpc-grpc-java/grpc-grpc-java-1.20.0_hillclimbing_b.rsf,grpc-grpc-java/grpc-grpc-java-1.20.0_hillclimbing_a.rsf) = 608
+The Mojo value is 608
+
+MoJo(grpc-grpc-java/grpc-grpc-java-1.20.0_ga_a.rsf,grpc-grpc-java/grpc-grpc-java-1.20.0_ga_b.rsf) = 658
+
+MoJo(grpc-grpc-java/grpc-grpc-java-1.20.0_ga_b.rsf,grpc-grpc-java/grpc-grpc-java-1.20.0_ga_a.rsf) = 673
+The Mojo value is 658
+
+MoJo(grpc-grpc-java/grpc-grpc-java-1.20.0_exhaustive_a.rsf,grpc-grpc-java/grpc-grpc-java-1.20.0_exhaustive_b.rsf) = 652
+
+MoJo(grpc-grpc-java/grpc-grpc-java-1.20.0_exhaustive_b.rsf,grpc-grpc-java/grpc-grpc-java-1.20.0_exhaustive_a.rsf) = 677
+The Mojo value is 652
+
+MoJo(grpc-grpc-java/grpc-grpc-java-1.21.0_hillclimbing_a.rsf,grpc-grpc-java/grpc-grpc-java-1.21.0_hillclimbing_b.rsf) = 597
+
+MoJo(grpc-grpc-java/grpc-grpc-java-1.21.0_hillclimbing_b.rsf,grpc-grpc-java/grpc-grpc-java-1.21.0_hillclimbing_a.rsf) = 600
+The Mojo value is 597
+
+MoJo(grpc-grpc-java/grpc-grpc-java-1.21.0_ga_a.rsf,grpc-grpc-java/grpc-grpc-java-1.21.0_ga_b.rsf) = 635
+
+MoJo(grpc-grpc-java/grpc-grpc-java-1.21.0_ga_b.rsf,grpc-grpc-java/grpc-grpc-java-1.21.0_ga_a.rsf) = 568
+The Mojo value is 568
+
+MoJo(grpc-grpc-java/grpc-grpc-java-1.21.0_exhaustive_a.rsf,grpc-grpc-java/grpc-grpc-java-1.21.0_exhaustive_b.rsf) = 680
+
+MoJo(grpc-grpc-java/grpc-grpc-java-1.21.0_exhaustive_b.rsf,grpc-grpc-java/grpc-grpc-java-1.21.0_exhaustive_a.rsf) = 634
+The Mojo value is 634
+
+MoJo(grpc-grpc-java/grpc-grpc-java-1.21.1_hillclimbing_a.rsf,grpc-grpc-java/grpc-grpc-java-1.21.1_hillclimbing_b.rsf) = 668
+
+MoJo(grpc-grpc-java/grpc-grpc-java-1.21.1_hillclimbing_b.rsf,grpc-grpc-java/grpc-grpc-java-1.21.1_hillclimbing_a.rsf) = 657
+The Mojo value is 657
+
+MoJo(grpc-grpc-java/grpc-grpc-java-1.21.1_ga_a.rsf,grpc-grpc-java/grpc-grpc-java-1.21.1_ga_b.rsf) = 654
+
+MoJo(grpc-grpc-java/grpc-grpc-java-1.21.1_ga_b.rsf,grpc-grpc-java/grpc-grpc-java-1.21.1_ga_a.rsf) = 646
+The Mojo value is 646
+
+MoJo(grpc-grpc-java/grpc-grpc-java-1.21.1_exhaustive_a.rsf,grpc-grpc-java/grpc-grpc-java-1.21.1_exhaustive_b.rsf) = 652
+
+MoJo(grpc-grpc-java/grpc-grpc-java-1.21.1_exhaustive_b.rsf,grpc-grpc-java/grpc-grpc-java-1.21.1_exhaustive_a.rsf) = 547
+The Mojo value is 547
+
+MoJo(grpc-grpc-java/grpc-grpc-java-1.22.0_hillclimbing_a.rsf,grpc-grpc-java/grpc-grpc-java-1.22.0_hillclimbing_b.rsf) = 669
+
+MoJo(grpc-grpc-java/grpc-grpc-java-1.22.0_hillclimbing_b.rsf,grpc-grpc-java/grpc-grpc-java-1.22.0_hillclimbing_a.rsf) = 669
+The Mojo value is 669
+
+MoJo(grpc-grpc-java/grpc-grpc-java-1.22.0_ga_a.rsf,grpc-grpc-java/grpc-grpc-java-1.22.0_ga_b.rsf) = 677
+
+MoJo(grpc-grpc-java/grpc-grpc-java-1.22.0_ga_b.rsf,grpc-grpc-java/grpc-grpc-java-1.22.0_ga_a.rsf) = 684
+The Mojo value is 677
+
+MoJo(grpc-grpc-java/grpc-grpc-java-1.22.0_exhaustive_a.rsf,grpc-grpc-java/grpc-grpc-java-1.22.0_exhaustive_b.rsf) = 671
+
+MoJo(grpc-grpc-java/grpc-grpc-java-1.22.0_exhaustive_b.rsf,grpc-grpc-java/grpc-grpc-java-1.22.0_exhaustive_a.rsf) = 688
+The Mojo value is 671
+
+MoJo(grpc-grpc-java/grpc-grpc-java-1.22.1_hillclimbing_a.rsf,grpc-grpc-java/grpc-grpc-java-1.22.1_hillclimbing_b.rsf) = 690
+
+MoJo(grpc-grpc-java/grpc-grpc-java-1.22.1_hillclimbing_b.rsf,grpc-grpc-java/grpc-grpc-java-1.22.1_hillclimbing_a.rsf) = 691
+The Mojo value is 690
+
+MoJo(grpc-grpc-java/grpc-grpc-java-1.22.1_ga_a.rsf,grpc-grpc-java/grpc-grpc-java-1.22.1_ga_b.rsf) = 693
+
+MoJo(grpc-grpc-java/grpc-grpc-java-1.22.1_ga_b.rsf,grpc-grpc-java/grpc-grpc-java-1.22.1_ga_a.rsf) = 599
+The Mojo value is 599
+
+MoJo(grpc-grpc-java/grpc-grpc-java-1.22.1_exhaustive_a.rsf,grpc-grpc-java/grpc-grpc-java-1.22.1_exhaustive_b.rsf) = 647
+
+MoJo(grpc-grpc-java/grpc-grpc-java-1.22.1_exhaustive_b.rsf,grpc-grpc-java/grpc-grpc-java-1.22.1_exhaustive_a.rsf) = 588
+The Mojo value is 588
+
+MoJo(grpc-grpc-java/grpc-grpc-java-1.22.2_hillclimbing_a.rsf,grpc-grpc-java/grpc-grpc-java-1.22.2_hillclimbing_b.rsf) = 690
+
+MoJo(grpc-grpc-java/grpc-grpc-java-1.22.2_hillclimbing_b.rsf,grpc-grpc-java/grpc-grpc-java-1.22.2_hillclimbing_a.rsf) = 684
+The Mojo value is 684
+
+MoJo(grpc-grpc-java/grpc-grpc-java-1.22.2_ga_a.rsf,grpc-grpc-java/grpc-grpc-java-1.22.2_ga_b.rsf) = 673
+
+MoJo(grpc-grpc-java/grpc-grpc-java-1.22.2_ga_b.rsf,grpc-grpc-java/grpc-grpc-java-1.22.2_ga_a.rsf) = 629
+The Mojo value is 629
+
+MoJo(grpc-grpc-java/grpc-grpc-java-1.22.2_exhaustive_a.rsf,grpc-grpc-java/grpc-grpc-java-1.22.2_exhaustive_b.rsf) = 665
+
+MoJo(grpc-grpc-java/grpc-grpc-java-1.22.2_exhaustive_b.rsf,grpc-grpc-java/grpc-grpc-java-1.22.2_exhaustive_a.rsf) = 699
+The Mojo value is 665

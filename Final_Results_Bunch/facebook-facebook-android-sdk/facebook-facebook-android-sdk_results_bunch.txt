@@ -1,0 +1,150 @@
+
+MoJo(facebook-facebook-android-sdk/facebook-facebook-android-sdk-4.42.0_hillclimbing_a.rsf,facebook-facebook-android-sdk/facebook-facebook-android-sdk-4.42.0_hillclimbing_b.rsf) = 350
+
+MoJo(facebook-facebook-android-sdk/facebook-facebook-android-sdk-4.42.0_hillclimbing_b.rsf,facebook-facebook-android-sdk/facebook-facebook-android-sdk-4.42.0_hillclimbing_a.rsf) = 345
+The Mojo value is 345
+
+MoJo(facebook-facebook-android-sdk/facebook-facebook-android-sdk-4.42.0_ga_a.rsf,facebook-facebook-android-sdk/facebook-facebook-android-sdk-4.42.0_ga_b.rsf) = 337
+
+MoJo(facebook-facebook-android-sdk/facebook-facebook-android-sdk-4.42.0_ga_b.rsf,facebook-facebook-android-sdk/facebook-facebook-android-sdk-4.42.0_ga_a.rsf) = 313
+The Mojo value is 313
+
+MoJo(facebook-facebook-android-sdk/facebook-facebook-android-sdk-4.42.0_exhaustive_a.rsf,facebook-facebook-android-sdk/facebook-facebook-android-sdk-4.42.0_exhaustive_b.rsf) = 355
+
+MoJo(facebook-facebook-android-sdk/facebook-facebook-android-sdk-4.42.0_exhaustive_b.rsf,facebook-facebook-android-sdk/facebook-facebook-android-sdk-4.42.0_exhaustive_a.rsf) = 350
+The Mojo value is 350
+
+MoJo(facebook-facebook-android-sdk/facebook-facebook-android-sdk-5.0.0_hillclimbing_a.rsf,facebook-facebook-android-sdk/facebook-facebook-android-sdk-5.0.0_hillclimbing_b.rsf) = 310
+
+MoJo(facebook-facebook-android-sdk/facebook-facebook-android-sdk-5.0.0_hillclimbing_b.rsf,facebook-facebook-android-sdk/facebook-facebook-android-sdk-5.0.0_hillclimbing_a.rsf) = 289
+The Mojo value is 289
+
+MoJo(facebook-facebook-android-sdk/facebook-facebook-android-sdk-5.0.0_ga_a.rsf,facebook-facebook-android-sdk/facebook-facebook-android-sdk-5.0.0_ga_b.rsf) = 328
+
+MoJo(facebook-facebook-android-sdk/facebook-facebook-android-sdk-5.0.0_ga_b.rsf,facebook-facebook-android-sdk/facebook-facebook-android-sdk-5.0.0_ga_a.rsf) = 257
+The Mojo value is 257
+
+MoJo(facebook-facebook-android-sdk/facebook-facebook-android-sdk-5.0.0_exhaustive_a.rsf,facebook-facebook-android-sdk/facebook-facebook-android-sdk-5.0.0_exhaustive_b.rsf) = 322
+
+MoJo(facebook-facebook-android-sdk/facebook-facebook-android-sdk-5.0.0_exhaustive_b.rsf,facebook-facebook-android-sdk/facebook-facebook-android-sdk-5.0.0_exhaustive_a.rsf) = 231
+The Mojo value is 231
+
+MoJo(facebook-facebook-android-sdk/facebook-facebook-android-sdk-5.0.1_hillclimbing_a.rsf,facebook-facebook-android-sdk/facebook-facebook-android-sdk-5.0.1_hillclimbing_b.rsf) = 329
+
+MoJo(facebook-facebook-android-sdk/facebook-facebook-android-sdk-5.0.1_hillclimbing_b.rsf,facebook-facebook-android-sdk/facebook-facebook-android-sdk-5.0.1_hillclimbing_a.rsf) = 324
+The Mojo value is 324
+
+MoJo(facebook-facebook-android-sdk/facebook-facebook-android-sdk-5.0.1_ga_a.rsf,facebook-facebook-android-sdk/facebook-facebook-android-sdk-5.0.1_ga_b.rsf) = 321
+
+MoJo(facebook-facebook-android-sdk/facebook-facebook-android-sdk-5.0.1_ga_b.rsf,facebook-facebook-android-sdk/facebook-facebook-android-sdk-5.0.1_ga_a.rsf) = 265
+The Mojo value is 265
+
+MoJo(facebook-facebook-android-sdk/facebook-facebook-android-sdk-5.0.1_exhaustive_a.rsf,facebook-facebook-android-sdk/facebook-facebook-android-sdk-5.0.1_exhaustive_b.rsf) = 348
+
+MoJo(facebook-facebook-android-sdk/facebook-facebook-android-sdk-5.0.1_exhaustive_b.rsf,facebook-facebook-android-sdk/facebook-facebook-android-sdk-5.0.1_exhaustive_a.rsf) = 343
+The Mojo value is 343
+
+MoJo(facebook-facebook-android-sdk/facebook-facebook-android-sdk-5.0.2_hillclimbing_a.rsf,facebook-facebook-android-sdk/facebook-facebook-android-sdk-5.0.2_hillclimbing_b.rsf) = 326
+
+MoJo(facebook-facebook-android-sdk/facebook-facebook-android-sdk-5.0.2_hillclimbing_b.rsf,facebook-facebook-android-sdk/facebook-facebook-android-sdk-5.0.2_hillclimbing_a.rsf) = 265
+The Mojo value is 265
+
+MoJo(facebook-facebook-android-sdk/facebook-facebook-android-sdk-5.0.2_ga_a.rsf,facebook-facebook-android-sdk/facebook-facebook-android-sdk-5.0.2_ga_b.rsf) = 360
+
+MoJo(facebook-facebook-android-sdk/facebook-facebook-android-sdk-5.0.2_ga_b.rsf,facebook-facebook-android-sdk/facebook-facebook-android-sdk-5.0.2_ga_a.rsf) = 259
+The Mojo value is 259
+
+MoJo(facebook-facebook-android-sdk/facebook-facebook-android-sdk-5.0.2_exhaustive_a.rsf,facebook-facebook-android-sdk/facebook-facebook-android-sdk-5.0.2_exhaustive_b.rsf) = 360
+
+MoJo(facebook-facebook-android-sdk/facebook-facebook-android-sdk-5.0.2_exhaustive_b.rsf,facebook-facebook-android-sdk/facebook-facebook-android-sdk-5.0.2_exhaustive_a.rsf) = 355
+The Mojo value is 355
+
+MoJo(facebook-facebook-android-sdk/facebook-facebook-android-sdk-5.0.3_hillclimbing_a.rsf,facebook-facebook-android-sdk/facebook-facebook-android-sdk-5.0.3_hillclimbing_b.rsf) = 338
+
+MoJo(facebook-facebook-android-sdk/facebook-facebook-android-sdk-5.0.3_hillclimbing_b.rsf,facebook-facebook-android-sdk/facebook-facebook-android-sdk-5.0.3_hillclimbing_a.rsf) = 359
+The Mojo value is 338
+
+MoJo(facebook-facebook-android-sdk/facebook-facebook-android-sdk-5.0.3_ga_a.rsf,facebook-facebook-android-sdk/facebook-facebook-android-sdk-5.0.3_ga_b.rsf) = 348
+
+MoJo(facebook-facebook-android-sdk/facebook-facebook-android-sdk-5.0.3_ga_b.rsf,facebook-facebook-android-sdk/facebook-facebook-android-sdk-5.0.3_ga_a.rsf) = 291
+The Mojo value is 291
+
+MoJo(facebook-facebook-android-sdk/facebook-facebook-android-sdk-5.0.3_exhaustive_a.rsf,facebook-facebook-android-sdk/facebook-facebook-android-sdk-5.0.3_exhaustive_b.rsf) = 349
+
+MoJo(facebook-facebook-android-sdk/facebook-facebook-android-sdk-5.0.3_exhaustive_b.rsf,facebook-facebook-android-sdk/facebook-facebook-android-sdk-5.0.3_exhaustive_a.rsf) = 258
+The Mojo value is 258
+
+MoJo(facebook-facebook-android-sdk/facebook-facebook-android-sdk-5.1.0_hillclimbing_a.rsf,facebook-facebook-android-sdk/facebook-facebook-android-sdk-5.1.0_hillclimbing_b.rsf) = 352
+
+MoJo(facebook-facebook-android-sdk/facebook-facebook-android-sdk-5.1.0_hillclimbing_b.rsf,facebook-facebook-android-sdk/facebook-facebook-android-sdk-5.1.0_hillclimbing_a.rsf) = 360
+The Mojo value is 352
+
+MoJo(facebook-facebook-android-sdk/facebook-facebook-android-sdk-5.1.0_ga_a.rsf,facebook-facebook-android-sdk/facebook-facebook-android-sdk-5.1.0_ga_b.rsf) = 351
+
+MoJo(facebook-facebook-android-sdk/facebook-facebook-android-sdk-5.1.0_ga_b.rsf,facebook-facebook-android-sdk/facebook-facebook-android-sdk-5.1.0_ga_a.rsf) = 341
+The Mojo value is 341
+
+MoJo(facebook-facebook-android-sdk/facebook-facebook-android-sdk-5.1.0_exhaustive_a.rsf,facebook-facebook-android-sdk/facebook-facebook-android-sdk-5.1.0_exhaustive_b.rsf) = 355
+
+MoJo(facebook-facebook-android-sdk/facebook-facebook-android-sdk-5.1.0_exhaustive_b.rsf,facebook-facebook-android-sdk/facebook-facebook-android-sdk-5.1.0_exhaustive_a.rsf) = 343
+The Mojo value is 343
+
+MoJo(facebook-facebook-android-sdk/facebook-facebook-android-sdk-5.1.1_hillclimbing_a.rsf,facebook-facebook-android-sdk/facebook-facebook-android-sdk-5.1.1_hillclimbing_b.rsf) = 327
+
+MoJo(facebook-facebook-android-sdk/facebook-facebook-android-sdk-5.1.1_hillclimbing_b.rsf,facebook-facebook-android-sdk/facebook-facebook-android-sdk-5.1.1_hillclimbing_a.rsf) = 300
+The Mojo value is 300
+
+MoJo(facebook-facebook-android-sdk/facebook-facebook-android-sdk-5.1.1_ga_a.rsf,facebook-facebook-android-sdk/facebook-facebook-android-sdk-5.1.1_ga_b.rsf) = 362
+
+MoJo(facebook-facebook-android-sdk/facebook-facebook-android-sdk-5.1.1_ga_b.rsf,facebook-facebook-android-sdk/facebook-facebook-android-sdk-5.1.1_ga_a.rsf) = 334
+The Mojo value is 334
+
+MoJo(facebook-facebook-android-sdk/facebook-facebook-android-sdk-5.1.1_exhaustive_a.rsf,facebook-facebook-android-sdk/facebook-facebook-android-sdk-5.1.1_exhaustive_b.rsf) = 308
+
+MoJo(facebook-facebook-android-sdk/facebook-facebook-android-sdk-5.1.1_exhaustive_b.rsf,facebook-facebook-android-sdk/facebook-facebook-android-sdk-5.1.1_exhaustive_a.rsf) = 283
+The Mojo value is 283
+
+MoJo(facebook-facebook-android-sdk/facebook-facebook-android-sdk-5.2.0_hillclimbing_a.rsf,facebook-facebook-android-sdk/facebook-facebook-android-sdk-5.2.0_hillclimbing_b.rsf) = 359
+
+MoJo(facebook-facebook-android-sdk/facebook-facebook-android-sdk-5.2.0_hillclimbing_b.rsf,facebook-facebook-android-sdk/facebook-facebook-android-sdk-5.2.0_hillclimbing_a.rsf) = 268
+The Mojo value is 268
+
+MoJo(facebook-facebook-android-sdk/facebook-facebook-android-sdk-5.2.0_ga_a.rsf,facebook-facebook-android-sdk/facebook-facebook-android-sdk-5.2.0_ga_b.rsf) = 336
+
+MoJo(facebook-facebook-android-sdk/facebook-facebook-android-sdk-5.2.0_ga_b.rsf,facebook-facebook-android-sdk/facebook-facebook-android-sdk-5.2.0_ga_a.rsf) = 336
+The Mojo value is 336
+
+MoJo(facebook-facebook-android-sdk/facebook-facebook-android-sdk-5.2.0_exhaustive_a.rsf,facebook-facebook-android-sdk/facebook-facebook-android-sdk-5.2.0_exhaustive_b.rsf) = 368
+
+MoJo(facebook-facebook-android-sdk/facebook-facebook-android-sdk-5.2.0_exhaustive_b.rsf,facebook-facebook-android-sdk/facebook-facebook-android-sdk-5.2.0_exhaustive_a.rsf) = 324
+The Mojo value is 324
+
+MoJo(facebook-facebook-android-sdk/facebook-facebook-android-sdk-5.4.0_hillclimbing_a.rsf,facebook-facebook-android-sdk/facebook-facebook-android-sdk-5.4.0_hillclimbing_b.rsf) = 369
+
+MoJo(facebook-facebook-android-sdk/facebook-facebook-android-sdk-5.4.0_hillclimbing_b.rsf,facebook-facebook-android-sdk/facebook-facebook-android-sdk-5.4.0_hillclimbing_a.rsf) = 349
+The Mojo value is 349
+
+MoJo(facebook-facebook-android-sdk/facebook-facebook-android-sdk-5.4.0_ga_a.rsf,facebook-facebook-android-sdk/facebook-facebook-android-sdk-5.4.0_ga_b.rsf) = 374
+
+MoJo(facebook-facebook-android-sdk/facebook-facebook-android-sdk-5.4.0_ga_b.rsf,facebook-facebook-android-sdk/facebook-facebook-android-sdk-5.4.0_ga_a.rsf) = 336
+The Mojo value is 336
+
+MoJo(facebook-facebook-android-sdk/facebook-facebook-android-sdk-5.4.0_exhaustive_a.rsf,facebook-facebook-android-sdk/facebook-facebook-android-sdk-5.4.0_exhaustive_b.rsf) = 282
+
+MoJo(facebook-facebook-android-sdk/facebook-facebook-android-sdk-5.4.0_exhaustive_b.rsf,facebook-facebook-android-sdk/facebook-facebook-android-sdk-5.4.0_exhaustive_a.rsf) = 259
+The Mojo value is 259
+
+MoJo(facebook-facebook-android-sdk/facebook-facebook-android-sdk-5.5.0_hillclimbing_a.rsf,facebook-facebook-android-sdk/facebook-facebook-android-sdk-5.5.0_hillclimbing_b.rsf) = 343
+
+MoJo(facebook-facebook-android-sdk/facebook-facebook-android-sdk-5.5.0_hillclimbing_b.rsf,facebook-facebook-android-sdk/facebook-facebook-android-sdk-5.5.0_hillclimbing_a.rsf) = 356
+The Mojo value is 343
+
+MoJo(facebook-facebook-android-sdk/facebook-facebook-android-sdk-5.5.0_ga_a.rsf,facebook-facebook-android-sdk/facebook-facebook-android-sdk-5.5.0_ga_b.rsf) = 363
+
+MoJo(facebook-facebook-android-sdk/facebook-facebook-android-sdk-5.5.0_ga_b.rsf,facebook-facebook-android-sdk/facebook-facebook-android-sdk-5.5.0_ga_a.rsf) = 302
+The Mojo value is 302
+
+MoJo(facebook-facebook-android-sdk/facebook-facebook-android-sdk-5.5.0_exhaustive_a.rsf,facebook-facebook-android-sdk/facebook-facebook-android-sdk-5.5.0_exhaustive_b.rsf) = 253
+
+MoJo(facebook-facebook-android-sdk/facebook-facebook-android-sdk-5.5.0_exhaustive_b.rsf,facebook-facebook-android-sdk/facebook-facebook-android-sdk-5.5.0_exhaustive_a.rsf) = 312
+The Mojo value is 253

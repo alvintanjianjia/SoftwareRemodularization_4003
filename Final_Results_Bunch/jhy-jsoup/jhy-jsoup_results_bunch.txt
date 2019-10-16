@@ -1,0 +1,150 @@
+
+MoJo(jhy-jsoup/jhy-jsoup-1.6.0_hillclimbing_a.rsf,jhy-jsoup/jhy-jsoup-1.6.0_hillclimbing_b.rsf) = 41
+
+MoJo(jhy-jsoup/jhy-jsoup-1.6.0_hillclimbing_b.rsf,jhy-jsoup/jhy-jsoup-1.6.0_hillclimbing_a.rsf) = 40
+The Mojo value is 40
+
+MoJo(jhy-jsoup/jhy-jsoup-1.6.0_ga_a.rsf,jhy-jsoup/jhy-jsoup-1.6.0_ga_b.rsf) = 44
+
+MoJo(jhy-jsoup/jhy-jsoup-1.6.0_ga_b.rsf,jhy-jsoup/jhy-jsoup-1.6.0_ga_a.rsf) = 42
+The Mojo value is 42
+
+MoJo(jhy-jsoup/jhy-jsoup-1.6.0_exhaustive_a.rsf,jhy-jsoup/jhy-jsoup-1.6.0_exhaustive_b.rsf) = 44
+
+MoJo(jhy-jsoup/jhy-jsoup-1.6.0_exhaustive_b.rsf,jhy-jsoup/jhy-jsoup-1.6.0_exhaustive_a.rsf) = 41
+The Mojo value is 41
+
+MoJo(jhy-jsoup/jhy-jsoup-1.6.1_hillclimbing_a.rsf,jhy-jsoup/jhy-jsoup-1.6.1_hillclimbing_b.rsf) = 45
+
+MoJo(jhy-jsoup/jhy-jsoup-1.6.1_hillclimbing_b.rsf,jhy-jsoup/jhy-jsoup-1.6.1_hillclimbing_a.rsf) = 44
+The Mojo value is 44
+
+MoJo(jhy-jsoup/jhy-jsoup-1.6.1_ga_a.rsf,jhy-jsoup/jhy-jsoup-1.6.1_ga_b.rsf) = 46
+
+MoJo(jhy-jsoup/jhy-jsoup-1.6.1_ga_b.rsf,jhy-jsoup/jhy-jsoup-1.6.1_ga_a.rsf) = 46
+The Mojo value is 46
+
+MoJo(jhy-jsoup/jhy-jsoup-1.6.1_exhaustive_a.rsf,jhy-jsoup/jhy-jsoup-1.6.1_exhaustive_b.rsf) = 45
+
+MoJo(jhy-jsoup/jhy-jsoup-1.6.1_exhaustive_b.rsf,jhy-jsoup/jhy-jsoup-1.6.1_exhaustive_a.rsf) = 43
+The Mojo value is 43
+
+MoJo(jhy-jsoup/jhy-jsoup-1.6.2_hillclimbing_a.rsf,jhy-jsoup/jhy-jsoup-1.6.2_hillclimbing_b.rsf) = 48
+
+MoJo(jhy-jsoup/jhy-jsoup-1.6.2_hillclimbing_b.rsf,jhy-jsoup/jhy-jsoup-1.6.2_hillclimbing_a.rsf) = 49
+The Mojo value is 48
+
+MoJo(jhy-jsoup/jhy-jsoup-1.6.2_ga_a.rsf,jhy-jsoup/jhy-jsoup-1.6.2_ga_b.rsf) = 53
+
+MoJo(jhy-jsoup/jhy-jsoup-1.6.2_ga_b.rsf,jhy-jsoup/jhy-jsoup-1.6.2_ga_a.rsf) = 52
+The Mojo value is 52
+
+MoJo(jhy-jsoup/jhy-jsoup-1.6.2_exhaustive_a.rsf,jhy-jsoup/jhy-jsoup-1.6.2_exhaustive_b.rsf) = 46
+
+MoJo(jhy-jsoup/jhy-jsoup-1.6.2_exhaustive_b.rsf,jhy-jsoup/jhy-jsoup-1.6.2_exhaustive_a.rsf) = 48
+The Mojo value is 46
+
+MoJo(jhy-jsoup/jhy-jsoup-1.6.3_hillclimbing_a.rsf,jhy-jsoup/jhy-jsoup-1.6.3_hillclimbing_b.rsf) = 53
+
+MoJo(jhy-jsoup/jhy-jsoup-1.6.3_hillclimbing_b.rsf,jhy-jsoup/jhy-jsoup-1.6.3_hillclimbing_a.rsf) = 47
+The Mojo value is 47
+
+MoJo(jhy-jsoup/jhy-jsoup-1.6.3_ga_a.rsf,jhy-jsoup/jhy-jsoup-1.6.3_ga_b.rsf) = 52
+
+MoJo(jhy-jsoup/jhy-jsoup-1.6.3_ga_b.rsf,jhy-jsoup/jhy-jsoup-1.6.3_ga_a.rsf) = 48
+The Mojo value is 48
+
+MoJo(jhy-jsoup/jhy-jsoup-1.6.3_exhaustive_a.rsf,jhy-jsoup/jhy-jsoup-1.6.3_exhaustive_b.rsf) = 49
+
+MoJo(jhy-jsoup/jhy-jsoup-1.6.3_exhaustive_b.rsf,jhy-jsoup/jhy-jsoup-1.6.3_exhaustive_a.rsf) = 30
+The Mojo value is 30
+
+MoJo(jhy-jsoup/jhy-jsoup-1.7.1_hillclimbing_a.rsf,jhy-jsoup/jhy-jsoup-1.7.1_hillclimbing_b.rsf) = 48
+
+MoJo(jhy-jsoup/jhy-jsoup-1.7.1_hillclimbing_b.rsf,jhy-jsoup/jhy-jsoup-1.7.1_hillclimbing_a.rsf) = 49
+The Mojo value is 48
+
+MoJo(jhy-jsoup/jhy-jsoup-1.7.1_ga_a.rsf,jhy-jsoup/jhy-jsoup-1.7.1_ga_b.rsf) = 54
+
+MoJo(jhy-jsoup/jhy-jsoup-1.7.1_ga_b.rsf,jhy-jsoup/jhy-jsoup-1.7.1_ga_a.rsf) = 52
+The Mojo value is 52
+
+MoJo(jhy-jsoup/jhy-jsoup-1.7.1_exhaustive_a.rsf,jhy-jsoup/jhy-jsoup-1.7.1_exhaustive_b.rsf) = 52
+
+MoJo(jhy-jsoup/jhy-jsoup-1.7.1_exhaustive_b.rsf,jhy-jsoup/jhy-jsoup-1.7.1_exhaustive_a.rsf) = 49
+The Mojo value is 49
+
+MoJo(jhy-jsoup/jhy-jsoup-1.7.2_hillclimbing_a.rsf,jhy-jsoup/jhy-jsoup-1.7.2_hillclimbing_b.rsf) = 56
+
+MoJo(jhy-jsoup/jhy-jsoup-1.7.2_hillclimbing_b.rsf,jhy-jsoup/jhy-jsoup-1.7.2_hillclimbing_a.rsf) = 56
+The Mojo value is 56
+
+MoJo(jhy-jsoup/jhy-jsoup-1.7.2_ga_a.rsf,jhy-jsoup/jhy-jsoup-1.7.2_ga_b.rsf) = 58
+
+MoJo(jhy-jsoup/jhy-jsoup-1.7.2_ga_b.rsf,jhy-jsoup/jhy-jsoup-1.7.2_ga_a.rsf) = 49
+The Mojo value is 49
+
+MoJo(jhy-jsoup/jhy-jsoup-1.7.2_exhaustive_a.rsf,jhy-jsoup/jhy-jsoup-1.7.2_exhaustive_b.rsf) = 52
+
+MoJo(jhy-jsoup/jhy-jsoup-1.7.2_exhaustive_b.rsf,jhy-jsoup/jhy-jsoup-1.7.2_exhaustive_a.rsf) = 55
+The Mojo value is 52
+
+MoJo(jhy-jsoup/jhy-jsoup-1.7.3_hillclimbing_a.rsf,jhy-jsoup/jhy-jsoup-1.7.3_hillclimbing_b.rsf) = 48
+
+MoJo(jhy-jsoup/jhy-jsoup-1.7.3_hillclimbing_b.rsf,jhy-jsoup/jhy-jsoup-1.7.3_hillclimbing_a.rsf) = 52
+The Mojo value is 48
+
+MoJo(jhy-jsoup/jhy-jsoup-1.7.3_ga_a.rsf,jhy-jsoup/jhy-jsoup-1.7.3_ga_b.rsf) = 60
+
+MoJo(jhy-jsoup/jhy-jsoup-1.7.3_ga_b.rsf,jhy-jsoup/jhy-jsoup-1.7.3_ga_a.rsf) = 55
+The Mojo value is 55
+
+MoJo(jhy-jsoup/jhy-jsoup-1.7.3_exhaustive_a.rsf,jhy-jsoup/jhy-jsoup-1.7.3_exhaustive_b.rsf) = 46
+
+MoJo(jhy-jsoup/jhy-jsoup-1.7.3_exhaustive_b.rsf,jhy-jsoup/jhy-jsoup-1.7.3_exhaustive_a.rsf) = 53
+The Mojo value is 46
+
+MoJo(jhy-jsoup/jhy-jsoup-1.8.2_hillclimbing_a.rsf,jhy-jsoup/jhy-jsoup-1.8.2_hillclimbing_b.rsf) = 60
+
+MoJo(jhy-jsoup/jhy-jsoup-1.8.2_hillclimbing_b.rsf,jhy-jsoup/jhy-jsoup-1.8.2_hillclimbing_a.rsf) = 56
+The Mojo value is 56
+
+MoJo(jhy-jsoup/jhy-jsoup-1.8.2_ga_a.rsf,jhy-jsoup/jhy-jsoup-1.8.2_ga_b.rsf) = 51
+
+MoJo(jhy-jsoup/jhy-jsoup-1.8.2_ga_b.rsf,jhy-jsoup/jhy-jsoup-1.8.2_ga_a.rsf) = 51
+The Mojo value is 51
+
+MoJo(jhy-jsoup/jhy-jsoup-1.8.2_exhaustive_a.rsf,jhy-jsoup/jhy-jsoup-1.8.2_exhaustive_b.rsf) = 59
+
+MoJo(jhy-jsoup/jhy-jsoup-1.8.2_exhaustive_b.rsf,jhy-jsoup/jhy-jsoup-1.8.2_exhaustive_a.rsf) = 56
+The Mojo value is 56
+
+MoJo(jhy-jsoup/jhy-jsoup-1.8.3_hillclimbing_a.rsf,jhy-jsoup/jhy-jsoup-1.8.3_hillclimbing_b.rsf) = 54
+
+MoJo(jhy-jsoup/jhy-jsoup-1.8.3_hillclimbing_b.rsf,jhy-jsoup/jhy-jsoup-1.8.3_hillclimbing_a.rsf) = 57
+The Mojo value is 54
+
+MoJo(jhy-jsoup/jhy-jsoup-1.8.3_ga_a.rsf,jhy-jsoup/jhy-jsoup-1.8.3_ga_b.rsf) = 50
+
+MoJo(jhy-jsoup/jhy-jsoup-1.8.3_ga_b.rsf,jhy-jsoup/jhy-jsoup-1.8.3_ga_a.rsf) = 42
+The Mojo value is 42
+
+MoJo(jhy-jsoup/jhy-jsoup-1.8.3_exhaustive_a.rsf,jhy-jsoup/jhy-jsoup-1.8.3_exhaustive_b.rsf) = 54
+
+MoJo(jhy-jsoup/jhy-jsoup-1.8.3_exhaustive_b.rsf,jhy-jsoup/jhy-jsoup-1.8.3_exhaustive_a.rsf) = 43
+The Mojo value is 43
+
+MoJo(jhy-jsoup/jhy-jsoup-1.9.1_hillclimbing_a.rsf,jhy-jsoup/jhy-jsoup-1.9.1_hillclimbing_b.rsf) = 57
+
+MoJo(jhy-jsoup/jhy-jsoup-1.9.1_hillclimbing_b.rsf,jhy-jsoup/jhy-jsoup-1.9.1_hillclimbing_a.rsf) = 58
+The Mojo value is 57
+
+MoJo(jhy-jsoup/jhy-jsoup-1.9.1_ga_a.rsf,jhy-jsoup/jhy-jsoup-1.9.1_ga_b.rsf) = 57
+
+MoJo(jhy-jsoup/jhy-jsoup-1.9.1_ga_b.rsf,jhy-jsoup/jhy-jsoup-1.9.1_ga_a.rsf) = 55
+The Mojo value is 55
+
+MoJo(jhy-jsoup/jhy-jsoup-1.9.1_exhaustive_a.rsf,jhy-jsoup/jhy-jsoup-1.9.1_exhaustive_b.rsf) = 53
+
+MoJo(jhy-jsoup/jhy-jsoup-1.9.1_exhaustive_b.rsf,jhy-jsoup/jhy-jsoup-1.9.1_exhaustive_a.rsf) = 33
+The Mojo value is 33

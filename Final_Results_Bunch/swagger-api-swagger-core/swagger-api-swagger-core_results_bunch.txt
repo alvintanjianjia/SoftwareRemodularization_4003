@@ -1,0 +1,145 @@
+
+MoJo(swagger-api-swagger-core/swagger-api-swagger-core-1.5.23_hillclimbing_a.rsf,swagger-api-swagger-core/swagger-api-swagger-core-1.5.23_hillclimbing_b.rsf) = 483
+
+MoJo(swagger-api-swagger-core/swagger-api-swagger-core-1.5.23_hillclimbing_b.rsf,swagger-api-swagger-core/swagger-api-swagger-core-1.5.23_hillclimbing_a.rsf) = 432
+The Mojo value is 432
+
+MoJo(swagger-api-swagger-core/swagger-api-swagger-core-1.5.23_ga_a.rsf,swagger-api-swagger-core/swagger-api-swagger-core-1.5.23_ga_b.rsf) = 488
+
+MoJo(swagger-api-swagger-core/swagger-api-swagger-core-1.5.23_ga_b.rsf,swagger-api-swagger-core/swagger-api-swagger-core-1.5.23_ga_a.rsf) = 419
+The Mojo value is 419
+
+MoJo(swagger-api-swagger-core/swagger-api-swagger-core-1.5.23_exhaustive_a.rsf,swagger-api-swagger-core/swagger-api-swagger-core-1.5.23_exhaustive_b.rsf) = 458
+
+MoJo(swagger-api-swagger-core/swagger-api-swagger-core-1.5.23_exhaustive_b.rsf,swagger-api-swagger-core/swagger-api-swagger-core-1.5.23_exhaustive_a.rsf) = 419
+The Mojo value is 419
+
+MoJo(swagger-api-swagger-core/swagger-api-swagger-core-2.0.0_hillclimbing_a.rsf,swagger-api-swagger-core/swagger-api-swagger-core-2.0.0_hillclimbing_b.rsf) = 488
+
+MoJo(swagger-api-swagger-core/swagger-api-swagger-core-2.0.0_hillclimbing_b.rsf,swagger-api-swagger-core/swagger-api-swagger-core-2.0.0_hillclimbing_a.rsf) = 488
+The Mojo value is 488
+
+MoJo(swagger-api-swagger-core/swagger-api-swagger-core-2.0.0_ga_a.rsf,swagger-api-swagger-core/swagger-api-swagger-core-2.0.0_ga_b.rsf) = 490
+
+MoJo(swagger-api-swagger-core/swagger-api-swagger-core-2.0.0_ga_b.rsf,swagger-api-swagger-core/swagger-api-swagger-core-2.0.0_ga_a.rsf) = 491
+The Mojo value is 490
+
+MoJo(swagger-api-swagger-core/swagger-api-swagger-core-2.0.0_exhaustive_a.rsf,swagger-api-swagger-core/swagger-api-swagger-core-2.0.0_exhaustive_b.rsf) = 476
+
+MoJo(swagger-api-swagger-core/swagger-api-swagger-core-2.0.0_exhaustive_b.rsf,swagger-api-swagger-core/swagger-api-swagger-core-2.0.0_exhaustive_a.rsf) = 476
+The Mojo value is 476
+
+MoJo(swagger-api-swagger-core/swagger-api-swagger-core-2.0.1_hillclimbing_a.rsf,swagger-api-swagger-core/swagger-api-swagger-core-2.0.1_hillclimbing_b.rsf) = 498
+
+MoJo(swagger-api-swagger-core/swagger-api-swagger-core-2.0.1_hillclimbing_b.rsf,swagger-api-swagger-core/swagger-api-swagger-core-2.0.1_hillclimbing_a.rsf) = 497
+The Mojo value is 497
+
+MoJo(swagger-api-swagger-core/swagger-api-swagger-core-2.0.1_ga_a.rsf,swagger-api-swagger-core/swagger-api-swagger-core-2.0.1_ga_b.rsf) = 497
+
+MoJo(swagger-api-swagger-core/swagger-api-swagger-core-2.0.1_ga_b.rsf,swagger-api-swagger-core/swagger-api-swagger-core-2.0.1_ga_a.rsf) = 494
+The Mojo value is 494
+
+MoJo(swagger-api-swagger-core/swagger-api-swagger-core-2.0.1_exhaustive_a.rsf,swagger-api-swagger-core/swagger-api-swagger-core-2.0.1_exhaustive_b.rsf) = 501
+
+MoJo(swagger-api-swagger-core/swagger-api-swagger-core-2.0.1_exhaustive_b.rsf,swagger-api-swagger-core/swagger-api-swagger-core-2.0.1_exhaustive_a.rsf) = 499
+The Mojo value is 499
+
+MoJo(swagger-api-swagger-core/swagger-api-swagger-core-2.0.2_hillclimbing_a.rsf,swagger-api-swagger-core/swagger-api-swagger-core-2.0.2_hillclimbing_b.rsf) = 500
+
+MoJo(swagger-api-swagger-core/swagger-api-swagger-core-2.0.2_hillclimbing_b.rsf,swagger-api-swagger-core/swagger-api-swagger-core-2.0.2_hillclimbing_a.rsf) = 501
+The Mojo value is 500
+
+MoJo(swagger-api-swagger-core/swagger-api-swagger-core-2.0.2_ga_a.rsf,swagger-api-swagger-core/swagger-api-swagger-core-2.0.2_ga_b.rsf) = 500
+
+MoJo(swagger-api-swagger-core/swagger-api-swagger-core-2.0.2_ga_b.rsf,swagger-api-swagger-core/swagger-api-swagger-core-2.0.2_ga_a.rsf) = 499
+The Mojo value is 499
+
+MoJo(swagger-api-swagger-core/swagger-api-swagger-core-2.0.2_exhaustive_a.rsf,swagger-api-swagger-core/swagger-api-swagger-core-2.0.2_exhaustive_b.rsf) = 504
+
+MoJo(swagger-api-swagger-core/swagger-api-swagger-core-2.0.2_exhaustive_b.rsf,swagger-api-swagger-core/swagger-api-swagger-core-2.0.2_exhaustive_a.rsf) = 504
+The Mojo value is 504
+
+MoJo(swagger-api-swagger-core/swagger-api-swagger-core-2.0.3_hillclimbing_a.rsf,swagger-api-swagger-core/swagger-api-swagger-core-2.0.3_hillclimbing_b.rsf) = 521
+
+MoJo(swagger-api-swagger-core/swagger-api-swagger-core-2.0.3_hillclimbing_b.rsf,swagger-api-swagger-core/swagger-api-swagger-core-2.0.3_hillclimbing_a.rsf) = 522
+The Mojo value is 521
+
+MoJo(swagger-api-swagger-core/swagger-api-swagger-core-2.0.3_ga_a.rsf,swagger-api-swagger-core/swagger-api-swagger-core-2.0.3_ga_b.rsf) = 524
+
+MoJo(swagger-api-swagger-core/swagger-api-swagger-core-2.0.3_ga_b.rsf,swagger-api-swagger-core/swagger-api-swagger-core-2.0.3_ga_a.rsf) = 524
+The Mojo value is 524
+
+MoJo(swagger-api-swagger-core/swagger-api-swagger-core-2.0.3_exhaustive_a.rsf,swagger-api-swagger-core/swagger-api-swagger-core-2.0.3_exhaustive_b.rsf) = 525
+
+MoJo(swagger-api-swagger-core/swagger-api-swagger-core-2.0.3_exhaustive_b.rsf,swagger-api-swagger-core/swagger-api-swagger-core-2.0.3_exhaustive_a.rsf) = 525
+The Mojo value is 525
+
+MoJo(swagger-api-swagger-core/swagger-api-swagger-core-2.0.4_hillclimbing_a.rsf,swagger-api-swagger-core/swagger-api-swagger-core-2.0.4_hillclimbing_b.rsf) = 533
+
+MoJo(swagger-api-swagger-core/swagger-api-swagger-core-2.0.4_hillclimbing_b.rsf,swagger-api-swagger-core/swagger-api-swagger-core-2.0.4_hillclimbing_a.rsf) = 531
+The Mojo value is 531
+
+MoJo(swagger-api-swagger-core/swagger-api-swagger-core-2.0.4_ga_a.rsf,swagger-api-swagger-core/swagger-api-swagger-core-2.0.4_ga_b.rsf) = 533
+
+MoJo(swagger-api-swagger-core/swagger-api-swagger-core-2.0.4_ga_b.rsf,swagger-api-swagger-core/swagger-api-swagger-core-2.0.4_ga_a.rsf) = 533
+The Mojo value is 533
+
+MoJo(swagger-api-swagger-core/swagger-api-swagger-core-2.0.4_exhaustive_a.rsf,swagger-api-swagger-core/swagger-api-swagger-core-2.0.4_exhaustive_b.rsf) = 524
+
+MoJo(swagger-api-swagger-core/swagger-api-swagger-core-2.0.4_exhaustive_b.rsf,swagger-api-swagger-core/swagger-api-swagger-core-2.0.4_exhaustive_a.rsf) = 524
+The Mojo value is 524
+
+MoJo(swagger-api-swagger-core/swagger-api-swagger-core-2.0.5_ga_a.rsf,swagger-api-swagger-core/swagger-api-swagger-core-2.0.5_ga_b.rsf) = 720
+
+MoJo(swagger-api-swagger-core/swagger-api-swagger-core-2.0.5_ga_b.rsf,swagger-api-swagger-core/swagger-api-swagger-core-2.0.5_ga_a.rsf) = 719
+The Mojo value is 719
+
+MoJo(swagger-api-swagger-core/swagger-api-swagger-core-2.0.5_exhaustive_a.rsf,swagger-api-swagger-core/swagger-api-swagger-core-2.0.5_exhaustive_b.rsf) = 716
+
+MoJo(swagger-api-swagger-core/swagger-api-swagger-core-2.0.5_exhaustive_b.rsf,swagger-api-swagger-core/swagger-api-swagger-core-2.0.5_exhaustive_a.rsf) = 717
+The Mojo value is 716
+
+MoJo(swagger-api-swagger-core/swagger-api-swagger-core-2.0.6_hillclimbing_a.rsf,swagger-api-swagger-core/swagger-api-swagger-core-2.0.6_hillclimbing_b.rsf) = 726
+
+MoJo(swagger-api-swagger-core/swagger-api-swagger-core-2.0.6_hillclimbing_b.rsf,swagger-api-swagger-core/swagger-api-swagger-core-2.0.6_hillclimbing_a.rsf) = 726
+The Mojo value is 726
+
+MoJo(swagger-api-swagger-core/swagger-api-swagger-core-2.0.6_ga_a.rsf,swagger-api-swagger-core/swagger-api-swagger-core-2.0.6_ga_b.rsf) = 724
+
+MoJo(swagger-api-swagger-core/swagger-api-swagger-core-2.0.6_ga_b.rsf,swagger-api-swagger-core/swagger-api-swagger-core-2.0.6_ga_a.rsf) = 723
+The Mojo value is 723
+
+MoJo(swagger-api-swagger-core/swagger-api-swagger-core-2.0.6_exhaustive_a.rsf,swagger-api-swagger-core/swagger-api-swagger-core-2.0.6_exhaustive_b.rsf) = 724
+
+MoJo(swagger-api-swagger-core/swagger-api-swagger-core-2.0.6_exhaustive_b.rsf,swagger-api-swagger-core/swagger-api-swagger-core-2.0.6_exhaustive_a.rsf) = 724
+The Mojo value is 724
+
+MoJo(swagger-api-swagger-core/swagger-api-swagger-core-2.0.7_hillclimbing_a.rsf,swagger-api-swagger-core/swagger-api-swagger-core-2.0.7_hillclimbing_b.rsf) = 734
+
+MoJo(swagger-api-swagger-core/swagger-api-swagger-core-2.0.7_hillclimbing_b.rsf,swagger-api-swagger-core/swagger-api-swagger-core-2.0.7_hillclimbing_a.rsf) = 733
+The Mojo value is 733
+
+MoJo(swagger-api-swagger-core/swagger-api-swagger-core-2.0.7_ga_a.rsf,swagger-api-swagger-core/swagger-api-swagger-core-2.0.7_ga_b.rsf) = 731
+
+MoJo(swagger-api-swagger-core/swagger-api-swagger-core-2.0.7_ga_b.rsf,swagger-api-swagger-core/swagger-api-swagger-core-2.0.7_ga_a.rsf) = 731
+The Mojo value is 731
+
+MoJo(swagger-api-swagger-core/swagger-api-swagger-core-2.0.7_exhaustive_a.rsf,swagger-api-swagger-core/swagger-api-swagger-core-2.0.7_exhaustive_b.rsf) = 733
+
+MoJo(swagger-api-swagger-core/swagger-api-swagger-core-2.0.7_exhaustive_b.rsf,swagger-api-swagger-core/swagger-api-swagger-core-2.0.7_exhaustive_a.rsf) = 733
+The Mojo value is 733
+
+MoJo(swagger-api-swagger-core/swagger-api-swagger-core-2.0.8_hillclimbing_a.rsf,swagger-api-swagger-core/swagger-api-swagger-core-2.0.8_hillclimbing_b.rsf) = 735
+
+MoJo(swagger-api-swagger-core/swagger-api-swagger-core-2.0.8_hillclimbing_b.rsf,swagger-api-swagger-core/swagger-api-swagger-core-2.0.8_hillclimbing_a.rsf) = 735
+The Mojo value is 735
+
+MoJo(swagger-api-swagger-core/swagger-api-swagger-core-2.0.8_ga_a.rsf,swagger-api-swagger-core/swagger-api-swagger-core-2.0.8_ga_b.rsf) = 735
+
+MoJo(swagger-api-swagger-core/swagger-api-swagger-core-2.0.8_ga_b.rsf,swagger-api-swagger-core/swagger-api-swagger-core-2.0.8_ga_a.rsf) = 734
+The Mojo value is 734
+
+MoJo(swagger-api-swagger-core/swagger-api-swagger-core-2.0.8_exhaustive_a.rsf,swagger-api-swagger-core/swagger-api-swagger-core-2.0.8_exhaustive_b.rsf) = 739
+
+MoJo(swagger-api-swagger-core/swagger-api-swagger-core-2.0.8_exhaustive_b.rsf,swagger-api-swagger-core/swagger-api-swagger-core-2.0.8_exhaustive_a.rsf) = 739
+The Mojo value is 739

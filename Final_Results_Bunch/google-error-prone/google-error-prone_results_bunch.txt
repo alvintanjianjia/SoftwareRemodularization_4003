@@ -1,0 +1,150 @@
+
+MoJo(google-error-prone/google-error-prone-2.0.20_hillclimbing_a.rsf,google-error-prone/google-error-prone-2.0.20_hillclimbing_b.rsf) = 646
+
+MoJo(google-error-prone/google-error-prone-2.0.20_hillclimbing_b.rsf,google-error-prone/google-error-prone-2.0.20_hillclimbing_a.rsf) = 786
+The Mojo value is 646
+
+MoJo(google-error-prone/google-error-prone-2.0.20_ga_a.rsf,google-error-prone/google-error-prone-2.0.20_ga_b.rsf) = 859
+
+MoJo(google-error-prone/google-error-prone-2.0.20_ga_b.rsf,google-error-prone/google-error-prone-2.0.20_ga_a.rsf) = 801
+The Mojo value is 801
+
+MoJo(google-error-prone/google-error-prone-2.0.20_exhaustive_a.rsf,google-error-prone/google-error-prone-2.0.20_exhaustive_b.rsf) = 836
+
+MoJo(google-error-prone/google-error-prone-2.0.20_exhaustive_b.rsf,google-error-prone/google-error-prone-2.0.20_exhaustive_a.rsf) = 774
+The Mojo value is 774
+
+MoJo(google-error-prone/google-error-prone-2.0.21_hillclimbing_a.rsf,google-error-prone/google-error-prone-2.0.21_hillclimbing_b.rsf) = 865
+
+MoJo(google-error-prone/google-error-prone-2.0.21_hillclimbing_b.rsf,google-error-prone/google-error-prone-2.0.21_hillclimbing_a.rsf) = 891
+The Mojo value is 865
+
+MoJo(google-error-prone/google-error-prone-2.0.21_ga_a.rsf,google-error-prone/google-error-prone-2.0.21_ga_b.rsf) = 715
+
+MoJo(google-error-prone/google-error-prone-2.0.21_ga_b.rsf,google-error-prone/google-error-prone-2.0.21_ga_a.rsf) = 699
+The Mojo value is 699
+
+MoJo(google-error-prone/google-error-prone-2.0.21_exhaustive_a.rsf,google-error-prone/google-error-prone-2.0.21_exhaustive_b.rsf) = 846
+
+MoJo(google-error-prone/google-error-prone-2.0.21_exhaustive_b.rsf,google-error-prone/google-error-prone-2.0.21_exhaustive_a.rsf) = 603
+The Mojo value is 603
+
+MoJo(google-error-prone/google-error-prone-2.1.0_hillclimbing_a.rsf,google-error-prone/google-error-prone-2.1.0_hillclimbing_b.rsf) = 863
+
+MoJo(google-error-prone/google-error-prone-2.1.0_hillclimbing_b.rsf,google-error-prone/google-error-prone-2.1.0_hillclimbing_a.rsf) = 770
+The Mojo value is 770
+
+MoJo(google-error-prone/google-error-prone-2.1.0_ga_a.rsf,google-error-prone/google-error-prone-2.1.0_ga_b.rsf) = 873
+
+MoJo(google-error-prone/google-error-prone-2.1.0_ga_b.rsf,google-error-prone/google-error-prone-2.1.0_ga_a.rsf) = 881
+The Mojo value is 873
+
+MoJo(google-error-prone/google-error-prone-2.1.0_exhaustive_a.rsf,google-error-prone/google-error-prone-2.1.0_exhaustive_b.rsf) = 867
+
+MoJo(google-error-prone/google-error-prone-2.1.0_exhaustive_b.rsf,google-error-prone/google-error-prone-2.1.0_exhaustive_a.rsf) = 840
+The Mojo value is 840
+
+MoJo(google-error-prone/google-error-prone-2.1.1_hillclimbing_a.rsf,google-error-prone/google-error-prone-2.1.1_hillclimbing_b.rsf) = 904
+
+MoJo(google-error-prone/google-error-prone-2.1.1_hillclimbing_b.rsf,google-error-prone/google-error-prone-2.1.1_hillclimbing_a.rsf) = 720
+The Mojo value is 720
+
+MoJo(google-error-prone/google-error-prone-2.1.1_ga_a.rsf,google-error-prone/google-error-prone-2.1.1_ga_b.rsf) = 890
+
+MoJo(google-error-prone/google-error-prone-2.1.1_ga_b.rsf,google-error-prone/google-error-prone-2.1.1_ga_a.rsf) = 917
+The Mojo value is 890
+
+MoJo(google-error-prone/google-error-prone-2.1.1_exhaustive_a.rsf,google-error-prone/google-error-prone-2.1.1_exhaustive_b.rsf) = 890
+
+MoJo(google-error-prone/google-error-prone-2.1.1_exhaustive_b.rsf,google-error-prone/google-error-prone-2.1.1_exhaustive_a.rsf) = 648
+The Mojo value is 648
+
+MoJo(google-error-prone/google-error-prone-2.1.2_hillclimbing_a.rsf,google-error-prone/google-error-prone-2.1.2_hillclimbing_b.rsf) = 805
+
+MoJo(google-error-prone/google-error-prone-2.1.2_hillclimbing_b.rsf,google-error-prone/google-error-prone-2.1.2_hillclimbing_a.rsf) = 547
+The Mojo value is 547
+
+MoJo(google-error-prone/google-error-prone-2.1.2_ga_a.rsf,google-error-prone/google-error-prone-2.1.2_ga_b.rsf) = 824
+
+MoJo(google-error-prone/google-error-prone-2.1.2_ga_b.rsf,google-error-prone/google-error-prone-2.1.2_ga_a.rsf) = 851
+The Mojo value is 824
+
+MoJo(google-error-prone/google-error-prone-2.1.2_exhaustive_a.rsf,google-error-prone/google-error-prone-2.1.2_exhaustive_b.rsf) = 839
+
+MoJo(google-error-prone/google-error-prone-2.1.2_exhaustive_b.rsf,google-error-prone/google-error-prone-2.1.2_exhaustive_a.rsf) = 858
+The Mojo value is 839
+
+MoJo(google-error-prone/google-error-prone-2.1.3_hillclimbing_a.rsf,google-error-prone/google-error-prone-2.1.3_hillclimbing_b.rsf) = 943
+
+MoJo(google-error-prone/google-error-prone-2.1.3_hillclimbing_b.rsf,google-error-prone/google-error-prone-2.1.3_hillclimbing_a.rsf) = 833
+The Mojo value is 833
+
+MoJo(google-error-prone/google-error-prone-2.1.3_ga_a.rsf,google-error-prone/google-error-prone-2.1.3_ga_b.rsf) = 598
+
+MoJo(google-error-prone/google-error-prone-2.1.3_ga_b.rsf,google-error-prone/google-error-prone-2.1.3_ga_a.rsf) = 337
+The Mojo value is 337
+
+MoJo(google-error-prone/google-error-prone-2.1.3_exhaustive_a.rsf,google-error-prone/google-error-prone-2.1.3_exhaustive_b.rsf) = 903
+
+MoJo(google-error-prone/google-error-prone-2.1.3_exhaustive_b.rsf,google-error-prone/google-error-prone-2.1.3_exhaustive_a.rsf) = 814
+The Mojo value is 814
+
+MoJo(google-error-prone/google-error-prone-2.2.0_hillclimbing_a.rsf,google-error-prone/google-error-prone-2.2.0_hillclimbing_b.rsf) = 845
+
+MoJo(google-error-prone/google-error-prone-2.2.0_hillclimbing_b.rsf,google-error-prone/google-error-prone-2.2.0_hillclimbing_a.rsf) = 805
+The Mojo value is 805
+
+MoJo(google-error-prone/google-error-prone-2.2.0_ga_a.rsf,google-error-prone/google-error-prone-2.2.0_ga_b.rsf) = 843
+
+MoJo(google-error-prone/google-error-prone-2.2.0_ga_b.rsf,google-error-prone/google-error-prone-2.2.0_ga_a.rsf) = 884
+The Mojo value is 843
+
+MoJo(google-error-prone/google-error-prone-2.2.0_exhaustive_a.rsf,google-error-prone/google-error-prone-2.2.0_exhaustive_b.rsf) = 889
+
+MoJo(google-error-prone/google-error-prone-2.2.0_exhaustive_b.rsf,google-error-prone/google-error-prone-2.2.0_exhaustive_a.rsf) = 771
+The Mojo value is 771
+
+MoJo(google-error-prone/google-error-prone-2.3.0_hillclimbing_a.rsf,google-error-prone/google-error-prone-2.3.0_hillclimbing_b.rsf) = 986
+
+MoJo(google-error-prone/google-error-prone-2.3.0_hillclimbing_b.rsf,google-error-prone/google-error-prone-2.3.0_hillclimbing_a.rsf) = 704
+The Mojo value is 704
+
+MoJo(google-error-prone/google-error-prone-2.3.0_ga_a.rsf,google-error-prone/google-error-prone-2.3.0_ga_b.rsf) = 975
+
+MoJo(google-error-prone/google-error-prone-2.3.0_ga_b.rsf,google-error-prone/google-error-prone-2.3.0_ga_a.rsf) = 812
+The Mojo value is 812
+
+MoJo(google-error-prone/google-error-prone-2.3.0_exhaustive_a.rsf,google-error-prone/google-error-prone-2.3.0_exhaustive_b.rsf) = 786
+
+MoJo(google-error-prone/google-error-prone-2.3.0_exhaustive_b.rsf,google-error-prone/google-error-prone-2.3.0_exhaustive_a.rsf) = 587
+The Mojo value is 587
+
+MoJo(google-error-prone/google-error-prone-2.3.1_hillclimbing_a.rsf,google-error-prone/google-error-prone-2.3.1_hillclimbing_b.rsf) = 943
+
+MoJo(google-error-prone/google-error-prone-2.3.1_hillclimbing_b.rsf,google-error-prone/google-error-prone-2.3.1_hillclimbing_a.rsf) = 1017
+The Mojo value is 943
+
+MoJo(google-error-prone/google-error-prone-2.3.1_ga_a.rsf,google-error-prone/google-error-prone-2.3.1_ga_b.rsf) = 991
+
+MoJo(google-error-prone/google-error-prone-2.3.1_ga_b.rsf,google-error-prone/google-error-prone-2.3.1_ga_a.rsf) = 884
+The Mojo value is 884
+
+MoJo(google-error-prone/google-error-prone-2.3.1_exhaustive_a.rsf,google-error-prone/google-error-prone-2.3.1_exhaustive_b.rsf) = 997
+
+MoJo(google-error-prone/google-error-prone-2.3.1_exhaustive_b.rsf,google-error-prone/google-error-prone-2.3.1_exhaustive_a.rsf) = 689
+The Mojo value is 689
+
+MoJo(google-error-prone/google-error-prone-2.3.2_hillclimbing_a.rsf,google-error-prone/google-error-prone-2.3.2_hillclimbing_b.rsf) = 1060
+
+MoJo(google-error-prone/google-error-prone-2.3.2_hillclimbing_b.rsf,google-error-prone/google-error-prone-2.3.2_hillclimbing_a.rsf) = 564
+The Mojo value is 564
+
+MoJo(google-error-prone/google-error-prone-2.3.2_ga_a.rsf,google-error-prone/google-error-prone-2.3.2_ga_b.rsf) = 1092
+
+MoJo(google-error-prone/google-error-prone-2.3.2_ga_b.rsf,google-error-prone/google-error-prone-2.3.2_ga_a.rsf) = 997
+The Mojo value is 997
+
+MoJo(google-error-prone/google-error-prone-2.3.2_exhaustive_a.rsf,google-error-prone/google-error-prone-2.3.2_exhaustive_b.rsf) = 1086
+
+MoJo(google-error-prone/google-error-prone-2.3.2_exhaustive_b.rsf,google-error-prone/google-error-prone-2.3.2_exhaustive_a.rsf) = 1114
+The Mojo value is 1086

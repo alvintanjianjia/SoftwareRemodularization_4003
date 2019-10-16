@@ -1,0 +1,150 @@
+
+MoJo(naver-pinpoint/naver-pinpoint-1.6.2_hillclimbing_a.rsf,naver-pinpoint/naver-pinpoint-1.6.2_hillclimbing_b.rsf) = 2834
+
+MoJo(naver-pinpoint/naver-pinpoint-1.6.2_hillclimbing_b.rsf,naver-pinpoint/naver-pinpoint-1.6.2_hillclimbing_a.rsf) = 2790
+The Mojo value is 2790
+
+MoJo(naver-pinpoint/naver-pinpoint-1.6.2_ga_a.rsf,naver-pinpoint/naver-pinpoint-1.6.2_ga_b.rsf) = 2855
+
+MoJo(naver-pinpoint/naver-pinpoint-1.6.2_ga_b.rsf,naver-pinpoint/naver-pinpoint-1.6.2_ga_a.rsf) = 2813
+The Mojo value is 2813
+
+MoJo(naver-pinpoint/naver-pinpoint-1.6.2_exhaustive_a.rsf,naver-pinpoint/naver-pinpoint-1.6.2_exhaustive_b.rsf) = 2848
+
+MoJo(naver-pinpoint/naver-pinpoint-1.6.2_exhaustive_b.rsf,naver-pinpoint/naver-pinpoint-1.6.2_exhaustive_a.rsf) = 2812
+The Mojo value is 2812
+
+MoJo(naver-pinpoint/naver-pinpoint-1.7.0_hillclimbing_a.rsf,naver-pinpoint/naver-pinpoint-1.7.0_hillclimbing_b.rsf) = 3546
+
+MoJo(naver-pinpoint/naver-pinpoint-1.7.0_hillclimbing_b.rsf,naver-pinpoint/naver-pinpoint-1.7.0_hillclimbing_a.rsf) = 3420
+The Mojo value is 3420
+
+MoJo(naver-pinpoint/naver-pinpoint-1.7.0_ga_a.rsf,naver-pinpoint/naver-pinpoint-1.7.0_ga_b.rsf) = 3548
+
+MoJo(naver-pinpoint/naver-pinpoint-1.7.0_ga_b.rsf,naver-pinpoint/naver-pinpoint-1.7.0_ga_a.rsf) = 3467
+The Mojo value is 3467
+
+MoJo(naver-pinpoint/naver-pinpoint-1.7.0_exhaustive_a.rsf,naver-pinpoint/naver-pinpoint-1.7.0_exhaustive_b.rsf) = 3530
+
+MoJo(naver-pinpoint/naver-pinpoint-1.7.0_exhaustive_b.rsf,naver-pinpoint/naver-pinpoint-1.7.0_exhaustive_a.rsf) = 3428
+The Mojo value is 3428
+
+MoJo(naver-pinpoint/naver-pinpoint-1.7.1_hillclimbing_a.rsf,naver-pinpoint/naver-pinpoint-1.7.1_hillclimbing_b.rsf) = 3540
+
+MoJo(naver-pinpoint/naver-pinpoint-1.7.1_hillclimbing_b.rsf,naver-pinpoint/naver-pinpoint-1.7.1_hillclimbing_a.rsf) = 3470
+The Mojo value is 3470
+
+MoJo(naver-pinpoint/naver-pinpoint-1.7.1_ga_a.rsf,naver-pinpoint/naver-pinpoint-1.7.1_ga_b.rsf) = 3546
+
+MoJo(naver-pinpoint/naver-pinpoint-1.7.1_ga_b.rsf,naver-pinpoint/naver-pinpoint-1.7.1_ga_a.rsf) = 3450
+The Mojo value is 3450
+
+MoJo(naver-pinpoint/naver-pinpoint-1.7.1_exhaustive_a.rsf,naver-pinpoint/naver-pinpoint-1.7.1_exhaustive_b.rsf) = 3543
+
+MoJo(naver-pinpoint/naver-pinpoint-1.7.1_exhaustive_b.rsf,naver-pinpoint/naver-pinpoint-1.7.1_exhaustive_a.rsf) = 3498
+The Mojo value is 3498
+
+MoJo(naver-pinpoint/naver-pinpoint-1.7.2_hillclimbing_a.rsf,naver-pinpoint/naver-pinpoint-1.7.2_hillclimbing_b.rsf) = 3607
+
+MoJo(naver-pinpoint/naver-pinpoint-1.7.2_hillclimbing_b.rsf,naver-pinpoint/naver-pinpoint-1.7.2_hillclimbing_a.rsf) = 3493
+The Mojo value is 3493
+
+MoJo(naver-pinpoint/naver-pinpoint-1.7.2_ga_a.rsf,naver-pinpoint/naver-pinpoint-1.7.2_ga_b.rsf) = 3614
+
+MoJo(naver-pinpoint/naver-pinpoint-1.7.2_ga_b.rsf,naver-pinpoint/naver-pinpoint-1.7.2_ga_a.rsf) = 3488
+The Mojo value is 3488
+
+MoJo(naver-pinpoint/naver-pinpoint-1.7.2_exhaustive_a.rsf,naver-pinpoint/naver-pinpoint-1.7.2_exhaustive_b.rsf) = 3591
+
+MoJo(naver-pinpoint/naver-pinpoint-1.7.2_exhaustive_b.rsf,naver-pinpoint/naver-pinpoint-1.7.2_exhaustive_a.rsf) = 3388
+The Mojo value is 3388
+
+MoJo(naver-pinpoint/naver-pinpoint-1.7.3_hillclimbing_a.rsf,naver-pinpoint/naver-pinpoint-1.7.3_hillclimbing_b.rsf) = 3620
+
+MoJo(naver-pinpoint/naver-pinpoint-1.7.3_hillclimbing_b.rsf,naver-pinpoint/naver-pinpoint-1.7.3_hillclimbing_a.rsf) = 3530
+The Mojo value is 3530
+
+MoJo(naver-pinpoint/naver-pinpoint-1.7.3_ga_a.rsf,naver-pinpoint/naver-pinpoint-1.7.3_ga_b.rsf) = 3581
+
+MoJo(naver-pinpoint/naver-pinpoint-1.7.3_ga_b.rsf,naver-pinpoint/naver-pinpoint-1.7.3_ga_a.rsf) = 3543
+The Mojo value is 3543
+
+MoJo(naver-pinpoint/naver-pinpoint-1.7.3_exhaustive_a.rsf,naver-pinpoint/naver-pinpoint-1.7.3_exhaustive_b.rsf) = 3589
+
+MoJo(naver-pinpoint/naver-pinpoint-1.7.3_exhaustive_b.rsf,naver-pinpoint/naver-pinpoint-1.7.3_exhaustive_a.rsf) = 3304
+The Mojo value is 3304
+
+MoJo(naver-pinpoint/naver-pinpoint-1.8.0_hillclimbing_a.rsf,naver-pinpoint/naver-pinpoint-1.8.0_hillclimbing_b.rsf) = 3915
+
+MoJo(naver-pinpoint/naver-pinpoint-1.8.0_hillclimbing_b.rsf,naver-pinpoint/naver-pinpoint-1.8.0_hillclimbing_a.rsf) = 3785
+The Mojo value is 3785
+
+MoJo(naver-pinpoint/naver-pinpoint-1.8.0_ga_a.rsf,naver-pinpoint/naver-pinpoint-1.8.0_ga_b.rsf) = 3705
+
+MoJo(naver-pinpoint/naver-pinpoint-1.8.0_ga_b.rsf,naver-pinpoint/naver-pinpoint-1.8.0_ga_a.rsf) = 3512
+The Mojo value is 3512
+
+MoJo(naver-pinpoint/naver-pinpoint-1.8.0_exhaustive_a.rsf,naver-pinpoint/naver-pinpoint-1.8.0_exhaustive_b.rsf) = 3913
+
+MoJo(naver-pinpoint/naver-pinpoint-1.8.0_exhaustive_b.rsf,naver-pinpoint/naver-pinpoint-1.8.0_exhaustive_a.rsf) = 3843
+The Mojo value is 3843
+
+MoJo(naver-pinpoint/naver-pinpoint-1.8.1_hillclimbing_a.rsf,naver-pinpoint/naver-pinpoint-1.8.1_hillclimbing_b.rsf) = 4223
+
+MoJo(naver-pinpoint/naver-pinpoint-1.8.1_hillclimbing_b.rsf,naver-pinpoint/naver-pinpoint-1.8.1_hillclimbing_a.rsf) = 4135
+The Mojo value is 4135
+
+MoJo(naver-pinpoint/naver-pinpoint-1.8.1_ga_a.rsf,naver-pinpoint/naver-pinpoint-1.8.1_ga_b.rsf) = 4100
+
+MoJo(naver-pinpoint/naver-pinpoint-1.8.1_ga_b.rsf,naver-pinpoint/naver-pinpoint-1.8.1_ga_a.rsf) = 4116
+The Mojo value is 4100
+
+MoJo(naver-pinpoint/naver-pinpoint-1.8.1_exhaustive_a.rsf,naver-pinpoint/naver-pinpoint-1.8.1_exhaustive_b.rsf) = 4151
+
+MoJo(naver-pinpoint/naver-pinpoint-1.8.1_exhaustive_b.rsf,naver-pinpoint/naver-pinpoint-1.8.1_exhaustive_a.rsf) = 4080
+The Mojo value is 4080
+
+MoJo(naver-pinpoint/naver-pinpoint-1.8.2_hillclimbing_a.rsf,naver-pinpoint/naver-pinpoint-1.8.2_hillclimbing_b.rsf) = 4231
+
+MoJo(naver-pinpoint/naver-pinpoint-1.8.2_hillclimbing_b.rsf,naver-pinpoint/naver-pinpoint-1.8.2_hillclimbing_a.rsf) = 4176
+The Mojo value is 4176
+
+MoJo(naver-pinpoint/naver-pinpoint-1.8.2_ga_a.rsf,naver-pinpoint/naver-pinpoint-1.8.2_ga_b.rsf) = 4230
+
+MoJo(naver-pinpoint/naver-pinpoint-1.8.2_ga_b.rsf,naver-pinpoint/naver-pinpoint-1.8.2_ga_a.rsf) = 4177
+The Mojo value is 4177
+
+MoJo(naver-pinpoint/naver-pinpoint-1.8.2_exhaustive_a.rsf,naver-pinpoint/naver-pinpoint-1.8.2_exhaustive_b.rsf) = 4233
+
+MoJo(naver-pinpoint/naver-pinpoint-1.8.2_exhaustive_b.rsf,naver-pinpoint/naver-pinpoint-1.8.2_exhaustive_a.rsf) = 4113
+The Mojo value is 4113
+
+MoJo(naver-pinpoint/naver-pinpoint-1.8.3_hillclimbing_a.rsf,naver-pinpoint/naver-pinpoint-1.8.3_hillclimbing_b.rsf) = 4174
+
+MoJo(naver-pinpoint/naver-pinpoint-1.8.3_hillclimbing_b.rsf,naver-pinpoint/naver-pinpoint-1.8.3_hillclimbing_a.rsf) = 4145
+The Mojo value is 4145
+
+MoJo(naver-pinpoint/naver-pinpoint-1.8.3_ga_a.rsf,naver-pinpoint/naver-pinpoint-1.8.3_ga_b.rsf) = 4200
+
+MoJo(naver-pinpoint/naver-pinpoint-1.8.3_ga_b.rsf,naver-pinpoint/naver-pinpoint-1.8.3_ga_a.rsf) = 4091
+The Mojo value is 4091
+
+MoJo(naver-pinpoint/naver-pinpoint-1.8.3_exhaustive_a.rsf,naver-pinpoint/naver-pinpoint-1.8.3_exhaustive_b.rsf) = 4107
+
+MoJo(naver-pinpoint/naver-pinpoint-1.8.3_exhaustive_b.rsf,naver-pinpoint/naver-pinpoint-1.8.3_exhaustive_a.rsf) = 4159
+The Mojo value is 4107
+
+MoJo(naver-pinpoint/naver-pinpoint-1.8.4_hillclimbing_a.rsf,naver-pinpoint/naver-pinpoint-1.8.4_hillclimbing_b.rsf) = 4183
+
+MoJo(naver-pinpoint/naver-pinpoint-1.8.4_hillclimbing_b.rsf,naver-pinpoint/naver-pinpoint-1.8.4_hillclimbing_a.rsf) = 3833
+The Mojo value is 3833
+
+MoJo(naver-pinpoint/naver-pinpoint-1.8.4_ga_a.rsf,naver-pinpoint/naver-pinpoint-1.8.4_ga_b.rsf) = 4139
+
+MoJo(naver-pinpoint/naver-pinpoint-1.8.4_ga_b.rsf,naver-pinpoint/naver-pinpoint-1.8.4_ga_a.rsf) = 3884
+The Mojo value is 3884
+
+MoJo(naver-pinpoint/naver-pinpoint-1.8.4_exhaustive_a.rsf,naver-pinpoint/naver-pinpoint-1.8.4_exhaustive_b.rsf) = 4023
+
+MoJo(naver-pinpoint/naver-pinpoint-1.8.4_exhaustive_b.rsf,naver-pinpoint/naver-pinpoint-1.8.4_exhaustive_a.rsf) = 3933
+The Mojo value is 3933

@@ -1,0 +1,126 @@
+
+MoJo(rzwitserloot-lombok/rzwitserloot-lombok-1.16.20_hillclimbing_a.rsf,rzwitserloot-lombok/rzwitserloot-lombok-1.16.20_hillclimbing_b.rsf) = 652
+
+MoJo(rzwitserloot-lombok/rzwitserloot-lombok-1.16.20_hillclimbing_b.rsf,rzwitserloot-lombok/rzwitserloot-lombok-1.16.20_hillclimbing_a.rsf) = 656
+The Mojo value is 652
+
+MoJo(rzwitserloot-lombok/rzwitserloot-lombok-1.16.20_ga_a.rsf,rzwitserloot-lombok/rzwitserloot-lombok-1.16.20_ga_b.rsf) = 646
+
+MoJo(rzwitserloot-lombok/rzwitserloot-lombok-1.16.20_ga_b.rsf,rzwitserloot-lombok/rzwitserloot-lombok-1.16.20_ga_a.rsf) = 651
+The Mojo value is 646
+
+MoJo(rzwitserloot-lombok/rzwitserloot-lombok-1.16.20_exhaustive_a.rsf,rzwitserloot-lombok/rzwitserloot-lombok-1.16.20_exhaustive_b.rsf) = 637
+
+MoJo(rzwitserloot-lombok/rzwitserloot-lombok-1.16.20_exhaustive_b.rsf,rzwitserloot-lombok/rzwitserloot-lombok-1.16.20_exhaustive_a.rsf) = 616
+The Mojo value is 616
+
+MoJo(rzwitserloot-lombok/rzwitserloot-lombok-1.16.22_hillclimbing_a.rsf,rzwitserloot-lombok/rzwitserloot-lombok-1.16.22_hillclimbing_b.rsf) = 654
+
+MoJo(rzwitserloot-lombok/rzwitserloot-lombok-1.16.22_hillclimbing_b.rsf,rzwitserloot-lombok/rzwitserloot-lombok-1.16.22_hillclimbing_a.rsf) = 648
+The Mojo value is 648
+
+MoJo(rzwitserloot-lombok/rzwitserloot-lombok-1.16.22_ga_a.rsf,rzwitserloot-lombok/rzwitserloot-lombok-1.16.22_ga_b.rsf) = 654
+
+MoJo(rzwitserloot-lombok/rzwitserloot-lombok-1.16.22_ga_b.rsf,rzwitserloot-lombok/rzwitserloot-lombok-1.16.22_ga_a.rsf) = 586
+The Mojo value is 586
+
+MoJo(rzwitserloot-lombok/rzwitserloot-lombok-1.16.22_exhaustive_a.rsf,rzwitserloot-lombok/rzwitserloot-lombok-1.16.22_exhaustive_b.rsf) = 664
+
+MoJo(rzwitserloot-lombok/rzwitserloot-lombok-1.16.22_exhaustive_b.rsf,rzwitserloot-lombok/rzwitserloot-lombok-1.16.22_exhaustive_a.rsf) = 669
+The Mojo value is 664
+
+MoJo(rzwitserloot-lombok/rzwitserloot-lombok-1.16.4_hillclimbing_a.rsf,rzwitserloot-lombok/rzwitserloot-lombok-1.16.4_hillclimbing_b.rsf) = 503
+
+MoJo(rzwitserloot-lombok/rzwitserloot-lombok-1.16.4_hillclimbing_b.rsf,rzwitserloot-lombok/rzwitserloot-lombok-1.16.4_hillclimbing_a.rsf) = 436
+The Mojo value is 436
+
+MoJo(rzwitserloot-lombok/rzwitserloot-lombok-1.16.4_ga_a.rsf,rzwitserloot-lombok/rzwitserloot-lombok-1.16.4_ga_b.rsf) = 498
+
+MoJo(rzwitserloot-lombok/rzwitserloot-lombok-1.16.4_ga_b.rsf,rzwitserloot-lombok/rzwitserloot-lombok-1.16.4_ga_a.rsf) = 424
+The Mojo value is 424
+
+MoJo(rzwitserloot-lombok/rzwitserloot-lombok-1.16.4_exhaustive_a.rsf,rzwitserloot-lombok/rzwitserloot-lombok-1.16.4_exhaustive_b.rsf) = 495
+
+MoJo(rzwitserloot-lombok/rzwitserloot-lombok-1.16.4_exhaustive_b.rsf,rzwitserloot-lombok/rzwitserloot-lombok-1.16.4_exhaustive_a.rsf) = 457
+The Mojo value is 457
+The total number of ojbects in source file does not equal the total number of objects in target file
+The total number of ojbects in source file does not equal the total number of objects in target file
+The total number of ojbects in source file does not equal the total number of objects in target file
+The total number of ojbects in source file does not equal the total number of objects in target file
+The total number of ojbects in source file does not equal the total number of objects in target file
+The total number of ojbects in source file does not equal the total number of objects in target file
+
+MoJo(rzwitserloot-lombok/rzwitserloot-lombok-1.18.0_hillclimbing_a.rsf,rzwitserloot-lombok/rzwitserloot-lombok-1.18.0_hillclimbing_b.rsf) = 669
+
+MoJo(rzwitserloot-lombok/rzwitserloot-lombok-1.18.0_hillclimbing_b.rsf,rzwitserloot-lombok/rzwitserloot-lombok-1.18.0_hillclimbing_a.rsf) = 679
+The Mojo value is 669
+
+MoJo(rzwitserloot-lombok/rzwitserloot-lombok-1.18.0_ga_a.rsf,rzwitserloot-lombok/rzwitserloot-lombok-1.18.0_ga_b.rsf) = 589
+
+MoJo(rzwitserloot-lombok/rzwitserloot-lombok-1.18.0_ga_b.rsf,rzwitserloot-lombok/rzwitserloot-lombok-1.18.0_ga_a.rsf) = 592
+The Mojo value is 589
+
+MoJo(rzwitserloot-lombok/rzwitserloot-lombok-1.18.0_exhaustive_a.rsf,rzwitserloot-lombok/rzwitserloot-lombok-1.18.0_exhaustive_b.rsf) = 655
+
+MoJo(rzwitserloot-lombok/rzwitserloot-lombok-1.18.0_exhaustive_b.rsf,rzwitserloot-lombok/rzwitserloot-lombok-1.18.0_exhaustive_a.rsf) = 673
+The Mojo value is 655
+
+MoJo(rzwitserloot-lombok/rzwitserloot-lombok-1.18.10_hillclimbing_a.rsf,rzwitserloot-lombok/rzwitserloot-lombok-1.18.10_hillclimbing_b.rsf) = 839
+
+MoJo(rzwitserloot-lombok/rzwitserloot-lombok-1.18.10_hillclimbing_b.rsf,rzwitserloot-lombok/rzwitserloot-lombok-1.18.10_hillclimbing_a.rsf) = 861
+The Mojo value is 839
+
+MoJo(rzwitserloot-lombok/rzwitserloot-lombok-1.18.10_ga_a.rsf,rzwitserloot-lombok/rzwitserloot-lombok-1.18.10_ga_b.rsf) = 845
+
+MoJo(rzwitserloot-lombok/rzwitserloot-lombok-1.18.10_ga_b.rsf,rzwitserloot-lombok/rzwitserloot-lombok-1.18.10_ga_a.rsf) = 807
+The Mojo value is 807
+
+MoJo(rzwitserloot-lombok/rzwitserloot-lombok-1.18.10_exhaustive_a.rsf,rzwitserloot-lombok/rzwitserloot-lombok-1.18.10_exhaustive_b.rsf) = 841
+
+MoJo(rzwitserloot-lombok/rzwitserloot-lombok-1.18.10_exhaustive_b.rsf,rzwitserloot-lombok/rzwitserloot-lombok-1.18.10_exhaustive_a.rsf) = 837
+The Mojo value is 837
+
+MoJo(rzwitserloot-lombok/rzwitserloot-lombok-1.18.2_hillclimbing_a.rsf,rzwitserloot-lombok/rzwitserloot-lombok-1.18.2_hillclimbing_b.rsf) = 715
+
+MoJo(rzwitserloot-lombok/rzwitserloot-lombok-1.18.2_hillclimbing_b.rsf,rzwitserloot-lombok/rzwitserloot-lombok-1.18.2_hillclimbing_a.rsf) = 707
+The Mojo value is 707
+
+MoJo(rzwitserloot-lombok/rzwitserloot-lombok-1.18.2_ga_a.rsf,rzwitserloot-lombok/rzwitserloot-lombok-1.18.2_ga_b.rsf) = 722
+
+MoJo(rzwitserloot-lombok/rzwitserloot-lombok-1.18.2_ga_b.rsf,rzwitserloot-lombok/rzwitserloot-lombok-1.18.2_ga_a.rsf) = 665
+The Mojo value is 665
+
+MoJo(rzwitserloot-lombok/rzwitserloot-lombok-1.18.2_exhaustive_a.rsf,rzwitserloot-lombok/rzwitserloot-lombok-1.18.2_exhaustive_b.rsf) = 709
+
+MoJo(rzwitserloot-lombok/rzwitserloot-lombok-1.18.2_exhaustive_b.rsf,rzwitserloot-lombok/rzwitserloot-lombok-1.18.2_exhaustive_a.rsf) = 695
+The Mojo value is 695
+
+MoJo(rzwitserloot-lombok/rzwitserloot-lombok-1.18.4_hillclimbing_a.rsf,rzwitserloot-lombok/rzwitserloot-lombok-1.18.4_hillclimbing_b.rsf) = 745
+
+MoJo(rzwitserloot-lombok/rzwitserloot-lombok-1.18.4_hillclimbing_b.rsf,rzwitserloot-lombok/rzwitserloot-lombok-1.18.4_hillclimbing_a.rsf) = 764
+The Mojo value is 745
+
+MoJo(rzwitserloot-lombok/rzwitserloot-lombok-1.18.4_ga_a.rsf,rzwitserloot-lombok/rzwitserloot-lombok-1.18.4_ga_b.rsf) = 681
+
+MoJo(rzwitserloot-lombok/rzwitserloot-lombok-1.18.4_ga_b.rsf,rzwitserloot-lombok/rzwitserloot-lombok-1.18.4_ga_a.rsf) = 733
+The Mojo value is 681
+
+MoJo(rzwitserloot-lombok/rzwitserloot-lombok-1.18.4_exhaustive_a.rsf,rzwitserloot-lombok/rzwitserloot-lombok-1.18.4_exhaustive_b.rsf) = 685
+
+MoJo(rzwitserloot-lombok/rzwitserloot-lombok-1.18.4_exhaustive_b.rsf,rzwitserloot-lombok/rzwitserloot-lombok-1.18.4_exhaustive_a.rsf) = 732
+The Mojo value is 685
+
+MoJo(rzwitserloot-lombok/rzwitserloot-lombok-1.18.6_hillclimbing_a.rsf,rzwitserloot-lombok/rzwitserloot-lombok-1.18.6_hillclimbing_b.rsf) = 778
+
+MoJo(rzwitserloot-lombok/rzwitserloot-lombok-1.18.6_hillclimbing_b.rsf,rzwitserloot-lombok/rzwitserloot-lombok-1.18.6_hillclimbing_a.rsf) = 759
+The Mojo value is 759
+
+MoJo(rzwitserloot-lombok/rzwitserloot-lombok-1.18.6_ga_a.rsf,rzwitserloot-lombok/rzwitserloot-lombok-1.18.6_ga_b.rsf) = 746
+
+MoJo(rzwitserloot-lombok/rzwitserloot-lombok-1.18.6_ga_b.rsf,rzwitserloot-lombok/rzwitserloot-lombok-1.18.6_ga_a.rsf) = 717
+The Mojo value is 717
+
+MoJo(rzwitserloot-lombok/rzwitserloot-lombok-1.18.6_exhaustive_a.rsf,rzwitserloot-lombok/rzwitserloot-lombok-1.18.6_exhaustive_b.rsf) = 759
+
+MoJo(rzwitserloot-lombok/rzwitserloot-lombok-1.18.6_exhaustive_b.rsf,rzwitserloot-lombok/rzwitserloot-lombok-1.18.6_exhaustive_a.rsf) = 774
+The Mojo value is 759

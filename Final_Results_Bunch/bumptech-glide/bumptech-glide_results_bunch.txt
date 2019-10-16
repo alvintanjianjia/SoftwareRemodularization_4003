@@ -1,0 +1,150 @@
+
+MoJo(bumptech-glide/bumptech-glide-4.2.0_hillclimbing_a.rsf,bumptech-glide/bumptech-glide-4.2.0_hillclimbing_b.rsf) = 435
+
+MoJo(bumptech-glide/bumptech-glide-4.2.0_hillclimbing_b.rsf,bumptech-glide/bumptech-glide-4.2.0_hillclimbing_a.rsf) = 425
+The Mojo value is 425
+
+MoJo(bumptech-glide/bumptech-glide-4.2.0_ga_a.rsf,bumptech-glide/bumptech-glide-4.2.0_ga_b.rsf) = 420
+
+MoJo(bumptech-glide/bumptech-glide-4.2.0_ga_b.rsf,bumptech-glide/bumptech-glide-4.2.0_ga_a.rsf) = 424
+The Mojo value is 420
+
+MoJo(bumptech-glide/bumptech-glide-4.2.0_exhaustive_a.rsf,bumptech-glide/bumptech-glide-4.2.0_exhaustive_b.rsf) = 440
+
+MoJo(bumptech-glide/bumptech-glide-4.2.0_exhaustive_b.rsf,bumptech-glide/bumptech-glide-4.2.0_exhaustive_a.rsf) = 422
+The Mojo value is 422
+
+MoJo(bumptech-glide/bumptech-glide-4.3.0_hillclimbing_a.rsf,bumptech-glide/bumptech-glide-4.3.0_hillclimbing_b.rsf) = 457
+
+MoJo(bumptech-glide/bumptech-glide-4.3.0_hillclimbing_b.rsf,bumptech-glide/bumptech-glide-4.3.0_hillclimbing_a.rsf) = 459
+The Mojo value is 457
+
+MoJo(bumptech-glide/bumptech-glide-4.3.0_ga_a.rsf,bumptech-glide/bumptech-glide-4.3.0_ga_b.rsf) = 471
+
+MoJo(bumptech-glide/bumptech-glide-4.3.0_ga_b.rsf,bumptech-glide/bumptech-glide-4.3.0_ga_a.rsf) = 455
+The Mojo value is 455
+
+MoJo(bumptech-glide/bumptech-glide-4.3.0_exhaustive_a.rsf,bumptech-glide/bumptech-glide-4.3.0_exhaustive_b.rsf) = 437
+
+MoJo(bumptech-glide/bumptech-glide-4.3.0_exhaustive_b.rsf,bumptech-glide/bumptech-glide-4.3.0_exhaustive_a.rsf) = 441
+The Mojo value is 437
+
+MoJo(bumptech-glide/bumptech-glide-4.3.1_hillclimbing_a.rsf,bumptech-glide/bumptech-glide-4.3.1_hillclimbing_b.rsf) = 454
+
+MoJo(bumptech-glide/bumptech-glide-4.3.1_hillclimbing_b.rsf,bumptech-glide/bumptech-glide-4.3.1_hillclimbing_a.rsf) = 458
+The Mojo value is 454
+
+MoJo(bumptech-glide/bumptech-glide-4.3.1_ga_a.rsf,bumptech-glide/bumptech-glide-4.3.1_ga_b.rsf) = 447
+
+MoJo(bumptech-glide/bumptech-glide-4.3.1_ga_b.rsf,bumptech-glide/bumptech-glide-4.3.1_ga_a.rsf) = 454
+The Mojo value is 447
+
+MoJo(bumptech-glide/bumptech-glide-4.3.1_exhaustive_a.rsf,bumptech-glide/bumptech-glide-4.3.1_exhaustive_b.rsf) = 464
+
+MoJo(bumptech-glide/bumptech-glide-4.3.1_exhaustive_b.rsf,bumptech-glide/bumptech-glide-4.3.1_exhaustive_a.rsf) = 463
+The Mojo value is 463
+
+MoJo(bumptech-glide/bumptech-glide-4.4.0_hillclimbing_a.rsf,bumptech-glide/bumptech-glide-4.4.0_hillclimbing_b.rsf) = 546
+
+MoJo(bumptech-glide/bumptech-glide-4.4.0_hillclimbing_b.rsf,bumptech-glide/bumptech-glide-4.4.0_hillclimbing_a.rsf) = 538
+The Mojo value is 538
+
+MoJo(bumptech-glide/bumptech-glide-4.4.0_ga_a.rsf,bumptech-glide/bumptech-glide-4.4.0_ga_b.rsf) = 556
+
+MoJo(bumptech-glide/bumptech-glide-4.4.0_ga_b.rsf,bumptech-glide/bumptech-glide-4.4.0_ga_a.rsf) = 552
+The Mojo value is 552
+
+MoJo(bumptech-glide/bumptech-glide-4.4.0_exhaustive_a.rsf,bumptech-glide/bumptech-glide-4.4.0_exhaustive_b.rsf) = 560
+
+MoJo(bumptech-glide/bumptech-glide-4.4.0_exhaustive_b.rsf,bumptech-glide/bumptech-glide-4.4.0_exhaustive_a.rsf) = 566
+The Mojo value is 560
+
+MoJo(bumptech-glide/bumptech-glide-4.5.0_hillclimbing_a.rsf,bumptech-glide/bumptech-glide-4.5.0_hillclimbing_b.rsf) = 570
+
+MoJo(bumptech-glide/bumptech-glide-4.5.0_hillclimbing_b.rsf,bumptech-glide/bumptech-glide-4.5.0_hillclimbing_a.rsf) = 564
+The Mojo value is 564
+
+MoJo(bumptech-glide/bumptech-glide-4.5.0_ga_a.rsf,bumptech-glide/bumptech-glide-4.5.0_ga_b.rsf) = 492
+
+MoJo(bumptech-glide/bumptech-glide-4.5.0_ga_b.rsf,bumptech-glide/bumptech-glide-4.5.0_ga_a.rsf) = 552
+The Mojo value is 492
+
+MoJo(bumptech-glide/bumptech-glide-4.5.0_exhaustive_a.rsf,bumptech-glide/bumptech-glide-4.5.0_exhaustive_b.rsf) = 586
+
+MoJo(bumptech-glide/bumptech-glide-4.5.0_exhaustive_b.rsf,bumptech-glide/bumptech-glide-4.5.0_exhaustive_a.rsf) = 571
+The Mojo value is 571
+
+MoJo(bumptech-glide/bumptech-glide-4.6.0_hillclimbing_a.rsf,bumptech-glide/bumptech-glide-4.6.0_hillclimbing_b.rsf) = 573
+
+MoJo(bumptech-glide/bumptech-glide-4.6.0_hillclimbing_b.rsf,bumptech-glide/bumptech-glide-4.6.0_hillclimbing_a.rsf) = 574
+The Mojo value is 573
+
+MoJo(bumptech-glide/bumptech-glide-4.6.0_ga_a.rsf,bumptech-glide/bumptech-glide-4.6.0_ga_b.rsf) = 581
+
+MoJo(bumptech-glide/bumptech-glide-4.6.0_ga_b.rsf,bumptech-glide/bumptech-glide-4.6.0_ga_a.rsf) = 569
+The Mojo value is 569
+
+MoJo(bumptech-glide/bumptech-glide-4.6.0_exhaustive_a.rsf,bumptech-glide/bumptech-glide-4.6.0_exhaustive_b.rsf) = 578
+
+MoJo(bumptech-glide/bumptech-glide-4.6.0_exhaustive_b.rsf,bumptech-glide/bumptech-glide-4.6.0_exhaustive_a.rsf) = 568
+The Mojo value is 568
+
+MoJo(bumptech-glide/bumptech-glide-4.6.1_hillclimbing_a.rsf,bumptech-glide/bumptech-glide-4.6.1_hillclimbing_b.rsf) = 560
+
+MoJo(bumptech-glide/bumptech-glide-4.6.1_hillclimbing_b.rsf,bumptech-glide/bumptech-glide-4.6.1_hillclimbing_a.rsf) = 538
+The Mojo value is 538
+
+MoJo(bumptech-glide/bumptech-glide-4.6.1_ga_a.rsf,bumptech-glide/bumptech-glide-4.6.1_ga_b.rsf) = 531
+
+MoJo(bumptech-glide/bumptech-glide-4.6.1_ga_b.rsf,bumptech-glide/bumptech-glide-4.6.1_ga_a.rsf) = 493
+The Mojo value is 493
+
+MoJo(bumptech-glide/bumptech-glide-4.6.1_exhaustive_a.rsf,bumptech-glide/bumptech-glide-4.6.1_exhaustive_b.rsf) = 570
+
+MoJo(bumptech-glide/bumptech-glide-4.6.1_exhaustive_b.rsf,bumptech-glide/bumptech-glide-4.6.1_exhaustive_a.rsf) = 560
+The Mojo value is 560
+
+MoJo(bumptech-glide/bumptech-glide-4.7.0_hillclimbing_a.rsf,bumptech-glide/bumptech-glide-4.7.0_hillclimbing_b.rsf) = 552
+
+MoJo(bumptech-glide/bumptech-glide-4.7.0_hillclimbing_b.rsf,bumptech-glide/bumptech-glide-4.7.0_hillclimbing_a.rsf) = 561
+The Mojo value is 552
+
+MoJo(bumptech-glide/bumptech-glide-4.7.0_ga_a.rsf,bumptech-glide/bumptech-glide-4.7.0_ga_b.rsf) = 565
+
+MoJo(bumptech-glide/bumptech-glide-4.7.0_ga_b.rsf,bumptech-glide/bumptech-glide-4.7.0_ga_a.rsf) = 558
+The Mojo value is 558
+
+MoJo(bumptech-glide/bumptech-glide-4.7.0_exhaustive_a.rsf,bumptech-glide/bumptech-glide-4.7.0_exhaustive_b.rsf) = 573
+
+MoJo(bumptech-glide/bumptech-glide-4.7.0_exhaustive_b.rsf,bumptech-glide/bumptech-glide-4.7.0_exhaustive_a.rsf) = 561
+The Mojo value is 561
+
+MoJo(bumptech-glide/bumptech-glide-4.7.1_hillclimbing_a.rsf,bumptech-glide/bumptech-glide-4.7.1_hillclimbing_b.rsf) = 464
+
+MoJo(bumptech-glide/bumptech-glide-4.7.1_hillclimbing_b.rsf,bumptech-glide/bumptech-glide-4.7.1_hillclimbing_a.rsf) = 504
+The Mojo value is 464
+
+MoJo(bumptech-glide/bumptech-glide-4.7.1_ga_a.rsf,bumptech-glide/bumptech-glide-4.7.1_ga_b.rsf) = 548
+
+MoJo(bumptech-glide/bumptech-glide-4.7.1_ga_b.rsf,bumptech-glide/bumptech-glide-4.7.1_ga_a.rsf) = 564
+The Mojo value is 548
+
+MoJo(bumptech-glide/bumptech-glide-4.7.1_exhaustive_a.rsf,bumptech-glide/bumptech-glide-4.7.1_exhaustive_b.rsf) = 580
+
+MoJo(bumptech-glide/bumptech-glide-4.7.1_exhaustive_b.rsf,bumptech-glide/bumptech-glide-4.7.1_exhaustive_a.rsf) = 565
+The Mojo value is 565
+
+MoJo(bumptech-glide/bumptech-glide-4.8.0_hillclimbing_a.rsf,bumptech-glide/bumptech-glide-4.8.0_hillclimbing_b.rsf) = 528
+
+MoJo(bumptech-glide/bumptech-glide-4.8.0_hillclimbing_b.rsf,bumptech-glide/bumptech-glide-4.8.0_hillclimbing_a.rsf) = 534
+The Mojo value is 528
+
+MoJo(bumptech-glide/bumptech-glide-4.8.0_ga_a.rsf,bumptech-glide/bumptech-glide-4.8.0_ga_b.rsf) = 536
+
+MoJo(bumptech-glide/bumptech-glide-4.8.0_ga_b.rsf,bumptech-glide/bumptech-glide-4.8.0_ga_a.rsf) = 528
+The Mojo value is 528
+
+MoJo(bumptech-glide/bumptech-glide-4.8.0_exhaustive_a.rsf,bumptech-glide/bumptech-glide-4.8.0_exhaustive_b.rsf) = 582
+
+MoJo(bumptech-glide/bumptech-glide-4.8.0_exhaustive_b.rsf,bumptech-glide/bumptech-glide-4.8.0_exhaustive_a.rsf) = 566
+The Mojo value is 566

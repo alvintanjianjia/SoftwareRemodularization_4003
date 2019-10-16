@@ -1,0 +1,150 @@
+
+MoJo(mockito-mockito/mockito-mockito-2.28.1_hillclimbing_a.rsf,mockito-mockito/mockito-mockito-2.28.1_hillclimbing_b.rsf) = 636
+
+MoJo(mockito-mockito/mockito-mockito-2.28.1_hillclimbing_b.rsf,mockito-mockito/mockito-mockito-2.28.1_hillclimbing_a.rsf) = 659
+The Mojo value is 636
+
+MoJo(mockito-mockito/mockito-mockito-2.28.1_ga_a.rsf,mockito-mockito/mockito-mockito-2.28.1_ga_b.rsf) = 715
+
+MoJo(mockito-mockito/mockito-mockito-2.28.1_ga_b.rsf,mockito-mockito/mockito-mockito-2.28.1_ga_a.rsf) = 651
+The Mojo value is 651
+
+MoJo(mockito-mockito/mockito-mockito-2.28.1_exhaustive_a.rsf,mockito-mockito/mockito-mockito-2.28.1_exhaustive_b.rsf) = 644
+
+MoJo(mockito-mockito/mockito-mockito-2.28.1_exhaustive_b.rsf,mockito-mockito/mockito-mockito-2.28.1_exhaustive_a.rsf) = 730
+The Mojo value is 644
+
+MoJo(mockito-mockito/mockito-mockito-2.28.2_hillclimbing_a.rsf,mockito-mockito/mockito-mockito-2.28.2_hillclimbing_b.rsf) = 734
+
+MoJo(mockito-mockito/mockito-mockito-2.28.2_hillclimbing_b.rsf,mockito-mockito/mockito-mockito-2.28.2_hillclimbing_a.rsf) = 583
+The Mojo value is 583
+
+MoJo(mockito-mockito/mockito-mockito-2.28.2_ga_a.rsf,mockito-mockito/mockito-mockito-2.28.2_ga_b.rsf) = 631
+
+MoJo(mockito-mockito/mockito-mockito-2.28.2_ga_b.rsf,mockito-mockito/mockito-mockito-2.28.2_ga_a.rsf) = 729
+The Mojo value is 631
+
+MoJo(mockito-mockito/mockito-mockito-2.28.2_exhaustive_a.rsf,mockito-mockito/mockito-mockito-2.28.2_exhaustive_b.rsf) = 721
+
+MoJo(mockito-mockito/mockito-mockito-2.28.2_exhaustive_b.rsf,mockito-mockito/mockito-mockito-2.28.2_exhaustive_a.rsf) = 608
+The Mojo value is 608
+
+MoJo(mockito-mockito/mockito-mockito-3.0.0_hillclimbing_a.rsf,mockito-mockito/mockito-mockito-3.0.0_hillclimbing_b.rsf) = 574
+
+MoJo(mockito-mockito/mockito-mockito-3.0.0_hillclimbing_b.rsf,mockito-mockito/mockito-mockito-3.0.0_hillclimbing_a.rsf) = 638
+The Mojo value is 574
+
+MoJo(mockito-mockito/mockito-mockito-3.0.0_ga_a.rsf,mockito-mockito/mockito-mockito-3.0.0_ga_b.rsf) = 604
+
+MoJo(mockito-mockito/mockito-mockito-3.0.0_ga_b.rsf,mockito-mockito/mockito-mockito-3.0.0_ga_a.rsf) = 636
+The Mojo value is 604
+
+MoJo(mockito-mockito/mockito-mockito-3.0.0_exhaustive_a.rsf,mockito-mockito/mockito-mockito-3.0.0_exhaustive_b.rsf) = 717
+
+MoJo(mockito-mockito/mockito-mockito-3.0.0_exhaustive_b.rsf,mockito-mockito/mockito-mockito-3.0.0_exhaustive_a.rsf) = 670
+The Mojo value is 670
+
+MoJo(mockito-mockito/mockito-mockito-3.0.1_hillclimbing_a.rsf,mockito-mockito/mockito-mockito-3.0.1_hillclimbing_b.rsf) = 688
+
+MoJo(mockito-mockito/mockito-mockito-3.0.1_hillclimbing_b.rsf,mockito-mockito/mockito-mockito-3.0.1_hillclimbing_a.rsf) = 683
+The Mojo value is 683
+
+MoJo(mockito-mockito/mockito-mockito-3.0.1_ga_a.rsf,mockito-mockito/mockito-mockito-3.0.1_ga_b.rsf) = 700
+
+MoJo(mockito-mockito/mockito-mockito-3.0.1_ga_b.rsf,mockito-mockito/mockito-mockito-3.0.1_ga_a.rsf) = 721
+The Mojo value is 700
+
+MoJo(mockito-mockito/mockito-mockito-3.0.1_exhaustive_a.rsf,mockito-mockito/mockito-mockito-3.0.1_exhaustive_b.rsf) = 701
+
+MoJo(mockito-mockito/mockito-mockito-3.0.1_exhaustive_b.rsf,mockito-mockito/mockito-mockito-3.0.1_exhaustive_a.rsf) = 617
+The Mojo value is 617
+
+MoJo(mockito-mockito/mockito-mockito-3.0.2_hillclimbing_a.rsf,mockito-mockito/mockito-mockito-3.0.2_hillclimbing_b.rsf) = 678
+
+MoJo(mockito-mockito/mockito-mockito-3.0.2_hillclimbing_b.rsf,mockito-mockito/mockito-mockito-3.0.2_hillclimbing_a.rsf) = 722
+The Mojo value is 678
+
+MoJo(mockito-mockito/mockito-mockito-3.0.2_ga_a.rsf,mockito-mockito/mockito-mockito-3.0.2_ga_b.rsf) = 399
+
+MoJo(mockito-mockito/mockito-mockito-3.0.2_ga_b.rsf,mockito-mockito/mockito-mockito-3.0.2_ga_a.rsf) = 393
+The Mojo value is 393
+
+MoJo(mockito-mockito/mockito-mockito-3.0.2_exhaustive_a.rsf,mockito-mockito/mockito-mockito-3.0.2_exhaustive_b.rsf) = 736
+
+MoJo(mockito-mockito/mockito-mockito-3.0.2_exhaustive_b.rsf,mockito-mockito/mockito-mockito-3.0.2_exhaustive_a.rsf) = 633
+The Mojo value is 633
+
+MoJo(mockito-mockito/mockito-mockito-3.0.3_hillclimbing_a.rsf,mockito-mockito/mockito-mockito-3.0.3_hillclimbing_b.rsf) = 408
+
+MoJo(mockito-mockito/mockito-mockito-3.0.3_hillclimbing_b.rsf,mockito-mockito/mockito-mockito-3.0.3_hillclimbing_a.rsf) = 479
+The Mojo value is 408
+
+MoJo(mockito-mockito/mockito-mockito-3.0.3_ga_a.rsf,mockito-mockito/mockito-mockito-3.0.3_ga_b.rsf) = 647
+
+MoJo(mockito-mockito/mockito-mockito-3.0.3_ga_b.rsf,mockito-mockito/mockito-mockito-3.0.3_ga_a.rsf) = 636
+The Mojo value is 636
+
+MoJo(mockito-mockito/mockito-mockito-3.0.3_exhaustive_a.rsf,mockito-mockito/mockito-mockito-3.0.3_exhaustive_b.rsf) = 618
+
+MoJo(mockito-mockito/mockito-mockito-3.0.3_exhaustive_b.rsf,mockito-mockito/mockito-mockito-3.0.3_exhaustive_a.rsf) = 708
+The Mojo value is 618
+
+MoJo(mockito-mockito/mockito-mockito-3.0.4_hillclimbing_a.rsf,mockito-mockito/mockito-mockito-3.0.4_hillclimbing_b.rsf) = 695
+
+MoJo(mockito-mockito/mockito-mockito-3.0.4_hillclimbing_b.rsf,mockito-mockito/mockito-mockito-3.0.4_hillclimbing_a.rsf) = 711
+The Mojo value is 695
+
+MoJo(mockito-mockito/mockito-mockito-3.0.4_ga_a.rsf,mockito-mockito/mockito-mockito-3.0.4_ga_b.rsf) = 649
+
+MoJo(mockito-mockito/mockito-mockito-3.0.4_ga_b.rsf,mockito-mockito/mockito-mockito-3.0.4_ga_a.rsf) = 512
+The Mojo value is 512
+
+MoJo(mockito-mockito/mockito-mockito-3.0.4_exhaustive_a.rsf,mockito-mockito/mockito-mockito-3.0.4_exhaustive_b.rsf) = 560
+
+MoJo(mockito-mockito/mockito-mockito-3.0.4_exhaustive_b.rsf,mockito-mockito/mockito-mockito-3.0.4_exhaustive_a.rsf) = 537
+The Mojo value is 537
+
+MoJo(mockito-mockito/mockito-mockito-3.0.5_hillclimbing_a.rsf,mockito-mockito/mockito-mockito-3.0.5_hillclimbing_b.rsf) = 733
+
+MoJo(mockito-mockito/mockito-mockito-3.0.5_hillclimbing_b.rsf,mockito-mockito/mockito-mockito-3.0.5_hillclimbing_a.rsf) = 722
+The Mojo value is 722
+
+MoJo(mockito-mockito/mockito-mockito-3.0.5_ga_a.rsf,mockito-mockito/mockito-mockito-3.0.5_ga_b.rsf) = 601
+
+MoJo(mockito-mockito/mockito-mockito-3.0.5_ga_b.rsf,mockito-mockito/mockito-mockito-3.0.5_ga_a.rsf) = 357
+The Mojo value is 357
+
+MoJo(mockito-mockito/mockito-mockito-3.0.5_exhaustive_a.rsf,mockito-mockito/mockito-mockito-3.0.5_exhaustive_b.rsf) = 696
+
+MoJo(mockito-mockito/mockito-mockito-3.0.5_exhaustive_b.rsf,mockito-mockito/mockito-mockito-3.0.5_exhaustive_a.rsf) = 668
+The Mojo value is 668
+
+MoJo(mockito-mockito/mockito-mockito-3.0.6_hillclimbing_a.rsf,mockito-mockito/mockito-mockito-3.0.6_hillclimbing_b.rsf) = 627
+
+MoJo(mockito-mockito/mockito-mockito-3.0.6_hillclimbing_b.rsf,mockito-mockito/mockito-mockito-3.0.6_hillclimbing_a.rsf) = 669
+The Mojo value is 627
+
+MoJo(mockito-mockito/mockito-mockito-3.0.6_ga_a.rsf,mockito-mockito/mockito-mockito-3.0.6_ga_b.rsf) = 711
+
+MoJo(mockito-mockito/mockito-mockito-3.0.6_ga_b.rsf,mockito-mockito/mockito-mockito-3.0.6_ga_a.rsf) = 715
+The Mojo value is 711
+
+MoJo(mockito-mockito/mockito-mockito-3.0.6_exhaustive_a.rsf,mockito-mockito/mockito-mockito-3.0.6_exhaustive_b.rsf) = 696
+
+MoJo(mockito-mockito/mockito-mockito-3.0.6_exhaustive_b.rsf,mockito-mockito/mockito-mockito-3.0.6_exhaustive_a.rsf) = 720
+The Mojo value is 696
+
+MoJo(mockito-mockito/mockito-mockito-3.0.7_hillclimbing_a.rsf,mockito-mockito/mockito-mockito-3.0.7_hillclimbing_b.rsf) = 700
+
+MoJo(mockito-mockito/mockito-mockito-3.0.7_hillclimbing_b.rsf,mockito-mockito/mockito-mockito-3.0.7_hillclimbing_a.rsf) = 634
+The Mojo value is 634
+
+MoJo(mockito-mockito/mockito-mockito-3.0.7_ga_a.rsf,mockito-mockito/mockito-mockito-3.0.7_ga_b.rsf) = 674
+
+MoJo(mockito-mockito/mockito-mockito-3.0.7_ga_b.rsf,mockito-mockito/mockito-mockito-3.0.7_ga_a.rsf) = 683
+The Mojo value is 674
+
+MoJo(mockito-mockito/mockito-mockito-3.0.7_exhaustive_a.rsf,mockito-mockito/mockito-mockito-3.0.7_exhaustive_b.rsf) = 564
+
+MoJo(mockito-mockito/mockito-mockito-3.0.7_exhaustive_b.rsf,mockito-mockito/mockito-mockito-3.0.7_exhaustive_a.rsf) = 540
+The Mojo value is 540

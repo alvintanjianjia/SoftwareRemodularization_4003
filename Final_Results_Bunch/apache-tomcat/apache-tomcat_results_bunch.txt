@@ -1,0 +1,150 @@
+
+MoJo(apache-tomcat/apache-tomcat-9.0.20_hillclimbing_a.rsf,apache-tomcat/apache-tomcat-9.0.20_hillclimbing_b.rsf) = 2101
+
+MoJo(apache-tomcat/apache-tomcat-9.0.20_hillclimbing_b.rsf,apache-tomcat/apache-tomcat-9.0.20_hillclimbing_a.rsf) = 2105
+The Mojo value is 2101
+
+MoJo(apache-tomcat/apache-tomcat-9.0.20_ga_a.rsf,apache-tomcat/apache-tomcat-9.0.20_ga_b.rsf) = 1775
+
+MoJo(apache-tomcat/apache-tomcat-9.0.20_ga_b.rsf,apache-tomcat/apache-tomcat-9.0.20_ga_a.rsf) = 1880
+The Mojo value is 1775
+
+MoJo(apache-tomcat/apache-tomcat-9.0.20_exhaustive_a.rsf,apache-tomcat/apache-tomcat-9.0.20_exhaustive_b.rsf) = 1859
+
+MoJo(apache-tomcat/apache-tomcat-9.0.20_exhaustive_b.rsf,apache-tomcat/apache-tomcat-9.0.20_exhaustive_a.rsf) = 1816
+The Mojo value is 1816
+
+MoJo(apache-tomcat/apache-tomcat-9.0.21_hillclimbing_a.rsf,apache-tomcat/apache-tomcat-9.0.21_hillclimbing_b.rsf) = 2121
+
+MoJo(apache-tomcat/apache-tomcat-9.0.21_hillclimbing_b.rsf,apache-tomcat/apache-tomcat-9.0.21_hillclimbing_a.rsf) = 2004
+The Mojo value is 2004
+
+MoJo(apache-tomcat/apache-tomcat-9.0.21_ga_a.rsf,apache-tomcat/apache-tomcat-9.0.21_ga_b.rsf) = 1834
+
+MoJo(apache-tomcat/apache-tomcat-9.0.21_ga_b.rsf,apache-tomcat/apache-tomcat-9.0.21_ga_a.rsf) = 1718
+The Mojo value is 1718
+
+MoJo(apache-tomcat/apache-tomcat-9.0.21_exhaustive_a.rsf,apache-tomcat/apache-tomcat-9.0.21_exhaustive_b.rsf) = 2142
+
+MoJo(apache-tomcat/apache-tomcat-9.0.21_exhaustive_b.rsf,apache-tomcat/apache-tomcat-9.0.21_exhaustive_a.rsf) = 2038
+The Mojo value is 2038
+
+MoJo(apache-tomcat/apache-tomcat-9.0.22_hillclimbing_a.rsf,apache-tomcat/apache-tomcat-9.0.22_hillclimbing_b.rsf) = 2060
+
+MoJo(apache-tomcat/apache-tomcat-9.0.22_hillclimbing_b.rsf,apache-tomcat/apache-tomcat-9.0.22_hillclimbing_a.rsf) = 2019
+The Mojo value is 2019
+
+MoJo(apache-tomcat/apache-tomcat-9.0.22_ga_a.rsf,apache-tomcat/apache-tomcat-9.0.22_ga_b.rsf) = 2057
+
+MoJo(apache-tomcat/apache-tomcat-9.0.22_ga_b.rsf,apache-tomcat/apache-tomcat-9.0.22_ga_a.rsf) = 1852
+The Mojo value is 1852
+
+MoJo(apache-tomcat/apache-tomcat-9.0.22_exhaustive_a.rsf,apache-tomcat/apache-tomcat-9.0.22_exhaustive_b.rsf) = 2149
+
+MoJo(apache-tomcat/apache-tomcat-9.0.22_exhaustive_b.rsf,apache-tomcat/apache-tomcat-9.0.22_exhaustive_a.rsf) = 2104
+The Mojo value is 2104
+
+MoJo(apache-tomcat/apache-tomcat-9.0.23_hillclimbing_a.rsf,apache-tomcat/apache-tomcat-9.0.23_hillclimbing_b.rsf) = 1804
+
+MoJo(apache-tomcat/apache-tomcat-9.0.23_hillclimbing_b.rsf,apache-tomcat/apache-tomcat-9.0.23_hillclimbing_a.rsf) = 1791
+The Mojo value is 1791
+
+MoJo(apache-tomcat/apache-tomcat-9.0.23_ga_a.rsf,apache-tomcat/apache-tomcat-9.0.23_ga_b.rsf) = 1929
+
+MoJo(apache-tomcat/apache-tomcat-9.0.23_ga_b.rsf,apache-tomcat/apache-tomcat-9.0.23_ga_a.rsf) = 2039
+The Mojo value is 1929
+
+MoJo(apache-tomcat/apache-tomcat-9.0.23_exhaustive_a.rsf,apache-tomcat/apache-tomcat-9.0.23_exhaustive_b.rsf) = 2096
+
+MoJo(apache-tomcat/apache-tomcat-9.0.23_exhaustive_b.rsf,apache-tomcat/apache-tomcat-9.0.23_exhaustive_a.rsf) = 2005
+The Mojo value is 2005
+
+MoJo(apache-tomcat/apache-tomcat-9.0.24_hillclimbing_a.rsf,apache-tomcat/apache-tomcat-9.0.24_hillclimbing_b.rsf) = 1887
+
+MoJo(apache-tomcat/apache-tomcat-9.0.24_hillclimbing_b.rsf,apache-tomcat/apache-tomcat-9.0.24_hillclimbing_a.rsf) = 1612
+The Mojo value is 1612
+
+MoJo(apache-tomcat/apache-tomcat-9.0.24_ga_a.rsf,apache-tomcat/apache-tomcat-9.0.24_ga_b.rsf) = 2112
+
+MoJo(apache-tomcat/apache-tomcat-9.0.24_ga_b.rsf,apache-tomcat/apache-tomcat-9.0.24_ga_a.rsf) = 1934
+The Mojo value is 1934
+
+MoJo(apache-tomcat/apache-tomcat-9.0.24_exhaustive_a.rsf,apache-tomcat/apache-tomcat-9.0.24_exhaustive_b.rsf) = 1691
+
+MoJo(apache-tomcat/apache-tomcat-9.0.24_exhaustive_b.rsf,apache-tomcat/apache-tomcat-9.0.24_exhaustive_a.rsf) = 1933
+The Mojo value is 1691
+
+MoJo(apache-tomcat/apache-tomcat-9.0.25_hillclimbing_a.rsf,apache-tomcat/apache-tomcat-9.0.25_hillclimbing_b.rsf) = 1646
+
+MoJo(apache-tomcat/apache-tomcat-9.0.25_hillclimbing_b.rsf,apache-tomcat/apache-tomcat-9.0.25_hillclimbing_a.rsf) = 2063
+The Mojo value is 1646
+
+MoJo(apache-tomcat/apache-tomcat-9.0.25_ga_a.rsf,apache-tomcat/apache-tomcat-9.0.25_ga_b.rsf) = 2075
+
+MoJo(apache-tomcat/apache-tomcat-9.0.25_ga_b.rsf,apache-tomcat/apache-tomcat-9.0.25_ga_a.rsf) = 2099
+The Mojo value is 2075
+
+MoJo(apache-tomcat/apache-tomcat-9.0.25_exhaustive_a.rsf,apache-tomcat/apache-tomcat-9.0.25_exhaustive_b.rsf) = 2093
+
+MoJo(apache-tomcat/apache-tomcat-9.0.25_exhaustive_b.rsf,apache-tomcat/apache-tomcat-9.0.25_exhaustive_a.rsf) = 1985
+The Mojo value is 1985
+
+MoJo(apache-tomcat/apache-tomcat-9.0.26_hillclimbing_a.rsf,apache-tomcat/apache-tomcat-9.0.26_hillclimbing_b.rsf) = 1806
+
+MoJo(apache-tomcat/apache-tomcat-9.0.26_hillclimbing_b.rsf,apache-tomcat/apache-tomcat-9.0.26_hillclimbing_a.rsf) = 1688
+The Mojo value is 1688
+
+MoJo(apache-tomcat/apache-tomcat-9.0.26_ga_a.rsf,apache-tomcat/apache-tomcat-9.0.26_ga_b.rsf) = 2077
+
+MoJo(apache-tomcat/apache-tomcat-9.0.26_ga_b.rsf,apache-tomcat/apache-tomcat-9.0.26_ga_a.rsf) = 2001
+The Mojo value is 2001
+
+MoJo(apache-tomcat/apache-tomcat-9.0.26_exhaustive_a.rsf,apache-tomcat/apache-tomcat-9.0.26_exhaustive_b.rsf) = 2144
+
+MoJo(apache-tomcat/apache-tomcat-9.0.26_exhaustive_b.rsf,apache-tomcat/apache-tomcat-9.0.26_exhaustive_a.rsf) = 2162
+The Mojo value is 2144
+
+MoJo(apache-tomcat/apache-tomcat-9.0.6_hillclimbing_a.rsf,apache-tomcat/apache-tomcat-9.0.6_hillclimbing_b.rsf) = 1848
+
+MoJo(apache-tomcat/apache-tomcat-9.0.6_hillclimbing_b.rsf,apache-tomcat/apache-tomcat-9.0.6_hillclimbing_a.rsf) = 2000
+The Mojo value is 1848
+
+MoJo(apache-tomcat/apache-tomcat-9.0.6_ga_a.rsf,apache-tomcat/apache-tomcat-9.0.6_ga_b.rsf) = 1849
+
+MoJo(apache-tomcat/apache-tomcat-9.0.6_ga_b.rsf,apache-tomcat/apache-tomcat-9.0.6_ga_a.rsf) = 1836
+The Mojo value is 1836
+
+MoJo(apache-tomcat/apache-tomcat-9.0.6_exhaustive_a.rsf,apache-tomcat/apache-tomcat-9.0.6_exhaustive_b.rsf) = 1908
+
+MoJo(apache-tomcat/apache-tomcat-9.0.6_exhaustive_b.rsf,apache-tomcat/apache-tomcat-9.0.6_exhaustive_a.rsf) = 1597
+The Mojo value is 1597
+
+MoJo(apache-tomcat/apache-tomcat-9.0.7_hillclimbing_a.rsf,apache-tomcat/apache-tomcat-9.0.7_hillclimbing_b.rsf) = 1963
+
+MoJo(apache-tomcat/apache-tomcat-9.0.7_hillclimbing_b.rsf,apache-tomcat/apache-tomcat-9.0.7_hillclimbing_a.rsf) = 1906
+The Mojo value is 1906
+
+MoJo(apache-tomcat/apache-tomcat-9.0.7_ga_a.rsf,apache-tomcat/apache-tomcat-9.0.7_ga_b.rsf) = 1931
+
+MoJo(apache-tomcat/apache-tomcat-9.0.7_ga_b.rsf,apache-tomcat/apache-tomcat-9.0.7_ga_a.rsf) = 1972
+The Mojo value is 1931
+
+MoJo(apache-tomcat/apache-tomcat-9.0.7_exhaustive_a.rsf,apache-tomcat/apache-tomcat-9.0.7_exhaustive_b.rsf) = 1971
+
+MoJo(apache-tomcat/apache-tomcat-9.0.7_exhaustive_b.rsf,apache-tomcat/apache-tomcat-9.0.7_exhaustive_a.rsf) = 1782
+The Mojo value is 1782
+
+MoJo(apache-tomcat/apache-tomcat-9.0.8_hillclimbing_a.rsf,apache-tomcat/apache-tomcat-9.0.8_hillclimbing_b.rsf) = 1916
+
+MoJo(apache-tomcat/apache-tomcat-9.0.8_hillclimbing_b.rsf,apache-tomcat/apache-tomcat-9.0.8_hillclimbing_a.rsf) = 1951
+The Mojo value is 1916
+
+MoJo(apache-tomcat/apache-tomcat-9.0.8_ga_a.rsf,apache-tomcat/apache-tomcat-9.0.8_ga_b.rsf) = 2037
+
+MoJo(apache-tomcat/apache-tomcat-9.0.8_ga_b.rsf,apache-tomcat/apache-tomcat-9.0.8_ga_a.rsf) = 1920
+The Mojo value is 1920
+
+MoJo(apache-tomcat/apache-tomcat-9.0.8_exhaustive_a.rsf,apache-tomcat/apache-tomcat-9.0.8_exhaustive_b.rsf) = 2044
+
+MoJo(apache-tomcat/apache-tomcat-9.0.8_exhaustive_b.rsf,apache-tomcat/apache-tomcat-9.0.8_exhaustive_a.rsf) = 2011
+The Mojo value is 2011

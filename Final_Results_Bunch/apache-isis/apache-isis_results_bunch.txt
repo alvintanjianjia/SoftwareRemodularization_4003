@@ -1,0 +1,150 @@
+
+MoJo(apache-isis/apache-isis-1.15.0_hillclimbing_a.rsf,apache-isis/apache-isis-1.15.0_hillclimbing_b.rsf) = 2930
+
+MoJo(apache-isis/apache-isis-1.15.0_hillclimbing_b.rsf,apache-isis/apache-isis-1.15.0_hillclimbing_a.rsf) = 2908
+The Mojo value is 2908
+
+MoJo(apache-isis/apache-isis-1.15.0_ga_a.rsf,apache-isis/apache-isis-1.15.0_ga_b.rsf) = 2933
+
+MoJo(apache-isis/apache-isis-1.15.0_ga_b.rsf,apache-isis/apache-isis-1.15.0_ga_a.rsf) = 2742
+The Mojo value is 2742
+
+MoJo(apache-isis/apache-isis-1.15.0_exhaustive_a.rsf,apache-isis/apache-isis-1.15.0_exhaustive_b.rsf) = 2838
+
+MoJo(apache-isis/apache-isis-1.15.0_exhaustive_b.rsf,apache-isis/apache-isis-1.15.0_exhaustive_a.rsf) = 2416
+The Mojo value is 2416
+
+MoJo(apache-isis/apache-isis-1.15.1_hillclimbing_a.rsf,apache-isis/apache-isis-1.15.1_hillclimbing_b.rsf) = 3043
+
+MoJo(apache-isis/apache-isis-1.15.1_hillclimbing_b.rsf,apache-isis/apache-isis-1.15.1_hillclimbing_a.rsf) = 2836
+The Mojo value is 2836
+
+MoJo(apache-isis/apache-isis-1.15.1_ga_a.rsf,apache-isis/apache-isis-1.15.1_ga_b.rsf) = 2923
+
+MoJo(apache-isis/apache-isis-1.15.1_ga_b.rsf,apache-isis/apache-isis-1.15.1_ga_a.rsf) = 2453
+The Mojo value is 2453
+
+MoJo(apache-isis/apache-isis-1.15.1_exhaustive_a.rsf,apache-isis/apache-isis-1.15.1_exhaustive_b.rsf) = 2961
+
+MoJo(apache-isis/apache-isis-1.15.1_exhaustive_b.rsf,apache-isis/apache-isis-1.15.1_exhaustive_a.rsf) = 2722
+The Mojo value is 2722
+
+MoJo(apache-isis/apache-isis-1.16.0_hillclimbing_a.rsf,apache-isis/apache-isis-1.16.0_hillclimbing_b.rsf) = 2708
+
+MoJo(apache-isis/apache-isis-1.16.0_hillclimbing_b.rsf,apache-isis/apache-isis-1.16.0_hillclimbing_a.rsf) = 2908
+The Mojo value is 2708
+
+MoJo(apache-isis/apache-isis-1.16.0_ga_a.rsf,apache-isis/apache-isis-1.16.0_ga_b.rsf) = 3118
+
+MoJo(apache-isis/apache-isis-1.16.0_ga_b.rsf,apache-isis/apache-isis-1.16.0_ga_a.rsf) = 3035
+The Mojo value is 3035
+
+MoJo(apache-isis/apache-isis-1.16.0_exhaustive_a.rsf,apache-isis/apache-isis-1.16.0_exhaustive_b.rsf) = 3131
+
+MoJo(apache-isis/apache-isis-1.16.0_exhaustive_b.rsf,apache-isis/apache-isis-1.16.0_exhaustive_a.rsf) = 2864
+The Mojo value is 2864
+
+MoJo(apache-isis/apache-isis-1.16.1_hillclimbing_a.rsf,apache-isis/apache-isis-1.16.1_hillclimbing_b.rsf) = 3132
+
+MoJo(apache-isis/apache-isis-1.16.1_hillclimbing_b.rsf,apache-isis/apache-isis-1.16.1_hillclimbing_a.rsf) = 2684
+The Mojo value is 2684
+
+MoJo(apache-isis/apache-isis-1.16.1_ga_a.rsf,apache-isis/apache-isis-1.16.1_ga_b.rsf) = 2773
+
+MoJo(apache-isis/apache-isis-1.16.1_ga_b.rsf,apache-isis/apache-isis-1.16.1_ga_a.rsf) = 2946
+The Mojo value is 2773
+
+MoJo(apache-isis/apache-isis-1.16.1_exhaustive_a.rsf,apache-isis/apache-isis-1.16.1_exhaustive_b.rsf) = 3039
+
+MoJo(apache-isis/apache-isis-1.16.1_exhaustive_b.rsf,apache-isis/apache-isis-1.16.1_exhaustive_a.rsf) = 2745
+The Mojo value is 2745
+
+MoJo(apache-isis/apache-isis-1.16.2_hillclimbing_a.rsf,apache-isis/apache-isis-1.16.2_hillclimbing_b.rsf) = 2983
+
+MoJo(apache-isis/apache-isis-1.16.2_hillclimbing_b.rsf,apache-isis/apache-isis-1.16.2_hillclimbing_a.rsf) = 2662
+The Mojo value is 2662
+
+MoJo(apache-isis/apache-isis-1.16.2_ga_a.rsf,apache-isis/apache-isis-1.16.2_ga_b.rsf) = 3128
+
+MoJo(apache-isis/apache-isis-1.16.2_ga_b.rsf,apache-isis/apache-isis-1.16.2_ga_a.rsf) = 2998
+The Mojo value is 2998
+
+MoJo(apache-isis/apache-isis-1.16.2_exhaustive_a.rsf,apache-isis/apache-isis-1.16.2_exhaustive_b.rsf) = 3066
+
+MoJo(apache-isis/apache-isis-1.16.2_exhaustive_b.rsf,apache-isis/apache-isis-1.16.2_exhaustive_a.rsf) = 3152
+The Mojo value is 3066
+
+MoJo(apache-isis/apache-isis-1.17.0_hillclimbing_a.rsf,apache-isis/apache-isis-1.17.0_hillclimbing_b.rsf) = 3074
+
+MoJo(apache-isis/apache-isis-1.17.0_hillclimbing_b.rsf,apache-isis/apache-isis-1.17.0_hillclimbing_a.rsf) = 2741
+The Mojo value is 2741
+
+MoJo(apache-isis/apache-isis-1.17.0_ga_a.rsf,apache-isis/apache-isis-1.17.0_ga_b.rsf) = 3163
+
+MoJo(apache-isis/apache-isis-1.17.0_ga_b.rsf,apache-isis/apache-isis-1.17.0_ga_a.rsf) = 2992
+The Mojo value is 2992
+
+MoJo(apache-isis/apache-isis-1.17.0_exhaustive_a.rsf,apache-isis/apache-isis-1.17.0_exhaustive_b.rsf) = 3163
+
+MoJo(apache-isis/apache-isis-1.17.0_exhaustive_b.rsf,apache-isis/apache-isis-1.17.0_exhaustive_a.rsf) = 2836
+The Mojo value is 2836
+
+MoJo(apache-isis/apache-isis-1.6.0_hillclimbing_a.rsf,apache-isis/apache-isis-1.6.0_hillclimbing_b.rsf) = 4239
+
+MoJo(apache-isis/apache-isis-1.6.0_hillclimbing_b.rsf,apache-isis/apache-isis-1.6.0_hillclimbing_a.rsf) = 4141
+The Mojo value is 4141
+
+MoJo(apache-isis/apache-isis-1.6.0_ga_a.rsf,apache-isis/apache-isis-1.6.0_ga_b.rsf) = 4343
+
+MoJo(apache-isis/apache-isis-1.6.0_ga_b.rsf,apache-isis/apache-isis-1.6.0_ga_a.rsf) = 4333
+The Mojo value is 4333
+
+MoJo(apache-isis/apache-isis-1.6.0_exhaustive_a.rsf,apache-isis/apache-isis-1.6.0_exhaustive_b.rsf) = 3833
+
+MoJo(apache-isis/apache-isis-1.6.0_exhaustive_b.rsf,apache-isis/apache-isis-1.6.0_exhaustive_a.rsf) = 4202
+The Mojo value is 3833
+
+MoJo(apache-isis/apache-isis-1.7.0_hillclimbing_a.rsf,apache-isis/apache-isis-1.7.0_hillclimbing_b.rsf) = 4197
+
+MoJo(apache-isis/apache-isis-1.7.0_hillclimbing_b.rsf,apache-isis/apache-isis-1.7.0_hillclimbing_a.rsf) = 4272
+The Mojo value is 4197
+
+MoJo(apache-isis/apache-isis-1.7.0_ga_a.rsf,apache-isis/apache-isis-1.7.0_ga_b.rsf) = 4297
+
+MoJo(apache-isis/apache-isis-1.7.0_ga_b.rsf,apache-isis/apache-isis-1.7.0_ga_a.rsf) = 4184
+The Mojo value is 4184
+
+MoJo(apache-isis/apache-isis-1.7.0_exhaustive_a.rsf,apache-isis/apache-isis-1.7.0_exhaustive_b.rsf) = 4377
+
+MoJo(apache-isis/apache-isis-1.7.0_exhaustive_b.rsf,apache-isis/apache-isis-1.7.0_exhaustive_a.rsf) = 4277
+The Mojo value is 4277
+
+MoJo(apache-isis/apache-isis-1.8.0_hillclimbing_a.rsf,apache-isis/apache-isis-1.8.0_hillclimbing_b.rsf) = 4620
+
+MoJo(apache-isis/apache-isis-1.8.0_hillclimbing_b.rsf,apache-isis/apache-isis-1.8.0_hillclimbing_a.rsf) = 4359
+The Mojo value is 4359
+
+MoJo(apache-isis/apache-isis-1.8.0_ga_a.rsf,apache-isis/apache-isis-1.8.0_ga_b.rsf) = 4656
+
+MoJo(apache-isis/apache-isis-1.8.0_ga_b.rsf,apache-isis/apache-isis-1.8.0_ga_a.rsf) = 4548
+The Mojo value is 4548
+
+MoJo(apache-isis/apache-isis-1.8.0_exhaustive_a.rsf,apache-isis/apache-isis-1.8.0_exhaustive_b.rsf) = 4634
+
+MoJo(apache-isis/apache-isis-1.8.0_exhaustive_b.rsf,apache-isis/apache-isis-1.8.0_exhaustive_a.rsf) = 4602
+The Mojo value is 4602
+
+MoJo(apache-isis/apache-isis-1.9.0_hillclimbing_a.rsf,apache-isis/apache-isis-1.9.0_hillclimbing_b.rsf) = 4700
+
+MoJo(apache-isis/apache-isis-1.9.0_hillclimbing_b.rsf,apache-isis/apache-isis-1.9.0_hillclimbing_a.rsf) = 4622
+The Mojo value is 4622
+
+MoJo(apache-isis/apache-isis-1.9.0_ga_a.rsf,apache-isis/apache-isis-1.9.0_ga_b.rsf) = 4661
+
+MoJo(apache-isis/apache-isis-1.9.0_ga_b.rsf,apache-isis/apache-isis-1.9.0_ga_a.rsf) = 4533
+The Mojo value is 4533
+
+MoJo(apache-isis/apache-isis-1.9.0_exhaustive_a.rsf,apache-isis/apache-isis-1.9.0_exhaustive_b.rsf) = 4699
+
+MoJo(apache-isis/apache-isis-1.9.0_exhaustive_b.rsf,apache-isis/apache-isis-1.9.0_exhaustive_a.rsf) = 4538
+The Mojo value is 4538

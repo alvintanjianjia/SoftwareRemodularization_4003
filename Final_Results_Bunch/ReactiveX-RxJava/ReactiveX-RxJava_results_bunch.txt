@@ -1,0 +1,150 @@
+
+MoJo(ReactiveX-RxJava/ReactiveX-RxJava-2.2.10_hillclimbing_a.rsf,ReactiveX-RxJava/ReactiveX-RxJava-2.2.10_hillclimbing_b.rsf) = 1396
+
+MoJo(ReactiveX-RxJava/ReactiveX-RxJava-2.2.10_hillclimbing_b.rsf,ReactiveX-RxJava/ReactiveX-RxJava-2.2.10_hillclimbing_a.rsf) = 1368
+The Mojo value is 1368
+
+MoJo(ReactiveX-RxJava/ReactiveX-RxJava-2.2.10_ga_a.rsf,ReactiveX-RxJava/ReactiveX-RxJava-2.2.10_ga_b.rsf) = 1418
+
+MoJo(ReactiveX-RxJava/ReactiveX-RxJava-2.2.10_ga_b.rsf,ReactiveX-RxJava/ReactiveX-RxJava-2.2.10_ga_a.rsf) = 1477
+The Mojo value is 1418
+
+MoJo(ReactiveX-RxJava/ReactiveX-RxJava-2.2.10_exhaustive_a.rsf,ReactiveX-RxJava/ReactiveX-RxJava-2.2.10_exhaustive_b.rsf) = 1291
+
+MoJo(ReactiveX-RxJava/ReactiveX-RxJava-2.2.10_exhaustive_b.rsf,ReactiveX-RxJava/ReactiveX-RxJava-2.2.10_exhaustive_a.rsf) = 1390
+The Mojo value is 1291
+
+MoJo(ReactiveX-RxJava/ReactiveX-RxJava-2.2.11_hillclimbing_a.rsf,ReactiveX-RxJava/ReactiveX-RxJava-2.2.11_hillclimbing_b.rsf) = 1363
+
+MoJo(ReactiveX-RxJava/ReactiveX-RxJava-2.2.11_hillclimbing_b.rsf,ReactiveX-RxJava/ReactiveX-RxJava-2.2.11_hillclimbing_a.rsf) = 1069
+The Mojo value is 1069
+
+MoJo(ReactiveX-RxJava/ReactiveX-RxJava-2.2.11_ga_a.rsf,ReactiveX-RxJava/ReactiveX-RxJava-2.2.11_ga_b.rsf) = 1437
+
+MoJo(ReactiveX-RxJava/ReactiveX-RxJava-2.2.11_ga_b.rsf,ReactiveX-RxJava/ReactiveX-RxJava-2.2.11_ga_a.rsf) = 1227
+The Mojo value is 1227
+
+MoJo(ReactiveX-RxJava/ReactiveX-RxJava-2.2.11_exhaustive_a.rsf,ReactiveX-RxJava/ReactiveX-RxJava-2.2.11_exhaustive_b.rsf) = 1464
+
+MoJo(ReactiveX-RxJava/ReactiveX-RxJava-2.2.11_exhaustive_b.rsf,ReactiveX-RxJava/ReactiveX-RxJava-2.2.11_exhaustive_a.rsf) = 1171
+The Mojo value is 1171
+
+MoJo(ReactiveX-RxJava/ReactiveX-RxJava-2.2.12_hillclimbing_a.rsf,ReactiveX-RxJava/ReactiveX-RxJava-2.2.12_hillclimbing_b.rsf) = 1443
+
+MoJo(ReactiveX-RxJava/ReactiveX-RxJava-2.2.12_hillclimbing_b.rsf,ReactiveX-RxJava/ReactiveX-RxJava-2.2.12_hillclimbing_a.rsf) = 1479
+The Mojo value is 1443
+
+MoJo(ReactiveX-RxJava/ReactiveX-RxJava-2.2.12_ga_a.rsf,ReactiveX-RxJava/ReactiveX-RxJava-2.2.12_ga_b.rsf) = 1462
+
+MoJo(ReactiveX-RxJava/ReactiveX-RxJava-2.2.12_ga_b.rsf,ReactiveX-RxJava/ReactiveX-RxJava-2.2.12_ga_a.rsf) = 1452
+The Mojo value is 1452
+
+MoJo(ReactiveX-RxJava/ReactiveX-RxJava-2.2.12_exhaustive_a.rsf,ReactiveX-RxJava/ReactiveX-RxJava-2.2.12_exhaustive_b.rsf) = 1447
+
+MoJo(ReactiveX-RxJava/ReactiveX-RxJava-2.2.12_exhaustive_b.rsf,ReactiveX-RxJava/ReactiveX-RxJava-2.2.12_exhaustive_a.rsf) = 1423
+The Mojo value is 1423
+
+MoJo(ReactiveX-RxJava/ReactiveX-RxJava-2.2.2_hillclimbing_a.rsf,ReactiveX-RxJava/ReactiveX-RxJava-2.2.2_hillclimbing_b.rsf) = 1408
+
+MoJo(ReactiveX-RxJava/ReactiveX-RxJava-2.2.2_hillclimbing_b.rsf,ReactiveX-RxJava/ReactiveX-RxJava-2.2.2_hillclimbing_a.rsf) = 1183
+The Mojo value is 1183
+
+MoJo(ReactiveX-RxJava/ReactiveX-RxJava-2.2.2_ga_a.rsf,ReactiveX-RxJava/ReactiveX-RxJava-2.2.2_ga_b.rsf) = 1359
+
+MoJo(ReactiveX-RxJava/ReactiveX-RxJava-2.2.2_ga_b.rsf,ReactiveX-RxJava/ReactiveX-RxJava-2.2.2_ga_a.rsf) = 1413
+The Mojo value is 1359
+
+MoJo(ReactiveX-RxJava/ReactiveX-RxJava-2.2.2_exhaustive_a.rsf,ReactiveX-RxJava/ReactiveX-RxJava-2.2.2_exhaustive_b.rsf) = 1232
+
+MoJo(ReactiveX-RxJava/ReactiveX-RxJava-2.2.2_exhaustive_b.rsf,ReactiveX-RxJava/ReactiveX-RxJava-2.2.2_exhaustive_a.rsf) = 1214
+The Mojo value is 1214
+
+MoJo(ReactiveX-RxJava/ReactiveX-RxJava-2.2.3_hillclimbing_a.rsf,ReactiveX-RxJava/ReactiveX-RxJava-2.2.3_hillclimbing_b.rsf) = 1361
+
+MoJo(ReactiveX-RxJava/ReactiveX-RxJava-2.2.3_hillclimbing_b.rsf,ReactiveX-RxJava/ReactiveX-RxJava-2.2.3_hillclimbing_a.rsf) = 1416
+The Mojo value is 1361
+
+MoJo(ReactiveX-RxJava/ReactiveX-RxJava-2.2.3_ga_a.rsf,ReactiveX-RxJava/ReactiveX-RxJava-2.2.3_ga_b.rsf) = 1089
+
+MoJo(ReactiveX-RxJava/ReactiveX-RxJava-2.2.3_ga_b.rsf,ReactiveX-RxJava/ReactiveX-RxJava-2.2.3_ga_a.rsf) = 1437
+The Mojo value is 1089
+
+MoJo(ReactiveX-RxJava/ReactiveX-RxJava-2.2.3_exhaustive_a.rsf,ReactiveX-RxJava/ReactiveX-RxJava-2.2.3_exhaustive_b.rsf) = 1345
+
+MoJo(ReactiveX-RxJava/ReactiveX-RxJava-2.2.3_exhaustive_b.rsf,ReactiveX-RxJava/ReactiveX-RxJava-2.2.3_exhaustive_a.rsf) = 1132
+The Mojo value is 1132
+
+MoJo(ReactiveX-RxJava/ReactiveX-RxJava-2.2.4_hillclimbing_a.rsf,ReactiveX-RxJava/ReactiveX-RxJava-2.2.4_hillclimbing_b.rsf) = 1399
+
+MoJo(ReactiveX-RxJava/ReactiveX-RxJava-2.2.4_hillclimbing_b.rsf,ReactiveX-RxJava/ReactiveX-RxJava-2.2.4_hillclimbing_a.rsf) = 1463
+The Mojo value is 1399
+
+MoJo(ReactiveX-RxJava/ReactiveX-RxJava-2.2.4_ga_a.rsf,ReactiveX-RxJava/ReactiveX-RxJava-2.2.4_ga_b.rsf) = 1426
+
+MoJo(ReactiveX-RxJava/ReactiveX-RxJava-2.2.4_ga_b.rsf,ReactiveX-RxJava/ReactiveX-RxJava-2.2.4_ga_a.rsf) = 1440
+The Mojo value is 1426
+
+MoJo(ReactiveX-RxJava/ReactiveX-RxJava-2.2.4_exhaustive_a.rsf,ReactiveX-RxJava/ReactiveX-RxJava-2.2.4_exhaustive_b.rsf) = 1353
+
+MoJo(ReactiveX-RxJava/ReactiveX-RxJava-2.2.4_exhaustive_b.rsf,ReactiveX-RxJava/ReactiveX-RxJava-2.2.4_exhaustive_a.rsf) = 1258
+The Mojo value is 1258
+
+MoJo(ReactiveX-RxJava/ReactiveX-RxJava-2.2.5_hillclimbing_a.rsf,ReactiveX-RxJava/ReactiveX-RxJava-2.2.5_hillclimbing_b.rsf) = 1417
+
+MoJo(ReactiveX-RxJava/ReactiveX-RxJava-2.2.5_hillclimbing_b.rsf,ReactiveX-RxJava/ReactiveX-RxJava-2.2.5_hillclimbing_a.rsf) = 1438
+The Mojo value is 1417
+
+MoJo(ReactiveX-RxJava/ReactiveX-RxJava-2.2.5_ga_a.rsf,ReactiveX-RxJava/ReactiveX-RxJava-2.2.5_ga_b.rsf) = 1349
+
+MoJo(ReactiveX-RxJava/ReactiveX-RxJava-2.2.5_ga_b.rsf,ReactiveX-RxJava/ReactiveX-RxJava-2.2.5_ga_a.rsf) = 1292
+The Mojo value is 1292
+
+MoJo(ReactiveX-RxJava/ReactiveX-RxJava-2.2.5_exhaustive_a.rsf,ReactiveX-RxJava/ReactiveX-RxJava-2.2.5_exhaustive_b.rsf) = 1301
+
+MoJo(ReactiveX-RxJava/ReactiveX-RxJava-2.2.5_exhaustive_b.rsf,ReactiveX-RxJava/ReactiveX-RxJava-2.2.5_exhaustive_a.rsf) = 1232
+The Mojo value is 1232
+
+MoJo(ReactiveX-RxJava/ReactiveX-RxJava-2.2.6_hillclimbing_a.rsf,ReactiveX-RxJava/ReactiveX-RxJava-2.2.6_hillclimbing_b.rsf) = 1401
+
+MoJo(ReactiveX-RxJava/ReactiveX-RxJava-2.2.6_hillclimbing_b.rsf,ReactiveX-RxJava/ReactiveX-RxJava-2.2.6_hillclimbing_a.rsf) = 1318
+The Mojo value is 1318
+
+MoJo(ReactiveX-RxJava/ReactiveX-RxJava-2.2.6_ga_a.rsf,ReactiveX-RxJava/ReactiveX-RxJava-2.2.6_ga_b.rsf) = 797
+
+MoJo(ReactiveX-RxJava/ReactiveX-RxJava-2.2.6_ga_b.rsf,ReactiveX-RxJava/ReactiveX-RxJava-2.2.6_ga_a.rsf) = 545
+The Mojo value is 545
+
+MoJo(ReactiveX-RxJava/ReactiveX-RxJava-2.2.6_exhaustive_a.rsf,ReactiveX-RxJava/ReactiveX-RxJava-2.2.6_exhaustive_b.rsf) = 1219
+
+MoJo(ReactiveX-RxJava/ReactiveX-RxJava-2.2.6_exhaustive_b.rsf,ReactiveX-RxJava/ReactiveX-RxJava-2.2.6_exhaustive_a.rsf) = 1384
+The Mojo value is 1219
+
+MoJo(ReactiveX-RxJava/ReactiveX-RxJava-2.2.7_hillclimbing_a.rsf,ReactiveX-RxJava/ReactiveX-RxJava-2.2.7_hillclimbing_b.rsf) = 1340
+
+MoJo(ReactiveX-RxJava/ReactiveX-RxJava-2.2.7_hillclimbing_b.rsf,ReactiveX-RxJava/ReactiveX-RxJava-2.2.7_hillclimbing_a.rsf) = 1212
+The Mojo value is 1212
+
+MoJo(ReactiveX-RxJava/ReactiveX-RxJava-2.2.7_ga_a.rsf,ReactiveX-RxJava/ReactiveX-RxJava-2.2.7_ga_b.rsf) = 1446
+
+MoJo(ReactiveX-RxJava/ReactiveX-RxJava-2.2.7_ga_b.rsf,ReactiveX-RxJava/ReactiveX-RxJava-2.2.7_ga_a.rsf) = 1289
+The Mojo value is 1289
+
+MoJo(ReactiveX-RxJava/ReactiveX-RxJava-2.2.7_exhaustive_a.rsf,ReactiveX-RxJava/ReactiveX-RxJava-2.2.7_exhaustive_b.rsf) = 1404
+
+MoJo(ReactiveX-RxJava/ReactiveX-RxJava-2.2.7_exhaustive_b.rsf,ReactiveX-RxJava/ReactiveX-RxJava-2.2.7_exhaustive_a.rsf) = 1142
+The Mojo value is 1142
+
+MoJo(ReactiveX-RxJava/ReactiveX-RxJava-2.2.8_hillclimbing_a.rsf,ReactiveX-RxJava/ReactiveX-RxJava-2.2.8_hillclimbing_b.rsf) = 956
+
+MoJo(ReactiveX-RxJava/ReactiveX-RxJava-2.2.8_hillclimbing_b.rsf,ReactiveX-RxJava/ReactiveX-RxJava-2.2.8_hillclimbing_a.rsf) = 679
+The Mojo value is 679
+
+MoJo(ReactiveX-RxJava/ReactiveX-RxJava-2.2.8_ga_a.rsf,ReactiveX-RxJava/ReactiveX-RxJava-2.2.8_ga_b.rsf) = 1234
+
+MoJo(ReactiveX-RxJava/ReactiveX-RxJava-2.2.8_ga_b.rsf,ReactiveX-RxJava/ReactiveX-RxJava-2.2.8_ga_a.rsf) = 1486
+The Mojo value is 1234
+
+MoJo(ReactiveX-RxJava/ReactiveX-RxJava-2.2.8_exhaustive_a.rsf,ReactiveX-RxJava/ReactiveX-RxJava-2.2.8_exhaustive_b.rsf) = 1364
+
+MoJo(ReactiveX-RxJava/ReactiveX-RxJava-2.2.8_exhaustive_b.rsf,ReactiveX-RxJava/ReactiveX-RxJava-2.2.8_exhaustive_a.rsf) = 1004
+The Mojo value is 1004
