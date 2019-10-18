@@ -1,0 +1,32 @@
+﻿Projects,Domain,Java LOC,Total lines of code in Java,Type,Organisation
+apache-storm,Data Analytics,3,4,Work,1
+apache-cassandra,Database,3,4,Work,1
+airbnb-lottie-android,Front-end,3,4,Fun,1
+apache-isis,App Development,3,4,Work,1
+apache-jmeter,Testing,3,4,Work,1
+apache-log4j,App Development,3,4,Work,1
+apache-maven,Project Management,3,4,Work,1
+apache-spark,Data Analytics,3,4,Work,1
+apache-tomcat,App Deployment,3,4,Work,1
+rzwitserloot-lombok,Development Tool,3,4,Fun,0
+apache-tika,Data Extraction,3,4,Work,1
+alibaba-fastjson,Java Library,3,4,Work,1
+activiti-activiti,Process Automation,3,4,Work,1
+bumptech-glide,Front-end,3,4,Work,1
+codecentric-spring-boot-admin,Front-end,3,4,Work,1
+dropwizard-dropwizard,Development Tool,3,4,Work,1
+dropwizard-metrics,Testing,3,4,Work,1
+facebook-facebook-android-sdk,Development Tool,3,4,Work,1
+google-dagger,Dependency Injection,3,4,Work,1
+google-error-prone,Development Tool,3,4,Work,1
+grpc-grpc-java,App Development,3,4,Work,1
+java-native-accessjna,Java Library,3,4,Work,1
+jenkinsci-jenkins,Testing,3,4,Work,1
+jhy-jsoup,Java Library,3,4,Work,0
+mockito-mockito,App dev,3,4,Work,0
+mybatis-mybatis-3,App Development,3,4,Work,0
+naver-pinpoint,Development Tool,3,4,Work,1
+pxb1988-dex2jar,Development Tool,3,4,Work,0
+ReactiveX-RxJava,Java Library,3,4,Work,1
+redisson-redisson,App Development,3,4,Work,0
+swagger-api-swagger-core,App Development,3,4,Work,0
