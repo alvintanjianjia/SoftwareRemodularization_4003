@@ -1,32 +1,34 @@
-﻿Projects,Domain,Java LOC,Total lines of code in Java,Type,Organisation
-apache-storm,Data Analytics,3,4,Work,1
-apache-cassandra,Database,3,4,Work,1
-airbnb-lottie-android,Front-end,3,4,Fun,1
-apache-isis,App Development,3,4,Work,1
-apache-jmeter,Testing,3,4,Work,1
-apache-log4j,App Development,3,4,Work,1
-apache-maven,Project Management,3,4,Work,1
-apache-spark,Data Analytics,3,4,Work,1
-apache-tomcat,App Deployment,3,4,Work,1
-rzwitserloot-lombok,Development Tool,3,4,Fun,0
-apache-tika,Data Extraction,3,4,Work,1
-alibaba-fastjson,Java Library,3,4,Work,1
-activiti-activiti,Process Automation,3,4,Work,1
-bumptech-glide,Front-end,3,4,Work,1
-codecentric-spring-boot-admin,Front-end,3,4,Work,1
-dropwizard-dropwizard,Development Tool,3,4,Work,1
-dropwizard-metrics,Testing,3,4,Work,1
-facebook-facebook-android-sdk,Development Tool,3,4,Work,1
-google-dagger,Dependency Injection,3,4,Work,1
-google-error-prone,Development Tool,3,4,Work,1
-grpc-grpc-java,App Development,3,4,Work,1
-java-native-accessjna,Java Library,3,4,Work,1
-jenkinsci-jenkins,Testing,3,4,Work,1
-jhy-jsoup,Java Library,3,4,Work,0
-mockito-mockito,App dev,3,4,Work,0
-mybatis-mybatis-3,App Development,3,4,Work,0
-naver-pinpoint,Development Tool,3,4,Work,1
-pxb1988-dex2jar,Development Tool,3,4,Work,0
-ReactiveX-RxJava,Java Library,3,4,Work,1
-redisson-redisson,App Development,3,4,Work,0
-swagger-api-swagger-core,App Development,3,4,Work,0
+﻿Projects,Domain,,Java LOC,Total lines of code in Java,Type,Organisation
+apache-tomcat,App Development,allows the implementation of Java Servlets and JavaServer Pages (JSP) and also can use XML.,"34,791,795","78,560,688",Work,1
+apache-isis,App Development,a framework for rapidly developing domain-driven apps in Java,"171,328","322,527",Work,1
+apache-log4j,App Development,a logging library for java dev,"146,774	","251,345",Work,1
+grpc-grpc-java,App Development,"gRPC is a modern open source high performance RPC framework that can run in any environment. It can efficiently connect services in and across data centers with pluggable support for load balancing, tracing, health checking and authentication. It is also applicable in last mile of distributed computing to connect devices, mobile applications and browsers to backend services.","136,405","194,938	",Work,1
+swagger-api-swagger-core,App Development,Swagger is a simple yet powerful representation of your RESTful API. ,"336,395","499,541",Work,0
+google-dagger,App Development,A fast dependency injector for Android and Java.,"71,209","102,782",Work,1
+rzwitserloot-lombok,App Development,"Project Lombok makes java a spicier language by adding 'handlers' that know how to build and compile simple, boilerplate-free, not-quite-java code.","68,616","90,561",Fun,0
+dropwizard-dropwizard,App Development,A damn simple library for building production-ready RESTful web services.,"68,700","93,326",Work,1
+facebook-facebook-android-sdk,App Development,A library to integrate Facebook into your Android mobile application.,"60,533","91,027",Work,1
+naver-pinpoint,App Development,,,,Work,1
+pxb1988-dex2jar,App Development,,,,Work,0
+airbnb-lottie-android,App Development,Render After Effects animations natively on Android and iOS,"15,083","19,996",Fun,1
+bumptech-glide,App Development,An image loading and caching library for Android focused on smooth scrolling,"72,878	","98,668	",Work,1
+codecentric-spring-boot-admin,App Development,Admin UI for administration of spring boot applications,"16,606","25,451",Work,1
+alibaba-fastjson,App Development,A fast JSON parser/generator for Java,"170,762","231,569",Work,1
+java-native-accessjna,App Development,JNA provides Java programs easy access to native shared libraries (DLLs on Windows) without writing anything but Java code—no JNI or native code is required. This functionality is comparable to Windows' Platform/Invoke and Python's ctypes. Access is dynamic at runtime without code generation.,"178,757	","429,651",Work,1
+jhy-jsoup,App Development,Java HTML Parser,"20,471","28,856",Work,0
+ReactiveX-RxJava,App Development,A Language and an run time platform(JVM like) that encapsulate OOPS and patterns an integral part of the development,"284,147","425,833	",Work,1
+activiti-activiti,App Development,"Activiti is a Business Process Management (BPM) and workflow system targeted at business people, developers and system admins. Its core is a super-fast and rock-solid BPMN 2 process engine for Java. It's open-source and distributed under the Apache license. Activiti runs in any Java application, on a server, on a cluster or in the cloud. It integrates perfectly with Spring, it is extremely lightweight and based on simple concepts.","201,054","311,170",Work,1
+apache-maven,App Development,"Apache Maven is a software project management and comprehension tool. Based on the concept of a project object model (POM), Maven can manage a project's build, reporting and documentation from a central piece of information.","890,004","1,518,786	",Work,1
+mybatis-mybatis-3,Data,The MyBatis SQL mapper framework makes it easier to use a relational database with object-oriented applications. MyBatis couples objects with stored procedures or SQL statements using a XML descriptor. Simplicity is the biggest advantage of the MyBatis data mapper over object relational mapping tools.,"176,156","263,940	",Work,0
+redisson-redisson,Data,"Redisson - distributed and scalable Java data structures (Set, Map, ConcurrentMap, List, Queue, Lock, AtomicLong, CountDownLatch, Publish / Subscribe) on top of Redis server","139,124","224,140",Work,0
+apache-storm,Data,"Storm is a free and open source distributed realtime computation system. Storm makes it easy to reliably process unbounded streams of data, doing for realtime processing what Hadoop did for batch processing.","294,283","409,031	",Work,1
+apache-spark,Data,Apache Spark is an open source cluster computing system that aims to make data analytics fast — both fast to run and fast to write.,"173,739","244,885",Work,1
+apache-tika,Data,The Apache Tika™ toolkit detects and extracts metadata and structured text content from various documents using existing parser libraries.,"120,727","191,217",Work,1
+apache-cassandra,Data,"Cassandra is a highly scalable, eventually consistent, distributed, structured key-value store.","382,263","550,252",Work,1
+mockito-mockito,Testing,"mocking framework,  JAVA-based library used for unit testing","42,536","71,639",Work,0
+google-error-prone,Testing,Catch common Java mistakes as compile-time errors,"163,893	","230,732",Work,1
+apache-jmeter,Testing,"Apache JMeter may be used to test performance both on static and dynamic resources, Web dynamic applications. It simulates a heavy load on server.
+Its features include:","136,464	","232,634	",Work,1
+dropwizard-metrics,Testing,"Metrics is a Java library which gives you unparalleled insight into what your code does in production.
+Metrics provides a powerful toolkit of ways to measure the behavior of critical components in your production environment.","18,014","26,111",Work,1
+jenkinsci-jenkins,Testing,A suite of utilities for bringing continous integration to your projects (not the other way around) with jenkins CI,"162,288","275,558",Work,1
