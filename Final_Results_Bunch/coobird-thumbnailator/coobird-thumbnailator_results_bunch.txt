@@ -1,0 +1,150 @@
+
+MoJo(coobird-thumbnailator/coobird-thumbnailator-0.3.8_hillclimbing_a.rsf,coobird-thumbnailator/coobird-thumbnailator-0.3.8_hillclimbing_b.rsf) = 68
+
+MoJo(coobird-thumbnailator/coobird-thumbnailator-0.3.8_hillclimbing_b.rsf,coobird-thumbnailator/coobird-thumbnailator-0.3.8_hillclimbing_a.rsf) = 66
+The Mojo value is 66
+
+MoJo(coobird-thumbnailator/coobird-thumbnailator-0.3.8_ga_a.rsf,coobird-thumbnailator/coobird-thumbnailator-0.3.8_ga_b.rsf) = 72
+
+MoJo(coobird-thumbnailator/coobird-thumbnailator-0.3.8_ga_b.rsf,coobird-thumbnailator/coobird-thumbnailator-0.3.8_ga_a.rsf) = 70
+The Mojo value is 70
+
+MoJo(coobird-thumbnailator/coobird-thumbnailator-0.3.8_exhaustive_a.rsf,coobird-thumbnailator/coobird-thumbnailator-0.3.8_exhaustive_b.rsf) = 70
+
+MoJo(coobird-thumbnailator/coobird-thumbnailator-0.3.8_exhaustive_b.rsf,coobird-thumbnailator/coobird-thumbnailator-0.3.8_exhaustive_a.rsf) = 66
+The Mojo value is 66
+
+MoJo(coobird-thumbnailator/coobird-thumbnailator-0.3.9_hillclimbing_a.rsf,coobird-thumbnailator/coobird-thumbnailator-0.3.9_hillclimbing_b.rsf) = 65
+
+MoJo(coobird-thumbnailator/coobird-thumbnailator-0.3.9_hillclimbing_b.rsf,coobird-thumbnailator/coobird-thumbnailator-0.3.9_hillclimbing_a.rsf) = 65
+The Mojo value is 65
+
+MoJo(coobird-thumbnailator/coobird-thumbnailator-0.3.9_ga_a.rsf,coobird-thumbnailator/coobird-thumbnailator-0.3.9_ga_b.rsf) = 58
+
+MoJo(coobird-thumbnailator/coobird-thumbnailator-0.3.9_ga_b.rsf,coobird-thumbnailator/coobird-thumbnailator-0.3.9_ga_a.rsf) = 58
+The Mojo value is 58
+
+MoJo(coobird-thumbnailator/coobird-thumbnailator-0.3.9_exhaustive_a.rsf,coobird-thumbnailator/coobird-thumbnailator-0.3.9_exhaustive_b.rsf) = 65
+
+MoJo(coobird-thumbnailator/coobird-thumbnailator-0.3.9_exhaustive_b.rsf,coobird-thumbnailator/coobird-thumbnailator-0.3.9_exhaustive_a.rsf) = 65
+The Mojo value is 65
+
+MoJo(coobird-thumbnailator/coobird-thumbnailator-0.4.0_hillclimbing_a.rsf,coobird-thumbnailator/coobird-thumbnailator-0.4.0_hillclimbing_b.rsf) = 74
+
+MoJo(coobird-thumbnailator/coobird-thumbnailator-0.4.0_hillclimbing_b.rsf,coobird-thumbnailator/coobird-thumbnailator-0.4.0_hillclimbing_a.rsf) = 67
+The Mojo value is 67
+
+MoJo(coobird-thumbnailator/coobird-thumbnailator-0.4.0_ga_a.rsf,coobird-thumbnailator/coobird-thumbnailator-0.4.0_ga_b.rsf) = 70
+
+MoJo(coobird-thumbnailator/coobird-thumbnailator-0.4.0_ga_b.rsf,coobird-thumbnailator/coobird-thumbnailator-0.4.0_ga_a.rsf) = 65
+The Mojo value is 65
+
+MoJo(coobird-thumbnailator/coobird-thumbnailator-0.4.0_exhaustive_a.rsf,coobird-thumbnailator/coobird-thumbnailator-0.4.0_exhaustive_b.rsf) = 70
+
+MoJo(coobird-thumbnailator/coobird-thumbnailator-0.4.0_exhaustive_b.rsf,coobird-thumbnailator/coobird-thumbnailator-0.4.0_exhaustive_a.rsf) = 70
+The Mojo value is 70
+
+MoJo(coobird-thumbnailator/coobird-thumbnailator-0.4.1_hillclimbing_a.rsf,coobird-thumbnailator/coobird-thumbnailator-0.4.1_hillclimbing_b.rsf) = 66
+
+MoJo(coobird-thumbnailator/coobird-thumbnailator-0.4.1_hillclimbing_b.rsf,coobird-thumbnailator/coobird-thumbnailator-0.4.1_hillclimbing_a.rsf) = 71
+The Mojo value is 66
+
+MoJo(coobird-thumbnailator/coobird-thumbnailator-0.4.1_ga_a.rsf,coobird-thumbnailator/coobird-thumbnailator-0.4.1_ga_b.rsf) = 60
+
+MoJo(coobird-thumbnailator/coobird-thumbnailator-0.4.1_ga_b.rsf,coobird-thumbnailator/coobird-thumbnailator-0.4.1_ga_a.rsf) = 65
+The Mojo value is 60
+
+MoJo(coobird-thumbnailator/coobird-thumbnailator-0.4.1_exhaustive_a.rsf,coobird-thumbnailator/coobird-thumbnailator-0.4.1_exhaustive_b.rsf) = 71
+
+MoJo(coobird-thumbnailator/coobird-thumbnailator-0.4.1_exhaustive_b.rsf,coobird-thumbnailator/coobird-thumbnailator-0.4.1_exhaustive_a.rsf) = 71
+The Mojo value is 71
+
+MoJo(coobird-thumbnailator/coobird-thumbnailator-0.4.2_hillclimbing_a.rsf,coobird-thumbnailator/coobird-thumbnailator-0.4.2_hillclimbing_b.rsf) = 65
+
+MoJo(coobird-thumbnailator/coobird-thumbnailator-0.4.2_hillclimbing_b.rsf,coobird-thumbnailator/coobird-thumbnailator-0.4.2_hillclimbing_a.rsf) = 65
+The Mojo value is 65
+
+MoJo(coobird-thumbnailator/coobird-thumbnailator-0.4.2_ga_a.rsf,coobird-thumbnailator/coobird-thumbnailator-0.4.2_ga_b.rsf) = 66
+
+MoJo(coobird-thumbnailator/coobird-thumbnailator-0.4.2_ga_b.rsf,coobird-thumbnailator/coobird-thumbnailator-0.4.2_ga_a.rsf) = 64
+The Mojo value is 64
+
+MoJo(coobird-thumbnailator/coobird-thumbnailator-0.4.2_exhaustive_a.rsf,coobird-thumbnailator/coobird-thumbnailator-0.4.2_exhaustive_b.rsf) = 68
+
+MoJo(coobird-thumbnailator/coobird-thumbnailator-0.4.2_exhaustive_b.rsf,coobird-thumbnailator/coobird-thumbnailator-0.4.2_exhaustive_a.rsf) = 68
+The Mojo value is 68
+
+MoJo(coobird-thumbnailator/coobird-thumbnailator-0.4.3_hillclimbing_a.rsf,coobird-thumbnailator/coobird-thumbnailator-0.4.3_hillclimbing_b.rsf) = 76
+
+MoJo(coobird-thumbnailator/coobird-thumbnailator-0.4.3_hillclimbing_b.rsf,coobird-thumbnailator/coobird-thumbnailator-0.4.3_hillclimbing_a.rsf) = 73
+The Mojo value is 73
+
+MoJo(coobird-thumbnailator/coobird-thumbnailator-0.4.3_ga_a.rsf,coobird-thumbnailator/coobird-thumbnailator-0.4.3_ga_b.rsf) = 67
+
+MoJo(coobird-thumbnailator/coobird-thumbnailator-0.4.3_ga_b.rsf,coobird-thumbnailator/coobird-thumbnailator-0.4.3_ga_a.rsf) = 55
+The Mojo value is 55
+
+MoJo(coobird-thumbnailator/coobird-thumbnailator-0.4.3_exhaustive_a.rsf,coobird-thumbnailator/coobird-thumbnailator-0.4.3_exhaustive_b.rsf) = 79
+
+MoJo(coobird-thumbnailator/coobird-thumbnailator-0.4.3_exhaustive_b.rsf,coobird-thumbnailator/coobird-thumbnailator-0.4.3_exhaustive_a.rsf) = 61
+The Mojo value is 61
+
+MoJo(coobird-thumbnailator/coobird-thumbnailator-0.4.4_hillclimbing_a.rsf,coobird-thumbnailator/coobird-thumbnailator-0.4.4_hillclimbing_b.rsf) = 81
+
+MoJo(coobird-thumbnailator/coobird-thumbnailator-0.4.4_hillclimbing_b.rsf,coobird-thumbnailator/coobird-thumbnailator-0.4.4_hillclimbing_a.rsf) = 75
+The Mojo value is 75
+
+MoJo(coobird-thumbnailator/coobird-thumbnailator-0.4.4_ga_a.rsf,coobird-thumbnailator/coobird-thumbnailator-0.4.4_ga_b.rsf) = 80
+
+MoJo(coobird-thumbnailator/coobird-thumbnailator-0.4.4_ga_b.rsf,coobird-thumbnailator/coobird-thumbnailator-0.4.4_ga_a.rsf) = 67
+The Mojo value is 67
+
+MoJo(coobird-thumbnailator/coobird-thumbnailator-0.4.4_exhaustive_a.rsf,coobird-thumbnailator/coobird-thumbnailator-0.4.4_exhaustive_b.rsf) = 64
+
+MoJo(coobird-thumbnailator/coobird-thumbnailator-0.4.4_exhaustive_b.rsf,coobird-thumbnailator/coobird-thumbnailator-0.4.4_exhaustive_a.rsf) = 70
+The Mojo value is 64
+
+MoJo(coobird-thumbnailator/coobird-thumbnailator-0.4.5_hillclimbing_a.rsf,coobird-thumbnailator/coobird-thumbnailator-0.4.5_hillclimbing_b.rsf) = 75
+
+MoJo(coobird-thumbnailator/coobird-thumbnailator-0.4.5_hillclimbing_b.rsf,coobird-thumbnailator/coobird-thumbnailator-0.4.5_hillclimbing_a.rsf) = 80
+The Mojo value is 75
+
+MoJo(coobird-thumbnailator/coobird-thumbnailator-0.4.5_ga_a.rsf,coobird-thumbnailator/coobird-thumbnailator-0.4.5_ga_b.rsf) = 79
+
+MoJo(coobird-thumbnailator/coobird-thumbnailator-0.4.5_ga_b.rsf,coobird-thumbnailator/coobird-thumbnailator-0.4.5_ga_a.rsf) = 75
+The Mojo value is 75
+
+MoJo(coobird-thumbnailator/coobird-thumbnailator-0.4.5_exhaustive_a.rsf,coobird-thumbnailator/coobird-thumbnailator-0.4.5_exhaustive_b.rsf) = 80
+
+MoJo(coobird-thumbnailator/coobird-thumbnailator-0.4.5_exhaustive_b.rsf,coobird-thumbnailator/coobird-thumbnailator-0.4.5_exhaustive_a.rsf) = 78
+The Mojo value is 78
+
+MoJo(coobird-thumbnailator/coobird-thumbnailator-0.4.6_hillclimbing_a.rsf,coobird-thumbnailator/coobird-thumbnailator-0.4.6_hillclimbing_b.rsf) = 74
+
+MoJo(coobird-thumbnailator/coobird-thumbnailator-0.4.6_hillclimbing_b.rsf,coobird-thumbnailator/coobird-thumbnailator-0.4.6_hillclimbing_a.rsf) = 76
+The Mojo value is 74
+
+MoJo(coobird-thumbnailator/coobird-thumbnailator-0.4.6_ga_a.rsf,coobird-thumbnailator/coobird-thumbnailator-0.4.6_ga_b.rsf) = 75
+
+MoJo(coobird-thumbnailator/coobird-thumbnailator-0.4.6_ga_b.rsf,coobird-thumbnailator/coobird-thumbnailator-0.4.6_ga_a.rsf) = 75
+The Mojo value is 75
+
+MoJo(coobird-thumbnailator/coobird-thumbnailator-0.4.6_exhaustive_a.rsf,coobird-thumbnailator/coobird-thumbnailator-0.4.6_exhaustive_b.rsf) = 80
+
+MoJo(coobird-thumbnailator/coobird-thumbnailator-0.4.6_exhaustive_b.rsf,coobird-thumbnailator/coobird-thumbnailator-0.4.6_exhaustive_a.rsf) = 79
+The Mojo value is 79
+
+MoJo(coobird-thumbnailator/coobird-thumbnailator-0.4.7_hillclimbing_a.rsf,coobird-thumbnailator/coobird-thumbnailator-0.4.7_hillclimbing_b.rsf) = 78
+
+MoJo(coobird-thumbnailator/coobird-thumbnailator-0.4.7_hillclimbing_b.rsf,coobird-thumbnailator/coobird-thumbnailator-0.4.7_hillclimbing_a.rsf) = 72
+The Mojo value is 72
+
+MoJo(coobird-thumbnailator/coobird-thumbnailator-0.4.7_ga_a.rsf,coobird-thumbnailator/coobird-thumbnailator-0.4.7_ga_b.rsf) = 62
+
+MoJo(coobird-thumbnailator/coobird-thumbnailator-0.4.7_ga_b.rsf,coobird-thumbnailator/coobird-thumbnailator-0.4.7_ga_a.rsf) = 76
+The Mojo value is 62
+
+MoJo(coobird-thumbnailator/coobird-thumbnailator-0.4.7_exhaustive_a.rsf,coobird-thumbnailator/coobird-thumbnailator-0.4.7_exhaustive_b.rsf) = 77
+
+MoJo(coobird-thumbnailator/coobird-thumbnailator-0.4.7_exhaustive_b.rsf,coobird-thumbnailator/coobird-thumbnailator-0.4.7_exhaustive_a.rsf) = 80
+The Mojo value is 77

@@ -1,0 +1,150 @@
+
+MoJo(web3j-web3j/web3j-web3j-4.1.0_hillclimbing_a.rsf,web3j-web3j/web3j-web3j-4.1.0_hillclimbing_b.rsf) = 405
+
+MoJo(web3j-web3j/web3j-web3j-4.1.0_hillclimbing_b.rsf,web3j-web3j/web3j-web3j-4.1.0_hillclimbing_a.rsf) = 371
+The Mojo value is 371
+
+MoJo(web3j-web3j/web3j-web3j-4.1.0_ga_a.rsf,web3j-web3j/web3j-web3j-4.1.0_ga_b.rsf) = 342
+
+MoJo(web3j-web3j/web3j-web3j-4.1.0_ga_b.rsf,web3j-web3j/web3j-web3j-4.1.0_ga_a.rsf) = 311
+The Mojo value is 311
+
+MoJo(web3j-web3j/web3j-web3j-4.1.0_exhaustive_a.rsf,web3j-web3j/web3j-web3j-4.1.0_exhaustive_b.rsf) = 403
+
+MoJo(web3j-web3j/web3j-web3j-4.1.0_exhaustive_b.rsf,web3j-web3j/web3j-web3j-4.1.0_exhaustive_a.rsf) = 416
+The Mojo value is 403
+
+MoJo(web3j-web3j/web3j-web3j-4.1.1_hillclimbing_a.rsf,web3j-web3j/web3j-web3j-4.1.1_hillclimbing_b.rsf) = 381
+
+MoJo(web3j-web3j/web3j-web3j-4.1.1_hillclimbing_b.rsf,web3j-web3j/web3j-web3j-4.1.1_hillclimbing_a.rsf) = 422
+The Mojo value is 381
+
+MoJo(web3j-web3j/web3j-web3j-4.1.1_ga_a.rsf,web3j-web3j/web3j-web3j-4.1.1_ga_b.rsf) = 397
+
+MoJo(web3j-web3j/web3j-web3j-4.1.1_ga_b.rsf,web3j-web3j/web3j-web3j-4.1.1_ga_a.rsf) = 393
+The Mojo value is 393
+
+MoJo(web3j-web3j/web3j-web3j-4.1.1_exhaustive_a.rsf,web3j-web3j/web3j-web3j-4.1.1_exhaustive_b.rsf) = 364
+
+MoJo(web3j-web3j/web3j-web3j-4.1.1_exhaustive_b.rsf,web3j-web3j/web3j-web3j-4.1.1_exhaustive_a.rsf) = 418
+The Mojo value is 364
+
+MoJo(web3j-web3j/web3j-web3j-4.2.0_hillclimbing_a.rsf,web3j-web3j/web3j-web3j-4.2.0_hillclimbing_b.rsf) = 373
+
+MoJo(web3j-web3j/web3j-web3j-4.2.0_hillclimbing_b.rsf,web3j-web3j/web3j-web3j-4.2.0_hillclimbing_a.rsf) = 433
+The Mojo value is 373
+
+MoJo(web3j-web3j/web3j-web3j-4.2.0_ga_a.rsf,web3j-web3j/web3j-web3j-4.2.0_ga_b.rsf) = 353
+
+MoJo(web3j-web3j/web3j-web3j-4.2.0_ga_b.rsf,web3j-web3j/web3j-web3j-4.2.0_ga_a.rsf) = 412
+The Mojo value is 353
+
+MoJo(web3j-web3j/web3j-web3j-4.2.0_exhaustive_a.rsf,web3j-web3j/web3j-web3j-4.2.0_exhaustive_b.rsf) = 402
+
+MoJo(web3j-web3j/web3j-web3j-4.2.0_exhaustive_b.rsf,web3j-web3j/web3j-web3j-4.2.0_exhaustive_a.rsf) = 453
+The Mojo value is 402
+
+MoJo(web3j-web3j/web3j-web3j-4.3.0_hillclimbing_a.rsf,web3j-web3j/web3j-web3j-4.3.0_hillclimbing_b.rsf) = 397
+
+MoJo(web3j-web3j/web3j-web3j-4.3.0_hillclimbing_b.rsf,web3j-web3j/web3j-web3j-4.3.0_hillclimbing_a.rsf) = 468
+The Mojo value is 397
+
+MoJo(web3j-web3j/web3j-web3j-4.3.0_ga_a.rsf,web3j-web3j/web3j-web3j-4.3.0_ga_b.rsf) = 375
+
+MoJo(web3j-web3j/web3j-web3j-4.3.0_ga_b.rsf,web3j-web3j/web3j-web3j-4.3.0_ga_a.rsf) = 423
+The Mojo value is 375
+
+MoJo(web3j-web3j/web3j-web3j-4.3.0_exhaustive_a.rsf,web3j-web3j/web3j-web3j-4.3.0_exhaustive_b.rsf) = 423
+
+MoJo(web3j-web3j/web3j-web3j-4.3.0_exhaustive_b.rsf,web3j-web3j/web3j-web3j-4.3.0_exhaustive_a.rsf) = 470
+The Mojo value is 423
+
+MoJo(web3j-web3j/web3j-web3j-4.4.0_hillclimbing_a.rsf,web3j-web3j/web3j-web3j-4.4.0_hillclimbing_b.rsf) = 447
+
+MoJo(web3j-web3j/web3j-web3j-4.4.0_hillclimbing_b.rsf,web3j-web3j/web3j-web3j-4.4.0_hillclimbing_a.rsf) = 492
+The Mojo value is 447
+
+MoJo(web3j-web3j/web3j-web3j-4.4.0_ga_a.rsf,web3j-web3j/web3j-web3j-4.4.0_ga_b.rsf) = 412
+
+MoJo(web3j-web3j/web3j-web3j-4.4.0_ga_b.rsf,web3j-web3j/web3j-web3j-4.4.0_ga_a.rsf) = 431
+The Mojo value is 412
+
+MoJo(web3j-web3j/web3j-web3j-4.4.0_exhaustive_a.rsf,web3j-web3j/web3j-web3j-4.4.0_exhaustive_b.rsf) = 418
+
+MoJo(web3j-web3j/web3j-web3j-4.4.0_exhaustive_b.rsf,web3j-web3j/web3j-web3j-4.4.0_exhaustive_a.rsf) = 440
+The Mojo value is 418
+
+MoJo(web3j-web3j/web3j-web3j-4.4.1_hillclimbing_a.rsf,web3j-web3j/web3j-web3j-4.4.1_hillclimbing_b.rsf) = 421
+
+MoJo(web3j-web3j/web3j-web3j-4.4.1_hillclimbing_b.rsf,web3j-web3j/web3j-web3j-4.4.1_hillclimbing_a.rsf) = 445
+The Mojo value is 421
+
+MoJo(web3j-web3j/web3j-web3j-4.4.1_ga_a.rsf,web3j-web3j/web3j-web3j-4.4.1_ga_b.rsf) = 436
+
+MoJo(web3j-web3j/web3j-web3j-4.4.1_ga_b.rsf,web3j-web3j/web3j-web3j-4.4.1_ga_a.rsf) = 454
+The Mojo value is 436
+
+MoJo(web3j-web3j/web3j-web3j-4.4.1_exhaustive_a.rsf,web3j-web3j/web3j-web3j-4.4.1_exhaustive_b.rsf) = 431
+
+MoJo(web3j-web3j/web3j-web3j-4.4.1_exhaustive_b.rsf,web3j-web3j/web3j-web3j-4.4.1_exhaustive_a.rsf) = 466
+The Mojo value is 431
+
+MoJo(web3j-web3j/web3j-web3j-4.5.0_hillclimbing_a.rsf,web3j-web3j/web3j-web3j-4.5.0_hillclimbing_b.rsf) = 465
+
+MoJo(web3j-web3j/web3j-web3j-4.5.0_hillclimbing_b.rsf,web3j-web3j/web3j-web3j-4.5.0_hillclimbing_a.rsf) = 465
+The Mojo value is 465
+
+MoJo(web3j-web3j/web3j-web3j-4.5.0_ga_a.rsf,web3j-web3j/web3j-web3j-4.5.0_ga_b.rsf) = 450
+
+MoJo(web3j-web3j/web3j-web3j-4.5.0_ga_b.rsf,web3j-web3j/web3j-web3j-4.5.0_ga_a.rsf) = 456
+The Mojo value is 450
+
+MoJo(web3j-web3j/web3j-web3j-4.5.0_exhaustive_a.rsf,web3j-web3j/web3j-web3j-4.5.0_exhaustive_b.rsf) = 468
+
+MoJo(web3j-web3j/web3j-web3j-4.5.0_exhaustive_b.rsf,web3j-web3j/web3j-web3j-4.5.0_exhaustive_a.rsf) = 426
+The Mojo value is 426
+
+MoJo(web3j-web3j/web3j-web3j-4.5.1_hillclimbing_a.rsf,web3j-web3j/web3j-web3j-4.5.1_hillclimbing_b.rsf) = 427
+
+MoJo(web3j-web3j/web3j-web3j-4.5.1_hillclimbing_b.rsf,web3j-web3j/web3j-web3j-4.5.1_hillclimbing_a.rsf) = 326
+The Mojo value is 326
+
+MoJo(web3j-web3j/web3j-web3j-4.5.1_ga_a.rsf,web3j-web3j/web3j-web3j-4.5.1_ga_b.rsf) = 488
+
+MoJo(web3j-web3j/web3j-web3j-4.5.1_ga_b.rsf,web3j-web3j/web3j-web3j-4.5.1_ga_a.rsf) = 484
+The Mojo value is 484
+
+MoJo(web3j-web3j/web3j-web3j-4.5.1_exhaustive_a.rsf,web3j-web3j/web3j-web3j-4.5.1_exhaustive_b.rsf) = 408
+
+MoJo(web3j-web3j/web3j-web3j-4.5.1_exhaustive_b.rsf,web3j-web3j/web3j-web3j-4.5.1_exhaustive_a.rsf) = 423
+The Mojo value is 408
+
+MoJo(web3j-web3j/web3j-web3j-4.5.2_hillclimbing_a.rsf,web3j-web3j/web3j-web3j-4.5.2_hillclimbing_b.rsf) = 422
+
+MoJo(web3j-web3j/web3j-web3j-4.5.2_hillclimbing_b.rsf,web3j-web3j/web3j-web3j-4.5.2_hillclimbing_a.rsf) = 501
+The Mojo value is 422
+
+MoJo(web3j-web3j/web3j-web3j-4.5.2_ga_a.rsf,web3j-web3j/web3j-web3j-4.5.2_ga_b.rsf) = 444
+
+MoJo(web3j-web3j/web3j-web3j-4.5.2_ga_b.rsf,web3j-web3j/web3j-web3j-4.5.2_ga_a.rsf) = 475
+The Mojo value is 444
+
+MoJo(web3j-web3j/web3j-web3j-4.5.2_exhaustive_a.rsf,web3j-web3j/web3j-web3j-4.5.2_exhaustive_b.rsf) = 431
+
+MoJo(web3j-web3j/web3j-web3j-4.5.2_exhaustive_b.rsf,web3j-web3j/web3j-web3j-4.5.2_exhaustive_a.rsf) = 480
+The Mojo value is 431
+
+MoJo(web3j-web3j/web3j-web3j-4.5.4_hillclimbing_a.rsf,web3j-web3j/web3j-web3j-4.5.4_hillclimbing_b.rsf) = 423
+
+MoJo(web3j-web3j/web3j-web3j-4.5.4_hillclimbing_b.rsf,web3j-web3j/web3j-web3j-4.5.4_hillclimbing_a.rsf) = 464
+The Mojo value is 423
+
+MoJo(web3j-web3j/web3j-web3j-4.5.4_ga_a.rsf,web3j-web3j/web3j-web3j-4.5.4_ga_b.rsf) = 487
+
+MoJo(web3j-web3j/web3j-web3j-4.5.4_ga_b.rsf,web3j-web3j/web3j-web3j-4.5.4_ga_a.rsf) = 504
+The Mojo value is 487
+
+MoJo(web3j-web3j/web3j-web3j-4.5.4_exhaustive_a.rsf,web3j-web3j/web3j-web3j-4.5.4_exhaustive_b.rsf) = 490
+
+MoJo(web3j-web3j/web3j-web3j-4.5.4_exhaustive_b.rsf,web3j-web3j/web3j-web3j-4.5.4_exhaustive_a.rsf) = 509
+The Mojo value is 490

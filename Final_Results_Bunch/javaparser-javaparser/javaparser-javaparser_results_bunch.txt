@@ -1,0 +1,150 @@
+
+MoJo(javaparser-javaparser/javaparser-javaparser-3.14.11_hillclimbing_a.rsf,javaparser-javaparser/javaparser-javaparser-3.14.11_hillclimbing_b.rsf) = 1194
+
+MoJo(javaparser-javaparser/javaparser-javaparser-3.14.11_hillclimbing_b.rsf,javaparser-javaparser/javaparser-javaparser-3.14.11_hillclimbing_a.rsf) = 695
+The Mojo value is 695
+
+MoJo(javaparser-javaparser/javaparser-javaparser-3.14.11_ga_a.rsf,javaparser-javaparser/javaparser-javaparser-3.14.11_ga_b.rsf) = 1223
+
+MoJo(javaparser-javaparser/javaparser-javaparser-3.14.11_ga_b.rsf,javaparser-javaparser/javaparser-javaparser-3.14.11_ga_a.rsf) = 1061
+The Mojo value is 1061
+
+MoJo(javaparser-javaparser/javaparser-javaparser-3.14.11_exhaustive_a.rsf,javaparser-javaparser/javaparser-javaparser-3.14.11_exhaustive_b.rsf) = 1226
+
+MoJo(javaparser-javaparser/javaparser-javaparser-3.14.11_exhaustive_b.rsf,javaparser-javaparser/javaparser-javaparser-3.14.11_exhaustive_a.rsf) = 1176
+The Mojo value is 1176
+
+MoJo(javaparser-javaparser/javaparser-javaparser-3.14.12_hillclimbing_a.rsf,javaparser-javaparser/javaparser-javaparser-3.14.12_hillclimbing_b.rsf) = 1072
+
+MoJo(javaparser-javaparser/javaparser-javaparser-3.14.12_hillclimbing_b.rsf,javaparser-javaparser/javaparser-javaparser-3.14.12_hillclimbing_a.rsf) = 983
+The Mojo value is 983
+
+MoJo(javaparser-javaparser/javaparser-javaparser-3.14.12_ga_a.rsf,javaparser-javaparser/javaparser-javaparser-3.14.12_ga_b.rsf) = 1212
+
+MoJo(javaparser-javaparser/javaparser-javaparser-3.14.12_ga_b.rsf,javaparser-javaparser/javaparser-javaparser-3.14.12_ga_a.rsf) = 1008
+The Mojo value is 1008
+
+MoJo(javaparser-javaparser/javaparser-javaparser-3.14.12_exhaustive_a.rsf,javaparser-javaparser/javaparser-javaparser-3.14.12_exhaustive_b.rsf) = 1225
+
+MoJo(javaparser-javaparser/javaparser-javaparser-3.14.12_exhaustive_b.rsf,javaparser-javaparser/javaparser-javaparser-3.14.12_exhaustive_a.rsf) = 1229
+The Mojo value is 1225
+
+MoJo(javaparser-javaparser/javaparser-javaparser-3.14.13_hillclimbing_a.rsf,javaparser-javaparser/javaparser-javaparser-3.14.13_hillclimbing_b.rsf) = 1202
+
+MoJo(javaparser-javaparser/javaparser-javaparser-3.14.13_hillclimbing_b.rsf,javaparser-javaparser/javaparser-javaparser-3.14.13_hillclimbing_a.rsf) = 943
+The Mojo value is 943
+
+MoJo(javaparser-javaparser/javaparser-javaparser-3.14.13_ga_a.rsf,javaparser-javaparser/javaparser-javaparser-3.14.13_ga_b.rsf) = 1138
+
+MoJo(javaparser-javaparser/javaparser-javaparser-3.14.13_ga_b.rsf,javaparser-javaparser/javaparser-javaparser-3.14.13_ga_a.rsf) = 1037
+The Mojo value is 1037
+
+MoJo(javaparser-javaparser/javaparser-javaparser-3.14.13_exhaustive_a.rsf,javaparser-javaparser/javaparser-javaparser-3.14.13_exhaustive_b.rsf) = 1088
+
+MoJo(javaparser-javaparser/javaparser-javaparser-3.14.13_exhaustive_b.rsf,javaparser-javaparser/javaparser-javaparser-3.14.13_exhaustive_a.rsf) = 1142
+The Mojo value is 1088
+
+MoJo(javaparser-javaparser/javaparser-javaparser-3.14.14_hillclimbing_a.rsf,javaparser-javaparser/javaparser-javaparser-3.14.14_hillclimbing_b.rsf) = 1164
+
+MoJo(javaparser-javaparser/javaparser-javaparser-3.14.14_hillclimbing_b.rsf,javaparser-javaparser/javaparser-javaparser-3.14.14_hillclimbing_a.rsf) = 1038
+The Mojo value is 1038
+
+MoJo(javaparser-javaparser/javaparser-javaparser-3.14.14_ga_a.rsf,javaparser-javaparser/javaparser-javaparser-3.14.14_ga_b.rsf) = 1209
+
+MoJo(javaparser-javaparser/javaparser-javaparser-3.14.14_ga_b.rsf,javaparser-javaparser/javaparser-javaparser-3.14.14_ga_a.rsf) = 1022
+The Mojo value is 1022
+
+MoJo(javaparser-javaparser/javaparser-javaparser-3.14.14_exhaustive_a.rsf,javaparser-javaparser/javaparser-javaparser-3.14.14_exhaustive_b.rsf) = 1216
+
+MoJo(javaparser-javaparser/javaparser-javaparser-3.14.14_exhaustive_b.rsf,javaparser-javaparser/javaparser-javaparser-3.14.14_exhaustive_a.rsf) = 1218
+The Mojo value is 1216
+
+MoJo(javaparser-javaparser/javaparser-javaparser-3.14.2_hillclimbing_a.rsf,javaparser-javaparser/javaparser-javaparser-3.14.2_hillclimbing_b.rsf) = 1147
+
+MoJo(javaparser-javaparser/javaparser-javaparser-3.14.2_hillclimbing_b.rsf,javaparser-javaparser/javaparser-javaparser-3.14.2_hillclimbing_a.rsf) = 1186
+The Mojo value is 1147
+
+MoJo(javaparser-javaparser/javaparser-javaparser-3.14.2_ga_a.rsf,javaparser-javaparser/javaparser-javaparser-3.14.2_ga_b.rsf) = 1122
+
+MoJo(javaparser-javaparser/javaparser-javaparser-3.14.2_ga_b.rsf,javaparser-javaparser/javaparser-javaparser-3.14.2_ga_a.rsf) = 1016
+The Mojo value is 1016
+
+MoJo(javaparser-javaparser/javaparser-javaparser-3.14.2_exhaustive_a.rsf,javaparser-javaparser/javaparser-javaparser-3.14.2_exhaustive_b.rsf) = 1146
+
+MoJo(javaparser-javaparser/javaparser-javaparser-3.14.2_exhaustive_b.rsf,javaparser-javaparser/javaparser-javaparser-3.14.2_exhaustive_a.rsf) = 1053
+The Mojo value is 1053
+
+MoJo(javaparser-javaparser/javaparser-javaparser-3.14.3_hillclimbing_a.rsf,javaparser-javaparser/javaparser-javaparser-3.14.3_hillclimbing_b.rsf) = 1195
+
+MoJo(javaparser-javaparser/javaparser-javaparser-3.14.3_hillclimbing_b.rsf,javaparser-javaparser/javaparser-javaparser-3.14.3_hillclimbing_a.rsf) = 965
+The Mojo value is 965
+
+MoJo(javaparser-javaparser/javaparser-javaparser-3.14.3_ga_a.rsf,javaparser-javaparser/javaparser-javaparser-3.14.3_ga_b.rsf) = 1156
+
+MoJo(javaparser-javaparser/javaparser-javaparser-3.14.3_ga_b.rsf,javaparser-javaparser/javaparser-javaparser-3.14.3_ga_a.rsf) = 1051
+The Mojo value is 1051
+
+MoJo(javaparser-javaparser/javaparser-javaparser-3.14.3_exhaustive_a.rsf,javaparser-javaparser/javaparser-javaparser-3.14.3_exhaustive_b.rsf) = 1099
+
+MoJo(javaparser-javaparser/javaparser-javaparser-3.14.3_exhaustive_b.rsf,javaparser-javaparser/javaparser-javaparser-3.14.3_exhaustive_a.rsf) = 982
+The Mojo value is 982
+
+MoJo(javaparser-javaparser/javaparser-javaparser-3.14.4_hillclimbing_a.rsf,javaparser-javaparser/javaparser-javaparser-3.14.4_hillclimbing_b.rsf) = 1209
+
+MoJo(javaparser-javaparser/javaparser-javaparser-3.14.4_hillclimbing_b.rsf,javaparser-javaparser/javaparser-javaparser-3.14.4_hillclimbing_a.rsf) = 1079
+The Mojo value is 1079
+
+MoJo(javaparser-javaparser/javaparser-javaparser-3.14.4_ga_a.rsf,javaparser-javaparser/javaparser-javaparser-3.14.4_ga_b.rsf) = 1131
+
+MoJo(javaparser-javaparser/javaparser-javaparser-3.14.4_ga_b.rsf,javaparser-javaparser/javaparser-javaparser-3.14.4_ga_a.rsf) = 1074
+The Mojo value is 1074
+
+MoJo(javaparser-javaparser/javaparser-javaparser-3.14.4_exhaustive_a.rsf,javaparser-javaparser/javaparser-javaparser-3.14.4_exhaustive_b.rsf) = 1092
+
+MoJo(javaparser-javaparser/javaparser-javaparser-3.14.4_exhaustive_b.rsf,javaparser-javaparser/javaparser-javaparser-3.14.4_exhaustive_a.rsf) = 1073
+The Mojo value is 1073
+
+MoJo(javaparser-javaparser/javaparser-javaparser-3.14.5_hillclimbing_a.rsf,javaparser-javaparser/javaparser-javaparser-3.14.5_hillclimbing_b.rsf) = 1209
+
+MoJo(javaparser-javaparser/javaparser-javaparser-3.14.5_hillclimbing_b.rsf,javaparser-javaparser/javaparser-javaparser-3.14.5_hillclimbing_a.rsf) = 1193
+The Mojo value is 1193
+
+MoJo(javaparser-javaparser/javaparser-javaparser-3.14.5_ga_a.rsf,javaparser-javaparser/javaparser-javaparser-3.14.5_ga_b.rsf) = 1177
+
+MoJo(javaparser-javaparser/javaparser-javaparser-3.14.5_ga_b.rsf,javaparser-javaparser/javaparser-javaparser-3.14.5_ga_a.rsf) = 993
+The Mojo value is 993
+
+MoJo(javaparser-javaparser/javaparser-javaparser-3.14.5_exhaustive_a.rsf,javaparser-javaparser/javaparser-javaparser-3.14.5_exhaustive_b.rsf) = 1012
+
+MoJo(javaparser-javaparser/javaparser-javaparser-3.14.5_exhaustive_b.rsf,javaparser-javaparser/javaparser-javaparser-3.14.5_exhaustive_a.rsf) = 903
+The Mojo value is 903
+
+MoJo(javaparser-javaparser/javaparser-javaparser-3.14.7_hillclimbing_a.rsf,javaparser-javaparser/javaparser-javaparser-3.14.7_hillclimbing_b.rsf) = 1116
+
+MoJo(javaparser-javaparser/javaparser-javaparser-3.14.7_hillclimbing_b.rsf,javaparser-javaparser/javaparser-javaparser-3.14.7_hillclimbing_a.rsf) = 1032
+The Mojo value is 1032
+
+MoJo(javaparser-javaparser/javaparser-javaparser-3.14.7_ga_a.rsf,javaparser-javaparser/javaparser-javaparser-3.14.7_ga_b.rsf) = 485
+
+MoJo(javaparser-javaparser/javaparser-javaparser-3.14.7_ga_b.rsf,javaparser-javaparser/javaparser-javaparser-3.14.7_ga_a.rsf) = 707
+The Mojo value is 485
+
+MoJo(javaparser-javaparser/javaparser-javaparser-3.14.7_exhaustive_a.rsf,javaparser-javaparser/javaparser-javaparser-3.14.7_exhaustive_b.rsf) = 1217
+
+MoJo(javaparser-javaparser/javaparser-javaparser-3.14.7_exhaustive_b.rsf,javaparser-javaparser/javaparser-javaparser-3.14.7_exhaustive_a.rsf) = 1215
+The Mojo value is 1215
+
+MoJo(javaparser-javaparser/javaparser-javaparser-3.14.8_hillclimbing_a.rsf,javaparser-javaparser/javaparser-javaparser-3.14.8_hillclimbing_b.rsf) = 1192
+
+MoJo(javaparser-javaparser/javaparser-javaparser-3.14.8_hillclimbing_b.rsf,javaparser-javaparser/javaparser-javaparser-3.14.8_hillclimbing_a.rsf) = 1042
+The Mojo value is 1042
+
+MoJo(javaparser-javaparser/javaparser-javaparser-3.14.8_ga_a.rsf,javaparser-javaparser/javaparser-javaparser-3.14.8_ga_b.rsf) = 1149
+
+MoJo(javaparser-javaparser/javaparser-javaparser-3.14.8_ga_b.rsf,javaparser-javaparser/javaparser-javaparser-3.14.8_ga_a.rsf) = 1130
+The Mojo value is 1130
+
+MoJo(javaparser-javaparser/javaparser-javaparser-3.14.8_exhaustive_a.rsf,javaparser-javaparser/javaparser-javaparser-3.14.8_exhaustive_b.rsf) = 943
+
+MoJo(javaparser-javaparser/javaparser-javaparser-3.14.8_exhaustive_b.rsf,javaparser-javaparser/javaparser-javaparser-3.14.8_exhaustive_a.rsf) = 811
+The Mojo value is 811

@@ -1,0 +1,150 @@
+
+MoJo(crate-crate/crate-crate-3.3.1_hillclimbing_a.rsf,crate-crate/crate-crate-3.3.1_hillclimbing_b.rsf) = 2257
+
+MoJo(crate-crate/crate-crate-3.3.1_hillclimbing_b.rsf,crate-crate/crate-crate-3.3.1_hillclimbing_a.rsf) = 2265
+The Mojo value is 2257
+
+MoJo(crate-crate/crate-crate-3.3.1_ga_a.rsf,crate-crate/crate-crate-3.3.1_ga_b.rsf) = 2261
+
+MoJo(crate-crate/crate-crate-3.3.1_ga_b.rsf,crate-crate/crate-crate-3.3.1_ga_a.rsf) = 2262
+The Mojo value is 2261
+
+MoJo(crate-crate/crate-crate-3.3.1_exhaustive_a.rsf,crate-crate/crate-crate-3.3.1_exhaustive_b.rsf) = 2212
+
+MoJo(crate-crate/crate-crate-3.3.1_exhaustive_b.rsf,crate-crate/crate-crate-3.3.1_exhaustive_a.rsf) = 1398
+The Mojo value is 1398
+
+MoJo(crate-crate/crate-crate-3.3.2_hillclimbing_a.rsf,crate-crate/crate-crate-3.3.2_hillclimbing_b.rsf) = 2006
+
+MoJo(crate-crate/crate-crate-3.3.2_hillclimbing_b.rsf,crate-crate/crate-crate-3.3.2_hillclimbing_a.rsf) = 1778
+The Mojo value is 1778
+
+MoJo(crate-crate/crate-crate-3.3.2_ga_a.rsf,crate-crate/crate-crate-3.3.2_ga_b.rsf) = 2163
+
+MoJo(crate-crate/crate-crate-3.3.2_ga_b.rsf,crate-crate/crate-crate-3.3.2_ga_a.rsf) = 1506
+The Mojo value is 1506
+
+MoJo(crate-crate/crate-crate-3.3.2_exhaustive_a.rsf,crate-crate/crate-crate-3.3.2_exhaustive_b.rsf) = 2272
+
+MoJo(crate-crate/crate-crate-3.3.2_exhaustive_b.rsf,crate-crate/crate-crate-3.3.2_exhaustive_a.rsf) = 2241
+The Mojo value is 2241
+
+MoJo(crate-crate/crate-crate-3.3.3_hillclimbing_a.rsf,crate-crate/crate-crate-3.3.3_hillclimbing_b.rsf) = 2023
+
+MoJo(crate-crate/crate-crate-3.3.3_hillclimbing_b.rsf,crate-crate/crate-crate-3.3.3_hillclimbing_a.rsf) = 1957
+The Mojo value is 1957
+
+MoJo(crate-crate/crate-crate-3.3.3_ga_a.rsf,crate-crate/crate-crate-3.3.3_ga_b.rsf) = 2061
+
+MoJo(crate-crate/crate-crate-3.3.3_ga_b.rsf,crate-crate/crate-crate-3.3.3_ga_a.rsf) = 1566
+The Mojo value is 1566
+
+MoJo(crate-crate/crate-crate-3.3.3_exhaustive_a.rsf,crate-crate/crate-crate-3.3.3_exhaustive_b.rsf) = 2247
+
+MoJo(crate-crate/crate-crate-3.3.3_exhaustive_b.rsf,crate-crate/crate-crate-3.3.3_exhaustive_a.rsf) = 2206
+The Mojo value is 2206
+
+MoJo(crate-crate/crate-crate-3.3.4_hillclimbing_a.rsf,crate-crate/crate-crate-3.3.4_hillclimbing_b.rsf) = 2265
+
+MoJo(crate-crate/crate-crate-3.3.4_hillclimbing_b.rsf,crate-crate/crate-crate-3.3.4_hillclimbing_a.rsf) = 1998
+The Mojo value is 1998
+
+MoJo(crate-crate/crate-crate-3.3.4_ga_a.rsf,crate-crate/crate-crate-3.3.4_ga_b.rsf) = 2063
+
+MoJo(crate-crate/crate-crate-3.3.4_ga_b.rsf,crate-crate/crate-crate-3.3.4_ga_a.rsf) = 1669
+The Mojo value is 1669
+
+MoJo(crate-crate/crate-crate-3.3.4_exhaustive_a.rsf,crate-crate/crate-crate-3.3.4_exhaustive_b.rsf) = 2256
+
+MoJo(crate-crate/crate-crate-3.3.4_exhaustive_b.rsf,crate-crate/crate-crate-3.3.4_exhaustive_a.rsf) = 2098
+The Mojo value is 2098
+
+MoJo(crate-crate/crate-crate-3.3.5_hillclimbing_a.rsf,crate-crate/crate-crate-3.3.5_hillclimbing_b.rsf) = 2239
+
+MoJo(crate-crate/crate-crate-3.3.5_hillclimbing_b.rsf,crate-crate/crate-crate-3.3.5_hillclimbing_a.rsf) = 2053
+The Mojo value is 2053
+
+MoJo(crate-crate/crate-crate-3.3.5_ga_a.rsf,crate-crate/crate-crate-3.3.5_ga_b.rsf) = 2139
+
+MoJo(crate-crate/crate-crate-3.3.5_ga_b.rsf,crate-crate/crate-crate-3.3.5_ga_a.rsf) = 2152
+The Mojo value is 2139
+
+MoJo(crate-crate/crate-crate-3.3.5_exhaustive_a.rsf,crate-crate/crate-crate-3.3.5_exhaustive_b.rsf) = 2202
+
+MoJo(crate-crate/crate-crate-3.3.5_exhaustive_b.rsf,crate-crate/crate-crate-3.3.5_exhaustive_a.rsf) = 2137
+The Mojo value is 2137
+
+MoJo(crate-crate/crate-crate-4.0.0_hillclimbing_a.rsf,crate-crate/crate-crate-4.0.0_hillclimbing_b.rsf) = 3999
+
+MoJo(crate-crate/crate-crate-4.0.0_hillclimbing_b.rsf,crate-crate/crate-crate-4.0.0_hillclimbing_a.rsf) = 3731
+The Mojo value is 3731
+
+MoJo(crate-crate/crate-crate-4.0.0_ga_a.rsf,crate-crate/crate-crate-4.0.0_ga_b.rsf) = 4049
+
+MoJo(crate-crate/crate-crate-4.0.0_ga_b.rsf,crate-crate/crate-crate-4.0.0_ga_a.rsf) = 3825
+The Mojo value is 3825
+
+MoJo(crate-crate/crate-crate-4.0.0_exhaustive_a.rsf,crate-crate/crate-crate-4.0.0_exhaustive_b.rsf) = 4062
+
+MoJo(crate-crate/crate-crate-4.0.0_exhaustive_b.rsf,crate-crate/crate-crate-4.0.0_exhaustive_a.rsf) = 3887
+The Mojo value is 3887
+
+MoJo(crate-crate/crate-crate-4.0.1_hillclimbing_a.rsf,crate-crate/crate-crate-4.0.1_hillclimbing_b.rsf) = 4055
+
+MoJo(crate-crate/crate-crate-4.0.1_hillclimbing_b.rsf,crate-crate/crate-crate-4.0.1_hillclimbing_a.rsf) = 4044
+The Mojo value is 4044
+
+MoJo(crate-crate/crate-crate-4.0.1_ga_a.rsf,crate-crate/crate-crate-4.0.1_ga_b.rsf) = 4050
+
+MoJo(crate-crate/crate-crate-4.0.1_ga_b.rsf,crate-crate/crate-crate-4.0.1_ga_a.rsf) = 3865
+The Mojo value is 3865
+
+MoJo(crate-crate/crate-crate-4.0.1_exhaustive_a.rsf,crate-crate/crate-crate-4.0.1_exhaustive_b.rsf) = 4026
+
+MoJo(crate-crate/crate-crate-4.0.1_exhaustive_b.rsf,crate-crate/crate-crate-4.0.1_exhaustive_a.rsf) = 3841
+The Mojo value is 3841
+
+MoJo(crate-crate/crate-crate-4.0.2_hillclimbing_a.rsf,crate-crate/crate-crate-4.0.2_hillclimbing_b.rsf) = 4062
+
+MoJo(crate-crate/crate-crate-4.0.2_hillclimbing_b.rsf,crate-crate/crate-crate-4.0.2_hillclimbing_a.rsf) = 3933
+The Mojo value is 3933
+
+MoJo(crate-crate/crate-crate-4.0.2_ga_a.rsf,crate-crate/crate-crate-4.0.2_ga_b.rsf) = 4025
+
+MoJo(crate-crate/crate-crate-4.0.2_ga_b.rsf,crate-crate/crate-crate-4.0.2_ga_a.rsf) = 3889
+The Mojo value is 3889
+
+MoJo(crate-crate/crate-crate-4.0.2_exhaustive_a.rsf,crate-crate/crate-crate-4.0.2_exhaustive_b.rsf) = 4062
+
+MoJo(crate-crate/crate-crate-4.0.2_exhaustive_b.rsf,crate-crate/crate-crate-4.0.2_exhaustive_a.rsf) = 4011
+The Mojo value is 4011
+
+MoJo(crate-crate/crate-crate-4.0.3_hillclimbing_a.rsf,crate-crate/crate-crate-4.0.3_hillclimbing_b.rsf) = 3878
+
+MoJo(crate-crate/crate-crate-4.0.3_hillclimbing_b.rsf,crate-crate/crate-crate-4.0.3_hillclimbing_a.rsf) = 3694
+The Mojo value is 3694
+
+MoJo(crate-crate/crate-crate-4.0.3_ga_a.rsf,crate-crate/crate-crate-4.0.3_ga_b.rsf) = 3944
+
+MoJo(crate-crate/crate-crate-4.0.3_ga_b.rsf,crate-crate/crate-crate-4.0.3_ga_a.rsf) = 3669
+The Mojo value is 3669
+
+MoJo(crate-crate/crate-crate-4.0.3_exhaustive_a.rsf,crate-crate/crate-crate-4.0.3_exhaustive_b.rsf) = 4037
+
+MoJo(crate-crate/crate-crate-4.0.3_exhaustive_b.rsf,crate-crate/crate-crate-4.0.3_exhaustive_a.rsf) = 3560
+The Mojo value is 3560
+
+MoJo(crate-crate/crate-crate-4.0.4_hillclimbing_a.rsf,crate-crate/crate-crate-4.0.4_hillclimbing_b.rsf) = 4045
+
+MoJo(crate-crate/crate-crate-4.0.4_hillclimbing_b.rsf,crate-crate/crate-crate-4.0.4_hillclimbing_a.rsf) = 3899
+The Mojo value is 3899
+
+MoJo(crate-crate/crate-crate-4.0.4_ga_a.rsf,crate-crate/crate-crate-4.0.4_ga_b.rsf) = 4014
+
+MoJo(crate-crate/crate-crate-4.0.4_ga_b.rsf,crate-crate/crate-crate-4.0.4_ga_a.rsf) = 3901
+The Mojo value is 3901
+
+MoJo(crate-crate/crate-crate-4.0.4_exhaustive_a.rsf,crate-crate/crate-crate-4.0.4_exhaustive_b.rsf) = 3963
+
+MoJo(crate-crate/crate-crate-4.0.4_exhaustive_b.rsf,crate-crate/crate-crate-4.0.4_exhaustive_a.rsf) = 3292
+The Mojo value is 3292

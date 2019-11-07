@@ -1,0 +1,150 @@
+
+MoJo(knowm-XChange/knowm-XChange-4.3.2_hillclimbing_a.rsf,knowm-XChange/knowm-XChange-4.3.2_hillclimbing_b.rsf) = 2245
+
+MoJo(knowm-XChange/knowm-XChange-4.3.2_hillclimbing_b.rsf,knowm-XChange/knowm-XChange-4.3.2_hillclimbing_a.rsf) = 2102
+The Mojo value is 2102
+
+MoJo(knowm-XChange/knowm-XChange-4.3.2_ga_a.rsf,knowm-XChange/knowm-XChange-4.3.2_ga_b.rsf) = 2111
+
+MoJo(knowm-XChange/knowm-XChange-4.3.2_ga_b.rsf,knowm-XChange/knowm-XChange-4.3.2_ga_a.rsf) = 1996
+The Mojo value is 1996
+
+MoJo(knowm-XChange/knowm-XChange-4.3.2_exhaustive_a.rsf,knowm-XChange/knowm-XChange-4.3.2_exhaustive_b.rsf) = 2355
+
+MoJo(knowm-XChange/knowm-XChange-4.3.2_exhaustive_b.rsf,knowm-XChange/knowm-XChange-4.3.2_exhaustive_a.rsf) = 2247
+The Mojo value is 2247
+
+MoJo(knowm-XChange/knowm-XChange-4.3.20_hillclimbing_a.rsf,knowm-XChange/knowm-XChange-4.3.20_hillclimbing_b.rsf) = 3730
+
+MoJo(knowm-XChange/knowm-XChange-4.3.20_hillclimbing_b.rsf,knowm-XChange/knowm-XChange-4.3.20_hillclimbing_a.rsf) = 3248
+The Mojo value is 3248
+
+MoJo(knowm-XChange/knowm-XChange-4.3.20_ga_a.rsf,knowm-XChange/knowm-XChange-4.3.20_ga_b.rsf) = 3902
+
+MoJo(knowm-XChange/knowm-XChange-4.3.20_ga_b.rsf,knowm-XChange/knowm-XChange-4.3.20_ga_a.rsf) = 3817
+The Mojo value is 3817
+
+MoJo(knowm-XChange/knowm-XChange-4.3.20_exhaustive_a.rsf,knowm-XChange/knowm-XChange-4.3.20_exhaustive_b.rsf) = 3860
+
+MoJo(knowm-XChange/knowm-XChange-4.3.20_exhaustive_b.rsf,knowm-XChange/knowm-XChange-4.3.20_exhaustive_a.rsf) = 3770
+The Mojo value is 3770
+
+MoJo(knowm-XChange/knowm-XChange-4.3.21_hillclimbing_a.rsf,knowm-XChange/knowm-XChange-4.3.21_hillclimbing_b.rsf) = 3574
+
+MoJo(knowm-XChange/knowm-XChange-4.3.21_hillclimbing_b.rsf,knowm-XChange/knowm-XChange-4.3.21_hillclimbing_a.rsf) = 3894
+The Mojo value is 3574
+
+MoJo(knowm-XChange/knowm-XChange-4.3.21_ga_a.rsf,knowm-XChange/knowm-XChange-4.3.21_ga_b.rsf) = 3555
+
+MoJo(knowm-XChange/knowm-XChange-4.3.21_ga_b.rsf,knowm-XChange/knowm-XChange-4.3.21_ga_a.rsf) = 3651
+The Mojo value is 3555
+
+MoJo(knowm-XChange/knowm-XChange-4.3.21_exhaustive_a.rsf,knowm-XChange/knowm-XChange-4.3.21_exhaustive_b.rsf) = 4030
+
+MoJo(knowm-XChange/knowm-XChange-4.3.21_exhaustive_b.rsf,knowm-XChange/knowm-XChange-4.3.21_exhaustive_a.rsf) = 3949
+The Mojo value is 3949
+
+MoJo(knowm-XChange/knowm-XChange-4.3.3_hillclimbing_a.rsf,knowm-XChange/knowm-XChange-4.3.3_hillclimbing_b.rsf) = 2183
+
+MoJo(knowm-XChange/knowm-XChange-4.3.3_hillclimbing_b.rsf,knowm-XChange/knowm-XChange-4.3.3_hillclimbing_a.rsf) = 2313
+The Mojo value is 2183
+
+MoJo(knowm-XChange/knowm-XChange-4.3.3_ga_a.rsf,knowm-XChange/knowm-XChange-4.3.3_ga_b.rsf) = 2583
+
+MoJo(knowm-XChange/knowm-XChange-4.3.3_ga_b.rsf,knowm-XChange/knowm-XChange-4.3.3_ga_a.rsf) = 2152
+The Mojo value is 2152
+
+MoJo(knowm-XChange/knowm-XChange-4.3.3_exhaustive_a.rsf,knowm-XChange/knowm-XChange-4.3.3_exhaustive_b.rsf) = 2014
+
+MoJo(knowm-XChange/knowm-XChange-4.3.3_exhaustive_b.rsf,knowm-XChange/knowm-XChange-4.3.3_exhaustive_a.rsf) = 2189
+The Mojo value is 2014
+
+MoJo(knowm-XChange/knowm-XChange-4.3.4_hillclimbing_a.rsf,knowm-XChange/knowm-XChange-4.3.4_hillclimbing_b.rsf) = 1873
+
+MoJo(knowm-XChange/knowm-XChange-4.3.4_hillclimbing_b.rsf,knowm-XChange/knowm-XChange-4.3.4_hillclimbing_a.rsf) = 2209
+The Mojo value is 1873
+
+MoJo(knowm-XChange/knowm-XChange-4.3.4_ga_a.rsf,knowm-XChange/knowm-XChange-4.3.4_ga_b.rsf) = 2767
+
+MoJo(knowm-XChange/knowm-XChange-4.3.4_ga_b.rsf,knowm-XChange/knowm-XChange-4.3.4_ga_a.rsf) = 2502
+The Mojo value is 2502
+
+MoJo(knowm-XChange/knowm-XChange-4.3.4_exhaustive_a.rsf,knowm-XChange/knowm-XChange-4.3.4_exhaustive_b.rsf) = 2473
+
+MoJo(knowm-XChange/knowm-XChange-4.3.4_exhaustive_b.rsf,knowm-XChange/knowm-XChange-4.3.4_exhaustive_a.rsf) = 2459
+The Mojo value is 2459
+
+MoJo(knowm-XChange/knowm-XChange-4.3.5_hillclimbing_a.rsf,knowm-XChange/knowm-XChange-4.3.5_hillclimbing_b.rsf) = 2765
+
+MoJo(knowm-XChange/knowm-XChange-4.3.5_hillclimbing_b.rsf,knowm-XChange/knowm-XChange-4.3.5_hillclimbing_a.rsf) = 2703
+The Mojo value is 2703
+
+MoJo(knowm-XChange/knowm-XChange-4.3.5_ga_a.rsf,knowm-XChange/knowm-XChange-4.3.5_ga_b.rsf) = 2660
+
+MoJo(knowm-XChange/knowm-XChange-4.3.5_ga_b.rsf,knowm-XChange/knowm-XChange-4.3.5_ga_a.rsf) = 2338
+The Mojo value is 2338
+
+MoJo(knowm-XChange/knowm-XChange-4.3.5_exhaustive_a.rsf,knowm-XChange/knowm-XChange-4.3.5_exhaustive_b.rsf) = 2679
+
+MoJo(knowm-XChange/knowm-XChange-4.3.5_exhaustive_b.rsf,knowm-XChange/knowm-XChange-4.3.5_exhaustive_a.rsf) = 2487
+The Mojo value is 2487
+
+MoJo(knowm-XChange/knowm-XChange-4.3.6_hillclimbing_a.rsf,knowm-XChange/knowm-XChange-4.3.6_hillclimbing_b.rsf) = 2724
+
+MoJo(knowm-XChange/knowm-XChange-4.3.6_hillclimbing_b.rsf,knowm-XChange/knowm-XChange-4.3.6_hillclimbing_a.rsf) = 2231
+The Mojo value is 2231
+
+MoJo(knowm-XChange/knowm-XChange-4.3.6_ga_a.rsf,knowm-XChange/knowm-XChange-4.3.6_ga_b.rsf) = 2293
+
+MoJo(knowm-XChange/knowm-XChange-4.3.6_ga_b.rsf,knowm-XChange/knowm-XChange-4.3.6_ga_a.rsf) = 2460
+The Mojo value is 2293
+
+MoJo(knowm-XChange/knowm-XChange-4.3.6_exhaustive_a.rsf,knowm-XChange/knowm-XChange-4.3.6_exhaustive_b.rsf) = 2905
+
+MoJo(knowm-XChange/knowm-XChange-4.3.6_exhaustive_b.rsf,knowm-XChange/knowm-XChange-4.3.6_exhaustive_a.rsf) = 2801
+The Mojo value is 2801
+
+MoJo(knowm-XChange/knowm-XChange-4.3.7_hillclimbing_a.rsf,knowm-XChange/knowm-XChange-4.3.7_hillclimbing_b.rsf) = 2337
+
+MoJo(knowm-XChange/knowm-XChange-4.3.7_hillclimbing_b.rsf,knowm-XChange/knowm-XChange-4.3.7_hillclimbing_a.rsf) = 2538
+The Mojo value is 2337
+
+MoJo(knowm-XChange/knowm-XChange-4.3.7_ga_a.rsf,knowm-XChange/knowm-XChange-4.3.7_ga_b.rsf) = 2765
+
+MoJo(knowm-XChange/knowm-XChange-4.3.7_ga_b.rsf,knowm-XChange/knowm-XChange-4.3.7_ga_a.rsf) = 2732
+The Mojo value is 2732
+
+MoJo(knowm-XChange/knowm-XChange-4.3.7_exhaustive_a.rsf,knowm-XChange/knowm-XChange-4.3.7_exhaustive_b.rsf) = 2747
+
+MoJo(knowm-XChange/knowm-XChange-4.3.7_exhaustive_b.rsf,knowm-XChange/knowm-XChange-4.3.7_exhaustive_a.rsf) = 2697
+The Mojo value is 2697
+
+MoJo(knowm-XChange/knowm-XChange-4.3.8_hillclimbing_a.rsf,knowm-XChange/knowm-XChange-4.3.8_hillclimbing_b.rsf) = 2958
+
+MoJo(knowm-XChange/knowm-XChange-4.3.8_hillclimbing_b.rsf,knowm-XChange/knowm-XChange-4.3.8_hillclimbing_a.rsf) = 2781
+The Mojo value is 2781
+
+MoJo(knowm-XChange/knowm-XChange-4.3.8_ga_a.rsf,knowm-XChange/knowm-XChange-4.3.8_ga_b.rsf) = 2163
+
+MoJo(knowm-XChange/knowm-XChange-4.3.8_ga_b.rsf,knowm-XChange/knowm-XChange-4.3.8_ga_a.rsf) = 2758
+The Mojo value is 2163
+
+MoJo(knowm-XChange/knowm-XChange-4.3.8_exhaustive_a.rsf,knowm-XChange/knowm-XChange-4.3.8_exhaustive_b.rsf) = 2766
+
+MoJo(knowm-XChange/knowm-XChange-4.3.8_exhaustive_b.rsf,knowm-XChange/knowm-XChange-4.3.8_exhaustive_a.rsf) = 2643
+The Mojo value is 2643
+
+MoJo(knowm-XChange/knowm-XChange-4.3.9_hillclimbing_a.rsf,knowm-XChange/knowm-XChange-4.3.9_hillclimbing_b.rsf) = 3205
+
+MoJo(knowm-XChange/knowm-XChange-4.3.9_hillclimbing_b.rsf,knowm-XChange/knowm-XChange-4.3.9_hillclimbing_a.rsf) = 3160
+The Mojo value is 3160
+
+MoJo(knowm-XChange/knowm-XChange-4.3.9_ga_a.rsf,knowm-XChange/knowm-XChange-4.3.9_ga_b.rsf) = 2436
+
+MoJo(knowm-XChange/knowm-XChange-4.3.9_ga_b.rsf,knowm-XChange/knowm-XChange-4.3.9_ga_a.rsf) = 2851
+The Mojo value is 2436
+
+MoJo(knowm-XChange/knowm-XChange-4.3.9_exhaustive_a.rsf,knowm-XChange/knowm-XChange-4.3.9_exhaustive_b.rsf) = 2874
+
+MoJo(knowm-XChange/knowm-XChange-4.3.9_exhaustive_b.rsf,knowm-XChange/knowm-XChange-4.3.9_exhaustive_a.rsf) = 2947
+The Mojo value is 2874

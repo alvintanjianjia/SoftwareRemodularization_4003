@@ -1,0 +1,150 @@
+
+MoJo(cryptomator-cryptomator/cryptomator-cryptomator-1.4.14_hillclimbing_a.rsf,cryptomator-cryptomator/cryptomator-cryptomator-1.4.14_hillclimbing_b.rsf) = 70
+
+MoJo(cryptomator-cryptomator/cryptomator-cryptomator-1.4.14_hillclimbing_b.rsf,cryptomator-cryptomator/cryptomator-cryptomator-1.4.14_hillclimbing_a.rsf) = 68
+The Mojo value is 68
+
+MoJo(cryptomator-cryptomator/cryptomator-cryptomator-1.4.14_ga_a.rsf,cryptomator-cryptomator/cryptomator-cryptomator-1.4.14_ga_b.rsf) = 71
+
+MoJo(cryptomator-cryptomator/cryptomator-cryptomator-1.4.14_ga_b.rsf,cryptomator-cryptomator/cryptomator-cryptomator-1.4.14_ga_a.rsf) = 66
+The Mojo value is 66
+
+MoJo(cryptomator-cryptomator/cryptomator-cryptomator-1.4.14_exhaustive_a.rsf,cryptomator-cryptomator/cryptomator-cryptomator-1.4.14_exhaustive_b.rsf) = 74
+
+MoJo(cryptomator-cryptomator/cryptomator-cryptomator-1.4.14_exhaustive_b.rsf,cryptomator-cryptomator/cryptomator-cryptomator-1.4.14_exhaustive_a.rsf) = 72
+The Mojo value is 72
+
+MoJo(cryptomator-cryptomator/cryptomator-cryptomator-1.4.15_hillclimbing_a.rsf,cryptomator-cryptomator/cryptomator-cryptomator-1.4.15_hillclimbing_b.rsf) = 71
+
+MoJo(cryptomator-cryptomator/cryptomator-cryptomator-1.4.15_hillclimbing_b.rsf,cryptomator-cryptomator/cryptomator-cryptomator-1.4.15_hillclimbing_a.rsf) = 63
+The Mojo value is 63
+
+MoJo(cryptomator-cryptomator/cryptomator-cryptomator-1.4.15_ga_a.rsf,cryptomator-cryptomator/cryptomator-cryptomator-1.4.15_ga_b.rsf) = 72
+
+MoJo(cryptomator-cryptomator/cryptomator-cryptomator-1.4.15_ga_b.rsf,cryptomator-cryptomator/cryptomator-cryptomator-1.4.15_ga_a.rsf) = 72
+The Mojo value is 72
+
+MoJo(cryptomator-cryptomator/cryptomator-cryptomator-1.4.15_exhaustive_a.rsf,cryptomator-cryptomator/cryptomator-cryptomator-1.4.15_exhaustive_b.rsf) = 73
+
+MoJo(cryptomator-cryptomator/cryptomator-cryptomator-1.4.15_exhaustive_b.rsf,cryptomator-cryptomator/cryptomator-cryptomator-1.4.15_exhaustive_a.rsf) = 71
+The Mojo value is 71
+
+MoJo(cryptomator-cryptomator/cryptomator-cryptomator-1.4.16_hillclimbing_a.rsf,cryptomator-cryptomator/cryptomator-cryptomator-1.4.16_hillclimbing_b.rsf) = 68
+
+MoJo(cryptomator-cryptomator/cryptomator-cryptomator-1.4.16_hillclimbing_b.rsf,cryptomator-cryptomator/cryptomator-cryptomator-1.4.16_hillclimbing_a.rsf) = 67
+The Mojo value is 67
+
+MoJo(cryptomator-cryptomator/cryptomator-cryptomator-1.4.16_ga_a.rsf,cryptomator-cryptomator/cryptomator-cryptomator-1.4.16_ga_b.rsf) = 72
+
+MoJo(cryptomator-cryptomator/cryptomator-cryptomator-1.4.16_ga_b.rsf,cryptomator-cryptomator/cryptomator-cryptomator-1.4.16_ga_a.rsf) = 72
+The Mojo value is 72
+
+MoJo(cryptomator-cryptomator/cryptomator-cryptomator-1.4.16_exhaustive_a.rsf,cryptomator-cryptomator/cryptomator-cryptomator-1.4.16_exhaustive_b.rsf) = 65
+
+MoJo(cryptomator-cryptomator/cryptomator-cryptomator-1.4.16_exhaustive_b.rsf,cryptomator-cryptomator/cryptomator-cryptomator-1.4.16_exhaustive_a.rsf) = 67
+The Mojo value is 65
+
+MoJo(cryptomator-cryptomator/cryptomator-cryptomator-1.4.2_hillclimbing_a.rsf,cryptomator-cryptomator/cryptomator-cryptomator-1.4.2_hillclimbing_b.rsf) = 58
+
+MoJo(cryptomator-cryptomator/cryptomator-cryptomator-1.4.2_hillclimbing_b.rsf,cryptomator-cryptomator/cryptomator-cryptomator-1.4.2_hillclimbing_a.rsf) = 60
+The Mojo value is 58
+
+MoJo(cryptomator-cryptomator/cryptomator-cryptomator-1.4.2_ga_a.rsf,cryptomator-cryptomator/cryptomator-cryptomator-1.4.2_ga_b.rsf) = 61
+
+MoJo(cryptomator-cryptomator/cryptomator-cryptomator-1.4.2_ga_b.rsf,cryptomator-cryptomator/cryptomator-cryptomator-1.4.2_ga_a.rsf) = 59
+The Mojo value is 59
+
+MoJo(cryptomator-cryptomator/cryptomator-cryptomator-1.4.2_exhaustive_a.rsf,cryptomator-cryptomator/cryptomator-cryptomator-1.4.2_exhaustive_b.rsf) = 53
+
+MoJo(cryptomator-cryptomator/cryptomator-cryptomator-1.4.2_exhaustive_b.rsf,cryptomator-cryptomator/cryptomator-cryptomator-1.4.2_exhaustive_a.rsf) = 49
+The Mojo value is 49
+
+MoJo(cryptomator-cryptomator/cryptomator-cryptomator-1.4.3_hillclimbing_a.rsf,cryptomator-cryptomator/cryptomator-cryptomator-1.4.3_hillclimbing_b.rsf) = 61
+
+MoJo(cryptomator-cryptomator/cryptomator-cryptomator-1.4.3_hillclimbing_b.rsf,cryptomator-cryptomator/cryptomator-cryptomator-1.4.3_hillclimbing_a.rsf) = 60
+The Mojo value is 60
+
+MoJo(cryptomator-cryptomator/cryptomator-cryptomator-1.4.3_ga_a.rsf,cryptomator-cryptomator/cryptomator-cryptomator-1.4.3_ga_b.rsf) = 61
+
+MoJo(cryptomator-cryptomator/cryptomator-cryptomator-1.4.3_ga_b.rsf,cryptomator-cryptomator/cryptomator-cryptomator-1.4.3_ga_a.rsf) = 54
+The Mojo value is 54
+
+MoJo(cryptomator-cryptomator/cryptomator-cryptomator-1.4.3_exhaustive_a.rsf,cryptomator-cryptomator/cryptomator-cryptomator-1.4.3_exhaustive_b.rsf) = 64
+
+MoJo(cryptomator-cryptomator/cryptomator-cryptomator-1.4.3_exhaustive_b.rsf,cryptomator-cryptomator/cryptomator-cryptomator-1.4.3_exhaustive_a.rsf) = 59
+The Mojo value is 59
+
+MoJo(cryptomator-cryptomator/cryptomator-cryptomator-1.4.4_hillclimbing_a.rsf,cryptomator-cryptomator/cryptomator-cryptomator-1.4.4_hillclimbing_b.rsf) = 48
+
+MoJo(cryptomator-cryptomator/cryptomator-cryptomator-1.4.4_hillclimbing_b.rsf,cryptomator-cryptomator/cryptomator-cryptomator-1.4.4_hillclimbing_a.rsf) = 36
+The Mojo value is 36
+
+MoJo(cryptomator-cryptomator/cryptomator-cryptomator-1.4.4_ga_a.rsf,cryptomator-cryptomator/cryptomator-cryptomator-1.4.4_ga_b.rsf) = 58
+
+MoJo(cryptomator-cryptomator/cryptomator-cryptomator-1.4.4_ga_b.rsf,cryptomator-cryptomator/cryptomator-cryptomator-1.4.4_ga_a.rsf) = 54
+The Mojo value is 54
+
+MoJo(cryptomator-cryptomator/cryptomator-cryptomator-1.4.4_exhaustive_a.rsf,cryptomator-cryptomator/cryptomator-cryptomator-1.4.4_exhaustive_b.rsf) = 59
+
+MoJo(cryptomator-cryptomator/cryptomator-cryptomator-1.4.4_exhaustive_b.rsf,cryptomator-cryptomator/cryptomator-cryptomator-1.4.4_exhaustive_a.rsf) = 48
+The Mojo value is 48
+
+MoJo(cryptomator-cryptomator/cryptomator-cryptomator-1.4.5_hillclimbing_a.rsf,cryptomator-cryptomator/cryptomator-cryptomator-1.4.5_hillclimbing_b.rsf) = 59
+
+MoJo(cryptomator-cryptomator/cryptomator-cryptomator-1.4.5_hillclimbing_b.rsf,cryptomator-cryptomator/cryptomator-cryptomator-1.4.5_hillclimbing_a.rsf) = 60
+The Mojo value is 59
+
+MoJo(cryptomator-cryptomator/cryptomator-cryptomator-1.4.5_ga_a.rsf,cryptomator-cryptomator/cryptomator-cryptomator-1.4.5_ga_b.rsf) = 59
+
+MoJo(cryptomator-cryptomator/cryptomator-cryptomator-1.4.5_ga_b.rsf,cryptomator-cryptomator/cryptomator-cryptomator-1.4.5_ga_a.rsf) = 59
+The Mojo value is 59
+
+MoJo(cryptomator-cryptomator/cryptomator-cryptomator-1.4.5_exhaustive_a.rsf,cryptomator-cryptomator/cryptomator-cryptomator-1.4.5_exhaustive_b.rsf) = 58
+
+MoJo(cryptomator-cryptomator/cryptomator-cryptomator-1.4.5_exhaustive_b.rsf,cryptomator-cryptomator/cryptomator-cryptomator-1.4.5_exhaustive_a.rsf) = 49
+The Mojo value is 49
+
+MoJo(cryptomator-cryptomator/cryptomator-cryptomator-1.4.6_hillclimbing_a.rsf,cryptomator-cryptomator/cryptomator-cryptomator-1.4.6_hillclimbing_b.rsf) = 57
+
+MoJo(cryptomator-cryptomator/cryptomator-cryptomator-1.4.6_hillclimbing_b.rsf,cryptomator-cryptomator/cryptomator-cryptomator-1.4.6_hillclimbing_a.rsf) = 63
+The Mojo value is 57
+
+MoJo(cryptomator-cryptomator/cryptomator-cryptomator-1.4.6_ga_a.rsf,cryptomator-cryptomator/cryptomator-cryptomator-1.4.6_ga_b.rsf) = 51
+
+MoJo(cryptomator-cryptomator/cryptomator-cryptomator-1.4.6_ga_b.rsf,cryptomator-cryptomator/cryptomator-cryptomator-1.4.6_ga_a.rsf) = 41
+The Mojo value is 41
+
+MoJo(cryptomator-cryptomator/cryptomator-cryptomator-1.4.6_exhaustive_a.rsf,cryptomator-cryptomator/cryptomator-cryptomator-1.4.6_exhaustive_b.rsf) = 65
+
+MoJo(cryptomator-cryptomator/cryptomator-cryptomator-1.4.6_exhaustive_b.rsf,cryptomator-cryptomator/cryptomator-cryptomator-1.4.6_exhaustive_a.rsf) = 64
+The Mojo value is 64
+
+MoJo(cryptomator-cryptomator/cryptomator-cryptomator-1.4.7_hillclimbing_a.rsf,cryptomator-cryptomator/cryptomator-cryptomator-1.4.7_hillclimbing_b.rsf) = 57
+
+MoJo(cryptomator-cryptomator/cryptomator-cryptomator-1.4.7_hillclimbing_b.rsf,cryptomator-cryptomator/cryptomator-cryptomator-1.4.7_hillclimbing_a.rsf) = 50
+The Mojo value is 50
+
+MoJo(cryptomator-cryptomator/cryptomator-cryptomator-1.4.7_ga_a.rsf,cryptomator-cryptomator/cryptomator-cryptomator-1.4.7_ga_b.rsf) = 68
+
+MoJo(cryptomator-cryptomator/cryptomator-cryptomator-1.4.7_ga_b.rsf,cryptomator-cryptomator/cryptomator-cryptomator-1.4.7_ga_a.rsf) = 60
+The Mojo value is 60
+
+MoJo(cryptomator-cryptomator/cryptomator-cryptomator-1.4.7_exhaustive_a.rsf,cryptomator-cryptomator/cryptomator-cryptomator-1.4.7_exhaustive_b.rsf) = 66
+
+MoJo(cryptomator-cryptomator/cryptomator-cryptomator-1.4.7_exhaustive_b.rsf,cryptomator-cryptomator/cryptomator-cryptomator-1.4.7_exhaustive_a.rsf) = 55
+The Mojo value is 55
+
+MoJo(cryptomator-cryptomator/cryptomator-cryptomator-1.4.8_hillclimbing_a.rsf,cryptomator-cryptomator/cryptomator-cryptomator-1.4.8_hillclimbing_b.rsf) = 66
+
+MoJo(cryptomator-cryptomator/cryptomator-cryptomator-1.4.8_hillclimbing_b.rsf,cryptomator-cryptomator/cryptomator-cryptomator-1.4.8_hillclimbing_a.rsf) = 61
+The Mojo value is 61
+
+MoJo(cryptomator-cryptomator/cryptomator-cryptomator-1.4.8_ga_a.rsf,cryptomator-cryptomator/cryptomator-cryptomator-1.4.8_ga_b.rsf) = 70
+
+MoJo(cryptomator-cryptomator/cryptomator-cryptomator-1.4.8_ga_b.rsf,cryptomator-cryptomator/cryptomator-cryptomator-1.4.8_ga_a.rsf) = 66
+The Mojo value is 66
+
+MoJo(cryptomator-cryptomator/cryptomator-cryptomator-1.4.8_exhaustive_a.rsf,cryptomator-cryptomator/cryptomator-cryptomator-1.4.8_exhaustive_b.rsf) = 67
+
+MoJo(cryptomator-cryptomator/cryptomator-cryptomator-1.4.8_exhaustive_b.rsf,cryptomator-cryptomator/cryptomator-cryptomator-1.4.8_exhaustive_a.rsf) = 64
+The Mojo value is 64

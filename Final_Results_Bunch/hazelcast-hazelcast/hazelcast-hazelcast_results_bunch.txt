@@ -1,0 +1,150 @@
+
+MoJo(hazelcast-hazelcast/hazelcast-hazelcast-3.11.3_hillclimbing_a.rsf,hazelcast-hazelcast/hazelcast-hazelcast-3.11.3_hillclimbing_b.rsf) = 5790
+
+MoJo(hazelcast-hazelcast/hazelcast-hazelcast-3.11.3_hillclimbing_b.rsf,hazelcast-hazelcast/hazelcast-hazelcast-3.11.3_hillclimbing_a.rsf) = 5320
+The Mojo value is 5320
+
+MoJo(hazelcast-hazelcast/hazelcast-hazelcast-3.11.3_ga_a.rsf,hazelcast-hazelcast/hazelcast-hazelcast-3.11.3_ga_b.rsf) = 5789
+
+MoJo(hazelcast-hazelcast/hazelcast-hazelcast-3.11.3_ga_b.rsf,hazelcast-hazelcast/hazelcast-hazelcast-3.11.3_ga_a.rsf) = 5226
+The Mojo value is 5226
+
+MoJo(hazelcast-hazelcast/hazelcast-hazelcast-3.11.3_exhaustive_a.rsf,hazelcast-hazelcast/hazelcast-hazelcast-3.11.3_exhaustive_b.rsf) = 5887
+
+MoJo(hazelcast-hazelcast/hazelcast-hazelcast-3.11.3_exhaustive_b.rsf,hazelcast-hazelcast/hazelcast-hazelcast-3.11.3_exhaustive_a.rsf) = 5266
+The Mojo value is 5266
+
+MoJo(hazelcast-hazelcast/hazelcast-hazelcast-3.11.4_hillclimbing_a.rsf,hazelcast-hazelcast/hazelcast-hazelcast-3.11.4_hillclimbing_b.rsf) = 5965
+
+MoJo(hazelcast-hazelcast/hazelcast-hazelcast-3.11.4_hillclimbing_b.rsf,hazelcast-hazelcast/hazelcast-hazelcast-3.11.4_hillclimbing_a.rsf) = 5892
+The Mojo value is 5892
+
+MoJo(hazelcast-hazelcast/hazelcast-hazelcast-3.11.4_ga_a.rsf,hazelcast-hazelcast/hazelcast-hazelcast-3.11.4_ga_b.rsf) = 4474
+
+MoJo(hazelcast-hazelcast/hazelcast-hazelcast-3.11.4_ga_b.rsf,hazelcast-hazelcast/hazelcast-hazelcast-3.11.4_ga_a.rsf) = 4894
+The Mojo value is 4474
+
+MoJo(hazelcast-hazelcast/hazelcast-hazelcast-3.11.4_exhaustive_a.rsf,hazelcast-hazelcast/hazelcast-hazelcast-3.11.4_exhaustive_b.rsf) = 5439
+
+MoJo(hazelcast-hazelcast/hazelcast-hazelcast-3.11.4_exhaustive_b.rsf,hazelcast-hazelcast/hazelcast-hazelcast-3.11.4_exhaustive_a.rsf) = 5127
+The Mojo value is 5127
+
+MoJo(hazelcast-hazelcast/hazelcast-hazelcast-3.12_hillclimbing_a.rsf,hazelcast-hazelcast/hazelcast-hazelcast-3.12_hillclimbing_b.rsf) = 6602
+
+MoJo(hazelcast-hazelcast/hazelcast-hazelcast-3.12_hillclimbing_b.rsf,hazelcast-hazelcast/hazelcast-hazelcast-3.12_hillclimbing_a.rsf) = 6186
+The Mojo value is 6186
+
+MoJo(hazelcast-hazelcast/hazelcast-hazelcast-3.12_ga_a.rsf,hazelcast-hazelcast/hazelcast-hazelcast-3.12_ga_b.rsf) = 6383
+
+MoJo(hazelcast-hazelcast/hazelcast-hazelcast-3.12_ga_b.rsf,hazelcast-hazelcast/hazelcast-hazelcast-3.12_ga_a.rsf) = 5401
+The Mojo value is 5401
+
+MoJo(hazelcast-hazelcast/hazelcast-hazelcast-3.12_exhaustive_a.rsf,hazelcast-hazelcast/hazelcast-hazelcast-3.12_exhaustive_b.rsf) = 6418
+
+MoJo(hazelcast-hazelcast/hazelcast-hazelcast-3.12_exhaustive_b.rsf,hazelcast-hazelcast/hazelcast-hazelcast-3.12_exhaustive_a.rsf) = 6179
+The Mojo value is 6179
+
+MoJo(hazelcast-hazelcast/hazelcast-hazelcast-3.12.1_hillclimbing_a.rsf,hazelcast-hazelcast/hazelcast-hazelcast-3.12.1_hillclimbing_b.rsf) = 6217
+
+MoJo(hazelcast-hazelcast/hazelcast-hazelcast-3.12.1_hillclimbing_b.rsf,hazelcast-hazelcast/hazelcast-hazelcast-3.12.1_hillclimbing_a.rsf) = 5106
+The Mojo value is 5106
+
+MoJo(hazelcast-hazelcast/hazelcast-hazelcast-3.12.1_ga_a.rsf,hazelcast-hazelcast/hazelcast-hazelcast-3.12.1_ga_b.rsf) = 6620
+
+MoJo(hazelcast-hazelcast/hazelcast-hazelcast-3.12.1_ga_b.rsf,hazelcast-hazelcast/hazelcast-hazelcast-3.12.1_ga_a.rsf) = 5702
+The Mojo value is 5702
+
+MoJo(hazelcast-hazelcast/hazelcast-hazelcast-3.12.1_exhaustive_a.rsf,hazelcast-hazelcast/hazelcast-hazelcast-3.12.1_exhaustive_b.rsf) = 6391
+
+MoJo(hazelcast-hazelcast/hazelcast-hazelcast-3.12.1_exhaustive_b.rsf,hazelcast-hazelcast/hazelcast-hazelcast-3.12.1_exhaustive_a.rsf) = 5854
+The Mojo value is 5854
+
+MoJo(hazelcast-hazelcast/hazelcast-hazelcast-3.12.2_hillclimbing_a.rsf,hazelcast-hazelcast/hazelcast-hazelcast-3.12.2_hillclimbing_b.rsf) = 6368
+
+MoJo(hazelcast-hazelcast/hazelcast-hazelcast-3.12.2_hillclimbing_b.rsf,hazelcast-hazelcast/hazelcast-hazelcast-3.12.2_hillclimbing_a.rsf) = 5761
+The Mojo value is 5761
+
+MoJo(hazelcast-hazelcast/hazelcast-hazelcast-3.12.2_ga_a.rsf,hazelcast-hazelcast/hazelcast-hazelcast-3.12.2_ga_b.rsf) = 6481
+
+MoJo(hazelcast-hazelcast/hazelcast-hazelcast-3.12.2_ga_b.rsf,hazelcast-hazelcast/hazelcast-hazelcast-3.12.2_ga_a.rsf) = 6198
+The Mojo value is 6198
+
+MoJo(hazelcast-hazelcast/hazelcast-hazelcast-3.12.2_exhaustive_a.rsf,hazelcast-hazelcast/hazelcast-hazelcast-3.12.2_exhaustive_b.rsf) = 6118
+
+MoJo(hazelcast-hazelcast/hazelcast-hazelcast-3.12.2_exhaustive_b.rsf,hazelcast-hazelcast/hazelcast-hazelcast-3.12.2_exhaustive_a.rsf) = 6106
+The Mojo value is 6106
+
+MoJo(hazelcast-hazelcast/hazelcast-hazelcast-3.8.9_hillclimbing_a.rsf,hazelcast-hazelcast/hazelcast-hazelcast-3.8.9_hillclimbing_b.rsf) = 4459
+
+MoJo(hazelcast-hazelcast/hazelcast-hazelcast-3.8.9_hillclimbing_b.rsf,hazelcast-hazelcast/hazelcast-hazelcast-3.8.9_hillclimbing_a.rsf) = 3949
+The Mojo value is 3949
+
+MoJo(hazelcast-hazelcast/hazelcast-hazelcast-3.8.9_ga_a.rsf,hazelcast-hazelcast/hazelcast-hazelcast-3.8.9_ga_b.rsf) = 4738
+
+MoJo(hazelcast-hazelcast/hazelcast-hazelcast-3.8.9_ga_b.rsf,hazelcast-hazelcast/hazelcast-hazelcast-3.8.9_ga_a.rsf) = 4397
+The Mojo value is 4397
+
+MoJo(hazelcast-hazelcast/hazelcast-hazelcast-3.8.9_exhaustive_a.rsf,hazelcast-hazelcast/hazelcast-hazelcast-3.8.9_exhaustive_b.rsf) = 4732
+
+MoJo(hazelcast-hazelcast/hazelcast-hazelcast-3.8.9_exhaustive_b.rsf,hazelcast-hazelcast/hazelcast-hazelcast-3.8.9_exhaustive_a.rsf) = 3337
+The Mojo value is 3337
+
+MoJo(hazelcast-hazelcast/hazelcast-hazelcast-3.9_hillclimbing_a.rsf,hazelcast-hazelcast/hazelcast-hazelcast-3.9_hillclimbing_b.rsf) = 5170
+
+MoJo(hazelcast-hazelcast/hazelcast-hazelcast-3.9_hillclimbing_b.rsf,hazelcast-hazelcast/hazelcast-hazelcast-3.9_hillclimbing_a.rsf) = 4781
+The Mojo value is 4781
+
+MoJo(hazelcast-hazelcast/hazelcast-hazelcast-3.9_ga_a.rsf,hazelcast-hazelcast/hazelcast-hazelcast-3.9_ga_b.rsf) = 4979
+
+MoJo(hazelcast-hazelcast/hazelcast-hazelcast-3.9_ga_b.rsf,hazelcast-hazelcast/hazelcast-hazelcast-3.9_ga_a.rsf) = 4896
+The Mojo value is 4896
+
+MoJo(hazelcast-hazelcast/hazelcast-hazelcast-3.9_exhaustive_a.rsf,hazelcast-hazelcast/hazelcast-hazelcast-3.9_exhaustive_b.rsf) = 4684
+
+MoJo(hazelcast-hazelcast/hazelcast-hazelcast-3.9_exhaustive_b.rsf,hazelcast-hazelcast/hazelcast-hazelcast-3.9_exhaustive_a.rsf) = 4639
+The Mojo value is 4639
+
+MoJo(hazelcast-hazelcast/hazelcast-hazelcast-3.9.1_hillclimbing_a.rsf,hazelcast-hazelcast/hazelcast-hazelcast-3.9.1_hillclimbing_b.rsf) = 5197
+
+MoJo(hazelcast-hazelcast/hazelcast-hazelcast-3.9.1_hillclimbing_b.rsf,hazelcast-hazelcast/hazelcast-hazelcast-3.9.1_hillclimbing_a.rsf) = 5044
+The Mojo value is 5044
+
+MoJo(hazelcast-hazelcast/hazelcast-hazelcast-3.9.1_ga_a.rsf,hazelcast-hazelcast/hazelcast-hazelcast-3.9.1_ga_b.rsf) = 5141
+
+MoJo(hazelcast-hazelcast/hazelcast-hazelcast-3.9.1_ga_b.rsf,hazelcast-hazelcast/hazelcast-hazelcast-3.9.1_ga_a.rsf) = 4527
+The Mojo value is 4527
+
+MoJo(hazelcast-hazelcast/hazelcast-hazelcast-3.9.1_exhaustive_a.rsf,hazelcast-hazelcast/hazelcast-hazelcast-3.9.1_exhaustive_b.rsf) = 5140
+
+MoJo(hazelcast-hazelcast/hazelcast-hazelcast-3.9.1_exhaustive_b.rsf,hazelcast-hazelcast/hazelcast-hazelcast-3.9.1_exhaustive_a.rsf) = 3983
+The Mojo value is 3983
+
+MoJo(hazelcast-hazelcast/hazelcast-hazelcast-3.9.2_hillclimbing_a.rsf,hazelcast-hazelcast/hazelcast-hazelcast-3.9.2_hillclimbing_b.rsf) = 3470
+
+MoJo(hazelcast-hazelcast/hazelcast-hazelcast-3.9.2_hillclimbing_b.rsf,hazelcast-hazelcast/hazelcast-hazelcast-3.9.2_hillclimbing_a.rsf) = 3289
+The Mojo value is 3289
+
+MoJo(hazelcast-hazelcast/hazelcast-hazelcast-3.9.2_ga_a.rsf,hazelcast-hazelcast/hazelcast-hazelcast-3.9.2_ga_b.rsf) = 3573
+
+MoJo(hazelcast-hazelcast/hazelcast-hazelcast-3.9.2_ga_b.rsf,hazelcast-hazelcast/hazelcast-hazelcast-3.9.2_ga_a.rsf) = 2445
+The Mojo value is 2445
+
+MoJo(hazelcast-hazelcast/hazelcast-hazelcast-3.9.2_exhaustive_a.rsf,hazelcast-hazelcast/hazelcast-hazelcast-3.9.2_exhaustive_b.rsf) = 4476
+
+MoJo(hazelcast-hazelcast/hazelcast-hazelcast-3.9.2_exhaustive_b.rsf,hazelcast-hazelcast/hazelcast-hazelcast-3.9.2_exhaustive_a.rsf) = 4141
+The Mojo value is 4141
+
+MoJo(hazelcast-hazelcast/hazelcast-hazelcast-3.9.3_hillclimbing_a.rsf,hazelcast-hazelcast/hazelcast-hazelcast-3.9.3_hillclimbing_b.rsf) = 5240
+
+MoJo(hazelcast-hazelcast/hazelcast-hazelcast-3.9.3_hillclimbing_b.rsf,hazelcast-hazelcast/hazelcast-hazelcast-3.9.3_hillclimbing_a.rsf) = 4825
+The Mojo value is 4825
+
+MoJo(hazelcast-hazelcast/hazelcast-hazelcast-3.9.3_ga_a.rsf,hazelcast-hazelcast/hazelcast-hazelcast-3.9.3_ga_b.rsf) = 5250
+
+MoJo(hazelcast-hazelcast/hazelcast-hazelcast-3.9.3_ga_b.rsf,hazelcast-hazelcast/hazelcast-hazelcast-3.9.3_ga_a.rsf) = 5106
+The Mojo value is 5106
+
+MoJo(hazelcast-hazelcast/hazelcast-hazelcast-3.9.3_exhaustive_a.rsf,hazelcast-hazelcast/hazelcast-hazelcast-3.9.3_exhaustive_b.rsf) = 5061
+
+MoJo(hazelcast-hazelcast/hazelcast-hazelcast-3.9.3_exhaustive_b.rsf,hazelcast-hazelcast/hazelcast-hazelcast-3.9.3_exhaustive_a.rsf) = 4706
+The Mojo value is 4706

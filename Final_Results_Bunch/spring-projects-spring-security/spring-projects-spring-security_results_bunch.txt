@@ -1,0 +1,150 @@
+
+MoJo(spring-projects-spring-security/spring-projects-spring-security-5.0.6_hillclimbing_a.rsf,spring-projects-spring-security/spring-projects-spring-security-5.0.6_hillclimbing_b.rsf) = 1331
+
+MoJo(spring-projects-spring-security/spring-projects-spring-security-5.0.6_hillclimbing_b.rsf,spring-projects-spring-security/spring-projects-spring-security-5.0.6_hillclimbing_a.rsf) = 455
+The Mojo value is 455
+
+MoJo(spring-projects-spring-security/spring-projects-spring-security-5.0.6_ga_a.rsf,spring-projects-spring-security/spring-projects-spring-security-5.0.6_ga_b.rsf) = 1717
+
+MoJo(spring-projects-spring-security/spring-projects-spring-security-5.0.6_ga_b.rsf,spring-projects-spring-security/spring-projects-spring-security-5.0.6_ga_a.rsf) = 1709
+The Mojo value is 1709
+
+MoJo(spring-projects-spring-security/spring-projects-spring-security-5.0.6_exhaustive_a.rsf,spring-projects-spring-security/spring-projects-spring-security-5.0.6_exhaustive_b.rsf) = 1673
+
+MoJo(spring-projects-spring-security/spring-projects-spring-security-5.0.6_exhaustive_b.rsf,spring-projects-spring-security/spring-projects-spring-security-5.0.6_exhaustive_a.rsf) = 1611
+The Mojo value is 1611
+
+MoJo(spring-projects-spring-security/spring-projects-spring-security-5.0.7_hillclimbing_a.rsf,spring-projects-spring-security/spring-projects-spring-security-5.0.7_hillclimbing_b.rsf) = 1624
+
+MoJo(spring-projects-spring-security/spring-projects-spring-security-5.0.7_hillclimbing_b.rsf,spring-projects-spring-security/spring-projects-spring-security-5.0.7_hillclimbing_a.rsf) = 1579
+The Mojo value is 1579
+
+MoJo(spring-projects-spring-security/spring-projects-spring-security-5.0.7_ga_a.rsf,spring-projects-spring-security/spring-projects-spring-security-5.0.7_ga_b.rsf) = 1650
+
+MoJo(spring-projects-spring-security/spring-projects-spring-security-5.0.7_ga_b.rsf,spring-projects-spring-security/spring-projects-spring-security-5.0.7_ga_a.rsf) = 1533
+The Mojo value is 1533
+
+MoJo(spring-projects-spring-security/spring-projects-spring-security-5.0.7_exhaustive_a.rsf,spring-projects-spring-security/spring-projects-spring-security-5.0.7_exhaustive_b.rsf) = 1500
+
+MoJo(spring-projects-spring-security/spring-projects-spring-security-5.0.7_exhaustive_b.rsf,spring-projects-spring-security/spring-projects-spring-security-5.0.7_exhaustive_a.rsf) = 1623
+The Mojo value is 1500
+
+MoJo(spring-projects-spring-security/spring-projects-spring-security-5.0.8_hillclimbing_a.rsf,spring-projects-spring-security/spring-projects-spring-security-5.0.8_hillclimbing_b.rsf) = 1615
+
+MoJo(spring-projects-spring-security/spring-projects-spring-security-5.0.8_hillclimbing_b.rsf,spring-projects-spring-security/spring-projects-spring-security-5.0.8_hillclimbing_a.rsf) = 1546
+The Mojo value is 1546
+
+MoJo(spring-projects-spring-security/spring-projects-spring-security-5.0.8_ga_a.rsf,spring-projects-spring-security/spring-projects-spring-security-5.0.8_ga_b.rsf) = 1538
+
+MoJo(spring-projects-spring-security/spring-projects-spring-security-5.0.8_ga_b.rsf,spring-projects-spring-security/spring-projects-spring-security-5.0.8_ga_a.rsf) = 1675
+The Mojo value is 1538
+
+MoJo(spring-projects-spring-security/spring-projects-spring-security-5.0.8_exhaustive_a.rsf,spring-projects-spring-security/spring-projects-spring-security-5.0.8_exhaustive_b.rsf) = 1649
+
+MoJo(spring-projects-spring-security/spring-projects-spring-security-5.0.8_exhaustive_b.rsf,spring-projects-spring-security/spring-projects-spring-security-5.0.8_exhaustive_a.rsf) = 1465
+The Mojo value is 1465
+
+MoJo(spring-projects-spring-security/spring-projects-spring-security-5.0.9_hillclimbing_a.rsf,spring-projects-spring-security/spring-projects-spring-security-5.0.9_hillclimbing_b.rsf) = 1625
+
+MoJo(spring-projects-spring-security/spring-projects-spring-security-5.0.9_hillclimbing_b.rsf,spring-projects-spring-security/spring-projects-spring-security-5.0.9_hillclimbing_a.rsf) = 1535
+The Mojo value is 1535
+
+MoJo(spring-projects-spring-security/spring-projects-spring-security-5.0.9_ga_a.rsf,spring-projects-spring-security/spring-projects-spring-security-5.0.9_ga_b.rsf) = 1543
+
+MoJo(spring-projects-spring-security/spring-projects-spring-security-5.0.9_ga_b.rsf,spring-projects-spring-security/spring-projects-spring-security-5.0.9_ga_a.rsf) = 1205
+The Mojo value is 1205
+
+MoJo(spring-projects-spring-security/spring-projects-spring-security-5.0.9_exhaustive_a.rsf,spring-projects-spring-security/spring-projects-spring-security-5.0.9_exhaustive_b.rsf) = 1697
+
+MoJo(spring-projects-spring-security/spring-projects-spring-security-5.0.9_exhaustive_b.rsf,spring-projects-spring-security/spring-projects-spring-security-5.0.9_exhaustive_a.rsf) = 1597
+The Mojo value is 1597
+
+MoJo(spring-projects-spring-security/spring-projects-spring-security-5.1.0_hillclimbing_a.rsf,spring-projects-spring-security/spring-projects-spring-security-5.1.0_hillclimbing_b.rsf) = 1994
+
+MoJo(spring-projects-spring-security/spring-projects-spring-security-5.1.0_hillclimbing_b.rsf,spring-projects-spring-security/spring-projects-spring-security-5.1.0_hillclimbing_a.rsf) = 1961
+The Mojo value is 1961
+
+MoJo(spring-projects-spring-security/spring-projects-spring-security-5.1.0_ga_a.rsf,spring-projects-spring-security/spring-projects-spring-security-5.1.0_ga_b.rsf) = 1970
+
+MoJo(spring-projects-spring-security/spring-projects-spring-security-5.1.0_ga_b.rsf,spring-projects-spring-security/spring-projects-spring-security-5.1.0_ga_a.rsf) = 1780
+The Mojo value is 1780
+
+MoJo(spring-projects-spring-security/spring-projects-spring-security-5.1.0_exhaustive_a.rsf,spring-projects-spring-security/spring-projects-spring-security-5.1.0_exhaustive_b.rsf) = 1895
+
+MoJo(spring-projects-spring-security/spring-projects-spring-security-5.1.0_exhaustive_b.rsf,spring-projects-spring-security/spring-projects-spring-security-5.1.0_exhaustive_a.rsf) = 1807
+The Mojo value is 1807
+
+MoJo(spring-projects-spring-security/spring-projects-spring-security-5.1.1_hillclimbing_a.rsf,spring-projects-spring-security/spring-projects-spring-security-5.1.1_hillclimbing_b.rsf) = 1972
+
+MoJo(spring-projects-spring-security/spring-projects-spring-security-5.1.1_hillclimbing_b.rsf,spring-projects-spring-security/spring-projects-spring-security-5.1.1_hillclimbing_a.rsf) = 1842
+The Mojo value is 1842
+
+MoJo(spring-projects-spring-security/spring-projects-spring-security-5.1.1_ga_a.rsf,spring-projects-spring-security/spring-projects-spring-security-5.1.1_ga_b.rsf) = 1993
+
+MoJo(spring-projects-spring-security/spring-projects-spring-security-5.1.1_ga_b.rsf,spring-projects-spring-security/spring-projects-spring-security-5.1.1_ga_a.rsf) = 1869
+The Mojo value is 1869
+
+MoJo(spring-projects-spring-security/spring-projects-spring-security-5.1.1_exhaustive_a.rsf,spring-projects-spring-security/spring-projects-spring-security-5.1.1_exhaustive_b.rsf) = 1969
+
+MoJo(spring-projects-spring-security/spring-projects-spring-security-5.1.1_exhaustive_b.rsf,spring-projects-spring-security/spring-projects-spring-security-5.1.1_exhaustive_a.rsf) = 1941
+The Mojo value is 1941
+
+MoJo(spring-projects-spring-security/spring-projects-spring-security-5.1.2_hillclimbing_a.rsf,spring-projects-spring-security/spring-projects-spring-security-5.1.2_hillclimbing_b.rsf) = 1963
+
+MoJo(spring-projects-spring-security/spring-projects-spring-security-5.1.2_hillclimbing_b.rsf,spring-projects-spring-security/spring-projects-spring-security-5.1.2_hillclimbing_a.rsf) = 1915
+The Mojo value is 1915
+
+MoJo(spring-projects-spring-security/spring-projects-spring-security-5.1.2_ga_a.rsf,spring-projects-spring-security/spring-projects-spring-security-5.1.2_ga_b.rsf) = 2016
+
+MoJo(spring-projects-spring-security/spring-projects-spring-security-5.1.2_ga_b.rsf,spring-projects-spring-security/spring-projects-spring-security-5.1.2_ga_a.rsf) = 1832
+The Mojo value is 1832
+
+MoJo(spring-projects-spring-security/spring-projects-spring-security-5.1.2_exhaustive_a.rsf,spring-projects-spring-security/spring-projects-spring-security-5.1.2_exhaustive_b.rsf) = 1990
+
+MoJo(spring-projects-spring-security/spring-projects-spring-security-5.1.2_exhaustive_b.rsf,spring-projects-spring-security/spring-projects-spring-security-5.1.2_exhaustive_a.rsf) = 1875
+The Mojo value is 1875
+
+MoJo(spring-projects-spring-security/spring-projects-spring-security-5.1.3_hillclimbing_a.rsf,spring-projects-spring-security/spring-projects-spring-security-5.1.3_hillclimbing_b.rsf) = 1775
+
+MoJo(spring-projects-spring-security/spring-projects-spring-security-5.1.3_hillclimbing_b.rsf,spring-projects-spring-security/spring-projects-spring-security-5.1.3_hillclimbing_a.rsf) = 1746
+The Mojo value is 1746
+
+MoJo(spring-projects-spring-security/spring-projects-spring-security-5.1.3_ga_a.rsf,spring-projects-spring-security/spring-projects-spring-security-5.1.3_ga_b.rsf) = 1893
+
+MoJo(spring-projects-spring-security/spring-projects-spring-security-5.1.3_ga_b.rsf,spring-projects-spring-security/spring-projects-spring-security-5.1.3_ga_a.rsf) = 1808
+The Mojo value is 1808
+
+MoJo(spring-projects-spring-security/spring-projects-spring-security-5.1.3_exhaustive_a.rsf,spring-projects-spring-security/spring-projects-spring-security-5.1.3_exhaustive_b.rsf) = 1971
+
+MoJo(spring-projects-spring-security/spring-projects-spring-security-5.1.3_exhaustive_b.rsf,spring-projects-spring-security/spring-projects-spring-security-5.1.3_exhaustive_a.rsf) = 1866
+The Mojo value is 1866
+
+MoJo(spring-projects-spring-security/spring-projects-spring-security-5.1.4_hillclimbing_a.rsf,spring-projects-spring-security/spring-projects-spring-security-5.1.4_hillclimbing_b.rsf) = 1962
+
+MoJo(spring-projects-spring-security/spring-projects-spring-security-5.1.4_hillclimbing_b.rsf,spring-projects-spring-security/spring-projects-spring-security-5.1.4_hillclimbing_a.rsf) = 1940
+The Mojo value is 1940
+
+MoJo(spring-projects-spring-security/spring-projects-spring-security-5.1.4_ga_a.rsf,spring-projects-spring-security/spring-projects-spring-security-5.1.4_ga_b.rsf) = 1729
+
+MoJo(spring-projects-spring-security/spring-projects-spring-security-5.1.4_ga_b.rsf,spring-projects-spring-security/spring-projects-spring-security-5.1.4_ga_a.rsf) = 1633
+The Mojo value is 1633
+
+MoJo(spring-projects-spring-security/spring-projects-spring-security-5.1.4_exhaustive_a.rsf,spring-projects-spring-security/spring-projects-spring-security-5.1.4_exhaustive_b.rsf) = 1969
+
+MoJo(spring-projects-spring-security/spring-projects-spring-security-5.1.4_exhaustive_b.rsf,spring-projects-spring-security/spring-projects-spring-security-5.1.4_exhaustive_a.rsf) = 1848
+The Mojo value is 1848
+
+MoJo(spring-projects-spring-security/spring-projects-spring-security-5.1.5_hillclimbing_a.rsf,spring-projects-spring-security/spring-projects-spring-security-5.1.5_hillclimbing_b.rsf) = 1990
+
+MoJo(spring-projects-spring-security/spring-projects-spring-security-5.1.5_hillclimbing_b.rsf,spring-projects-spring-security/spring-projects-spring-security-5.1.5_hillclimbing_a.rsf) = 1826
+The Mojo value is 1826
+
+MoJo(spring-projects-spring-security/spring-projects-spring-security-5.1.5_ga_a.rsf,spring-projects-spring-security/spring-projects-spring-security-5.1.5_ga_b.rsf) = 1918
+
+MoJo(spring-projects-spring-security/spring-projects-spring-security-5.1.5_ga_b.rsf,spring-projects-spring-security/spring-projects-spring-security-5.1.5_ga_a.rsf) = 1557
+The Mojo value is 1557
+
+MoJo(spring-projects-spring-security/spring-projects-spring-security-5.1.5_exhaustive_a.rsf,spring-projects-spring-security/spring-projects-spring-security-5.1.5_exhaustive_b.rsf) = 1976
+
+MoJo(spring-projects-spring-security/spring-projects-spring-security-5.1.5_exhaustive_b.rsf,spring-projects-spring-security/spring-projects-spring-security-5.1.5_exhaustive_a.rsf) = 1957
+The Mojo value is 1957

@@ -1,0 +1,150 @@
+
+MoJo(immutables-immutables/immutables-immutables-2.6.0_hillclimbing_a.rsf,immutables-immutables/immutables-immutables-2.6.0_hillclimbing_b.rsf) = 532
+
+MoJo(immutables-immutables/immutables-immutables-2.6.0_hillclimbing_b.rsf,immutables-immutables/immutables-immutables-2.6.0_hillclimbing_a.rsf) = 385
+The Mojo value is 385
+
+MoJo(immutables-immutables/immutables-immutables-2.6.0_ga_a.rsf,immutables-immutables/immutables-immutables-2.6.0_ga_b.rsf) = 484
+
+MoJo(immutables-immutables/immutables-immutables-2.6.0_ga_b.rsf,immutables-immutables/immutables-immutables-2.6.0_ga_a.rsf) = 347
+The Mojo value is 347
+
+MoJo(immutables-immutables/immutables-immutables-2.6.0_exhaustive_a.rsf,immutables-immutables/immutables-immutables-2.6.0_exhaustive_b.rsf) = 430
+
+MoJo(immutables-immutables/immutables-immutables-2.6.0_exhaustive_b.rsf,immutables-immutables/immutables-immutables-2.6.0_exhaustive_a.rsf) = 401
+The Mojo value is 401
+
+MoJo(immutables-immutables/immutables-immutables-2.6.1_hillclimbing_a.rsf,immutables-immutables/immutables-immutables-2.6.1_hillclimbing_b.rsf) = 446
+
+MoJo(immutables-immutables/immutables-immutables-2.6.1_hillclimbing_b.rsf,immutables-immutables/immutables-immutables-2.6.1_hillclimbing_a.rsf) = 464
+The Mojo value is 446
+
+MoJo(immutables-immutables/immutables-immutables-2.6.1_ga_a.rsf,immutables-immutables/immutables-immutables-2.6.1_ga_b.rsf) = 327
+
+MoJo(immutables-immutables/immutables-immutables-2.6.1_ga_b.rsf,immutables-immutables/immutables-immutables-2.6.1_ga_a.rsf) = 460
+The Mojo value is 327
+
+MoJo(immutables-immutables/immutables-immutables-2.6.1_exhaustive_a.rsf,immutables-immutables/immutables-immutables-2.6.1_exhaustive_b.rsf) = 529
+
+MoJo(immutables-immutables/immutables-immutables-2.6.1_exhaustive_b.rsf,immutables-immutables/immutables-immutables-2.6.1_exhaustive_a.rsf) = 437
+The Mojo value is 437
+
+MoJo(immutables-immutables/immutables-immutables-2.6.2_hillclimbing_a.rsf,immutables-immutables/immutables-immutables-2.6.2_hillclimbing_b.rsf) = 397
+
+MoJo(immutables-immutables/immutables-immutables-2.6.2_hillclimbing_b.rsf,immutables-immutables/immutables-immutables-2.6.2_hillclimbing_a.rsf) = 278
+The Mojo value is 278
+
+MoJo(immutables-immutables/immutables-immutables-2.6.2_ga_a.rsf,immutables-immutables/immutables-immutables-2.6.2_ga_b.rsf) = 284
+
+MoJo(immutables-immutables/immutables-immutables-2.6.2_ga_b.rsf,immutables-immutables/immutables-immutables-2.6.2_ga_a.rsf) = 331
+The Mojo value is 284
+
+MoJo(immutables-immutables/immutables-immutables-2.6.2_exhaustive_a.rsf,immutables-immutables/immutables-immutables-2.6.2_exhaustive_b.rsf) = 215
+
+MoJo(immutables-immutables/immutables-immutables-2.6.2_exhaustive_b.rsf,immutables-immutables/immutables-immutables-2.6.2_exhaustive_a.rsf) = 422
+The Mojo value is 215
+
+MoJo(immutables-immutables/immutables-immutables-2.6.3_hillclimbing_a.rsf,immutables-immutables/immutables-immutables-2.6.3_hillclimbing_b.rsf) = 302
+
+MoJo(immutables-immutables/immutables-immutables-2.6.3_hillclimbing_b.rsf,immutables-immutables/immutables-immutables-2.6.3_hillclimbing_a.rsf) = 312
+The Mojo value is 302
+
+MoJo(immutables-immutables/immutables-immutables-2.6.3_ga_a.rsf,immutables-immutables/immutables-immutables-2.6.3_ga_b.rsf) = 239
+
+MoJo(immutables-immutables/immutables-immutables-2.6.3_ga_b.rsf,immutables-immutables/immutables-immutables-2.6.3_ga_a.rsf) = 397
+The Mojo value is 239
+
+MoJo(immutables-immutables/immutables-immutables-2.6.3_exhaustive_a.rsf,immutables-immutables/immutables-immutables-2.6.3_exhaustive_b.rsf) = 472
+
+MoJo(immutables-immutables/immutables-immutables-2.6.3_exhaustive_b.rsf,immutables-immutables/immutables-immutables-2.6.3_exhaustive_a.rsf) = 491
+The Mojo value is 472
+
+MoJo(immutables-immutables/immutables-immutables-2.7.0_hillclimbing_a.rsf,immutables-immutables/immutables-immutables-2.7.0_hillclimbing_b.rsf) = 463
+
+MoJo(immutables-immutables/immutables-immutables-2.7.0_hillclimbing_b.rsf,immutables-immutables/immutables-immutables-2.7.0_hillclimbing_a.rsf) = 393
+The Mojo value is 393
+
+MoJo(immutables-immutables/immutables-immutables-2.7.0_ga_a.rsf,immutables-immutables/immutables-immutables-2.7.0_ga_b.rsf) = 525
+
+MoJo(immutables-immutables/immutables-immutables-2.7.0_ga_b.rsf,immutables-immutables/immutables-immutables-2.7.0_ga_a.rsf) = 428
+The Mojo value is 428
+
+MoJo(immutables-immutables/immutables-immutables-2.7.0_exhaustive_a.rsf,immutables-immutables/immutables-immutables-2.7.0_exhaustive_b.rsf) = 476
+
+MoJo(immutables-immutables/immutables-immutables-2.7.0_exhaustive_b.rsf,immutables-immutables/immutables-immutables-2.7.0_exhaustive_a.rsf) = 349
+The Mojo value is 349
+
+MoJo(immutables-immutables/immutables-immutables-2.7.1_hillclimbing_a.rsf,immutables-immutables/immutables-immutables-2.7.1_hillclimbing_b.rsf) = 473
+
+MoJo(immutables-immutables/immutables-immutables-2.7.1_hillclimbing_b.rsf,immutables-immutables/immutables-immutables-2.7.1_hillclimbing_a.rsf) = 335
+The Mojo value is 335
+
+MoJo(immutables-immutables/immutables-immutables-2.7.1_ga_a.rsf,immutables-immutables/immutables-immutables-2.7.1_ga_b.rsf) = 554
+
+MoJo(immutables-immutables/immutables-immutables-2.7.1_ga_b.rsf,immutables-immutables/immutables-immutables-2.7.1_ga_a.rsf) = 346
+The Mojo value is 346
+
+MoJo(immutables-immutables/immutables-immutables-2.7.1_exhaustive_a.rsf,immutables-immutables/immutables-immutables-2.7.1_exhaustive_b.rsf) = 388
+
+MoJo(immutables-immutables/immutables-immutables-2.7.1_exhaustive_b.rsf,immutables-immutables/immutables-immutables-2.7.1_exhaustive_a.rsf) = 343
+The Mojo value is 343
+
+MoJo(immutables-immutables/immutables-immutables-2.7.2_hillclimbing_a.rsf,immutables-immutables/immutables-immutables-2.7.2_hillclimbing_b.rsf) = 339
+
+MoJo(immutables-immutables/immutables-immutables-2.7.2_hillclimbing_b.rsf,immutables-immutables/immutables-immutables-2.7.2_hillclimbing_a.rsf) = 374
+The Mojo value is 339
+
+MoJo(immutables-immutables/immutables-immutables-2.7.2_ga_a.rsf,immutables-immutables/immutables-immutables-2.7.2_ga_b.rsf) = 396
+
+MoJo(immutables-immutables/immutables-immutables-2.7.2_ga_b.rsf,immutables-immutables/immutables-immutables-2.7.2_ga_a.rsf) = 370
+The Mojo value is 370
+
+MoJo(immutables-immutables/immutables-immutables-2.7.2_exhaustive_a.rsf,immutables-immutables/immutables-immutables-2.7.2_exhaustive_b.rsf) = 553
+
+MoJo(immutables-immutables/immutables-immutables-2.7.2_exhaustive_b.rsf,immutables-immutables/immutables-immutables-2.7.2_exhaustive_a.rsf) = 418
+The Mojo value is 418
+
+MoJo(immutables-immutables/immutables-immutables-2.7.3_hillclimbing_a.rsf,immutables-immutables/immutables-immutables-2.7.3_hillclimbing_b.rsf) = 536
+
+MoJo(immutables-immutables/immutables-immutables-2.7.3_hillclimbing_b.rsf,immutables-immutables/immutables-immutables-2.7.3_hillclimbing_a.rsf) = 432
+The Mojo value is 432
+
+MoJo(immutables-immutables/immutables-immutables-2.7.3_ga_a.rsf,immutables-immutables/immutables-immutables-2.7.3_ga_b.rsf) = 327
+
+MoJo(immutables-immutables/immutables-immutables-2.7.3_ga_b.rsf,immutables-immutables/immutables-immutables-2.7.3_ga_a.rsf) = 395
+The Mojo value is 327
+
+MoJo(immutables-immutables/immutables-immutables-2.7.3_exhaustive_a.rsf,immutables-immutables/immutables-immutables-2.7.3_exhaustive_b.rsf) = 584
+
+MoJo(immutables-immutables/immutables-immutables-2.7.3_exhaustive_b.rsf,immutables-immutables/immutables-immutables-2.7.3_exhaustive_a.rsf) = 432
+The Mojo value is 432
+
+MoJo(immutables-immutables/immutables-immutables-2.7.4_hillclimbing_a.rsf,immutables-immutables/immutables-immutables-2.7.4_hillclimbing_b.rsf) = 559
+
+MoJo(immutables-immutables/immutables-immutables-2.7.4_hillclimbing_b.rsf,immutables-immutables/immutables-immutables-2.7.4_hillclimbing_a.rsf) = 433
+The Mojo value is 433
+
+MoJo(immutables-immutables/immutables-immutables-2.7.4_ga_a.rsf,immutables-immutables/immutables-immutables-2.7.4_ga_b.rsf) = 361
+
+MoJo(immutables-immutables/immutables-immutables-2.7.4_ga_b.rsf,immutables-immutables/immutables-immutables-2.7.4_ga_a.rsf) = 294
+The Mojo value is 294
+
+MoJo(immutables-immutables/immutables-immutables-2.7.4_exhaustive_a.rsf,immutables-immutables/immutables-immutables-2.7.4_exhaustive_b.rsf) = 507
+
+MoJo(immutables-immutables/immutables-immutables-2.7.4_exhaustive_b.rsf,immutables-immutables/immutables-immutables-2.7.4_exhaustive_a.rsf) = 488
+The Mojo value is 488
+
+MoJo(immutables-immutables/immutables-immutables-2.7.5_hillclimbing_a.rsf,immutables-immutables/immutables-immutables-2.7.5_hillclimbing_b.rsf) = 372
+
+MoJo(immutables-immutables/immutables-immutables-2.7.5_hillclimbing_b.rsf,immutables-immutables/immutables-immutables-2.7.5_hillclimbing_a.rsf) = 472
+The Mojo value is 372
+
+MoJo(immutables-immutables/immutables-immutables-2.7.5_ga_a.rsf,immutables-immutables/immutables-immutables-2.7.5_ga_b.rsf) = 388
+
+MoJo(immutables-immutables/immutables-immutables-2.7.5_ga_b.rsf,immutables-immutables/immutables-immutables-2.7.5_ga_a.rsf) = 327
+The Mojo value is 327
+
+MoJo(immutables-immutables/immutables-immutables-2.7.5_exhaustive_a.rsf,immutables-immutables/immutables-immutables-2.7.5_exhaustive_b.rsf) = 529
+
+MoJo(immutables-immutables/immutables-immutables-2.7.5_exhaustive_b.rsf,immutables-immutables/immutables-immutables-2.7.5_exhaustive_a.rsf) = 455
+The Mojo value is 455

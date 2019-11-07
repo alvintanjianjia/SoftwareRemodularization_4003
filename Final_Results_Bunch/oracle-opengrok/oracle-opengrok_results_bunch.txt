@@ -1,0 +1,15 @@
+
+MoJo(oracle-opengrok/oracle-opengrok-1.3.1_hillclimbing_a.rsf,oracle-opengrok/oracle-opengrok-1.3.1_hillclimbing_b.rsf) = 524
+
+MoJo(oracle-opengrok/oracle-opengrok-1.3.1_hillclimbing_b.rsf,oracle-opengrok/oracle-opengrok-1.3.1_hillclimbing_a.rsf) = 567
+The Mojo value is 524
+
+MoJo(oracle-opengrok/oracle-opengrok-1.3.1_ga_a.rsf,oracle-opengrok/oracle-opengrok-1.3.1_ga_b.rsf) = 556
+
+MoJo(oracle-opengrok/oracle-opengrok-1.3.1_ga_b.rsf,oracle-opengrok/oracle-opengrok-1.3.1_ga_a.rsf) = 565
+The Mojo value is 556
+
+MoJo(oracle-opengrok/oracle-opengrok-1.3.1_exhaustive_a.rsf,oracle-opengrok/oracle-opengrok-1.3.1_exhaustive_b.rsf) = 448
+
+MoJo(oracle-opengrok/oracle-opengrok-1.3.1_exhaustive_b.rsf,oracle-opengrok/oracle-opengrok-1.3.1_exhaustive_a.rsf) = 576
+The Mojo value is 448

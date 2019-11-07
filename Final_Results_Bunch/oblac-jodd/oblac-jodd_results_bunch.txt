@@ -1,0 +1,150 @@
+
+MoJo(oblac-jodd/oblac-jodd-5.0.11_hillclimbing_a.rsf,oblac-jodd/oblac-jodd-5.0.11_hillclimbing_b.rsf) = 1630
+
+MoJo(oblac-jodd/oblac-jodd-5.0.11_hillclimbing_b.rsf,oblac-jodd/oblac-jodd-5.0.11_hillclimbing_a.rsf) = 1465
+The Mojo value is 1465
+
+MoJo(oblac-jodd/oblac-jodd-5.0.11_ga_a.rsf,oblac-jodd/oblac-jodd-5.0.11_ga_b.rsf) = 1643
+
+MoJo(oblac-jodd/oblac-jodd-5.0.11_ga_b.rsf,oblac-jodd/oblac-jodd-5.0.11_ga_a.rsf) = 1478
+The Mojo value is 1478
+
+MoJo(oblac-jodd/oblac-jodd-5.0.11_exhaustive_a.rsf,oblac-jodd/oblac-jodd-5.0.11_exhaustive_b.rsf) = 1667
+
+MoJo(oblac-jodd/oblac-jodd-5.0.11_exhaustive_b.rsf,oblac-jodd/oblac-jodd-5.0.11_exhaustive_a.rsf) = 1582
+The Mojo value is 1582
+
+MoJo(oblac-jodd/oblac-jodd-5.0.12_hillclimbing_a.rsf,oblac-jodd/oblac-jodd-5.0.12_hillclimbing_b.rsf) = 1641
+
+MoJo(oblac-jodd/oblac-jodd-5.0.12_hillclimbing_b.rsf,oblac-jodd/oblac-jodd-5.0.12_hillclimbing_a.rsf) = 1606
+The Mojo value is 1606
+
+MoJo(oblac-jodd/oblac-jodd-5.0.12_ga_a.rsf,oblac-jodd/oblac-jodd-5.0.12_ga_b.rsf) = 1656
+
+MoJo(oblac-jodd/oblac-jodd-5.0.12_ga_b.rsf,oblac-jodd/oblac-jodd-5.0.12_ga_a.rsf) = 1563
+The Mojo value is 1563
+
+MoJo(oblac-jodd/oblac-jodd-5.0.12_exhaustive_a.rsf,oblac-jodd/oblac-jodd-5.0.12_exhaustive_b.rsf) = 1659
+
+MoJo(oblac-jodd/oblac-jodd-5.0.12_exhaustive_b.rsf,oblac-jodd/oblac-jodd-5.0.12_exhaustive_a.rsf) = 1617
+The Mojo value is 1617
+
+MoJo(oblac-jodd/oblac-jodd-5.0.13_hillclimbing_a.rsf,oblac-jodd/oblac-jodd-5.0.13_hillclimbing_b.rsf) = 1638
+
+MoJo(oblac-jodd/oblac-jodd-5.0.13_hillclimbing_b.rsf,oblac-jodd/oblac-jodd-5.0.13_hillclimbing_a.rsf) = 1469
+The Mojo value is 1469
+
+MoJo(oblac-jodd/oblac-jodd-5.0.13_ga_a.rsf,oblac-jodd/oblac-jodd-5.0.13_ga_b.rsf) = 1603
+
+MoJo(oblac-jodd/oblac-jodd-5.0.13_ga_b.rsf,oblac-jodd/oblac-jodd-5.0.13_ga_a.rsf) = 1377
+The Mojo value is 1377
+
+MoJo(oblac-jodd/oblac-jodd-5.0.13_exhaustive_a.rsf,oblac-jodd/oblac-jodd-5.0.13_exhaustive_b.rsf) = 1653
+
+MoJo(oblac-jodd/oblac-jodd-5.0.13_exhaustive_b.rsf,oblac-jodd/oblac-jodd-5.0.13_exhaustive_a.rsf) = 1558
+The Mojo value is 1558
+
+MoJo(oblac-jodd/oblac-jodd-5.0.2_hillclimbing_a.rsf,oblac-jodd/oblac-jodd-5.0.2_hillclimbing_b.rsf) = 1561
+
+MoJo(oblac-jodd/oblac-jodd-5.0.2_hillclimbing_b.rsf,oblac-jodd/oblac-jodd-5.0.2_hillclimbing_a.rsf) = 1573
+The Mojo value is 1561
+
+MoJo(oblac-jodd/oblac-jodd-5.0.2_ga_a.rsf,oblac-jodd/oblac-jodd-5.0.2_ga_b.rsf) = 1673
+
+MoJo(oblac-jodd/oblac-jodd-5.0.2_ga_b.rsf,oblac-jodd/oblac-jodd-5.0.2_ga_a.rsf) = 1606
+The Mojo value is 1606
+
+MoJo(oblac-jodd/oblac-jodd-5.0.2_exhaustive_a.rsf,oblac-jodd/oblac-jodd-5.0.2_exhaustive_b.rsf) = 1623
+
+MoJo(oblac-jodd/oblac-jodd-5.0.2_exhaustive_b.rsf,oblac-jodd/oblac-jodd-5.0.2_exhaustive_a.rsf) = 1580
+The Mojo value is 1580
+
+MoJo(oblac-jodd/oblac-jodd-5.0.3_hillclimbing_a.rsf,oblac-jodd/oblac-jodd-5.0.3_hillclimbing_b.rsf) = 1676
+
+MoJo(oblac-jodd/oblac-jodd-5.0.3_hillclimbing_b.rsf,oblac-jodd/oblac-jodd-5.0.3_hillclimbing_a.rsf) = 1593
+The Mojo value is 1593
+
+MoJo(oblac-jodd/oblac-jodd-5.0.3_ga_a.rsf,oblac-jodd/oblac-jodd-5.0.3_ga_b.rsf) = 1632
+
+MoJo(oblac-jodd/oblac-jodd-5.0.3_ga_b.rsf,oblac-jodd/oblac-jodd-5.0.3_ga_a.rsf) = 1601
+The Mojo value is 1601
+
+MoJo(oblac-jodd/oblac-jodd-5.0.3_exhaustive_a.rsf,oblac-jodd/oblac-jodd-5.0.3_exhaustive_b.rsf) = 1632
+
+MoJo(oblac-jodd/oblac-jodd-5.0.3_exhaustive_b.rsf,oblac-jodd/oblac-jodd-5.0.3_exhaustive_a.rsf) = 1600
+The Mojo value is 1600
+
+MoJo(oblac-jodd/oblac-jodd-5.0.4_hillclimbing_a.rsf,oblac-jodd/oblac-jodd-5.0.4_hillclimbing_b.rsf) = 1665
+
+MoJo(oblac-jodd/oblac-jodd-5.0.4_hillclimbing_b.rsf,oblac-jodd/oblac-jodd-5.0.4_hillclimbing_a.rsf) = 1605
+The Mojo value is 1605
+
+MoJo(oblac-jodd/oblac-jodd-5.0.4_ga_a.rsf,oblac-jodd/oblac-jodd-5.0.4_ga_b.rsf) = 1642
+
+MoJo(oblac-jodd/oblac-jodd-5.0.4_ga_b.rsf,oblac-jodd/oblac-jodd-5.0.4_ga_a.rsf) = 1628
+The Mojo value is 1628
+
+MoJo(oblac-jodd/oblac-jodd-5.0.4_exhaustive_a.rsf,oblac-jodd/oblac-jodd-5.0.4_exhaustive_b.rsf) = 1631
+
+MoJo(oblac-jodd/oblac-jodd-5.0.4_exhaustive_b.rsf,oblac-jodd/oblac-jodd-5.0.4_exhaustive_a.rsf) = 1627
+The Mojo value is 1627
+
+MoJo(oblac-jodd/oblac-jodd-5.0.5_hillclimbing_a.rsf,oblac-jodd/oblac-jodd-5.0.5_hillclimbing_b.rsf) = 1624
+
+MoJo(oblac-jodd/oblac-jodd-5.0.5_hillclimbing_b.rsf,oblac-jodd/oblac-jodd-5.0.5_hillclimbing_a.rsf) = 1532
+The Mojo value is 1532
+
+MoJo(oblac-jodd/oblac-jodd-5.0.5_ga_a.rsf,oblac-jodd/oblac-jodd-5.0.5_ga_b.rsf) = 1573
+
+MoJo(oblac-jodd/oblac-jodd-5.0.5_ga_b.rsf,oblac-jodd/oblac-jodd-5.0.5_ga_a.rsf) = 1328
+The Mojo value is 1328
+
+MoJo(oblac-jodd/oblac-jodd-5.0.5_exhaustive_a.rsf,oblac-jodd/oblac-jodd-5.0.5_exhaustive_b.rsf) = 1667
+
+MoJo(oblac-jodd/oblac-jodd-5.0.5_exhaustive_b.rsf,oblac-jodd/oblac-jodd-5.0.5_exhaustive_a.rsf) = 1635
+The Mojo value is 1635
+
+MoJo(oblac-jodd/oblac-jodd-5.0.6_hillclimbing_a.rsf,oblac-jodd/oblac-jodd-5.0.6_hillclimbing_b.rsf) = 1597
+
+MoJo(oblac-jodd/oblac-jodd-5.0.6_hillclimbing_b.rsf,oblac-jodd/oblac-jodd-5.0.6_hillclimbing_a.rsf) = 1597
+The Mojo value is 1597
+
+MoJo(oblac-jodd/oblac-jodd-5.0.6_ga_a.rsf,oblac-jodd/oblac-jodd-5.0.6_ga_b.rsf) = 1599
+
+MoJo(oblac-jodd/oblac-jodd-5.0.6_ga_b.rsf,oblac-jodd/oblac-jodd-5.0.6_ga_a.rsf) = 1355
+The Mojo value is 1355
+
+MoJo(oblac-jodd/oblac-jodd-5.0.6_exhaustive_a.rsf,oblac-jodd/oblac-jodd-5.0.6_exhaustive_b.rsf) = 1614
+
+MoJo(oblac-jodd/oblac-jodd-5.0.6_exhaustive_b.rsf,oblac-jodd/oblac-jodd-5.0.6_exhaustive_a.rsf) = 1545
+The Mojo value is 1545
+
+MoJo(oblac-jodd/oblac-jodd-5.0.7_hillclimbing_a.rsf,oblac-jodd/oblac-jodd-5.0.7_hillclimbing_b.rsf) = 1647
+
+MoJo(oblac-jodd/oblac-jodd-5.0.7_hillclimbing_b.rsf,oblac-jodd/oblac-jodd-5.0.7_hillclimbing_a.rsf) = 1533
+The Mojo value is 1533
+
+MoJo(oblac-jodd/oblac-jodd-5.0.7_ga_a.rsf,oblac-jodd/oblac-jodd-5.0.7_ga_b.rsf) = 1641
+
+MoJo(oblac-jodd/oblac-jodd-5.0.7_ga_b.rsf,oblac-jodd/oblac-jodd-5.0.7_ga_a.rsf) = 1645
+The Mojo value is 1641
+
+MoJo(oblac-jodd/oblac-jodd-5.0.7_exhaustive_a.rsf,oblac-jodd/oblac-jodd-5.0.7_exhaustive_b.rsf) = 1537
+
+MoJo(oblac-jodd/oblac-jodd-5.0.7_exhaustive_b.rsf,oblac-jodd/oblac-jodd-5.0.7_exhaustive_a.rsf) = 1515
+The Mojo value is 1515
+
+MoJo(oblac-jodd/oblac-jodd-5.0.8_hillclimbing_a.rsf,oblac-jodd/oblac-jodd-5.0.8_hillclimbing_b.rsf) = 1591
+
+MoJo(oblac-jodd/oblac-jodd-5.0.8_hillclimbing_b.rsf,oblac-jodd/oblac-jodd-5.0.8_hillclimbing_a.rsf) = 1608
+The Mojo value is 1591
+
+MoJo(oblac-jodd/oblac-jodd-5.0.8_ga_a.rsf,oblac-jodd/oblac-jodd-5.0.8_ga_b.rsf) = 1594
+
+MoJo(oblac-jodd/oblac-jodd-5.0.8_ga_b.rsf,oblac-jodd/oblac-jodd-5.0.8_ga_a.rsf) = 1512
+The Mojo value is 1512
+
+MoJo(oblac-jodd/oblac-jodd-5.0.8_exhaustive_a.rsf,oblac-jodd/oblac-jodd-5.0.8_exhaustive_b.rsf) = 1606
+
+MoJo(oblac-jodd/oblac-jodd-5.0.8_exhaustive_b.rsf,oblac-jodd/oblac-jodd-5.0.8_exhaustive_a.rsf) = 1525
+The Mojo value is 1525

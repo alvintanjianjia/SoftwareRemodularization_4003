@@ -1,0 +1,150 @@
+
+MoJo(sofastack-sofa-rpc/sofastack-sofa-rpc-5.5.1_hillclimbing_a.rsf,sofastack-sofa-rpc/sofastack-sofa-rpc-5.5.1_hillclimbing_b.rsf) = 796
+
+MoJo(sofastack-sofa-rpc/sofastack-sofa-rpc-5.5.1_hillclimbing_b.rsf,sofastack-sofa-rpc/sofastack-sofa-rpc-5.5.1_hillclimbing_a.rsf) = 787
+The Mojo value is 787
+
+MoJo(sofastack-sofa-rpc/sofastack-sofa-rpc-5.5.1_ga_a.rsf,sofastack-sofa-rpc/sofastack-sofa-rpc-5.5.1_ga_b.rsf) = 681
+
+MoJo(sofastack-sofa-rpc/sofastack-sofa-rpc-5.5.1_ga_b.rsf,sofastack-sofa-rpc/sofastack-sofa-rpc-5.5.1_ga_a.rsf) = 627
+The Mojo value is 627
+
+MoJo(sofastack-sofa-rpc/sofastack-sofa-rpc-5.5.1_exhaustive_a.rsf,sofastack-sofa-rpc/sofastack-sofa-rpc-5.5.1_exhaustive_b.rsf) = 751
+
+MoJo(sofastack-sofa-rpc/sofastack-sofa-rpc-5.5.1_exhaustive_b.rsf,sofastack-sofa-rpc/sofastack-sofa-rpc-5.5.1_exhaustive_a.rsf) = 724
+The Mojo value is 724
+
+MoJo(sofastack-sofa-rpc/sofastack-sofa-rpc-5.5.2_hillclimbing_a.rsf,sofastack-sofa-rpc/sofastack-sofa-rpc-5.5.2_hillclimbing_b.rsf) = 844
+
+MoJo(sofastack-sofa-rpc/sofastack-sofa-rpc-5.5.2_hillclimbing_b.rsf,sofastack-sofa-rpc/sofastack-sofa-rpc-5.5.2_hillclimbing_a.rsf) = 827
+The Mojo value is 827
+
+MoJo(sofastack-sofa-rpc/sofastack-sofa-rpc-5.5.2_ga_a.rsf,sofastack-sofa-rpc/sofastack-sofa-rpc-5.5.2_ga_b.rsf) = 821
+
+MoJo(sofastack-sofa-rpc/sofastack-sofa-rpc-5.5.2_ga_b.rsf,sofastack-sofa-rpc/sofastack-sofa-rpc-5.5.2_ga_a.rsf) = 754
+The Mojo value is 754
+
+MoJo(sofastack-sofa-rpc/sofastack-sofa-rpc-5.5.2_exhaustive_a.rsf,sofastack-sofa-rpc/sofastack-sofa-rpc-5.5.2_exhaustive_b.rsf) = 804
+
+MoJo(sofastack-sofa-rpc/sofastack-sofa-rpc-5.5.2_exhaustive_b.rsf,sofastack-sofa-rpc/sofastack-sofa-rpc-5.5.2_exhaustive_a.rsf) = 729
+The Mojo value is 729
+
+MoJo(sofastack-sofa-rpc/sofastack-sofa-rpc-5.5.3_hillclimbing_a.rsf,sofastack-sofa-rpc/sofastack-sofa-rpc-5.5.3_hillclimbing_b.rsf) = 819
+
+MoJo(sofastack-sofa-rpc/sofastack-sofa-rpc-5.5.3_hillclimbing_b.rsf,sofastack-sofa-rpc/sofastack-sofa-rpc-5.5.3_hillclimbing_a.rsf) = 806
+The Mojo value is 806
+
+MoJo(sofastack-sofa-rpc/sofastack-sofa-rpc-5.5.3_ga_a.rsf,sofastack-sofa-rpc/sofastack-sofa-rpc-5.5.3_ga_b.rsf) = 811
+
+MoJo(sofastack-sofa-rpc/sofastack-sofa-rpc-5.5.3_ga_b.rsf,sofastack-sofa-rpc/sofastack-sofa-rpc-5.5.3_ga_a.rsf) = 774
+The Mojo value is 774
+
+MoJo(sofastack-sofa-rpc/sofastack-sofa-rpc-5.5.3_exhaustive_a.rsf,sofastack-sofa-rpc/sofastack-sofa-rpc-5.5.3_exhaustive_b.rsf) = 800
+
+MoJo(sofastack-sofa-rpc/sofastack-sofa-rpc-5.5.3_exhaustive_b.rsf,sofastack-sofa-rpc/sofastack-sofa-rpc-5.5.3_exhaustive_a.rsf) = 784
+The Mojo value is 784
+
+MoJo(sofastack-sofa-rpc/sofastack-sofa-rpc-5.5.4_hillclimbing_a.rsf,sofastack-sofa-rpc/sofastack-sofa-rpc-5.5.4_hillclimbing_b.rsf) = 845
+
+MoJo(sofastack-sofa-rpc/sofastack-sofa-rpc-5.5.4_hillclimbing_b.rsf,sofastack-sofa-rpc/sofastack-sofa-rpc-5.5.4_hillclimbing_a.rsf) = 831
+The Mojo value is 831
+
+MoJo(sofastack-sofa-rpc/sofastack-sofa-rpc-5.5.4_ga_a.rsf,sofastack-sofa-rpc/sofastack-sofa-rpc-5.5.4_ga_b.rsf) = 827
+
+MoJo(sofastack-sofa-rpc/sofastack-sofa-rpc-5.5.4_ga_b.rsf,sofastack-sofa-rpc/sofastack-sofa-rpc-5.5.4_ga_a.rsf) = 817
+The Mojo value is 817
+
+MoJo(sofastack-sofa-rpc/sofastack-sofa-rpc-5.5.4_exhaustive_a.rsf,sofastack-sofa-rpc/sofastack-sofa-rpc-5.5.4_exhaustive_b.rsf) = 835
+
+MoJo(sofastack-sofa-rpc/sofastack-sofa-rpc-5.5.4_exhaustive_b.rsf,sofastack-sofa-rpc/sofastack-sofa-rpc-5.5.4_exhaustive_a.rsf) = 810
+The Mojo value is 810
+
+MoJo(sofastack-sofa-rpc/sofastack-sofa-rpc-5.5.5_hillclimbing_a.rsf,sofastack-sofa-rpc/sofastack-sofa-rpc-5.5.5_hillclimbing_b.rsf) = 814
+
+MoJo(sofastack-sofa-rpc/sofastack-sofa-rpc-5.5.5_hillclimbing_b.rsf,sofastack-sofa-rpc/sofastack-sofa-rpc-5.5.5_hillclimbing_a.rsf) = 769
+The Mojo value is 769
+
+MoJo(sofastack-sofa-rpc/sofastack-sofa-rpc-5.5.5_ga_a.rsf,sofastack-sofa-rpc/sofastack-sofa-rpc-5.5.5_ga_b.rsf) = 825
+
+MoJo(sofastack-sofa-rpc/sofastack-sofa-rpc-5.5.5_ga_b.rsf,sofastack-sofa-rpc/sofastack-sofa-rpc-5.5.5_ga_a.rsf) = 793
+The Mojo value is 793
+
+MoJo(sofastack-sofa-rpc/sofastack-sofa-rpc-5.5.5_exhaustive_a.rsf,sofastack-sofa-rpc/sofastack-sofa-rpc-5.5.5_exhaustive_b.rsf) = 790
+
+MoJo(sofastack-sofa-rpc/sofastack-sofa-rpc-5.5.5_exhaustive_b.rsf,sofastack-sofa-rpc/sofastack-sofa-rpc-5.5.5_exhaustive_a.rsf) = 814
+The Mojo value is 790
+
+MoJo(sofastack-sofa-rpc/sofastack-sofa-rpc-5.5.6_hillclimbing_a.rsf,sofastack-sofa-rpc/sofastack-sofa-rpc-5.5.6_hillclimbing_b.rsf) = 803
+
+MoJo(sofastack-sofa-rpc/sofastack-sofa-rpc-5.5.6_hillclimbing_b.rsf,sofastack-sofa-rpc/sofastack-sofa-rpc-5.5.6_hillclimbing_a.rsf) = 730
+The Mojo value is 730
+
+MoJo(sofastack-sofa-rpc/sofastack-sofa-rpc-5.5.6_ga_a.rsf,sofastack-sofa-rpc/sofastack-sofa-rpc-5.5.6_ga_b.rsf) = 726
+
+MoJo(sofastack-sofa-rpc/sofastack-sofa-rpc-5.5.6_ga_b.rsf,sofastack-sofa-rpc/sofastack-sofa-rpc-5.5.6_ga_a.rsf) = 556
+The Mojo value is 556
+
+MoJo(sofastack-sofa-rpc/sofastack-sofa-rpc-5.5.6_exhaustive_a.rsf,sofastack-sofa-rpc/sofastack-sofa-rpc-5.5.6_exhaustive_b.rsf) = 827
+
+MoJo(sofastack-sofa-rpc/sofastack-sofa-rpc-5.5.6_exhaustive_b.rsf,sofastack-sofa-rpc/sofastack-sofa-rpc-5.5.6_exhaustive_a.rsf) = 768
+The Mojo value is 768
+
+MoJo(sofastack-sofa-rpc/sofastack-sofa-rpc-5.5.7_hillclimbing_a.rsf,sofastack-sofa-rpc/sofastack-sofa-rpc-5.5.7_hillclimbing_b.rsf) = 748
+
+MoJo(sofastack-sofa-rpc/sofastack-sofa-rpc-5.5.7_hillclimbing_b.rsf,sofastack-sofa-rpc/sofastack-sofa-rpc-5.5.7_hillclimbing_a.rsf) = 668
+The Mojo value is 668
+
+MoJo(sofastack-sofa-rpc/sofastack-sofa-rpc-5.5.7_ga_a.rsf,sofastack-sofa-rpc/sofastack-sofa-rpc-5.5.7_ga_b.rsf) = 842
+
+MoJo(sofastack-sofa-rpc/sofastack-sofa-rpc-5.5.7_ga_b.rsf,sofastack-sofa-rpc/sofastack-sofa-rpc-5.5.7_ga_a.rsf) = 834
+The Mojo value is 834
+
+MoJo(sofastack-sofa-rpc/sofastack-sofa-rpc-5.5.7_exhaustive_a.rsf,sofastack-sofa-rpc/sofastack-sofa-rpc-5.5.7_exhaustive_b.rsf) = 647
+
+MoJo(sofastack-sofa-rpc/sofastack-sofa-rpc-5.5.7_exhaustive_b.rsf,sofastack-sofa-rpc/sofastack-sofa-rpc-5.5.7_exhaustive_a.rsf) = 525
+The Mojo value is 525
+
+MoJo(sofastack-sofa-rpc/sofastack-sofa-rpc-5.5.8_hillclimbing_a.rsf,sofastack-sofa-rpc/sofastack-sofa-rpc-5.5.8_hillclimbing_b.rsf) = 771
+
+MoJo(sofastack-sofa-rpc/sofastack-sofa-rpc-5.5.8_hillclimbing_b.rsf,sofastack-sofa-rpc/sofastack-sofa-rpc-5.5.8_hillclimbing_a.rsf) = 751
+The Mojo value is 751
+
+MoJo(sofastack-sofa-rpc/sofastack-sofa-rpc-5.5.8_ga_a.rsf,sofastack-sofa-rpc/sofastack-sofa-rpc-5.5.8_ga_b.rsf) = 845
+
+MoJo(sofastack-sofa-rpc/sofastack-sofa-rpc-5.5.8_ga_b.rsf,sofastack-sofa-rpc/sofastack-sofa-rpc-5.5.8_ga_a.rsf) = 833
+The Mojo value is 833
+
+MoJo(sofastack-sofa-rpc/sofastack-sofa-rpc-5.5.8_exhaustive_a.rsf,sofastack-sofa-rpc/sofastack-sofa-rpc-5.5.8_exhaustive_b.rsf) = 848
+
+MoJo(sofastack-sofa-rpc/sofastack-sofa-rpc-5.5.8_exhaustive_b.rsf,sofastack-sofa-rpc/sofastack-sofa-rpc-5.5.8_exhaustive_a.rsf) = 802
+The Mojo value is 802
+
+MoJo(sofastack-sofa-rpc/sofastack-sofa-rpc-5.6.0_hillclimbing_a.rsf,sofastack-sofa-rpc/sofastack-sofa-rpc-5.6.0_hillclimbing_b.rsf) = 737
+
+MoJo(sofastack-sofa-rpc/sofastack-sofa-rpc-5.6.0_hillclimbing_b.rsf,sofastack-sofa-rpc/sofastack-sofa-rpc-5.6.0_hillclimbing_a.rsf) = 715
+The Mojo value is 715
+
+MoJo(sofastack-sofa-rpc/sofastack-sofa-rpc-5.6.0_ga_a.rsf,sofastack-sofa-rpc/sofastack-sofa-rpc-5.6.0_ga_b.rsf) = 797
+
+MoJo(sofastack-sofa-rpc/sofastack-sofa-rpc-5.6.0_ga_b.rsf,sofastack-sofa-rpc/sofastack-sofa-rpc-5.6.0_ga_a.rsf) = 615
+The Mojo value is 615
+
+MoJo(sofastack-sofa-rpc/sofastack-sofa-rpc-5.6.0_exhaustive_a.rsf,sofastack-sofa-rpc/sofastack-sofa-rpc-5.6.0_exhaustive_b.rsf) = 818
+
+MoJo(sofastack-sofa-rpc/sofastack-sofa-rpc-5.6.0_exhaustive_b.rsf,sofastack-sofa-rpc/sofastack-sofa-rpc-5.6.0_exhaustive_a.rsf) = 805
+The Mojo value is 805
+
+MoJo(sofastack-sofa-rpc/sofastack-sofa-rpc-5.6.1_hillclimbing_a.rsf,sofastack-sofa-rpc/sofastack-sofa-rpc-5.6.1_hillclimbing_b.rsf) = 823
+
+MoJo(sofastack-sofa-rpc/sofastack-sofa-rpc-5.6.1_hillclimbing_b.rsf,sofastack-sofa-rpc/sofastack-sofa-rpc-5.6.1_hillclimbing_a.rsf) = 714
+The Mojo value is 714
+
+MoJo(sofastack-sofa-rpc/sofastack-sofa-rpc-5.6.1_ga_a.rsf,sofastack-sofa-rpc/sofastack-sofa-rpc-5.6.1_ga_b.rsf) = 767
+
+MoJo(sofastack-sofa-rpc/sofastack-sofa-rpc-5.6.1_ga_b.rsf,sofastack-sofa-rpc/sofastack-sofa-rpc-5.6.1_ga_a.rsf) = 712
+The Mojo value is 712
+
+MoJo(sofastack-sofa-rpc/sofastack-sofa-rpc-5.6.1_exhaustive_a.rsf,sofastack-sofa-rpc/sofastack-sofa-rpc-5.6.1_exhaustive_b.rsf) = 830
+
+MoJo(sofastack-sofa-rpc/sofastack-sofa-rpc-5.6.1_exhaustive_b.rsf,sofastack-sofa-rpc/sofastack-sofa-rpc-5.6.1_exhaustive_a.rsf) = 827
+The Mojo value is 827

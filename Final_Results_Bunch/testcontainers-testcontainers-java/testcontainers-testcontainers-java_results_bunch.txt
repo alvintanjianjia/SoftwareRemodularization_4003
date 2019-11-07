@@ -1,0 +1,150 @@
+
+MoJo(testcontainers-testcontainers-java/testcontainers-testcontainers-java-1.11.2_hillclimbing_a.rsf,testcontainers-testcontainers-java/testcontainers-testcontainers-java-1.11.2_hillclimbing_b.rsf) = 277
+
+MoJo(testcontainers-testcontainers-java/testcontainers-testcontainers-java-1.11.2_hillclimbing_b.rsf,testcontainers-testcontainers-java/testcontainers-testcontainers-java-1.11.2_hillclimbing_a.rsf) = 208
+The Mojo value is 208
+
+MoJo(testcontainers-testcontainers-java/testcontainers-testcontainers-java-1.11.2_ga_a.rsf,testcontainers-testcontainers-java/testcontainers-testcontainers-java-1.11.2_ga_b.rsf) = 243
+
+MoJo(testcontainers-testcontainers-java/testcontainers-testcontainers-java-1.11.2_ga_b.rsf,testcontainers-testcontainers-java/testcontainers-testcontainers-java-1.11.2_ga_a.rsf) = 245
+The Mojo value is 243
+
+MoJo(testcontainers-testcontainers-java/testcontainers-testcontainers-java-1.11.2_exhaustive_a.rsf,testcontainers-testcontainers-java/testcontainers-testcontainers-java-1.11.2_exhaustive_b.rsf) = 215
+
+MoJo(testcontainers-testcontainers-java/testcontainers-testcontainers-java-1.11.2_exhaustive_b.rsf,testcontainers-testcontainers-java/testcontainers-testcontainers-java-1.11.2_exhaustive_a.rsf) = 232
+The Mojo value is 215
+
+MoJo(testcontainers-testcontainers-java/testcontainers-testcontainers-java-1.11.3_hillclimbing_a.rsf,testcontainers-testcontainers-java/testcontainers-testcontainers-java-1.11.3_hillclimbing_b.rsf) = 178
+
+MoJo(testcontainers-testcontainers-java/testcontainers-testcontainers-java-1.11.3_hillclimbing_b.rsf,testcontainers-testcontainers-java/testcontainers-testcontainers-java-1.11.3_hillclimbing_a.rsf) = 179
+The Mojo value is 178
+
+MoJo(testcontainers-testcontainers-java/testcontainers-testcontainers-java-1.11.3_ga_a.rsf,testcontainers-testcontainers-java/testcontainers-testcontainers-java-1.11.3_ga_b.rsf) = 205
+
+MoJo(testcontainers-testcontainers-java/testcontainers-testcontainers-java-1.11.3_ga_b.rsf,testcontainers-testcontainers-java/testcontainers-testcontainers-java-1.11.3_ga_a.rsf) = 157
+The Mojo value is 157
+
+MoJo(testcontainers-testcontainers-java/testcontainers-testcontainers-java-1.11.3_exhaustive_a.rsf,testcontainers-testcontainers-java/testcontainers-testcontainers-java-1.11.3_exhaustive_b.rsf) = 264
+
+MoJo(testcontainers-testcontainers-java/testcontainers-testcontainers-java-1.11.3_exhaustive_b.rsf,testcontainers-testcontainers-java/testcontainers-testcontainers-java-1.11.3_exhaustive_a.rsf) = 236
+The Mojo value is 236
+
+MoJo(testcontainers-testcontainers-java/testcontainers-testcontainers-java-1.11.4_hillclimbing_a.rsf,testcontainers-testcontainers-java/testcontainers-testcontainers-java-1.11.4_hillclimbing_b.rsf) = 203
+
+MoJo(testcontainers-testcontainers-java/testcontainers-testcontainers-java-1.11.4_hillclimbing_b.rsf,testcontainers-testcontainers-java/testcontainers-testcontainers-java-1.11.4_hillclimbing_a.rsf) = 158
+The Mojo value is 158
+
+MoJo(testcontainers-testcontainers-java/testcontainers-testcontainers-java-1.11.4_ga_a.rsf,testcontainers-testcontainers-java/testcontainers-testcontainers-java-1.11.4_ga_b.rsf) = 241
+
+MoJo(testcontainers-testcontainers-java/testcontainers-testcontainers-java-1.11.4_ga_b.rsf,testcontainers-testcontainers-java/testcontainers-testcontainers-java-1.11.4_ga_a.rsf) = 215
+The Mojo value is 215
+
+MoJo(testcontainers-testcontainers-java/testcontainers-testcontainers-java-1.11.4_exhaustive_a.rsf,testcontainers-testcontainers-java/testcontainers-testcontainers-java-1.11.4_exhaustive_b.rsf) = 274
+
+MoJo(testcontainers-testcontainers-java/testcontainers-testcontainers-java-1.11.4_exhaustive_b.rsf,testcontainers-testcontainers-java/testcontainers-testcontainers-java-1.11.4_exhaustive_a.rsf) = 267
+The Mojo value is 267
+
+MoJo(testcontainers-testcontainers-java/testcontainers-testcontainers-java-1.12.0_hillclimbing_a.rsf,testcontainers-testcontainers-java/testcontainers-testcontainers-java-1.12.0_hillclimbing_b.rsf) = 237
+
+MoJo(testcontainers-testcontainers-java/testcontainers-testcontainers-java-1.12.0_hillclimbing_b.rsf,testcontainers-testcontainers-java/testcontainers-testcontainers-java-1.12.0_hillclimbing_a.rsf) = 201
+The Mojo value is 201
+
+MoJo(testcontainers-testcontainers-java/testcontainers-testcontainers-java-1.12.0_ga_a.rsf,testcontainers-testcontainers-java/testcontainers-testcontainers-java-1.12.0_ga_b.rsf) = 272
+
+MoJo(testcontainers-testcontainers-java/testcontainers-testcontainers-java-1.12.0_ga_b.rsf,testcontainers-testcontainers-java/testcontainers-testcontainers-java-1.12.0_ga_a.rsf) = 280
+The Mojo value is 272
+
+MoJo(testcontainers-testcontainers-java/testcontainers-testcontainers-java-1.12.0_exhaustive_a.rsf,testcontainers-testcontainers-java/testcontainers-testcontainers-java-1.12.0_exhaustive_b.rsf) = 269
+
+MoJo(testcontainers-testcontainers-java/testcontainers-testcontainers-java-1.12.0_exhaustive_b.rsf,testcontainers-testcontainers-java/testcontainers-testcontainers-java-1.12.0_exhaustive_a.rsf) = 231
+The Mojo value is 231
+
+MoJo(testcontainers-testcontainers-java/testcontainers-testcontainers-java-1.12.1_hillclimbing_a.rsf,testcontainers-testcontainers-java/testcontainers-testcontainers-java-1.12.1_hillclimbing_b.rsf) = 290
+
+MoJo(testcontainers-testcontainers-java/testcontainers-testcontainers-java-1.12.1_hillclimbing_b.rsf,testcontainers-testcontainers-java/testcontainers-testcontainers-java-1.12.1_hillclimbing_a.rsf) = 295
+The Mojo value is 290
+
+MoJo(testcontainers-testcontainers-java/testcontainers-testcontainers-java-1.12.1_ga_a.rsf,testcontainers-testcontainers-java/testcontainers-testcontainers-java-1.12.1_ga_b.rsf) = 287
+
+MoJo(testcontainers-testcontainers-java/testcontainers-testcontainers-java-1.12.1_ga_b.rsf,testcontainers-testcontainers-java/testcontainers-testcontainers-java-1.12.1_ga_a.rsf) = 275
+The Mojo value is 275
+
+MoJo(testcontainers-testcontainers-java/testcontainers-testcontainers-java-1.12.1_exhaustive_a.rsf,testcontainers-testcontainers-java/testcontainers-testcontainers-java-1.12.1_exhaustive_b.rsf) = 296
+
+MoJo(testcontainers-testcontainers-java/testcontainers-testcontainers-java-1.12.1_exhaustive_b.rsf,testcontainers-testcontainers-java/testcontainers-testcontainers-java-1.12.1_exhaustive_a.rsf) = 297
+The Mojo value is 296
+
+MoJo(testcontainers-testcontainers-java/testcontainers-testcontainers-java-1.12.2_hillclimbing_a.rsf,testcontainers-testcontainers-java/testcontainers-testcontainers-java-1.12.2_hillclimbing_b.rsf) = 281
+
+MoJo(testcontainers-testcontainers-java/testcontainers-testcontainers-java-1.12.2_hillclimbing_b.rsf,testcontainers-testcontainers-java/testcontainers-testcontainers-java-1.12.2_hillclimbing_a.rsf) = 246
+The Mojo value is 246
+
+MoJo(testcontainers-testcontainers-java/testcontainers-testcontainers-java-1.12.2_ga_a.rsf,testcontainers-testcontainers-java/testcontainers-testcontainers-java-1.12.2_ga_b.rsf) = 294
+
+MoJo(testcontainers-testcontainers-java/testcontainers-testcontainers-java-1.12.2_ga_b.rsf,testcontainers-testcontainers-java/testcontainers-testcontainers-java-1.12.2_ga_a.rsf) = 286
+The Mojo value is 286
+
+MoJo(testcontainers-testcontainers-java/testcontainers-testcontainers-java-1.12.2_exhaustive_a.rsf,testcontainers-testcontainers-java/testcontainers-testcontainers-java-1.12.2_exhaustive_b.rsf) = 284
+
+MoJo(testcontainers-testcontainers-java/testcontainers-testcontainers-java-1.12.2_exhaustive_b.rsf,testcontainers-testcontainers-java/testcontainers-testcontainers-java-1.12.2_exhaustive_a.rsf) = 278
+The Mojo value is 278
+
+MoJo(testcontainers-testcontainers-java/testcontainers-testcontainers-java-1.8.1_hillclimbing_a.rsf,testcontainers-testcontainers-java/testcontainers-testcontainers-java-1.8.1_hillclimbing_b.rsf) = 179
+
+MoJo(testcontainers-testcontainers-java/testcontainers-testcontainers-java-1.8.1_hillclimbing_b.rsf,testcontainers-testcontainers-java/testcontainers-testcontainers-java-1.8.1_hillclimbing_a.rsf) = 182
+The Mojo value is 179
+
+MoJo(testcontainers-testcontainers-java/testcontainers-testcontainers-java-1.8.1_ga_a.rsf,testcontainers-testcontainers-java/testcontainers-testcontainers-java-1.8.1_ga_b.rsf) = 159
+
+MoJo(testcontainers-testcontainers-java/testcontainers-testcontainers-java-1.8.1_ga_b.rsf,testcontainers-testcontainers-java/testcontainers-testcontainers-java-1.8.1_ga_a.rsf) = 135
+The Mojo value is 135
+
+MoJo(testcontainers-testcontainers-java/testcontainers-testcontainers-java-1.8.1_exhaustive_a.rsf,testcontainers-testcontainers-java/testcontainers-testcontainers-java-1.8.1_exhaustive_b.rsf) = 193
+
+MoJo(testcontainers-testcontainers-java/testcontainers-testcontainers-java-1.8.1_exhaustive_b.rsf,testcontainers-testcontainers-java/testcontainers-testcontainers-java-1.8.1_exhaustive_a.rsf) = 185
+The Mojo value is 185
+
+MoJo(testcontainers-testcontainers-java/testcontainers-testcontainers-java-1.8.2_hillclimbing_a.rsf,testcontainers-testcontainers-java/testcontainers-testcontainers-java-1.8.2_hillclimbing_b.rsf) = 207
+
+MoJo(testcontainers-testcontainers-java/testcontainers-testcontainers-java-1.8.2_hillclimbing_b.rsf,testcontainers-testcontainers-java/testcontainers-testcontainers-java-1.8.2_hillclimbing_a.rsf) = 188
+The Mojo value is 188
+
+MoJo(testcontainers-testcontainers-java/testcontainers-testcontainers-java-1.8.2_ga_a.rsf,testcontainers-testcontainers-java/testcontainers-testcontainers-java-1.8.2_ga_b.rsf) = 209
+
+MoJo(testcontainers-testcontainers-java/testcontainers-testcontainers-java-1.8.2_ga_b.rsf,testcontainers-testcontainers-java/testcontainers-testcontainers-java-1.8.2_ga_a.rsf) = 199
+The Mojo value is 199
+
+MoJo(testcontainers-testcontainers-java/testcontainers-testcontainers-java-1.8.2_exhaustive_a.rsf,testcontainers-testcontainers-java/testcontainers-testcontainers-java-1.8.2_exhaustive_b.rsf) = 194
+
+MoJo(testcontainers-testcontainers-java/testcontainers-testcontainers-java-1.8.2_exhaustive_b.rsf,testcontainers-testcontainers-java/testcontainers-testcontainers-java-1.8.2_exhaustive_a.rsf) = 175
+The Mojo value is 175
+
+MoJo(testcontainers-testcontainers-java/testcontainers-testcontainers-java-1.8.3_hillclimbing_a.rsf,testcontainers-testcontainers-java/testcontainers-testcontainers-java-1.8.3_hillclimbing_b.rsf) = 208
+
+MoJo(testcontainers-testcontainers-java/testcontainers-testcontainers-java-1.8.3_hillclimbing_b.rsf,testcontainers-testcontainers-java/testcontainers-testcontainers-java-1.8.3_hillclimbing_a.rsf) = 200
+The Mojo value is 200
+
+MoJo(testcontainers-testcontainers-java/testcontainers-testcontainers-java-1.8.3_ga_a.rsf,testcontainers-testcontainers-java/testcontainers-testcontainers-java-1.8.3_ga_b.rsf) = 200
+
+MoJo(testcontainers-testcontainers-java/testcontainers-testcontainers-java-1.8.3_ga_b.rsf,testcontainers-testcontainers-java/testcontainers-testcontainers-java-1.8.3_ga_a.rsf) = 192
+The Mojo value is 192
+
+MoJo(testcontainers-testcontainers-java/testcontainers-testcontainers-java-1.8.3_exhaustive_a.rsf,testcontainers-testcontainers-java/testcontainers-testcontainers-java-1.8.3_exhaustive_b.rsf) = 187
+
+MoJo(testcontainers-testcontainers-java/testcontainers-testcontainers-java-1.8.3_exhaustive_b.rsf,testcontainers-testcontainers-java/testcontainers-testcontainers-java-1.8.3_exhaustive_a.rsf) = 188
+The Mojo value is 187
+
+MoJo(testcontainers-testcontainers-java/testcontainers-testcontainers-java-1.9.0_hillclimbing_a.rsf,testcontainers-testcontainers-java/testcontainers-testcontainers-java-1.9.0_hillclimbing_b.rsf) = 215
+
+MoJo(testcontainers-testcontainers-java/testcontainers-testcontainers-java-1.9.0_hillclimbing_b.rsf,testcontainers-testcontainers-java/testcontainers-testcontainers-java-1.9.0_hillclimbing_a.rsf) = 209
+The Mojo value is 209
+
+MoJo(testcontainers-testcontainers-java/testcontainers-testcontainers-java-1.9.0_ga_a.rsf,testcontainers-testcontainers-java/testcontainers-testcontainers-java-1.9.0_ga_b.rsf) = 220
+
+MoJo(testcontainers-testcontainers-java/testcontainers-testcontainers-java-1.9.0_ga_b.rsf,testcontainers-testcontainers-java/testcontainers-testcontainers-java-1.9.0_ga_a.rsf) = 215
+The Mojo value is 215
+
+MoJo(testcontainers-testcontainers-java/testcontainers-testcontainers-java-1.9.0_exhaustive_a.rsf,testcontainers-testcontainers-java/testcontainers-testcontainers-java-1.9.0_exhaustive_b.rsf) = 227
+
+MoJo(testcontainers-testcontainers-java/testcontainers-testcontainers-java-1.9.0_exhaustive_b.rsf,testcontainers-testcontainers-java/testcontainers-testcontainers-java-1.9.0_exhaustive_a.rsf) = 227
+The Mojo value is 227

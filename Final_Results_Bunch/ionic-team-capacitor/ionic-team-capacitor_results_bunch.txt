@@ -1,0 +1,114 @@
+
+MoJo(ionic-team-capacitor/ionic-team-capacitor-0.0.110_hillclimbing_a.rsf,ionic-team-capacitor/ionic-team-capacitor-0.0.110_hillclimbing_b.rsf) = 23
+
+MoJo(ionic-team-capacitor/ionic-team-capacitor-0.0.110_hillclimbing_b.rsf,ionic-team-capacitor/ionic-team-capacitor-0.0.110_hillclimbing_a.rsf) = 12
+The Mojo value is 12
+
+MoJo(ionic-team-capacitor/ionic-team-capacitor-0.0.110_ga_a.rsf,ionic-team-capacitor/ionic-team-capacitor-0.0.110_ga_b.rsf) = 31
+
+MoJo(ionic-team-capacitor/ionic-team-capacitor-0.0.110_ga_b.rsf,ionic-team-capacitor/ionic-team-capacitor-0.0.110_ga_a.rsf) = 36
+The Mojo value is 31
+
+MoJo(ionic-team-capacitor/ionic-team-capacitor-0.0.110_exhaustive_a.rsf,ionic-team-capacitor/ionic-team-capacitor-0.0.110_exhaustive_b.rsf) = 30
+
+MoJo(ionic-team-capacitor/ionic-team-capacitor-0.0.110_exhaustive_b.rsf,ionic-team-capacitor/ionic-team-capacitor-0.0.110_exhaustive_a.rsf) = 37
+The Mojo value is 30
+
+MoJo(ionic-team-capacitor/ionic-team-capacitor-0.0.111_hillclimbing_a.rsf,ionic-team-capacitor/ionic-team-capacitor-0.0.111_hillclimbing_b.rsf) = 28
+
+MoJo(ionic-team-capacitor/ionic-team-capacitor-0.0.111_hillclimbing_b.rsf,ionic-team-capacitor/ionic-team-capacitor-0.0.111_hillclimbing_a.rsf) = 26
+The Mojo value is 26
+
+MoJo(ionic-team-capacitor/ionic-team-capacitor-0.0.111_ga_a.rsf,ionic-team-capacitor/ionic-team-capacitor-0.0.111_ga_b.rsf) = 14
+
+MoJo(ionic-team-capacitor/ionic-team-capacitor-0.0.111_ga_b.rsf,ionic-team-capacitor/ionic-team-capacitor-0.0.111_ga_a.rsf) = 16
+The Mojo value is 14
+
+MoJo(ionic-team-capacitor/ionic-team-capacitor-0.0.111_exhaustive_a.rsf,ionic-team-capacitor/ionic-team-capacitor-0.0.111_exhaustive_b.rsf) = 13
+
+MoJo(ionic-team-capacitor/ionic-team-capacitor-0.0.111_exhaustive_b.rsf,ionic-team-capacitor/ionic-team-capacitor-0.0.111_exhaustive_a.rsf) = 21
+The Mojo value is 13
+
+MoJo(ionic-team-capacitor/ionic-team-capacitor-0.0.112_hillclimbing_a.rsf,ionic-team-capacitor/ionic-team-capacitor-0.0.112_hillclimbing_b.rsf) = 31
+
+MoJo(ionic-team-capacitor/ionic-team-capacitor-0.0.112_hillclimbing_b.rsf,ionic-team-capacitor/ionic-team-capacitor-0.0.112_hillclimbing_a.rsf) = 23
+The Mojo value is 23
+
+MoJo(ionic-team-capacitor/ionic-team-capacitor-0.0.112_ga_a.rsf,ionic-team-capacitor/ionic-team-capacitor-0.0.112_ga_b.rsf) = 34
+
+MoJo(ionic-team-capacitor/ionic-team-capacitor-0.0.112_ga_b.rsf,ionic-team-capacitor/ionic-team-capacitor-0.0.112_ga_a.rsf) = 38
+The Mojo value is 34
+
+MoJo(ionic-team-capacitor/ionic-team-capacitor-0.0.112_exhaustive_a.rsf,ionic-team-capacitor/ionic-team-capacitor-0.0.112_exhaustive_b.rsf) = 28
+
+MoJo(ionic-team-capacitor/ionic-team-capacitor-0.0.112_exhaustive_b.rsf,ionic-team-capacitor/ionic-team-capacitor-0.0.112_exhaustive_a.rsf) = 33
+The Mojo value is 28
+The total number of ojbects in source file does not equal the total number of objects in target file
+The total number of ojbects in source file does not equal the total number of objects in target file
+The total number of ojbects in source file does not equal the total number of objects in target file
+The total number of ojbects in source file does not equal the total number of objects in target file
+The total number of ojbects in source file does not equal the total number of objects in target file
+The total number of ojbects in source file does not equal the total number of objects in target file
+The total number of ojbects in source file does not equal the total number of objects in target file
+The total number of ojbects in source file does not equal the total number of objects in target file
+The total number of ojbects in source file does not equal the total number of objects in target file
+
+MoJo(ionic-team-capacitor/ionic-team-capacitor-1.0.0_hillclimbing_a.rsf,ionic-team-capacitor/ionic-team-capacitor-1.0.0_hillclimbing_b.rsf) = 50
+
+MoJo(ionic-team-capacitor/ionic-team-capacitor-1.0.0_hillclimbing_b.rsf,ionic-team-capacitor/ionic-team-capacitor-1.0.0_hillclimbing_a.rsf) = 62
+The Mojo value is 50
+
+MoJo(ionic-team-capacitor/ionic-team-capacitor-1.0.0_ga_a.rsf,ionic-team-capacitor/ionic-team-capacitor-1.0.0_ga_b.rsf) = 60
+
+MoJo(ionic-team-capacitor/ionic-team-capacitor-1.0.0_ga_b.rsf,ionic-team-capacitor/ionic-team-capacitor-1.0.0_ga_a.rsf) = 58
+The Mojo value is 58
+
+MoJo(ionic-team-capacitor/ionic-team-capacitor-1.0.0_exhaustive_a.rsf,ionic-team-capacitor/ionic-team-capacitor-1.0.0_exhaustive_b.rsf) = 45
+
+MoJo(ionic-team-capacitor/ionic-team-capacitor-1.0.0_exhaustive_b.rsf,ionic-team-capacitor/ionic-team-capacitor-1.0.0_exhaustive_a.rsf) = 54
+The Mojo value is 45
+
+MoJo(ionic-team-capacitor/ionic-team-capacitor-1.1.0_hillclimbing_a.rsf,ionic-team-capacitor/ionic-team-capacitor-1.1.0_hillclimbing_b.rsf) = 41
+
+MoJo(ionic-team-capacitor/ionic-team-capacitor-1.1.0_hillclimbing_b.rsf,ionic-team-capacitor/ionic-team-capacitor-1.1.0_hillclimbing_a.rsf) = 59
+The Mojo value is 41
+
+MoJo(ionic-team-capacitor/ionic-team-capacitor-1.1.0_ga_a.rsf,ionic-team-capacitor/ionic-team-capacitor-1.1.0_ga_b.rsf) = 38
+
+MoJo(ionic-team-capacitor/ionic-team-capacitor-1.1.0_ga_b.rsf,ionic-team-capacitor/ionic-team-capacitor-1.1.0_ga_a.rsf) = 35
+The Mojo value is 35
+
+MoJo(ionic-team-capacitor/ionic-team-capacitor-1.1.0_exhaustive_a.rsf,ionic-team-capacitor/ionic-team-capacitor-1.1.0_exhaustive_b.rsf) = 57
+
+MoJo(ionic-team-capacitor/ionic-team-capacitor-1.1.0_exhaustive_b.rsf,ionic-team-capacitor/ionic-team-capacitor-1.1.0_exhaustive_a.rsf) = 47
+The Mojo value is 47
+
+MoJo(ionic-team-capacitor/ionic-team-capacitor-1.1.1_hillclimbing_a.rsf,ionic-team-capacitor/ionic-team-capacitor-1.1.1_hillclimbing_b.rsf) = 59
+
+MoJo(ionic-team-capacitor/ionic-team-capacitor-1.1.1_hillclimbing_b.rsf,ionic-team-capacitor/ionic-team-capacitor-1.1.1_hillclimbing_a.rsf) = 55
+The Mojo value is 55
+
+MoJo(ionic-team-capacitor/ionic-team-capacitor-1.1.1_ga_a.rsf,ionic-team-capacitor/ionic-team-capacitor-1.1.1_ga_b.rsf) = 60
+
+MoJo(ionic-team-capacitor/ionic-team-capacitor-1.1.1_ga_b.rsf,ionic-team-capacitor/ionic-team-capacitor-1.1.1_ga_a.rsf) = 65
+The Mojo value is 60
+
+MoJo(ionic-team-capacitor/ionic-team-capacitor-1.1.1_exhaustive_a.rsf,ionic-team-capacitor/ionic-team-capacitor-1.1.1_exhaustive_b.rsf) = 40
+
+MoJo(ionic-team-capacitor/ionic-team-capacitor-1.1.1_exhaustive_b.rsf,ionic-team-capacitor/ionic-team-capacitor-1.1.1_exhaustive_a.rsf) = 58
+The Mojo value is 40
+
+MoJo(ionic-team-capacitor/ionic-team-capacitor-1.2.0_hillclimbing_a.rsf,ionic-team-capacitor/ionic-team-capacitor-1.2.0_hillclimbing_b.rsf) = 56
+
+MoJo(ionic-team-capacitor/ionic-team-capacitor-1.2.0_hillclimbing_b.rsf,ionic-team-capacitor/ionic-team-capacitor-1.2.0_hillclimbing_a.rsf) = 54
+The Mojo value is 54
+
+MoJo(ionic-team-capacitor/ionic-team-capacitor-1.2.0_ga_a.rsf,ionic-team-capacitor/ionic-team-capacitor-1.2.0_ga_b.rsf) = 58
+
+MoJo(ionic-team-capacitor/ionic-team-capacitor-1.2.0_ga_b.rsf,ionic-team-capacitor/ionic-team-capacitor-1.2.0_ga_a.rsf) = 54
+The Mojo value is 54
+
+MoJo(ionic-team-capacitor/ionic-team-capacitor-1.2.0_exhaustive_a.rsf,ionic-team-capacitor/ionic-team-capacitor-1.2.0_exhaustive_b.rsf) = 57
+
+MoJo(ionic-team-capacitor/ionic-team-capacitor-1.2.0_exhaustive_b.rsf,ionic-team-capacitor/ionic-team-capacitor-1.2.0_exhaustive_a.rsf) = 50
+The Mojo value is 50

@@ -73,3 +73,5 @@ uber-NullAway
 coobird-thumbnailator
 crate-crate
 alibaba-jetcache
+apache-log4j
+apache-log4j

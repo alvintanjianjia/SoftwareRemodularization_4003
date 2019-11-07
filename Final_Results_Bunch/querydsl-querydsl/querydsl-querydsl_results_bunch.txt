@@ -1,0 +1,90 @@
+
+MoJo(querydsl-querydsl/querydsl-querydsl-4.1.0_hillclimbing_a.rsf,querydsl-querydsl/querydsl-querydsl-4.1.0_hillclimbing_b.rsf) = 1672
+
+MoJo(querydsl-querydsl/querydsl-querydsl-4.1.0_hillclimbing_b.rsf,querydsl-querydsl/querydsl-querydsl-4.1.0_hillclimbing_a.rsf) = 1667
+The Mojo value is 1667
+
+MoJo(querydsl-querydsl/querydsl-querydsl-4.1.0_ga_a.rsf,querydsl-querydsl/querydsl-querydsl-4.1.0_ga_b.rsf) = 1622
+
+MoJo(querydsl-querydsl/querydsl-querydsl-4.1.0_ga_b.rsf,querydsl-querydsl/querydsl-querydsl-4.1.0_ga_a.rsf) = 1610
+The Mojo value is 1610
+
+MoJo(querydsl-querydsl/querydsl-querydsl-4.1.0_exhaustive_a.rsf,querydsl-querydsl/querydsl-querydsl-4.1.0_exhaustive_b.rsf) = 1631
+
+MoJo(querydsl-querydsl/querydsl-querydsl-4.1.0_exhaustive_b.rsf,querydsl-querydsl/querydsl-querydsl-4.1.0_exhaustive_a.rsf) = 1483
+The Mojo value is 1483
+
+MoJo(querydsl-querydsl/querydsl-querydsl-4.1.1_hillclimbing_a.rsf,querydsl-querydsl/querydsl-querydsl-4.1.1_hillclimbing_b.rsf) = 1612
+
+MoJo(querydsl-querydsl/querydsl-querydsl-4.1.1_hillclimbing_b.rsf,querydsl-querydsl/querydsl-querydsl-4.1.1_hillclimbing_a.rsf) = 1684
+The Mojo value is 1612
+
+MoJo(querydsl-querydsl/querydsl-querydsl-4.1.1_ga_a.rsf,querydsl-querydsl/querydsl-querydsl-4.1.1_ga_b.rsf) = 1634
+
+MoJo(querydsl-querydsl/querydsl-querydsl-4.1.1_ga_b.rsf,querydsl-querydsl/querydsl-querydsl-4.1.1_ga_a.rsf) = 1709
+The Mojo value is 1634
+
+MoJo(querydsl-querydsl/querydsl-querydsl-4.1.1_exhaustive_a.rsf,querydsl-querydsl/querydsl-querydsl-4.1.1_exhaustive_b.rsf) = 1508
+
+MoJo(querydsl-querydsl/querydsl-querydsl-4.1.1_exhaustive_b.rsf,querydsl-querydsl/querydsl-querydsl-4.1.1_exhaustive_a.rsf) = 1350
+The Mojo value is 1350
+
+MoJo(querydsl-querydsl/querydsl-querydsl-4.1.2_hillclimbing_a.rsf,querydsl-querydsl/querydsl-querydsl-4.1.2_hillclimbing_b.rsf) = 1635
+
+MoJo(querydsl-querydsl/querydsl-querydsl-4.1.2_hillclimbing_b.rsf,querydsl-querydsl/querydsl-querydsl-4.1.2_hillclimbing_a.rsf) = 1573
+The Mojo value is 1573
+
+MoJo(querydsl-querydsl/querydsl-querydsl-4.1.2_ga_a.rsf,querydsl-querydsl/querydsl-querydsl-4.1.2_ga_b.rsf) = 1662
+
+MoJo(querydsl-querydsl/querydsl-querydsl-4.1.2_ga_b.rsf,querydsl-querydsl/querydsl-querydsl-4.1.2_ga_a.rsf) = 1659
+The Mojo value is 1659
+
+MoJo(querydsl-querydsl/querydsl-querydsl-4.1.2_exhaustive_a.rsf,querydsl-querydsl/querydsl-querydsl-4.1.2_exhaustive_b.rsf) = 1577
+
+MoJo(querydsl-querydsl/querydsl-querydsl-4.1.2_exhaustive_b.rsf,querydsl-querydsl/querydsl-querydsl-4.1.2_exhaustive_a.rsf) = 1280
+The Mojo value is 1280
+
+MoJo(querydsl-querydsl/querydsl-querydsl-4.1.3_hillclimbing_a.rsf,querydsl-querydsl/querydsl-querydsl-4.1.3_hillclimbing_b.rsf) = 1496
+
+MoJo(querydsl-querydsl/querydsl-querydsl-4.1.3_hillclimbing_b.rsf,querydsl-querydsl/querydsl-querydsl-4.1.3_hillclimbing_a.rsf) = 1444
+The Mojo value is 1444
+
+MoJo(querydsl-querydsl/querydsl-querydsl-4.1.3_ga_a.rsf,querydsl-querydsl/querydsl-querydsl-4.1.3_ga_b.rsf) = 1604
+
+MoJo(querydsl-querydsl/querydsl-querydsl-4.1.3_ga_b.rsf,querydsl-querydsl/querydsl-querydsl-4.1.3_ga_a.rsf) = 1632
+The Mojo value is 1604
+
+MoJo(querydsl-querydsl/querydsl-querydsl-4.1.3_exhaustive_a.rsf,querydsl-querydsl/querydsl-querydsl-4.1.3_exhaustive_b.rsf) = 1617
+
+MoJo(querydsl-querydsl/querydsl-querydsl-4.1.3_exhaustive_b.rsf,querydsl-querydsl/querydsl-querydsl-4.1.3_exhaustive_a.rsf) = 1462
+The Mojo value is 1462
+
+MoJo(querydsl-querydsl/querydsl-querydsl-4.1.4_hillclimbing_a.rsf,querydsl-querydsl/querydsl-querydsl-4.1.4_hillclimbing_b.rsf) = 1657
+
+MoJo(querydsl-querydsl/querydsl-querydsl-4.1.4_hillclimbing_b.rsf,querydsl-querydsl/querydsl-querydsl-4.1.4_hillclimbing_a.rsf) = 1341
+The Mojo value is 1341
+
+MoJo(querydsl-querydsl/querydsl-querydsl-4.1.4_ga_a.rsf,querydsl-querydsl/querydsl-querydsl-4.1.4_ga_b.rsf) = 1675
+
+MoJo(querydsl-querydsl/querydsl-querydsl-4.1.4_ga_b.rsf,querydsl-querydsl/querydsl-querydsl-4.1.4_ga_a.rsf) = 1574
+The Mojo value is 1574
+
+MoJo(querydsl-querydsl/querydsl-querydsl-4.1.4_exhaustive_a.rsf,querydsl-querydsl/querydsl-querydsl-4.1.4_exhaustive_b.rsf) = 1649
+
+MoJo(querydsl-querydsl/querydsl-querydsl-4.1.4_exhaustive_b.rsf,querydsl-querydsl/querydsl-querydsl-4.1.4_exhaustive_a.rsf) = 1653
+The Mojo value is 1649
+
+MoJo(querydsl-querydsl/querydsl-querydsl-4.2.0_hillclimbing_a.rsf,querydsl-querydsl/querydsl-querydsl-4.2.0_hillclimbing_b.rsf) = 1620
+
+MoJo(querydsl-querydsl/querydsl-querydsl-4.2.0_hillclimbing_b.rsf,querydsl-querydsl/querydsl-querydsl-4.2.0_hillclimbing_a.rsf) = 1648
+The Mojo value is 1620
+
+MoJo(querydsl-querydsl/querydsl-querydsl-4.2.0_ga_a.rsf,querydsl-querydsl/querydsl-querydsl-4.2.0_ga_b.rsf) = 1689
+
+MoJo(querydsl-querydsl/querydsl-querydsl-4.2.0_ga_b.rsf,querydsl-querydsl/querydsl-querydsl-4.2.0_ga_a.rsf) = 1654
+The Mojo value is 1654
+
+MoJo(querydsl-querydsl/querydsl-querydsl-4.2.0_exhaustive_a.rsf,querydsl-querydsl/querydsl-querydsl-4.2.0_exhaustive_b.rsf) = 1595
+
+MoJo(querydsl-querydsl/querydsl-querydsl-4.2.0_exhaustive_b.rsf,querydsl-querydsl/querydsl-querydsl-4.2.0_exhaustive_a.rsf) = 1619
+The Mojo value is 1595

@@ -1,0 +1,45 @@
+
+MoJo(cglib-cglib/cglib-cglib-3.2.7_hillclimbing_a.rsf,cglib-cglib/cglib-cglib-3.2.7_hillclimbing_b.rsf) = 94
+
+MoJo(cglib-cglib/cglib-cglib-3.2.7_hillclimbing_b.rsf,cglib-cglib/cglib-cglib-3.2.7_hillclimbing_a.rsf) = 96
+The Mojo value is 94
+
+MoJo(cglib-cglib/cglib-cglib-3.2.7_ga_a.rsf,cglib-cglib/cglib-cglib-3.2.7_ga_b.rsf) = 159
+
+MoJo(cglib-cglib/cglib-cglib-3.2.7_ga_b.rsf,cglib-cglib/cglib-cglib-3.2.7_ga_a.rsf) = 124
+The Mojo value is 124
+
+MoJo(cglib-cglib/cglib-cglib-3.2.7_exhaustive_a.rsf,cglib-cglib/cglib-cglib-3.2.7_exhaustive_b.rsf) = 148
+
+MoJo(cglib-cglib/cglib-cglib-3.2.7_exhaustive_b.rsf,cglib-cglib/cglib-cglib-3.2.7_exhaustive_a.rsf) = 160
+The Mojo value is 148
+
+MoJo(cglib-cglib/cglib-cglib-3.2.8_hillclimbing_a.rsf,cglib-cglib/cglib-cglib-3.2.8_hillclimbing_b.rsf) = 158
+
+MoJo(cglib-cglib/cglib-cglib-3.2.8_hillclimbing_b.rsf,cglib-cglib/cglib-cglib-3.2.8_hillclimbing_a.rsf) = 148
+The Mojo value is 148
+
+MoJo(cglib-cglib/cglib-cglib-3.2.8_ga_a.rsf,cglib-cglib/cglib-cglib-3.2.8_ga_b.rsf) = 158
+
+MoJo(cglib-cglib/cglib-cglib-3.2.8_ga_b.rsf,cglib-cglib/cglib-cglib-3.2.8_ga_a.rsf) = 160
+The Mojo value is 158
+
+MoJo(cglib-cglib/cglib-cglib-3.2.8_exhaustive_a.rsf,cglib-cglib/cglib-cglib-3.2.8_exhaustive_b.rsf) = 155
+
+MoJo(cglib-cglib/cglib-cglib-3.2.8_exhaustive_b.rsf,cglib-cglib/cglib-cglib-3.2.8_exhaustive_a.rsf) = 167
+The Mojo value is 155
+
+MoJo(cglib-cglib/cglib-cglib-3.2.9_hillclimbing_a.rsf,cglib-cglib/cglib-cglib-3.2.9_hillclimbing_b.rsf) = 145
+
+MoJo(cglib-cglib/cglib-cglib-3.2.9_hillclimbing_b.rsf,cglib-cglib/cglib-cglib-3.2.9_hillclimbing_a.rsf) = 148
+The Mojo value is 145
+
+MoJo(cglib-cglib/cglib-cglib-3.2.9_ga_a.rsf,cglib-cglib/cglib-cglib-3.2.9_ga_b.rsf) = 152
+
+MoJo(cglib-cglib/cglib-cglib-3.2.9_ga_b.rsf,cglib-cglib/cglib-cglib-3.2.9_ga_a.rsf) = 97
+The Mojo value is 97
+
+MoJo(cglib-cglib/cglib-cglib-3.2.9_exhaustive_a.rsf,cglib-cglib/cglib-cglib-3.2.9_exhaustive_b.rsf) = 152
+
+MoJo(cglib-cglib/cglib-cglib-3.2.9_exhaustive_b.rsf,cglib-cglib/cglib-cglib-3.2.9_exhaustive_a.rsf) = 132
+The Mojo value is 132

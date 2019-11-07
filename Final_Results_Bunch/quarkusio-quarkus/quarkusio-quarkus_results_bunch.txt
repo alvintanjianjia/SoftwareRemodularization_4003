@@ -1,0 +1,150 @@
+
+MoJo(quarkusio-quarkus/quarkusio-quarkus-0.17.0_hillclimbing_a.rsf,quarkusio-quarkus/quarkusio-quarkus-0.17.0_hillclimbing_b.rsf) = 1661
+
+MoJo(quarkusio-quarkus/quarkusio-quarkus-0.17.0_hillclimbing_b.rsf,quarkusio-quarkus/quarkusio-quarkus-0.17.0_hillclimbing_a.rsf) = 1605
+The Mojo value is 1605
+
+MoJo(quarkusio-quarkus/quarkusio-quarkus-0.17.0_ga_a.rsf,quarkusio-quarkus/quarkusio-quarkus-0.17.0_ga_b.rsf) = 1631
+
+MoJo(quarkusio-quarkus/quarkusio-quarkus-0.17.0_ga_b.rsf,quarkusio-quarkus/quarkusio-quarkus-0.17.0_ga_a.rsf) = 1593
+The Mojo value is 1593
+
+MoJo(quarkusio-quarkus/quarkusio-quarkus-0.17.0_exhaustive_a.rsf,quarkusio-quarkus/quarkusio-quarkus-0.17.0_exhaustive_b.rsf) = 1648
+
+MoJo(quarkusio-quarkus/quarkusio-quarkus-0.17.0_exhaustive_b.rsf,quarkusio-quarkus/quarkusio-quarkus-0.17.0_exhaustive_a.rsf) = 1602
+The Mojo value is 1602
+
+MoJo(quarkusio-quarkus/quarkusio-quarkus-0.18.0_hillclimbing_a.rsf,quarkusio-quarkus/quarkusio-quarkus-0.18.0_hillclimbing_b.rsf) = 1619
+
+MoJo(quarkusio-quarkus/quarkusio-quarkus-0.18.0_hillclimbing_b.rsf,quarkusio-quarkus/quarkusio-quarkus-0.18.0_hillclimbing_a.rsf) = 1544
+The Mojo value is 1544
+
+MoJo(quarkusio-quarkus/quarkusio-quarkus-0.18.0_ga_a.rsf,quarkusio-quarkus/quarkusio-quarkus-0.18.0_ga_b.rsf) = 1647
+
+MoJo(quarkusio-quarkus/quarkusio-quarkus-0.18.0_ga_b.rsf,quarkusio-quarkus/quarkusio-quarkus-0.18.0_ga_a.rsf) = 1594
+The Mojo value is 1594
+
+MoJo(quarkusio-quarkus/quarkusio-quarkus-0.18.0_exhaustive_a.rsf,quarkusio-quarkus/quarkusio-quarkus-0.18.0_exhaustive_b.rsf) = 1635
+
+MoJo(quarkusio-quarkus/quarkusio-quarkus-0.18.0_exhaustive_b.rsf,quarkusio-quarkus/quarkusio-quarkus-0.18.0_exhaustive_a.rsf) = 1598
+The Mojo value is 1598
+
+MoJo(quarkusio-quarkus/quarkusio-quarkus-0.19.0_hillclimbing_a.rsf,quarkusio-quarkus/quarkusio-quarkus-0.19.0_hillclimbing_b.rsf) = 1711
+
+MoJo(quarkusio-quarkus/quarkusio-quarkus-0.19.0_hillclimbing_b.rsf,quarkusio-quarkus/quarkusio-quarkus-0.19.0_hillclimbing_a.rsf) = 1654
+The Mojo value is 1654
+
+MoJo(quarkusio-quarkus/quarkusio-quarkus-0.19.0_ga_a.rsf,quarkusio-quarkus/quarkusio-quarkus-0.19.0_ga_b.rsf) = 1715
+
+MoJo(quarkusio-quarkus/quarkusio-quarkus-0.19.0_ga_b.rsf,quarkusio-quarkus/quarkusio-quarkus-0.19.0_ga_a.rsf) = 1715
+The Mojo value is 1715
+
+MoJo(quarkusio-quarkus/quarkusio-quarkus-0.19.0_exhaustive_a.rsf,quarkusio-quarkus/quarkusio-quarkus-0.19.0_exhaustive_b.rsf) = 1709
+
+MoJo(quarkusio-quarkus/quarkusio-quarkus-0.19.0_exhaustive_b.rsf,quarkusio-quarkus/quarkusio-quarkus-0.19.0_exhaustive_a.rsf) = 1589
+The Mojo value is 1589
+
+MoJo(quarkusio-quarkus/quarkusio-quarkus-0.19.1_hillclimbing_a.rsf,quarkusio-quarkus/quarkusio-quarkus-0.19.1_hillclimbing_b.rsf) = 1743
+
+MoJo(quarkusio-quarkus/quarkusio-quarkus-0.19.1_hillclimbing_b.rsf,quarkusio-quarkus/quarkusio-quarkus-0.19.1_hillclimbing_a.rsf) = 1669
+The Mojo value is 1669
+
+MoJo(quarkusio-quarkus/quarkusio-quarkus-0.19.1_ga_a.rsf,quarkusio-quarkus/quarkusio-quarkus-0.19.1_ga_b.rsf) = 1702
+
+MoJo(quarkusio-quarkus/quarkusio-quarkus-0.19.1_ga_b.rsf,quarkusio-quarkus/quarkusio-quarkus-0.19.1_ga_a.rsf) = 1621
+The Mojo value is 1621
+
+MoJo(quarkusio-quarkus/quarkusio-quarkus-0.19.1_exhaustive_a.rsf,quarkusio-quarkus/quarkusio-quarkus-0.19.1_exhaustive_b.rsf) = 1688
+
+MoJo(quarkusio-quarkus/quarkusio-quarkus-0.19.1_exhaustive_b.rsf,quarkusio-quarkus/quarkusio-quarkus-0.19.1_exhaustive_a.rsf) = 1482
+The Mojo value is 1482
+
+MoJo(quarkusio-quarkus/quarkusio-quarkus-0.20.0_hillclimbing_a.rsf,quarkusio-quarkus/quarkusio-quarkus-0.20.0_hillclimbing_b.rsf) = 1763
+
+MoJo(quarkusio-quarkus/quarkusio-quarkus-0.20.0_hillclimbing_b.rsf,quarkusio-quarkus/quarkusio-quarkus-0.20.0_hillclimbing_a.rsf) = 1728
+The Mojo value is 1728
+
+MoJo(quarkusio-quarkus/quarkusio-quarkus-0.20.0_ga_a.rsf,quarkusio-quarkus/quarkusio-quarkus-0.20.0_ga_b.rsf) = 1740
+
+MoJo(quarkusio-quarkus/quarkusio-quarkus-0.20.0_ga_b.rsf,quarkusio-quarkus/quarkusio-quarkus-0.20.0_ga_a.rsf) = 1695
+The Mojo value is 1695
+
+MoJo(quarkusio-quarkus/quarkusio-quarkus-0.20.0_exhaustive_a.rsf,quarkusio-quarkus/quarkusio-quarkus-0.20.0_exhaustive_b.rsf) = 1764
+
+MoJo(quarkusio-quarkus/quarkusio-quarkus-0.20.0_exhaustive_b.rsf,quarkusio-quarkus/quarkusio-quarkus-0.20.0_exhaustive_a.rsf) = 1724
+The Mojo value is 1724
+
+MoJo(quarkusio-quarkus/quarkusio-quarkus-0.21.0_hillclimbing_a.rsf,quarkusio-quarkus/quarkusio-quarkus-0.21.0_hillclimbing_b.rsf) = 1765
+
+MoJo(quarkusio-quarkus/quarkusio-quarkus-0.21.0_hillclimbing_b.rsf,quarkusio-quarkus/quarkusio-quarkus-0.21.0_hillclimbing_a.rsf) = 1570
+The Mojo value is 1570
+
+MoJo(quarkusio-quarkus/quarkusio-quarkus-0.21.0_ga_a.rsf,quarkusio-quarkus/quarkusio-quarkus-0.21.0_ga_b.rsf) = 1809
+
+MoJo(quarkusio-quarkus/quarkusio-quarkus-0.21.0_ga_b.rsf,quarkusio-quarkus/quarkusio-quarkus-0.21.0_ga_a.rsf) = 1784
+The Mojo value is 1784
+
+MoJo(quarkusio-quarkus/quarkusio-quarkus-0.21.0_exhaustive_a.rsf,quarkusio-quarkus/quarkusio-quarkus-0.21.0_exhaustive_b.rsf) = 1808
+
+MoJo(quarkusio-quarkus/quarkusio-quarkus-0.21.0_exhaustive_b.rsf,quarkusio-quarkus/quarkusio-quarkus-0.21.0_exhaustive_a.rsf) = 1762
+The Mojo value is 1762
+
+MoJo(quarkusio-quarkus/quarkusio-quarkus-0.21.1_hillclimbing_a.rsf,quarkusio-quarkus/quarkusio-quarkus-0.21.1_hillclimbing_b.rsf) = 1723
+
+MoJo(quarkusio-quarkus/quarkusio-quarkus-0.21.1_hillclimbing_b.rsf,quarkusio-quarkus/quarkusio-quarkus-0.21.1_hillclimbing_a.rsf) = 1623
+The Mojo value is 1623
+
+MoJo(quarkusio-quarkus/quarkusio-quarkus-0.21.1_ga_a.rsf,quarkusio-quarkus/quarkusio-quarkus-0.21.1_ga_b.rsf) = 1776
+
+MoJo(quarkusio-quarkus/quarkusio-quarkus-0.21.1_ga_b.rsf,quarkusio-quarkus/quarkusio-quarkus-0.21.1_ga_a.rsf) = 1733
+The Mojo value is 1733
+
+MoJo(quarkusio-quarkus/quarkusio-quarkus-0.21.1_exhaustive_a.rsf,quarkusio-quarkus/quarkusio-quarkus-0.21.1_exhaustive_b.rsf) = 1733
+
+MoJo(quarkusio-quarkus/quarkusio-quarkus-0.21.1_exhaustive_b.rsf,quarkusio-quarkus/quarkusio-quarkus-0.21.1_exhaustive_a.rsf) = 1523
+The Mojo value is 1523
+
+MoJo(quarkusio-quarkus/quarkusio-quarkus-0.21.2_hillclimbing_a.rsf,quarkusio-quarkus/quarkusio-quarkus-0.21.2_hillclimbing_b.rsf) = 1659
+
+MoJo(quarkusio-quarkus/quarkusio-quarkus-0.21.2_hillclimbing_b.rsf,quarkusio-quarkus/quarkusio-quarkus-0.21.2_hillclimbing_a.rsf) = 1458
+The Mojo value is 1458
+
+MoJo(quarkusio-quarkus/quarkusio-quarkus-0.21.2_ga_a.rsf,quarkusio-quarkus/quarkusio-quarkus-0.21.2_ga_b.rsf) = 1795
+
+MoJo(quarkusio-quarkus/quarkusio-quarkus-0.21.2_ga_b.rsf,quarkusio-quarkus/quarkusio-quarkus-0.21.2_ga_a.rsf) = 1589
+The Mojo value is 1589
+
+MoJo(quarkusio-quarkus/quarkusio-quarkus-0.21.2_exhaustive_a.rsf,quarkusio-quarkus/quarkusio-quarkus-0.21.2_exhaustive_b.rsf) = 1656
+
+MoJo(quarkusio-quarkus/quarkusio-quarkus-0.21.2_exhaustive_b.rsf,quarkusio-quarkus/quarkusio-quarkus-0.21.2_exhaustive_a.rsf) = 648
+The Mojo value is 648
+
+MoJo(quarkusio-quarkus/quarkusio-quarkus-0.22_hillclimbing_a.rsf,quarkusio-quarkus/quarkusio-quarkus-0.22_hillclimbing_b.rsf) = 1758
+
+MoJo(quarkusio-quarkus/quarkusio-quarkus-0.22_hillclimbing_b.rsf,quarkusio-quarkus/quarkusio-quarkus-0.22_hillclimbing_a.rsf) = 1474
+The Mojo value is 1474
+
+MoJo(quarkusio-quarkus/quarkusio-quarkus-0.22_ga_a.rsf,quarkusio-quarkus/quarkusio-quarkus-0.22_ga_b.rsf) = 1774
+
+MoJo(quarkusio-quarkus/quarkusio-quarkus-0.22_ga_b.rsf,quarkusio-quarkus/quarkusio-quarkus-0.22_ga_a.rsf) = 1726
+The Mojo value is 1726
+
+MoJo(quarkusio-quarkus/quarkusio-quarkus-0.22_exhaustive_a.rsf,quarkusio-quarkus/quarkusio-quarkus-0.22_exhaustive_b.rsf) = 1699
+
+MoJo(quarkusio-quarkus/quarkusio-quarkus-0.22_exhaustive_b.rsf,quarkusio-quarkus/quarkusio-quarkus-0.22_exhaustive_a.rsf) = 1340
+The Mojo value is 1340
+
+MoJo(quarkusio-quarkus/quarkusio-quarkus-0.23.0_hillclimbing_a.rsf,quarkusio-quarkus/quarkusio-quarkus-0.23.0_hillclimbing_b.rsf) = 2064
+
+MoJo(quarkusio-quarkus/quarkusio-quarkus-0.23.0_hillclimbing_b.rsf,quarkusio-quarkus/quarkusio-quarkus-0.23.0_hillclimbing_a.rsf) = 1960
+The Mojo value is 1960
+
+MoJo(quarkusio-quarkus/quarkusio-quarkus-0.23.0_ga_a.rsf,quarkusio-quarkus/quarkusio-quarkus-0.23.0_ga_b.rsf) = 2063
+
+MoJo(quarkusio-quarkus/quarkusio-quarkus-0.23.0_ga_b.rsf,quarkusio-quarkus/quarkusio-quarkus-0.23.0_ga_a.rsf) = 1319
+The Mojo value is 1319
+
+MoJo(quarkusio-quarkus/quarkusio-quarkus-0.23.0_exhaustive_a.rsf,quarkusio-quarkus/quarkusio-quarkus-0.23.0_exhaustive_b.rsf) = 1976
+
+MoJo(quarkusio-quarkus/quarkusio-quarkus-0.23.0_exhaustive_b.rsf,quarkusio-quarkus/quarkusio-quarkus-0.23.0_exhaustive_a.rsf) = 1935
+The Mojo value is 1935

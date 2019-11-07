@@ -1,0 +1,150 @@
+
+MoJo(btraceio-btrace/btraceio-btrace-1.3.2_hillclimbing_a.rsf,btraceio-btrace/btraceio-btrace-1.3.2_hillclimbing_b.rsf) = 186
+
+MoJo(btraceio-btrace/btraceio-btrace-1.3.2_hillclimbing_b.rsf,btraceio-btrace/btraceio-btrace-1.3.2_hillclimbing_a.rsf) = 156
+The Mojo value is 156
+
+MoJo(btraceio-btrace/btraceio-btrace-1.3.2_ga_a.rsf,btraceio-btrace/btraceio-btrace-1.3.2_ga_b.rsf) = 233
+
+MoJo(btraceio-btrace/btraceio-btrace-1.3.2_ga_b.rsf,btraceio-btrace/btraceio-btrace-1.3.2_ga_a.rsf) = 274
+The Mojo value is 233
+
+MoJo(btraceio-btrace/btraceio-btrace-1.3.2_exhaustive_a.rsf,btraceio-btrace/btraceio-btrace-1.3.2_exhaustive_b.rsf) = 252
+
+MoJo(btraceio-btrace/btraceio-btrace-1.3.2_exhaustive_b.rsf,btraceio-btrace/btraceio-btrace-1.3.2_exhaustive_a.rsf) = 232
+The Mojo value is 232
+
+MoJo(btraceio-btrace/btraceio-btrace-1.3.3_hillclimbing_a.rsf,btraceio-btrace/btraceio-btrace-1.3.3_hillclimbing_b.rsf) = 232
+
+MoJo(btraceio-btrace/btraceio-btrace-1.3.3_hillclimbing_b.rsf,btraceio-btrace/btraceio-btrace-1.3.3_hillclimbing_a.rsf) = 214
+The Mojo value is 214
+
+MoJo(btraceio-btrace/btraceio-btrace-1.3.3_ga_a.rsf,btraceio-btrace/btraceio-btrace-1.3.3_ga_b.rsf) = 222
+
+MoJo(btraceio-btrace/btraceio-btrace-1.3.3_ga_b.rsf,btraceio-btrace/btraceio-btrace-1.3.3_ga_a.rsf) = 248
+The Mojo value is 222
+
+MoJo(btraceio-btrace/btraceio-btrace-1.3.3_exhaustive_a.rsf,btraceio-btrace/btraceio-btrace-1.3.3_exhaustive_b.rsf) = 234
+
+MoJo(btraceio-btrace/btraceio-btrace-1.3.3_exhaustive_b.rsf,btraceio-btrace/btraceio-btrace-1.3.3_exhaustive_a.rsf) = 250
+The Mojo value is 234
+
+MoJo(btraceio-btrace/btraceio-btrace-1.3.4_hillclimbing_a.rsf,btraceio-btrace/btraceio-btrace-1.3.4_hillclimbing_b.rsf) = 329
+
+MoJo(btraceio-btrace/btraceio-btrace-1.3.4_hillclimbing_b.rsf,btraceio-btrace/btraceio-btrace-1.3.4_hillclimbing_a.rsf) = 313
+The Mojo value is 313
+
+MoJo(btraceio-btrace/btraceio-btrace-1.3.4_ga_a.rsf,btraceio-btrace/btraceio-btrace-1.3.4_ga_b.rsf) = 326
+
+MoJo(btraceio-btrace/btraceio-btrace-1.3.4_ga_b.rsf,btraceio-btrace/btraceio-btrace-1.3.4_ga_a.rsf) = 314
+The Mojo value is 314
+
+MoJo(btraceio-btrace/btraceio-btrace-1.3.4_exhaustive_a.rsf,btraceio-btrace/btraceio-btrace-1.3.4_exhaustive_b.rsf) = 337
+
+MoJo(btraceio-btrace/btraceio-btrace-1.3.4_exhaustive_b.rsf,btraceio-btrace/btraceio-btrace-1.3.4_exhaustive_a.rsf) = 348
+The Mojo value is 337
+
+MoJo(btraceio-btrace/btraceio-btrace-1.3.5_hillclimbing_a.rsf,btraceio-btrace/btraceio-btrace-1.3.5_hillclimbing_b.rsf) = 351
+
+MoJo(btraceio-btrace/btraceio-btrace-1.3.5_hillclimbing_b.rsf,btraceio-btrace/btraceio-btrace-1.3.5_hillclimbing_a.rsf) = 371
+The Mojo value is 351
+
+MoJo(btraceio-btrace/btraceio-btrace-1.3.5_ga_a.rsf,btraceio-btrace/btraceio-btrace-1.3.5_ga_b.rsf) = 344
+
+MoJo(btraceio-btrace/btraceio-btrace-1.3.5_ga_b.rsf,btraceio-btrace/btraceio-btrace-1.3.5_ga_a.rsf) = 363
+The Mojo value is 344
+
+MoJo(btraceio-btrace/btraceio-btrace-1.3.5_exhaustive_a.rsf,btraceio-btrace/btraceio-btrace-1.3.5_exhaustive_b.rsf) = 357
+
+MoJo(btraceio-btrace/btraceio-btrace-1.3.5_exhaustive_b.rsf,btraceio-btrace/btraceio-btrace-1.3.5_exhaustive_a.rsf) = 374
+The Mojo value is 357
+
+MoJo(btraceio-btrace/btraceio-btrace-1.3.6_hillclimbing_a.rsf,btraceio-btrace/btraceio-btrace-1.3.6_hillclimbing_b.rsf) = 369
+
+MoJo(btraceio-btrace/btraceio-btrace-1.3.6_hillclimbing_b.rsf,btraceio-btrace/btraceio-btrace-1.3.6_hillclimbing_a.rsf) = 393
+The Mojo value is 369
+
+MoJo(btraceio-btrace/btraceio-btrace-1.3.6_ga_a.rsf,btraceio-btrace/btraceio-btrace-1.3.6_ga_b.rsf) = 354
+
+MoJo(btraceio-btrace/btraceio-btrace-1.3.6_ga_b.rsf,btraceio-btrace/btraceio-btrace-1.3.6_ga_a.rsf) = 359
+The Mojo value is 354
+
+MoJo(btraceio-btrace/btraceio-btrace-1.3.6_exhaustive_a.rsf,btraceio-btrace/btraceio-btrace-1.3.6_exhaustive_b.rsf) = 319
+
+MoJo(btraceio-btrace/btraceio-btrace-1.3.6_exhaustive_b.rsf,btraceio-btrace/btraceio-btrace-1.3.6_exhaustive_a.rsf) = 353
+The Mojo value is 319
+
+MoJo(btraceio-btrace/btraceio-btrace-1.3.7_hillclimbing_a.rsf,btraceio-btrace/btraceio-btrace-1.3.7_hillclimbing_b.rsf) = 219
+
+MoJo(btraceio-btrace/btraceio-btrace-1.3.7_hillclimbing_b.rsf,btraceio-btrace/btraceio-btrace-1.3.7_hillclimbing_a.rsf) = 172
+The Mojo value is 172
+
+MoJo(btraceio-btrace/btraceio-btrace-1.3.7_ga_a.rsf,btraceio-btrace/btraceio-btrace-1.3.7_ga_b.rsf) = 358
+
+MoJo(btraceio-btrace/btraceio-btrace-1.3.7_ga_b.rsf,btraceio-btrace/btraceio-btrace-1.3.7_ga_a.rsf) = 339
+The Mojo value is 339
+
+MoJo(btraceio-btrace/btraceio-btrace-1.3.7_exhaustive_a.rsf,btraceio-btrace/btraceio-btrace-1.3.7_exhaustive_b.rsf) = 360
+
+MoJo(btraceio-btrace/btraceio-btrace-1.3.7_exhaustive_b.rsf,btraceio-btrace/btraceio-btrace-1.3.7_exhaustive_a.rsf) = 379
+The Mojo value is 360
+
+MoJo(btraceio-btrace/btraceio-btrace-1.3.8_hillclimbing_a.rsf,btraceio-btrace/btraceio-btrace-1.3.8_hillclimbing_b.rsf) = 363
+
+MoJo(btraceio-btrace/btraceio-btrace-1.3.8_hillclimbing_b.rsf,btraceio-btrace/btraceio-btrace-1.3.8_hillclimbing_a.rsf) = 359
+The Mojo value is 359
+
+MoJo(btraceio-btrace/btraceio-btrace-1.3.8_ga_a.rsf,btraceio-btrace/btraceio-btrace-1.3.8_ga_b.rsf) = 361
+
+MoJo(btraceio-btrace/btraceio-btrace-1.3.8_ga_b.rsf,btraceio-btrace/btraceio-btrace-1.3.8_ga_a.rsf) = 359
+The Mojo value is 359
+
+MoJo(btraceio-btrace/btraceio-btrace-1.3.8_exhaustive_a.rsf,btraceio-btrace/btraceio-btrace-1.3.8_exhaustive_b.rsf) = 350
+
+MoJo(btraceio-btrace/btraceio-btrace-1.3.8_exhaustive_b.rsf,btraceio-btrace/btraceio-btrace-1.3.8_exhaustive_a.rsf) = 361
+The Mojo value is 350
+
+MoJo(btraceio-btrace/btraceio-btrace-1.3.8.1_hillclimbing_a.rsf,btraceio-btrace/btraceio-btrace-1.3.8.1_hillclimbing_b.rsf) = 338
+
+MoJo(btraceio-btrace/btraceio-btrace-1.3.8.1_hillclimbing_b.rsf,btraceio-btrace/btraceio-btrace-1.3.8.1_hillclimbing_a.rsf) = 326
+The Mojo value is 326
+
+MoJo(btraceio-btrace/btraceio-btrace-1.3.8.1_ga_a.rsf,btraceio-btrace/btraceio-btrace-1.3.8.1_ga_b.rsf) = 359
+
+MoJo(btraceio-btrace/btraceio-btrace-1.3.8.1_ga_b.rsf,btraceio-btrace/btraceio-btrace-1.3.8.1_ga_a.rsf) = 375
+The Mojo value is 359
+
+MoJo(btraceio-btrace/btraceio-btrace-1.3.8.1_exhaustive_a.rsf,btraceio-btrace/btraceio-btrace-1.3.8.1_exhaustive_b.rsf) = 333
+
+MoJo(btraceio-btrace/btraceio-btrace-1.3.8.1_exhaustive_b.rsf,btraceio-btrace/btraceio-btrace-1.3.8.1_exhaustive_a.rsf) = 335
+The Mojo value is 333
+
+MoJo(btraceio-btrace/btraceio-btrace-1.3.8.2_hillclimbing_a.rsf,btraceio-btrace/btraceio-btrace-1.3.8.2_hillclimbing_b.rsf) = 353
+
+MoJo(btraceio-btrace/btraceio-btrace-1.3.8.2_hillclimbing_b.rsf,btraceio-btrace/btraceio-btrace-1.3.8.2_hillclimbing_a.rsf) = 353
+The Mojo value is 353
+
+MoJo(btraceio-btrace/btraceio-btrace-1.3.8.2_ga_a.rsf,btraceio-btrace/btraceio-btrace-1.3.8.2_ga_b.rsf) = 343
+
+MoJo(btraceio-btrace/btraceio-btrace-1.3.8.2_ga_b.rsf,btraceio-btrace/btraceio-btrace-1.3.8.2_ga_a.rsf) = 342
+The Mojo value is 342
+
+MoJo(btraceio-btrace/btraceio-btrace-1.3.8.2_exhaustive_a.rsf,btraceio-btrace/btraceio-btrace-1.3.8.2_exhaustive_b.rsf) = 359
+
+MoJo(btraceio-btrace/btraceio-btrace-1.3.8.2_exhaustive_b.rsf,btraceio-btrace/btraceio-btrace-1.3.8.2_exhaustive_a.rsf) = 370
+The Mojo value is 359
+
+MoJo(btraceio-btrace/btraceio-btrace-1.3.8.3_hillclimbing_a.rsf,btraceio-btrace/btraceio-btrace-1.3.8.3_hillclimbing_b.rsf) = 352
+
+MoJo(btraceio-btrace/btraceio-btrace-1.3.8.3_hillclimbing_b.rsf,btraceio-btrace/btraceio-btrace-1.3.8.3_hillclimbing_a.rsf) = 360
+The Mojo value is 352
+
+MoJo(btraceio-btrace/btraceio-btrace-1.3.8.3_ga_a.rsf,btraceio-btrace/btraceio-btrace-1.3.8.3_ga_b.rsf) = 354
+
+MoJo(btraceio-btrace/btraceio-btrace-1.3.8.3_ga_b.rsf,btraceio-btrace/btraceio-btrace-1.3.8.3_ga_a.rsf) = 333
+The Mojo value is 333
+
+MoJo(btraceio-btrace/btraceio-btrace-1.3.8.3_exhaustive_a.rsf,btraceio-btrace/btraceio-btrace-1.3.8.3_exhaustive_b.rsf) = 357
+
+MoJo(btraceio-btrace/btraceio-btrace-1.3.8.3_exhaustive_b.rsf,btraceio-btrace/btraceio-btrace-1.3.8.3_exhaustive_a.rsf) = 364
+The Mojo value is 357

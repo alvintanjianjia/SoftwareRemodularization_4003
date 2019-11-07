@@ -1,0 +1,150 @@
+
+MoJo(ZieIony-Carbon/ZieIony-Carbon-0.6.7_hillclimbing_a.rsf,ZieIony-Carbon/ZieIony-Carbon-0.6.7_hillclimbing_b.rsf) = 83
+
+MoJo(ZieIony-Carbon/ZieIony-Carbon-0.6.7_hillclimbing_b.rsf,ZieIony-Carbon/ZieIony-Carbon-0.6.7_hillclimbing_a.rsf) = 79
+The Mojo value is 79
+
+MoJo(ZieIony-Carbon/ZieIony-Carbon-0.6.7_ga_a.rsf,ZieIony-Carbon/ZieIony-Carbon-0.6.7_ga_b.rsf) = 83
+
+MoJo(ZieIony-Carbon/ZieIony-Carbon-0.6.7_ga_b.rsf,ZieIony-Carbon/ZieIony-Carbon-0.6.7_ga_a.rsf) = 80
+The Mojo value is 80
+
+MoJo(ZieIony-Carbon/ZieIony-Carbon-0.6.7_exhaustive_a.rsf,ZieIony-Carbon/ZieIony-Carbon-0.6.7_exhaustive_b.rsf) = 80
+
+MoJo(ZieIony-Carbon/ZieIony-Carbon-0.6.7_exhaustive_b.rsf,ZieIony-Carbon/ZieIony-Carbon-0.6.7_exhaustive_a.rsf) = 81
+The Mojo value is 80
+
+MoJo(ZieIony-Carbon/ZieIony-Carbon-0.6.7.1_hillclimbing_a.rsf,ZieIony-Carbon/ZieIony-Carbon-0.6.7.1_hillclimbing_b.rsf) = 83
+
+MoJo(ZieIony-Carbon/ZieIony-Carbon-0.6.7.1_hillclimbing_b.rsf,ZieIony-Carbon/ZieIony-Carbon-0.6.7.1_hillclimbing_a.rsf) = 83
+The Mojo value is 83
+
+MoJo(ZieIony-Carbon/ZieIony-Carbon-0.6.7.1_ga_a.rsf,ZieIony-Carbon/ZieIony-Carbon-0.6.7.1_ga_b.rsf) = 73
+
+MoJo(ZieIony-Carbon/ZieIony-Carbon-0.6.7.1_ga_b.rsf,ZieIony-Carbon/ZieIony-Carbon-0.6.7.1_ga_a.rsf) = 78
+The Mojo value is 73
+
+MoJo(ZieIony-Carbon/ZieIony-Carbon-0.6.7.1_exhaustive_a.rsf,ZieIony-Carbon/ZieIony-Carbon-0.6.7.1_exhaustive_b.rsf) = 79
+
+MoJo(ZieIony-Carbon/ZieIony-Carbon-0.6.7.1_exhaustive_b.rsf,ZieIony-Carbon/ZieIony-Carbon-0.6.7.1_exhaustive_a.rsf) = 80
+The Mojo value is 79
+
+MoJo(ZieIony-Carbon/ZieIony-Carbon-0.6.7.2_hillclimbing_a.rsf,ZieIony-Carbon/ZieIony-Carbon-0.6.7.2_hillclimbing_b.rsf) = 77
+
+MoJo(ZieIony-Carbon/ZieIony-Carbon-0.6.7.2_hillclimbing_b.rsf,ZieIony-Carbon/ZieIony-Carbon-0.6.7.2_hillclimbing_a.rsf) = 84
+The Mojo value is 77
+
+MoJo(ZieIony-Carbon/ZieIony-Carbon-0.6.7.2_ga_a.rsf,ZieIony-Carbon/ZieIony-Carbon-0.6.7.2_ga_b.rsf) = 86
+
+MoJo(ZieIony-Carbon/ZieIony-Carbon-0.6.7.2_ga_b.rsf,ZieIony-Carbon/ZieIony-Carbon-0.6.7.2_ga_a.rsf) = 87
+The Mojo value is 86
+
+MoJo(ZieIony-Carbon/ZieIony-Carbon-0.6.7.2_exhaustive_a.rsf,ZieIony-Carbon/ZieIony-Carbon-0.6.7.2_exhaustive_b.rsf) = 80
+
+MoJo(ZieIony-Carbon/ZieIony-Carbon-0.6.7.2_exhaustive_b.rsf,ZieIony-Carbon/ZieIony-Carbon-0.6.7.2_exhaustive_a.rsf) = 79
+The Mojo value is 79
+
+MoJo(ZieIony-Carbon/ZieIony-Carbon-0.7.0_hillclimbing_a.rsf,ZieIony-Carbon/ZieIony-Carbon-0.7.0_hillclimbing_b.rsf) = 81
+
+MoJo(ZieIony-Carbon/ZieIony-Carbon-0.7.0_hillclimbing_b.rsf,ZieIony-Carbon/ZieIony-Carbon-0.7.0_hillclimbing_a.rsf) = 84
+The Mojo value is 81
+
+MoJo(ZieIony-Carbon/ZieIony-Carbon-0.7.0_ga_a.rsf,ZieIony-Carbon/ZieIony-Carbon-0.7.0_ga_b.rsf) = 78
+
+MoJo(ZieIony-Carbon/ZieIony-Carbon-0.7.0_ga_b.rsf,ZieIony-Carbon/ZieIony-Carbon-0.7.0_ga_a.rsf) = 84
+The Mojo value is 78
+
+MoJo(ZieIony-Carbon/ZieIony-Carbon-0.7.0_exhaustive_a.rsf,ZieIony-Carbon/ZieIony-Carbon-0.7.0_exhaustive_b.rsf) = 77
+
+MoJo(ZieIony-Carbon/ZieIony-Carbon-0.7.0_exhaustive_b.rsf,ZieIony-Carbon/ZieIony-Carbon-0.7.0_exhaustive_a.rsf) = 88
+The Mojo value is 77
+
+MoJo(ZieIony-Carbon/ZieIony-Carbon-0.7.1_hillclimbing_a.rsf,ZieIony-Carbon/ZieIony-Carbon-0.7.1_hillclimbing_b.rsf) = 88
+
+MoJo(ZieIony-Carbon/ZieIony-Carbon-0.7.1_hillclimbing_b.rsf,ZieIony-Carbon/ZieIony-Carbon-0.7.1_hillclimbing_a.rsf) = 84
+The Mojo value is 84
+
+MoJo(ZieIony-Carbon/ZieIony-Carbon-0.7.1_ga_a.rsf,ZieIony-Carbon/ZieIony-Carbon-0.7.1_ga_b.rsf) = 81
+
+MoJo(ZieIony-Carbon/ZieIony-Carbon-0.7.1_ga_b.rsf,ZieIony-Carbon/ZieIony-Carbon-0.7.1_ga_a.rsf) = 80
+The Mojo value is 80
+
+MoJo(ZieIony-Carbon/ZieIony-Carbon-0.7.1_exhaustive_a.rsf,ZieIony-Carbon/ZieIony-Carbon-0.7.1_exhaustive_b.rsf) = 86
+
+MoJo(ZieIony-Carbon/ZieIony-Carbon-0.7.1_exhaustive_b.rsf,ZieIony-Carbon/ZieIony-Carbon-0.7.1_exhaustive_a.rsf) = 90
+The Mojo value is 86
+
+MoJo(ZieIony-Carbon/ZieIony-Carbon-0.7.2_hillclimbing_a.rsf,ZieIony-Carbon/ZieIony-Carbon-0.7.2_hillclimbing_b.rsf) = 85
+
+MoJo(ZieIony-Carbon/ZieIony-Carbon-0.7.2_hillclimbing_b.rsf,ZieIony-Carbon/ZieIony-Carbon-0.7.2_hillclimbing_a.rsf) = 76
+The Mojo value is 76
+
+MoJo(ZieIony-Carbon/ZieIony-Carbon-0.7.2_ga_a.rsf,ZieIony-Carbon/ZieIony-Carbon-0.7.2_ga_b.rsf) = 79
+
+MoJo(ZieIony-Carbon/ZieIony-Carbon-0.7.2_ga_b.rsf,ZieIony-Carbon/ZieIony-Carbon-0.7.2_ga_a.rsf) = 82
+The Mojo value is 79
+
+MoJo(ZieIony-Carbon/ZieIony-Carbon-0.7.2_exhaustive_a.rsf,ZieIony-Carbon/ZieIony-Carbon-0.7.2_exhaustive_b.rsf) = 87
+
+MoJo(ZieIony-Carbon/ZieIony-Carbon-0.7.2_exhaustive_b.rsf,ZieIony-Carbon/ZieIony-Carbon-0.7.2_exhaustive_a.rsf) = 85
+The Mojo value is 85
+
+MoJo(ZieIony-Carbon/ZieIony-Carbon-0.7.3_hillclimbing_a.rsf,ZieIony-Carbon/ZieIony-Carbon-0.7.3_hillclimbing_b.rsf) = 75
+
+MoJo(ZieIony-Carbon/ZieIony-Carbon-0.7.3_hillclimbing_b.rsf,ZieIony-Carbon/ZieIony-Carbon-0.7.3_hillclimbing_a.rsf) = 88
+The Mojo value is 75
+
+MoJo(ZieIony-Carbon/ZieIony-Carbon-0.7.3_ga_a.rsf,ZieIony-Carbon/ZieIony-Carbon-0.7.3_ga_b.rsf) = 87
+
+MoJo(ZieIony-Carbon/ZieIony-Carbon-0.7.3_ga_b.rsf,ZieIony-Carbon/ZieIony-Carbon-0.7.3_ga_a.rsf) = 91
+The Mojo value is 87
+
+MoJo(ZieIony-Carbon/ZieIony-Carbon-0.7.3_exhaustive_a.rsf,ZieIony-Carbon/ZieIony-Carbon-0.7.3_exhaustive_b.rsf) = 72
+
+MoJo(ZieIony-Carbon/ZieIony-Carbon-0.7.3_exhaustive_b.rsf,ZieIony-Carbon/ZieIony-Carbon-0.7.3_exhaustive_a.rsf) = 77
+The Mojo value is 72
+
+MoJo(ZieIony-Carbon/ZieIony-Carbon-0.7.4_hillclimbing_a.rsf,ZieIony-Carbon/ZieIony-Carbon-0.7.4_hillclimbing_b.rsf) = 88
+
+MoJo(ZieIony-Carbon/ZieIony-Carbon-0.7.4_hillclimbing_b.rsf,ZieIony-Carbon/ZieIony-Carbon-0.7.4_hillclimbing_a.rsf) = 86
+The Mojo value is 86
+
+MoJo(ZieIony-Carbon/ZieIony-Carbon-0.7.4_ga_a.rsf,ZieIony-Carbon/ZieIony-Carbon-0.7.4_ga_b.rsf) = 92
+
+MoJo(ZieIony-Carbon/ZieIony-Carbon-0.7.4_ga_b.rsf,ZieIony-Carbon/ZieIony-Carbon-0.7.4_ga_a.rsf) = 93
+The Mojo value is 92
+
+MoJo(ZieIony-Carbon/ZieIony-Carbon-0.7.4_exhaustive_a.rsf,ZieIony-Carbon/ZieIony-Carbon-0.7.4_exhaustive_b.rsf) = 84
+
+MoJo(ZieIony-Carbon/ZieIony-Carbon-0.7.4_exhaustive_b.rsf,ZieIony-Carbon/ZieIony-Carbon-0.7.4_exhaustive_a.rsf) = 77
+The Mojo value is 77
+
+MoJo(ZieIony-Carbon/ZieIony-Carbon-0.8.0_hillclimbing_a.rsf,ZieIony-Carbon/ZieIony-Carbon-0.8.0_hillclimbing_b.rsf) = 78
+
+MoJo(ZieIony-Carbon/ZieIony-Carbon-0.8.0_hillclimbing_b.rsf,ZieIony-Carbon/ZieIony-Carbon-0.8.0_hillclimbing_a.rsf) = 83
+The Mojo value is 78
+
+MoJo(ZieIony-Carbon/ZieIony-Carbon-0.8.0_ga_a.rsf,ZieIony-Carbon/ZieIony-Carbon-0.8.0_ga_b.rsf) = 79
+
+MoJo(ZieIony-Carbon/ZieIony-Carbon-0.8.0_ga_b.rsf,ZieIony-Carbon/ZieIony-Carbon-0.8.0_ga_a.rsf) = 80
+The Mojo value is 79
+
+MoJo(ZieIony-Carbon/ZieIony-Carbon-0.8.0_exhaustive_a.rsf,ZieIony-Carbon/ZieIony-Carbon-0.8.0_exhaustive_b.rsf) = 89
+
+MoJo(ZieIony-Carbon/ZieIony-Carbon-0.8.0_exhaustive_b.rsf,ZieIony-Carbon/ZieIony-Carbon-0.8.0_exhaustive_a.rsf) = 89
+The Mojo value is 89
+
+MoJo(ZieIony-Carbon/ZieIony-Carbon-0.9.0_hillclimbing_a.rsf,ZieIony-Carbon/ZieIony-Carbon-0.9.0_hillclimbing_b.rsf) = 98
+
+MoJo(ZieIony-Carbon/ZieIony-Carbon-0.9.0_hillclimbing_b.rsf,ZieIony-Carbon/ZieIony-Carbon-0.9.0_hillclimbing_a.rsf) = 102
+The Mojo value is 98
+
+MoJo(ZieIony-Carbon/ZieIony-Carbon-0.9.0_ga_a.rsf,ZieIony-Carbon/ZieIony-Carbon-0.9.0_ga_b.rsf) = 100
+
+MoJo(ZieIony-Carbon/ZieIony-Carbon-0.9.0_ga_b.rsf,ZieIony-Carbon/ZieIony-Carbon-0.9.0_ga_a.rsf) = 96
+The Mojo value is 96
+
+MoJo(ZieIony-Carbon/ZieIony-Carbon-0.9.0_exhaustive_a.rsf,ZieIony-Carbon/ZieIony-Carbon-0.9.0_exhaustive_b.rsf) = 94
+
+MoJo(ZieIony-Carbon/ZieIony-Carbon-0.9.0_exhaustive_b.rsf,ZieIony-Carbon/ZieIony-Carbon-0.9.0_exhaustive_a.rsf) = 91
+The Mojo value is 91

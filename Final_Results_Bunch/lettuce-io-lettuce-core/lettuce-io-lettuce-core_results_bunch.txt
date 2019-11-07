@@ -1,0 +1,75 @@
+
+MoJo(lettuce-io-lettuce-core/lettuce-io-lettuce-core-5.1.4_hillclimbing_a.rsf,lettuce-io-lettuce-core/lettuce-io-lettuce-core-5.1.4_hillclimbing_b.rsf) = 823
+
+MoJo(lettuce-io-lettuce-core/lettuce-io-lettuce-core-5.1.4_hillclimbing_b.rsf,lettuce-io-lettuce-core/lettuce-io-lettuce-core-5.1.4_hillclimbing_a.rsf) = 784
+The Mojo value is 784
+
+MoJo(lettuce-io-lettuce-core/lettuce-io-lettuce-core-5.1.4_ga_a.rsf,lettuce-io-lettuce-core/lettuce-io-lettuce-core-5.1.4_ga_b.rsf) = 791
+
+MoJo(lettuce-io-lettuce-core/lettuce-io-lettuce-core-5.1.4_ga_b.rsf,lettuce-io-lettuce-core/lettuce-io-lettuce-core-5.1.4_ga_a.rsf) = 703
+The Mojo value is 703
+
+MoJo(lettuce-io-lettuce-core/lettuce-io-lettuce-core-5.1.4_exhaustive_a.rsf,lettuce-io-lettuce-core/lettuce-io-lettuce-core-5.1.4_exhaustive_b.rsf) = 746
+
+MoJo(lettuce-io-lettuce-core/lettuce-io-lettuce-core-5.1.4_exhaustive_b.rsf,lettuce-io-lettuce-core/lettuce-io-lettuce-core-5.1.4_exhaustive_a.rsf) = 784
+The Mojo value is 746
+
+MoJo(lettuce-io-lettuce-core/lettuce-io-lettuce-core-5.1.5_hillclimbing_a.rsf,lettuce-io-lettuce-core/lettuce-io-lettuce-core-5.1.5_hillclimbing_b.rsf) = 798
+
+MoJo(lettuce-io-lettuce-core/lettuce-io-lettuce-core-5.1.5_hillclimbing_b.rsf,lettuce-io-lettuce-core/lettuce-io-lettuce-core-5.1.5_hillclimbing_a.rsf) = 829
+The Mojo value is 798
+
+MoJo(lettuce-io-lettuce-core/lettuce-io-lettuce-core-5.1.5_ga_a.rsf,lettuce-io-lettuce-core/lettuce-io-lettuce-core-5.1.5_ga_b.rsf) = 752
+
+MoJo(lettuce-io-lettuce-core/lettuce-io-lettuce-core-5.1.5_ga_b.rsf,lettuce-io-lettuce-core/lettuce-io-lettuce-core-5.1.5_ga_a.rsf) = 784
+The Mojo value is 752
+
+MoJo(lettuce-io-lettuce-core/lettuce-io-lettuce-core-5.1.5_exhaustive_a.rsf,lettuce-io-lettuce-core/lettuce-io-lettuce-core-5.1.5_exhaustive_b.rsf) = 734
+
+MoJo(lettuce-io-lettuce-core/lettuce-io-lettuce-core-5.1.5_exhaustive_b.rsf,lettuce-io-lettuce-core/lettuce-io-lettuce-core-5.1.5_exhaustive_a.rsf) = 554
+The Mojo value is 554
+
+MoJo(lettuce-io-lettuce-core/lettuce-io-lettuce-core-5.1.6_hillclimbing_a.rsf,lettuce-io-lettuce-core/lettuce-io-lettuce-core-5.1.6_hillclimbing_b.rsf) = 837
+
+MoJo(lettuce-io-lettuce-core/lettuce-io-lettuce-core-5.1.6_hillclimbing_b.rsf,lettuce-io-lettuce-core/lettuce-io-lettuce-core-5.1.6_hillclimbing_a.rsf) = 757
+The Mojo value is 757
+
+MoJo(lettuce-io-lettuce-core/lettuce-io-lettuce-core-5.1.6_ga_a.rsf,lettuce-io-lettuce-core/lettuce-io-lettuce-core-5.1.6_ga_b.rsf) = 655
+
+MoJo(lettuce-io-lettuce-core/lettuce-io-lettuce-core-5.1.6_ga_b.rsf,lettuce-io-lettuce-core/lettuce-io-lettuce-core-5.1.6_ga_a.rsf) = 586
+The Mojo value is 586
+
+MoJo(lettuce-io-lettuce-core/lettuce-io-lettuce-core-5.1.6_exhaustive_a.rsf,lettuce-io-lettuce-core/lettuce-io-lettuce-core-5.1.6_exhaustive_b.rsf) = 756
+
+MoJo(lettuce-io-lettuce-core/lettuce-io-lettuce-core-5.1.6_exhaustive_b.rsf,lettuce-io-lettuce-core/lettuce-io-lettuce-core-5.1.6_exhaustive_a.rsf) = 761
+The Mojo value is 756
+
+MoJo(lettuce-io-lettuce-core/lettuce-io-lettuce-core-5.1.7_hillclimbing_a.rsf,lettuce-io-lettuce-core/lettuce-io-lettuce-core-5.1.7_hillclimbing_b.rsf) = 772
+
+MoJo(lettuce-io-lettuce-core/lettuce-io-lettuce-core-5.1.7_hillclimbing_b.rsf,lettuce-io-lettuce-core/lettuce-io-lettuce-core-5.1.7_hillclimbing_a.rsf) = 786
+The Mojo value is 772
+
+MoJo(lettuce-io-lettuce-core/lettuce-io-lettuce-core-5.1.7_ga_a.rsf,lettuce-io-lettuce-core/lettuce-io-lettuce-core-5.1.7_ga_b.rsf) = 802
+
+MoJo(lettuce-io-lettuce-core/lettuce-io-lettuce-core-5.1.7_ga_b.rsf,lettuce-io-lettuce-core/lettuce-io-lettuce-core-5.1.7_ga_a.rsf) = 825
+The Mojo value is 802
+
+MoJo(lettuce-io-lettuce-core/lettuce-io-lettuce-core-5.1.7_exhaustive_a.rsf,lettuce-io-lettuce-core/lettuce-io-lettuce-core-5.1.7_exhaustive_b.rsf) = 780
+
+MoJo(lettuce-io-lettuce-core/lettuce-io-lettuce-core-5.1.7_exhaustive_b.rsf,lettuce-io-lettuce-core/lettuce-io-lettuce-core-5.1.7_exhaustive_a.rsf) = 802
+The Mojo value is 780
+
+MoJo(lettuce-io-lettuce-core/lettuce-io-lettuce-core-5.1.8_hillclimbing_a.rsf,lettuce-io-lettuce-core/lettuce-io-lettuce-core-5.1.8_hillclimbing_b.rsf) = 821
+
+MoJo(lettuce-io-lettuce-core/lettuce-io-lettuce-core-5.1.8_hillclimbing_b.rsf,lettuce-io-lettuce-core/lettuce-io-lettuce-core-5.1.8_hillclimbing_a.rsf) = 714
+The Mojo value is 714
+
+MoJo(lettuce-io-lettuce-core/lettuce-io-lettuce-core-5.1.8_ga_a.rsf,lettuce-io-lettuce-core/lettuce-io-lettuce-core-5.1.8_ga_b.rsf) = 827
+
+MoJo(lettuce-io-lettuce-core/lettuce-io-lettuce-core-5.1.8_ga_b.rsf,lettuce-io-lettuce-core/lettuce-io-lettuce-core-5.1.8_ga_a.rsf) = 788
+The Mojo value is 788
+
+MoJo(lettuce-io-lettuce-core/lettuce-io-lettuce-core-5.1.8_exhaustive_a.rsf,lettuce-io-lettuce-core/lettuce-io-lettuce-core-5.1.8_exhaustive_b.rsf) = 769
+
+MoJo(lettuce-io-lettuce-core/lettuce-io-lettuce-core-5.1.8_exhaustive_b.rsf,lettuce-io-lettuce-core/lettuce-io-lettuce-core-5.1.8_exhaustive_a.rsf) = 695
+The Mojo value is 695

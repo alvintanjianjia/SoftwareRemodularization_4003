@@ -1,0 +1,150 @@
+
+MoJo(jankotek-mapdb/jankotek-mapdb-1.0.7_hillclimbing_a.rsf,jankotek-mapdb/jankotek-mapdb-1.0.7_hillclimbing_b.rsf) = 87
+
+MoJo(jankotek-mapdb/jankotek-mapdb-1.0.7_hillclimbing_b.rsf,jankotek-mapdb/jankotek-mapdb-1.0.7_hillclimbing_a.rsf) = 64
+The Mojo value is 64
+
+MoJo(jankotek-mapdb/jankotek-mapdb-1.0.7_ga_a.rsf,jankotek-mapdb/jankotek-mapdb-1.0.7_ga_b.rsf) = 51
+
+MoJo(jankotek-mapdb/jankotek-mapdb-1.0.7_ga_b.rsf,jankotek-mapdb/jankotek-mapdb-1.0.7_ga_a.rsf) = 26
+The Mojo value is 26
+
+MoJo(jankotek-mapdb/jankotek-mapdb-1.0.7_exhaustive_a.rsf,jankotek-mapdb/jankotek-mapdb-1.0.7_exhaustive_b.rsf) = 79
+
+MoJo(jankotek-mapdb/jankotek-mapdb-1.0.7_exhaustive_b.rsf,jankotek-mapdb/jankotek-mapdb-1.0.7_exhaustive_a.rsf) = 103
+The Mojo value is 79
+
+MoJo(jankotek-mapdb/jankotek-mapdb-1.0.8_hillclimbing_a.rsf,jankotek-mapdb/jankotek-mapdb-1.0.8_hillclimbing_b.rsf) = 79
+
+MoJo(jankotek-mapdb/jankotek-mapdb-1.0.8_hillclimbing_b.rsf,jankotek-mapdb/jankotek-mapdb-1.0.8_hillclimbing_a.rsf) = 99
+The Mojo value is 79
+
+MoJo(jankotek-mapdb/jankotek-mapdb-1.0.8_ga_a.rsf,jankotek-mapdb/jankotek-mapdb-1.0.8_ga_b.rsf) = 76
+
+MoJo(jankotek-mapdb/jankotek-mapdb-1.0.8_ga_b.rsf,jankotek-mapdb/jankotek-mapdb-1.0.8_ga_a.rsf) = 95
+The Mojo value is 76
+
+MoJo(jankotek-mapdb/jankotek-mapdb-1.0.8_exhaustive_a.rsf,jankotek-mapdb/jankotek-mapdb-1.0.8_exhaustive_b.rsf) = 55
+
+MoJo(jankotek-mapdb/jankotek-mapdb-1.0.8_exhaustive_b.rsf,jankotek-mapdb/jankotek-mapdb-1.0.8_exhaustive_a.rsf) = 105
+The Mojo value is 55
+
+MoJo(jankotek-mapdb/jankotek-mapdb-1.0.9_hillclimbing_a.rsf,jankotek-mapdb/jankotek-mapdb-1.0.9_hillclimbing_b.rsf) = 95
+
+MoJo(jankotek-mapdb/jankotek-mapdb-1.0.9_hillclimbing_b.rsf,jankotek-mapdb/jankotek-mapdb-1.0.9_hillclimbing_a.rsf) = 137
+The Mojo value is 95
+
+MoJo(jankotek-mapdb/jankotek-mapdb-1.0.9_ga_a.rsf,jankotek-mapdb/jankotek-mapdb-1.0.9_ga_b.rsf) = 88
+
+MoJo(jankotek-mapdb/jankotek-mapdb-1.0.9_ga_b.rsf,jankotek-mapdb/jankotek-mapdb-1.0.9_ga_a.rsf) = 115
+The Mojo value is 88
+
+MoJo(jankotek-mapdb/jankotek-mapdb-1.0.9_exhaustive_a.rsf,jankotek-mapdb/jankotek-mapdb-1.0.9_exhaustive_b.rsf) = 92
+
+MoJo(jankotek-mapdb/jankotek-mapdb-1.0.9_exhaustive_b.rsf,jankotek-mapdb/jankotek-mapdb-1.0.9_exhaustive_a.rsf) = 138
+The Mojo value is 92
+
+MoJo(jankotek-mapdb/jankotek-mapdb-3.0.0_hillclimbing_a.rsf,jankotek-mapdb/jankotek-mapdb-3.0.0_hillclimbing_b.rsf) = 131
+
+MoJo(jankotek-mapdb/jankotek-mapdb-3.0.0_hillclimbing_b.rsf,jankotek-mapdb/jankotek-mapdb-3.0.0_hillclimbing_a.rsf) = 129
+The Mojo value is 129
+
+MoJo(jankotek-mapdb/jankotek-mapdb-3.0.0_ga_a.rsf,jankotek-mapdb/jankotek-mapdb-3.0.0_ga_b.rsf) = 131
+
+MoJo(jankotek-mapdb/jankotek-mapdb-3.0.0_ga_b.rsf,jankotek-mapdb/jankotek-mapdb-3.0.0_ga_a.rsf) = 131
+The Mojo value is 131
+
+MoJo(jankotek-mapdb/jankotek-mapdb-3.0.0_exhaustive_a.rsf,jankotek-mapdb/jankotek-mapdb-3.0.0_exhaustive_b.rsf) = 135
+
+MoJo(jankotek-mapdb/jankotek-mapdb-3.0.0_exhaustive_b.rsf,jankotek-mapdb/jankotek-mapdb-3.0.0_exhaustive_a.rsf) = 136
+The Mojo value is 135
+
+MoJo(jankotek-mapdb/jankotek-mapdb-3.0.1_hillclimbing_a.rsf,jankotek-mapdb/jankotek-mapdb-3.0.1_hillclimbing_b.rsf) = 135
+
+MoJo(jankotek-mapdb/jankotek-mapdb-3.0.1_hillclimbing_b.rsf,jankotek-mapdb/jankotek-mapdb-3.0.1_hillclimbing_a.rsf) = 135
+The Mojo value is 135
+
+MoJo(jankotek-mapdb/jankotek-mapdb-3.0.1_ga_a.rsf,jankotek-mapdb/jankotek-mapdb-3.0.1_ga_b.rsf) = 135
+
+MoJo(jankotek-mapdb/jankotek-mapdb-3.0.1_ga_b.rsf,jankotek-mapdb/jankotek-mapdb-3.0.1_ga_a.rsf) = 132
+The Mojo value is 132
+
+MoJo(jankotek-mapdb/jankotek-mapdb-3.0.1_exhaustive_a.rsf,jankotek-mapdb/jankotek-mapdb-3.0.1_exhaustive_b.rsf) = 136
+
+MoJo(jankotek-mapdb/jankotek-mapdb-3.0.1_exhaustive_b.rsf,jankotek-mapdb/jankotek-mapdb-3.0.1_exhaustive_a.rsf) = 136
+The Mojo value is 136
+
+MoJo(jankotek-mapdb/jankotek-mapdb-3.0.2_hillclimbing_a.rsf,jankotek-mapdb/jankotek-mapdb-3.0.2_hillclimbing_b.rsf) = 134
+
+MoJo(jankotek-mapdb/jankotek-mapdb-3.0.2_hillclimbing_b.rsf,jankotek-mapdb/jankotek-mapdb-3.0.2_hillclimbing_a.rsf) = 135
+The Mojo value is 134
+
+MoJo(jankotek-mapdb/jankotek-mapdb-3.0.2_ga_a.rsf,jankotek-mapdb/jankotek-mapdb-3.0.2_ga_b.rsf) = 136
+
+MoJo(jankotek-mapdb/jankotek-mapdb-3.0.2_ga_b.rsf,jankotek-mapdb/jankotek-mapdb-3.0.2_ga_a.rsf) = 136
+The Mojo value is 136
+
+MoJo(jankotek-mapdb/jankotek-mapdb-3.0.2_exhaustive_a.rsf,jankotek-mapdb/jankotek-mapdb-3.0.2_exhaustive_b.rsf) = 135
+
+MoJo(jankotek-mapdb/jankotek-mapdb-3.0.2_exhaustive_b.rsf,jankotek-mapdb/jankotek-mapdb-3.0.2_exhaustive_a.rsf) = 135
+The Mojo value is 135
+
+MoJo(jankotek-mapdb/jankotek-mapdb-3.0.3_hillclimbing_a.rsf,jankotek-mapdb/jankotek-mapdb-3.0.3_hillclimbing_b.rsf) = 137
+
+MoJo(jankotek-mapdb/jankotek-mapdb-3.0.3_hillclimbing_b.rsf,jankotek-mapdb/jankotek-mapdb-3.0.3_hillclimbing_a.rsf) = 139
+The Mojo value is 137
+
+MoJo(jankotek-mapdb/jankotek-mapdb-3.0.3_ga_a.rsf,jankotek-mapdb/jankotek-mapdb-3.0.3_ga_b.rsf) = 139
+
+MoJo(jankotek-mapdb/jankotek-mapdb-3.0.3_ga_b.rsf,jankotek-mapdb/jankotek-mapdb-3.0.3_ga_a.rsf) = 139
+The Mojo value is 139
+
+MoJo(jankotek-mapdb/jankotek-mapdb-3.0.3_exhaustive_a.rsf,jankotek-mapdb/jankotek-mapdb-3.0.3_exhaustive_b.rsf) = 139
+
+MoJo(jankotek-mapdb/jankotek-mapdb-3.0.3_exhaustive_b.rsf,jankotek-mapdb/jankotek-mapdb-3.0.3_exhaustive_a.rsf) = 138
+The Mojo value is 138
+
+MoJo(jankotek-mapdb/jankotek-mapdb-3.0.4_hillclimbing_a.rsf,jankotek-mapdb/jankotek-mapdb-3.0.4_hillclimbing_b.rsf) = 139
+
+MoJo(jankotek-mapdb/jankotek-mapdb-3.0.4_hillclimbing_b.rsf,jankotek-mapdb/jankotek-mapdb-3.0.4_hillclimbing_a.rsf) = 139
+The Mojo value is 139
+
+MoJo(jankotek-mapdb/jankotek-mapdb-3.0.4_ga_a.rsf,jankotek-mapdb/jankotek-mapdb-3.0.4_ga_b.rsf) = 139
+
+MoJo(jankotek-mapdb/jankotek-mapdb-3.0.4_ga_b.rsf,jankotek-mapdb/jankotek-mapdb-3.0.4_ga_a.rsf) = 137
+The Mojo value is 137
+
+MoJo(jankotek-mapdb/jankotek-mapdb-3.0.4_exhaustive_a.rsf,jankotek-mapdb/jankotek-mapdb-3.0.4_exhaustive_b.rsf) = 141
+
+MoJo(jankotek-mapdb/jankotek-mapdb-3.0.4_exhaustive_b.rsf,jankotek-mapdb/jankotek-mapdb-3.0.4_exhaustive_a.rsf) = 141
+The Mojo value is 141
+
+MoJo(jankotek-mapdb/jankotek-mapdb-3.0.5_hillclimbing_a.rsf,jankotek-mapdb/jankotek-mapdb-3.0.5_hillclimbing_b.rsf) = 140
+
+MoJo(jankotek-mapdb/jankotek-mapdb-3.0.5_hillclimbing_b.rsf,jankotek-mapdb/jankotek-mapdb-3.0.5_hillclimbing_a.rsf) = 142
+The Mojo value is 140
+
+MoJo(jankotek-mapdb/jankotek-mapdb-3.0.5_ga_a.rsf,jankotek-mapdb/jankotek-mapdb-3.0.5_ga_b.rsf) = 140
+
+MoJo(jankotek-mapdb/jankotek-mapdb-3.0.5_ga_b.rsf,jankotek-mapdb/jankotek-mapdb-3.0.5_ga_a.rsf) = 141
+The Mojo value is 140
+
+MoJo(jankotek-mapdb/jankotek-mapdb-3.0.5_exhaustive_a.rsf,jankotek-mapdb/jankotek-mapdb-3.0.5_exhaustive_b.rsf) = 138
+
+MoJo(jankotek-mapdb/jankotek-mapdb-3.0.5_exhaustive_b.rsf,jankotek-mapdb/jankotek-mapdb-3.0.5_exhaustive_a.rsf) = 137
+The Mojo value is 137
+
+MoJo(jankotek-mapdb/jankotek-mapdb-3.0.6_hillclimbing_a.rsf,jankotek-mapdb/jankotek-mapdb-3.0.6_hillclimbing_b.rsf) = 142
+
+MoJo(jankotek-mapdb/jankotek-mapdb-3.0.6_hillclimbing_b.rsf,jankotek-mapdb/jankotek-mapdb-3.0.6_hillclimbing_a.rsf) = 142
+The Mojo value is 142
+
+MoJo(jankotek-mapdb/jankotek-mapdb-3.0.6_ga_a.rsf,jankotek-mapdb/jankotek-mapdb-3.0.6_ga_b.rsf) = 140
+
+MoJo(jankotek-mapdb/jankotek-mapdb-3.0.6_ga_b.rsf,jankotek-mapdb/jankotek-mapdb-3.0.6_ga_a.rsf) = 141
+The Mojo value is 140
+
+MoJo(jankotek-mapdb/jankotek-mapdb-3.0.6_exhaustive_a.rsf,jankotek-mapdb/jankotek-mapdb-3.0.6_exhaustive_b.rsf) = 141
+
+MoJo(jankotek-mapdb/jankotek-mapdb-3.0.6_exhaustive_b.rsf,jankotek-mapdb/jankotek-mapdb-3.0.6_exhaustive_a.rsf) = 141
+The Mojo value is 141

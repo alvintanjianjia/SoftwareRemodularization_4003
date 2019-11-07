@@ -1,0 +1,60 @@
+
+MoJo(auth0-java-jwt/auth0-java-jwt-3.7.0_hillclimbing_a.rsf,auth0-java-jwt/auth0-java-jwt-3.7.0_hillclimbing_b.rsf) = 35
+
+MoJo(auth0-java-jwt/auth0-java-jwt-3.7.0_hillclimbing_b.rsf,auth0-java-jwt/auth0-java-jwt-3.7.0_hillclimbing_a.rsf) = 43
+The Mojo value is 35
+
+MoJo(auth0-java-jwt/auth0-java-jwt-3.7.0_ga_a.rsf,auth0-java-jwt/auth0-java-jwt-3.7.0_ga_b.rsf) = 40
+
+MoJo(auth0-java-jwt/auth0-java-jwt-3.7.0_ga_b.rsf,auth0-java-jwt/auth0-java-jwt-3.7.0_ga_a.rsf) = 45
+The Mojo value is 40
+
+MoJo(auth0-java-jwt/auth0-java-jwt-3.7.0_exhaustive_a.rsf,auth0-java-jwt/auth0-java-jwt-3.7.0_exhaustive_b.rsf) = 48
+
+MoJo(auth0-java-jwt/auth0-java-jwt-3.7.0_exhaustive_b.rsf,auth0-java-jwt/auth0-java-jwt-3.7.0_exhaustive_a.rsf) = 39
+The Mojo value is 39
+
+MoJo(auth0-java-jwt/auth0-java-jwt-3.8.0_hillclimbing_a.rsf,auth0-java-jwt/auth0-java-jwt-3.8.0_hillclimbing_b.rsf) = 51
+
+MoJo(auth0-java-jwt/auth0-java-jwt-3.8.0_hillclimbing_b.rsf,auth0-java-jwt/auth0-java-jwt-3.8.0_hillclimbing_a.rsf) = 49
+The Mojo value is 49
+
+MoJo(auth0-java-jwt/auth0-java-jwt-3.8.0_ga_a.rsf,auth0-java-jwt/auth0-java-jwt-3.8.0_ga_b.rsf) = 49
+
+MoJo(auth0-java-jwt/auth0-java-jwt-3.8.0_ga_b.rsf,auth0-java-jwt/auth0-java-jwt-3.8.0_ga_a.rsf) = 49
+The Mojo value is 49
+
+MoJo(auth0-java-jwt/auth0-java-jwt-3.8.0_exhaustive_a.rsf,auth0-java-jwt/auth0-java-jwt-3.8.0_exhaustive_b.rsf) = 42
+
+MoJo(auth0-java-jwt/auth0-java-jwt-3.8.0_exhaustive_b.rsf,auth0-java-jwt/auth0-java-jwt-3.8.0_exhaustive_a.rsf) = 43
+The Mojo value is 42
+
+MoJo(auth0-java-jwt/auth0-java-jwt-3.8.1_hillclimbing_a.rsf,auth0-java-jwt/auth0-java-jwt-3.8.1_hillclimbing_b.rsf) = 49
+
+MoJo(auth0-java-jwt/auth0-java-jwt-3.8.1_hillclimbing_b.rsf,auth0-java-jwt/auth0-java-jwt-3.8.1_hillclimbing_a.rsf) = 51
+The Mojo value is 49
+
+MoJo(auth0-java-jwt/auth0-java-jwt-3.8.1_ga_a.rsf,auth0-java-jwt/auth0-java-jwt-3.8.1_ga_b.rsf) = 48
+
+MoJo(auth0-java-jwt/auth0-java-jwt-3.8.1_ga_b.rsf,auth0-java-jwt/auth0-java-jwt-3.8.1_ga_a.rsf) = 48
+The Mojo value is 48
+
+MoJo(auth0-java-jwt/auth0-java-jwt-3.8.1_exhaustive_a.rsf,auth0-java-jwt/auth0-java-jwt-3.8.1_exhaustive_b.rsf) = 50
+
+MoJo(auth0-java-jwt/auth0-java-jwt-3.8.1_exhaustive_b.rsf,auth0-java-jwt/auth0-java-jwt-3.8.1_exhaustive_a.rsf) = 49
+The Mojo value is 49
+
+MoJo(auth0-java-jwt/auth0-java-jwt-3.8.2_hillclimbing_a.rsf,auth0-java-jwt/auth0-java-jwt-3.8.2_hillclimbing_b.rsf) = 25
+
+MoJo(auth0-java-jwt/auth0-java-jwt-3.8.2_hillclimbing_b.rsf,auth0-java-jwt/auth0-java-jwt-3.8.2_hillclimbing_a.rsf) = 34
+The Mojo value is 25
+
+MoJo(auth0-java-jwt/auth0-java-jwt-3.8.2_ga_a.rsf,auth0-java-jwt/auth0-java-jwt-3.8.2_ga_b.rsf) = 37
+
+MoJo(auth0-java-jwt/auth0-java-jwt-3.8.2_ga_b.rsf,auth0-java-jwt/auth0-java-jwt-3.8.2_ga_a.rsf) = 50
+The Mojo value is 37
+
+MoJo(auth0-java-jwt/auth0-java-jwt-3.8.2_exhaustive_a.rsf,auth0-java-jwt/auth0-java-jwt-3.8.2_exhaustive_b.rsf) = 47
+
+MoJo(auth0-java-jwt/auth0-java-jwt-3.8.2_exhaustive_b.rsf,auth0-java-jwt/auth0-java-jwt-3.8.2_exhaustive_a.rsf) = 45
+The Mojo value is 45

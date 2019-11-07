@@ -1,0 +1,45 @@
+
+MoJo(Twitter4J-Twitter4J/Twitter4J-Twitter4J-4.0.4_hillclimbing_a.rsf,Twitter4J-Twitter4J/Twitter4J-Twitter4J-4.0.4_hillclimbing_b.rsf) = 322
+
+MoJo(Twitter4J-Twitter4J/Twitter4J-Twitter4J-4.0.4_hillclimbing_b.rsf,Twitter4J-Twitter4J/Twitter4J-Twitter4J-4.0.4_hillclimbing_a.rsf) = 316
+The Mojo value is 316
+
+MoJo(Twitter4J-Twitter4J/Twitter4J-Twitter4J-4.0.4_ga_a.rsf,Twitter4J-Twitter4J/Twitter4J-Twitter4J-4.0.4_ga_b.rsf) = 341
+
+MoJo(Twitter4J-Twitter4J/Twitter4J-Twitter4J-4.0.4_ga_b.rsf,Twitter4J-Twitter4J/Twitter4J-Twitter4J-4.0.4_ga_a.rsf) = 333
+The Mojo value is 333
+
+MoJo(Twitter4J-Twitter4J/Twitter4J-Twitter4J-4.0.4_exhaustive_a.rsf,Twitter4J-Twitter4J/Twitter4J-Twitter4J-4.0.4_exhaustive_b.rsf) = 337
+
+MoJo(Twitter4J-Twitter4J/Twitter4J-Twitter4J-4.0.4_exhaustive_b.rsf,Twitter4J-Twitter4J/Twitter4J-Twitter4J-4.0.4_exhaustive_a.rsf) = 338
+The Mojo value is 337
+
+MoJo(Twitter4J-Twitter4J/Twitter4J-Twitter4J-4.0.5_hillclimbing_a.rsf,Twitter4J-Twitter4J/Twitter4J-Twitter4J-4.0.5_hillclimbing_b.rsf) = 328
+
+MoJo(Twitter4J-Twitter4J/Twitter4J-Twitter4J-4.0.5_hillclimbing_b.rsf,Twitter4J-Twitter4J/Twitter4J-Twitter4J-4.0.5_hillclimbing_a.rsf) = 346
+The Mojo value is 328
+
+MoJo(Twitter4J-Twitter4J/Twitter4J-Twitter4J-4.0.5_ga_a.rsf,Twitter4J-Twitter4J/Twitter4J-Twitter4J-4.0.5_ga_b.rsf) = 338
+
+MoJo(Twitter4J-Twitter4J/Twitter4J-Twitter4J-4.0.5_ga_b.rsf,Twitter4J-Twitter4J/Twitter4J-Twitter4J-4.0.5_ga_a.rsf) = 335
+The Mojo value is 335
+
+MoJo(Twitter4J-Twitter4J/Twitter4J-Twitter4J-4.0.5_exhaustive_a.rsf,Twitter4J-Twitter4J/Twitter4J-Twitter4J-4.0.5_exhaustive_b.rsf) = 341
+
+MoJo(Twitter4J-Twitter4J/Twitter4J-Twitter4J-4.0.5_exhaustive_b.rsf,Twitter4J-Twitter4J/Twitter4J-Twitter4J-4.0.5_exhaustive_a.rsf) = 354
+The Mojo value is 341
+
+MoJo(Twitter4J-Twitter4J/Twitter4J-Twitter4J-4.0.6_hillclimbing_a.rsf,Twitter4J-Twitter4J/Twitter4J-Twitter4J-4.0.6_hillclimbing_b.rsf) = 326
+
+MoJo(Twitter4J-Twitter4J/Twitter4J-Twitter4J-4.0.6_hillclimbing_b.rsf,Twitter4J-Twitter4J/Twitter4J-Twitter4J-4.0.6_hillclimbing_a.rsf) = 293
+The Mojo value is 293
+
+MoJo(Twitter4J-Twitter4J/Twitter4J-Twitter4J-4.0.6_ga_a.rsf,Twitter4J-Twitter4J/Twitter4J-Twitter4J-4.0.6_ga_b.rsf) = 314
+
+MoJo(Twitter4J-Twitter4J/Twitter4J-Twitter4J-4.0.6_ga_b.rsf,Twitter4J-Twitter4J/Twitter4J-Twitter4J-4.0.6_ga_a.rsf) = 300
+The Mojo value is 300
+
+MoJo(Twitter4J-Twitter4J/Twitter4J-Twitter4J-4.0.6_exhaustive_a.rsf,Twitter4J-Twitter4J/Twitter4J-Twitter4J-4.0.6_exhaustive_b.rsf) = 322
+
+MoJo(Twitter4J-Twitter4J/Twitter4J-Twitter4J-4.0.6_exhaustive_b.rsf,Twitter4J-Twitter4J/Twitter4J-Twitter4J-4.0.6_exhaustive_a.rsf) = 289
+The Mojo value is 289

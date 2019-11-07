@@ -1,0 +1,150 @@
+
+MoJo(alibaba-jetcache/alibaba-jetcache-2.5.12_hillclimbing_a.rsf,alibaba-jetcache/alibaba-jetcache-2.5.12_hillclimbing_b.rsf) = 207
+
+MoJo(alibaba-jetcache/alibaba-jetcache-2.5.12_hillclimbing_b.rsf,alibaba-jetcache/alibaba-jetcache-2.5.12_hillclimbing_a.rsf) = 200
+The Mojo value is 200
+
+MoJo(alibaba-jetcache/alibaba-jetcache-2.5.12_ga_a.rsf,alibaba-jetcache/alibaba-jetcache-2.5.12_ga_b.rsf) = 200
+
+MoJo(alibaba-jetcache/alibaba-jetcache-2.5.12_ga_b.rsf,alibaba-jetcache/alibaba-jetcache-2.5.12_ga_a.rsf) = 194
+The Mojo value is 194
+
+MoJo(alibaba-jetcache/alibaba-jetcache-2.5.12_exhaustive_a.rsf,alibaba-jetcache/alibaba-jetcache-2.5.12_exhaustive_b.rsf) = 186
+
+MoJo(alibaba-jetcache/alibaba-jetcache-2.5.12_exhaustive_b.rsf,alibaba-jetcache/alibaba-jetcache-2.5.12_exhaustive_a.rsf) = 176
+The Mojo value is 176
+
+MoJo(alibaba-jetcache/alibaba-jetcache-2.5.13_hillclimbing_a.rsf,alibaba-jetcache/alibaba-jetcache-2.5.13_hillclimbing_b.rsf) = 176
+
+MoJo(alibaba-jetcache/alibaba-jetcache-2.5.13_hillclimbing_b.rsf,alibaba-jetcache/alibaba-jetcache-2.5.13_hillclimbing_a.rsf) = 145
+The Mojo value is 145
+
+MoJo(alibaba-jetcache/alibaba-jetcache-2.5.13_ga_a.rsf,alibaba-jetcache/alibaba-jetcache-2.5.13_ga_b.rsf) = 198
+
+MoJo(alibaba-jetcache/alibaba-jetcache-2.5.13_ga_b.rsf,alibaba-jetcache/alibaba-jetcache-2.5.13_ga_a.rsf) = 147
+The Mojo value is 147
+
+MoJo(alibaba-jetcache/alibaba-jetcache-2.5.13_exhaustive_a.rsf,alibaba-jetcache/alibaba-jetcache-2.5.13_exhaustive_b.rsf) = 192
+
+MoJo(alibaba-jetcache/alibaba-jetcache-2.5.13_exhaustive_b.rsf,alibaba-jetcache/alibaba-jetcache-2.5.13_exhaustive_a.rsf) = 205
+The Mojo value is 192
+
+MoJo(alibaba-jetcache/alibaba-jetcache-2.5.14_hillclimbing_a.rsf,alibaba-jetcache/alibaba-jetcache-2.5.14_hillclimbing_b.rsf) = 190
+
+MoJo(alibaba-jetcache/alibaba-jetcache-2.5.14_hillclimbing_b.rsf,alibaba-jetcache/alibaba-jetcache-2.5.14_hillclimbing_a.rsf) = 182
+The Mojo value is 182
+
+MoJo(alibaba-jetcache/alibaba-jetcache-2.5.14_ga_a.rsf,alibaba-jetcache/alibaba-jetcache-2.5.14_ga_b.rsf) = 207
+
+MoJo(alibaba-jetcache/alibaba-jetcache-2.5.14_ga_b.rsf,alibaba-jetcache/alibaba-jetcache-2.5.14_ga_a.rsf) = 160
+The Mojo value is 160
+
+MoJo(alibaba-jetcache/alibaba-jetcache-2.5.14_exhaustive_a.rsf,alibaba-jetcache/alibaba-jetcache-2.5.14_exhaustive_b.rsf) = 198
+
+MoJo(alibaba-jetcache/alibaba-jetcache-2.5.14_exhaustive_b.rsf,alibaba-jetcache/alibaba-jetcache-2.5.14_exhaustive_a.rsf) = 199
+The Mojo value is 198
+
+MoJo(alibaba-jetcache/alibaba-jetcache-2.5.2_hillclimbing_a.rsf,alibaba-jetcache/alibaba-jetcache-2.5.2_hillclimbing_b.rsf) = 166
+
+MoJo(alibaba-jetcache/alibaba-jetcache-2.5.2_hillclimbing_b.rsf,alibaba-jetcache/alibaba-jetcache-2.5.2_hillclimbing_a.rsf) = 155
+The Mojo value is 155
+
+MoJo(alibaba-jetcache/alibaba-jetcache-2.5.2_ga_a.rsf,alibaba-jetcache/alibaba-jetcache-2.5.2_ga_b.rsf) = 184
+
+MoJo(alibaba-jetcache/alibaba-jetcache-2.5.2_ga_b.rsf,alibaba-jetcache/alibaba-jetcache-2.5.2_ga_a.rsf) = 180
+The Mojo value is 180
+
+MoJo(alibaba-jetcache/alibaba-jetcache-2.5.2_exhaustive_a.rsf,alibaba-jetcache/alibaba-jetcache-2.5.2_exhaustive_b.rsf) = 186
+
+MoJo(alibaba-jetcache/alibaba-jetcache-2.5.2_exhaustive_b.rsf,alibaba-jetcache/alibaba-jetcache-2.5.2_exhaustive_a.rsf) = 185
+The Mojo value is 185
+
+MoJo(alibaba-jetcache/alibaba-jetcache-2.5.3_hillclimbing_a.rsf,alibaba-jetcache/alibaba-jetcache-2.5.3_hillclimbing_b.rsf) = 186
+
+MoJo(alibaba-jetcache/alibaba-jetcache-2.5.3_hillclimbing_b.rsf,alibaba-jetcache/alibaba-jetcache-2.5.3_hillclimbing_a.rsf) = 181
+The Mojo value is 181
+
+MoJo(alibaba-jetcache/alibaba-jetcache-2.5.3_ga_a.rsf,alibaba-jetcache/alibaba-jetcache-2.5.3_ga_b.rsf) = 188
+
+MoJo(alibaba-jetcache/alibaba-jetcache-2.5.3_ga_b.rsf,alibaba-jetcache/alibaba-jetcache-2.5.3_ga_a.rsf) = 173
+The Mojo value is 173
+
+MoJo(alibaba-jetcache/alibaba-jetcache-2.5.3_exhaustive_a.rsf,alibaba-jetcache/alibaba-jetcache-2.5.3_exhaustive_b.rsf) = 163
+
+MoJo(alibaba-jetcache/alibaba-jetcache-2.5.3_exhaustive_b.rsf,alibaba-jetcache/alibaba-jetcache-2.5.3_exhaustive_a.rsf) = 172
+The Mojo value is 163
+
+MoJo(alibaba-jetcache/alibaba-jetcache-2.5.4_hillclimbing_a.rsf,alibaba-jetcache/alibaba-jetcache-2.5.4_hillclimbing_b.rsf) = 183
+
+MoJo(alibaba-jetcache/alibaba-jetcache-2.5.4_hillclimbing_b.rsf,alibaba-jetcache/alibaba-jetcache-2.5.4_hillclimbing_a.rsf) = 154
+The Mojo value is 154
+
+MoJo(alibaba-jetcache/alibaba-jetcache-2.5.4_ga_a.rsf,alibaba-jetcache/alibaba-jetcache-2.5.4_ga_b.rsf) = 161
+
+MoJo(alibaba-jetcache/alibaba-jetcache-2.5.4_ga_b.rsf,alibaba-jetcache/alibaba-jetcache-2.5.4_ga_a.rsf) = 175
+The Mojo value is 161
+
+MoJo(alibaba-jetcache/alibaba-jetcache-2.5.4_exhaustive_a.rsf,alibaba-jetcache/alibaba-jetcache-2.5.4_exhaustive_b.rsf) = 172
+
+MoJo(alibaba-jetcache/alibaba-jetcache-2.5.4_exhaustive_b.rsf,alibaba-jetcache/alibaba-jetcache-2.5.4_exhaustive_a.rsf) = 182
+The Mojo value is 172
+
+MoJo(alibaba-jetcache/alibaba-jetcache-2.5.5_hillclimbing_a.rsf,alibaba-jetcache/alibaba-jetcache-2.5.5_hillclimbing_b.rsf) = 160
+
+MoJo(alibaba-jetcache/alibaba-jetcache-2.5.5_hillclimbing_b.rsf,alibaba-jetcache/alibaba-jetcache-2.5.5_hillclimbing_a.rsf) = 156
+The Mojo value is 156
+
+MoJo(alibaba-jetcache/alibaba-jetcache-2.5.5_ga_a.rsf,alibaba-jetcache/alibaba-jetcache-2.5.5_ga_b.rsf) = 172
+
+MoJo(alibaba-jetcache/alibaba-jetcache-2.5.5_ga_b.rsf,alibaba-jetcache/alibaba-jetcache-2.5.5_ga_a.rsf) = 171
+The Mojo value is 171
+
+MoJo(alibaba-jetcache/alibaba-jetcache-2.5.5_exhaustive_a.rsf,alibaba-jetcache/alibaba-jetcache-2.5.5_exhaustive_b.rsf) = 177
+
+MoJo(alibaba-jetcache/alibaba-jetcache-2.5.5_exhaustive_b.rsf,alibaba-jetcache/alibaba-jetcache-2.5.5_exhaustive_a.rsf) = 181
+The Mojo value is 177
+
+MoJo(alibaba-jetcache/alibaba-jetcache-2.5.6_hillclimbing_a.rsf,alibaba-jetcache/alibaba-jetcache-2.5.6_hillclimbing_b.rsf) = 176
+
+MoJo(alibaba-jetcache/alibaba-jetcache-2.5.6_hillclimbing_b.rsf,alibaba-jetcache/alibaba-jetcache-2.5.6_hillclimbing_a.rsf) = 158
+The Mojo value is 158
+
+MoJo(alibaba-jetcache/alibaba-jetcache-2.5.6_ga_a.rsf,alibaba-jetcache/alibaba-jetcache-2.5.6_ga_b.rsf) = 181
+
+MoJo(alibaba-jetcache/alibaba-jetcache-2.5.6_ga_b.rsf,alibaba-jetcache/alibaba-jetcache-2.5.6_ga_a.rsf) = 171
+The Mojo value is 171
+
+MoJo(alibaba-jetcache/alibaba-jetcache-2.5.6_exhaustive_a.rsf,alibaba-jetcache/alibaba-jetcache-2.5.6_exhaustive_b.rsf) = 172
+
+MoJo(alibaba-jetcache/alibaba-jetcache-2.5.6_exhaustive_b.rsf,alibaba-jetcache/alibaba-jetcache-2.5.6_exhaustive_a.rsf) = 177
+The Mojo value is 172
+
+MoJo(alibaba-jetcache/alibaba-jetcache-2.5.7_hillclimbing_a.rsf,alibaba-jetcache/alibaba-jetcache-2.5.7_hillclimbing_b.rsf) = 172
+
+MoJo(alibaba-jetcache/alibaba-jetcache-2.5.7_hillclimbing_b.rsf,alibaba-jetcache/alibaba-jetcache-2.5.7_hillclimbing_a.rsf) = 169
+The Mojo value is 169
+
+MoJo(alibaba-jetcache/alibaba-jetcache-2.5.7_ga_a.rsf,alibaba-jetcache/alibaba-jetcache-2.5.7_ga_b.rsf) = 175
+
+MoJo(alibaba-jetcache/alibaba-jetcache-2.5.7_ga_b.rsf,alibaba-jetcache/alibaba-jetcache-2.5.7_ga_a.rsf) = 177
+The Mojo value is 175
+
+MoJo(alibaba-jetcache/alibaba-jetcache-2.5.7_exhaustive_a.rsf,alibaba-jetcache/alibaba-jetcache-2.5.7_exhaustive_b.rsf) = 188
+
+MoJo(alibaba-jetcache/alibaba-jetcache-2.5.7_exhaustive_b.rsf,alibaba-jetcache/alibaba-jetcache-2.5.7_exhaustive_a.rsf) = 161
+The Mojo value is 161
+
+MoJo(alibaba-jetcache/alibaba-jetcache-2.5.8_hillclimbing_a.rsf,alibaba-jetcache/alibaba-jetcache-2.5.8_hillclimbing_b.rsf) = 185
+
+MoJo(alibaba-jetcache/alibaba-jetcache-2.5.8_hillclimbing_b.rsf,alibaba-jetcache/alibaba-jetcache-2.5.8_hillclimbing_a.rsf) = 171
+The Mojo value is 171
+
+MoJo(alibaba-jetcache/alibaba-jetcache-2.5.8_ga_a.rsf,alibaba-jetcache/alibaba-jetcache-2.5.8_ga_b.rsf) = 182
+
+MoJo(alibaba-jetcache/alibaba-jetcache-2.5.8_ga_b.rsf,alibaba-jetcache/alibaba-jetcache-2.5.8_ga_a.rsf) = 156
+The Mojo value is 156
+
+MoJo(alibaba-jetcache/alibaba-jetcache-2.5.8_exhaustive_a.rsf,alibaba-jetcache/alibaba-jetcache-2.5.8_exhaustive_b.rsf) = 178
+
+MoJo(alibaba-jetcache/alibaba-jetcache-2.5.8_exhaustive_b.rsf,alibaba-jetcache/alibaba-jetcache-2.5.8_exhaustive_a.rsf) = 188
+The Mojo value is 178

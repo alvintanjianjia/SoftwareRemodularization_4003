@@ -1,0 +1,150 @@
+
+MoJo(bytedeco-javacpp/bytedeco-javacpp-1.3.1_hillclimbing_a.rsf,bytedeco-javacpp/bytedeco-javacpp-1.3.1_hillclimbing_b.rsf) = 81
+
+MoJo(bytedeco-javacpp/bytedeco-javacpp-1.3.1_hillclimbing_b.rsf,bytedeco-javacpp/bytedeco-javacpp-1.3.1_hillclimbing_a.rsf) = 81
+The Mojo value is 81
+
+MoJo(bytedeco-javacpp/bytedeco-javacpp-1.3.1_ga_a.rsf,bytedeco-javacpp/bytedeco-javacpp-1.3.1_ga_b.rsf) = 85
+
+MoJo(bytedeco-javacpp/bytedeco-javacpp-1.3.1_ga_b.rsf,bytedeco-javacpp/bytedeco-javacpp-1.3.1_ga_a.rsf) = 77
+The Mojo value is 77
+
+MoJo(bytedeco-javacpp/bytedeco-javacpp-1.3.1_exhaustive_a.rsf,bytedeco-javacpp/bytedeco-javacpp-1.3.1_exhaustive_b.rsf) = 86
+
+MoJo(bytedeco-javacpp/bytedeco-javacpp-1.3.1_exhaustive_b.rsf,bytedeco-javacpp/bytedeco-javacpp-1.3.1_exhaustive_a.rsf) = 78
+The Mojo value is 78
+
+MoJo(bytedeco-javacpp/bytedeco-javacpp-1.3.2_hillclimbing_a.rsf,bytedeco-javacpp/bytedeco-javacpp-1.3.2_hillclimbing_b.rsf) = 78
+
+MoJo(bytedeco-javacpp/bytedeco-javacpp-1.3.2_hillclimbing_b.rsf,bytedeco-javacpp/bytedeco-javacpp-1.3.2_hillclimbing_a.rsf) = 71
+The Mojo value is 71
+
+MoJo(bytedeco-javacpp/bytedeco-javacpp-1.3.2_ga_a.rsf,bytedeco-javacpp/bytedeco-javacpp-1.3.2_ga_b.rsf) = 72
+
+MoJo(bytedeco-javacpp/bytedeco-javacpp-1.3.2_ga_b.rsf,bytedeco-javacpp/bytedeco-javacpp-1.3.2_ga_a.rsf) = 73
+The Mojo value is 72
+
+MoJo(bytedeco-javacpp/bytedeco-javacpp-1.3.2_exhaustive_a.rsf,bytedeco-javacpp/bytedeco-javacpp-1.3.2_exhaustive_b.rsf) = 67
+
+MoJo(bytedeco-javacpp/bytedeco-javacpp-1.3.2_exhaustive_b.rsf,bytedeco-javacpp/bytedeco-javacpp-1.3.2_exhaustive_a.rsf) = 68
+The Mojo value is 67
+
+MoJo(bytedeco-javacpp/bytedeco-javacpp-1.3.3_hillclimbing_a.rsf,bytedeco-javacpp/bytedeco-javacpp-1.3.3_hillclimbing_b.rsf) = 72
+
+MoJo(bytedeco-javacpp/bytedeco-javacpp-1.3.3_hillclimbing_b.rsf,bytedeco-javacpp/bytedeco-javacpp-1.3.3_hillclimbing_a.rsf) = 80
+The Mojo value is 72
+
+MoJo(bytedeco-javacpp/bytedeco-javacpp-1.3.3_ga_a.rsf,bytedeco-javacpp/bytedeco-javacpp-1.3.3_ga_b.rsf) = 68
+
+MoJo(bytedeco-javacpp/bytedeco-javacpp-1.3.3_ga_b.rsf,bytedeco-javacpp/bytedeco-javacpp-1.3.3_ga_a.rsf) = 74
+The Mojo value is 68
+
+MoJo(bytedeco-javacpp/bytedeco-javacpp-1.3.3_exhaustive_a.rsf,bytedeco-javacpp/bytedeco-javacpp-1.3.3_exhaustive_b.rsf) = 84
+
+MoJo(bytedeco-javacpp/bytedeco-javacpp-1.3.3_exhaustive_b.rsf,bytedeco-javacpp/bytedeco-javacpp-1.3.3_exhaustive_a.rsf) = 81
+The Mojo value is 81
+
+MoJo(bytedeco-javacpp/bytedeco-javacpp-1.3.4_hillclimbing_a.rsf,bytedeco-javacpp/bytedeco-javacpp-1.3.4_hillclimbing_b.rsf) = 77
+
+MoJo(bytedeco-javacpp/bytedeco-javacpp-1.3.4_hillclimbing_b.rsf,bytedeco-javacpp/bytedeco-javacpp-1.3.4_hillclimbing_a.rsf) = 68
+The Mojo value is 68
+
+MoJo(bytedeco-javacpp/bytedeco-javacpp-1.3.4_ga_a.rsf,bytedeco-javacpp/bytedeco-javacpp-1.3.4_ga_b.rsf) = 67
+
+MoJo(bytedeco-javacpp/bytedeco-javacpp-1.3.4_ga_b.rsf,bytedeco-javacpp/bytedeco-javacpp-1.3.4_ga_a.rsf) = 79
+The Mojo value is 67
+
+MoJo(bytedeco-javacpp/bytedeco-javacpp-1.3.4_exhaustive_a.rsf,bytedeco-javacpp/bytedeco-javacpp-1.3.4_exhaustive_b.rsf) = 85
+
+MoJo(bytedeco-javacpp/bytedeco-javacpp-1.3.4_exhaustive_b.rsf,bytedeco-javacpp/bytedeco-javacpp-1.3.4_exhaustive_a.rsf) = 86
+The Mojo value is 85
+
+MoJo(bytedeco-javacpp/bytedeco-javacpp-1.4_hillclimbing_a.rsf,bytedeco-javacpp/bytedeco-javacpp-1.4_hillclimbing_b.rsf) = 72
+
+MoJo(bytedeco-javacpp/bytedeco-javacpp-1.4_hillclimbing_b.rsf,bytedeco-javacpp/bytedeco-javacpp-1.4_hillclimbing_a.rsf) = 82
+The Mojo value is 72
+
+MoJo(bytedeco-javacpp/bytedeco-javacpp-1.4_ga_a.rsf,bytedeco-javacpp/bytedeco-javacpp-1.4_ga_b.rsf) = 82
+
+MoJo(bytedeco-javacpp/bytedeco-javacpp-1.4_ga_b.rsf,bytedeco-javacpp/bytedeco-javacpp-1.4_ga_a.rsf) = 88
+The Mojo value is 82
+
+MoJo(bytedeco-javacpp/bytedeco-javacpp-1.4_exhaustive_a.rsf,bytedeco-javacpp/bytedeco-javacpp-1.4_exhaustive_b.rsf) = 63
+
+MoJo(bytedeco-javacpp/bytedeco-javacpp-1.4_exhaustive_b.rsf,bytedeco-javacpp/bytedeco-javacpp-1.4_exhaustive_a.rsf) = 69
+The Mojo value is 63
+
+MoJo(bytedeco-javacpp/bytedeco-javacpp-1.4.1_hillclimbing_a.rsf,bytedeco-javacpp/bytedeco-javacpp-1.4.1_hillclimbing_b.rsf) = 84
+
+MoJo(bytedeco-javacpp/bytedeco-javacpp-1.4.1_hillclimbing_b.rsf,bytedeco-javacpp/bytedeco-javacpp-1.4.1_hillclimbing_a.rsf) = 90
+The Mojo value is 84
+
+MoJo(bytedeco-javacpp/bytedeco-javacpp-1.4.1_ga_a.rsf,bytedeco-javacpp/bytedeco-javacpp-1.4.1_ga_b.rsf) = 86
+
+MoJo(bytedeco-javacpp/bytedeco-javacpp-1.4.1_ga_b.rsf,bytedeco-javacpp/bytedeco-javacpp-1.4.1_ga_a.rsf) = 82
+The Mojo value is 82
+
+MoJo(bytedeco-javacpp/bytedeco-javacpp-1.4.1_exhaustive_a.rsf,bytedeco-javacpp/bytedeco-javacpp-1.4.1_exhaustive_b.rsf) = 80
+
+MoJo(bytedeco-javacpp/bytedeco-javacpp-1.4.1_exhaustive_b.rsf,bytedeco-javacpp/bytedeco-javacpp-1.4.1_exhaustive_a.rsf) = 93
+The Mojo value is 80
+
+MoJo(bytedeco-javacpp/bytedeco-javacpp-1.4.2_hillclimbing_a.rsf,bytedeco-javacpp/bytedeco-javacpp-1.4.2_hillclimbing_b.rsf) = 67
+
+MoJo(bytedeco-javacpp/bytedeco-javacpp-1.4.2_hillclimbing_b.rsf,bytedeco-javacpp/bytedeco-javacpp-1.4.2_hillclimbing_a.rsf) = 80
+The Mojo value is 67
+
+MoJo(bytedeco-javacpp/bytedeco-javacpp-1.4.2_ga_a.rsf,bytedeco-javacpp/bytedeco-javacpp-1.4.2_ga_b.rsf) = 72
+
+MoJo(bytedeco-javacpp/bytedeco-javacpp-1.4.2_ga_b.rsf,bytedeco-javacpp/bytedeco-javacpp-1.4.2_ga_a.rsf) = 90
+The Mojo value is 72
+
+MoJo(bytedeco-javacpp/bytedeco-javacpp-1.4.2_exhaustive_a.rsf,bytedeco-javacpp/bytedeco-javacpp-1.4.2_exhaustive_b.rsf) = 79
+
+MoJo(bytedeco-javacpp/bytedeco-javacpp-1.4.2_exhaustive_b.rsf,bytedeco-javacpp/bytedeco-javacpp-1.4.2_exhaustive_a.rsf) = 59
+The Mojo value is 59
+
+MoJo(bytedeco-javacpp/bytedeco-javacpp-1.4.3_hillclimbing_a.rsf,bytedeco-javacpp/bytedeco-javacpp-1.4.3_hillclimbing_b.rsf) = 84
+
+MoJo(bytedeco-javacpp/bytedeco-javacpp-1.4.3_hillclimbing_b.rsf,bytedeco-javacpp/bytedeco-javacpp-1.4.3_hillclimbing_a.rsf) = 70
+The Mojo value is 70
+
+MoJo(bytedeco-javacpp/bytedeco-javacpp-1.4.3_ga_a.rsf,bytedeco-javacpp/bytedeco-javacpp-1.4.3_ga_b.rsf) = 96
+
+MoJo(bytedeco-javacpp/bytedeco-javacpp-1.4.3_ga_b.rsf,bytedeco-javacpp/bytedeco-javacpp-1.4.3_ga_a.rsf) = 93
+The Mojo value is 93
+
+MoJo(bytedeco-javacpp/bytedeco-javacpp-1.4.3_exhaustive_a.rsf,bytedeco-javacpp/bytedeco-javacpp-1.4.3_exhaustive_b.rsf) = 35
+
+MoJo(bytedeco-javacpp/bytedeco-javacpp-1.4.3_exhaustive_b.rsf,bytedeco-javacpp/bytedeco-javacpp-1.4.3_exhaustive_a.rsf) = 101
+The Mojo value is 35
+
+MoJo(bytedeco-javacpp/bytedeco-javacpp-1.4.4_hillclimbing_a.rsf,bytedeco-javacpp/bytedeco-javacpp-1.4.4_hillclimbing_b.rsf) = 32
+
+MoJo(bytedeco-javacpp/bytedeco-javacpp-1.4.4_hillclimbing_b.rsf,bytedeco-javacpp/bytedeco-javacpp-1.4.4_hillclimbing_a.rsf) = 97
+The Mojo value is 32
+
+MoJo(bytedeco-javacpp/bytedeco-javacpp-1.4.4_ga_a.rsf,bytedeco-javacpp/bytedeco-javacpp-1.4.4_ga_b.rsf) = 75
+
+MoJo(bytedeco-javacpp/bytedeco-javacpp-1.4.4_ga_b.rsf,bytedeco-javacpp/bytedeco-javacpp-1.4.4_ga_a.rsf) = 80
+The Mojo value is 75
+
+MoJo(bytedeco-javacpp/bytedeco-javacpp-1.4.4_exhaustive_a.rsf,bytedeco-javacpp/bytedeco-javacpp-1.4.4_exhaustive_b.rsf) = 97
+
+MoJo(bytedeco-javacpp/bytedeco-javacpp-1.4.4_exhaustive_b.rsf,bytedeco-javacpp/bytedeco-javacpp-1.4.4_exhaustive_a.rsf) = 103
+The Mojo value is 97
+
+MoJo(bytedeco-javacpp/bytedeco-javacpp-1.5_hillclimbing_a.rsf,bytedeco-javacpp/bytedeco-javacpp-1.5_hillclimbing_b.rsf) = 31
+
+MoJo(bytedeco-javacpp/bytedeco-javacpp-1.5_hillclimbing_b.rsf,bytedeco-javacpp/bytedeco-javacpp-1.5_hillclimbing_a.rsf) = 75
+The Mojo value is 31
+
+MoJo(bytedeco-javacpp/bytedeco-javacpp-1.5_ga_a.rsf,bytedeco-javacpp/bytedeco-javacpp-1.5_ga_b.rsf) = 83
+
+MoJo(bytedeco-javacpp/bytedeco-javacpp-1.5_ga_b.rsf,bytedeco-javacpp/bytedeco-javacpp-1.5_ga_a.rsf) = 97
+The Mojo value is 83
+
+MoJo(bytedeco-javacpp/bytedeco-javacpp-1.5_exhaustive_a.rsf,bytedeco-javacpp/bytedeco-javacpp-1.5_exhaustive_b.rsf) = 94
+
+MoJo(bytedeco-javacpp/bytedeco-javacpp-1.5_exhaustive_b.rsf,bytedeco-javacpp/bytedeco-javacpp-1.5_exhaustive_a.rsf) = 96
+The Mojo value is 94

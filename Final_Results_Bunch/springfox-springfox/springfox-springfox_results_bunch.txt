@@ -1,0 +1,150 @@
+
+MoJo(springfox-springfox/springfox-springfox-2.3.0_hillclimbing_a.rsf,springfox-springfox/springfox-springfox-2.3.0_hillclimbing_b.rsf) = 307
+
+MoJo(springfox-springfox/springfox-springfox-2.3.0_hillclimbing_b.rsf,springfox-springfox/springfox-springfox-2.3.0_hillclimbing_a.rsf) = 301
+The Mojo value is 301
+
+MoJo(springfox-springfox/springfox-springfox-2.3.0_ga_a.rsf,springfox-springfox/springfox-springfox-2.3.0_ga_b.rsf) = 306
+
+MoJo(springfox-springfox/springfox-springfox-2.3.0_ga_b.rsf,springfox-springfox/springfox-springfox-2.3.0_ga_a.rsf) = 286
+The Mojo value is 286
+
+MoJo(springfox-springfox/springfox-springfox-2.3.0_exhaustive_a.rsf,springfox-springfox/springfox-springfox-2.3.0_exhaustive_b.rsf) = 307
+
+MoJo(springfox-springfox/springfox-springfox-2.3.0_exhaustive_b.rsf,springfox-springfox/springfox-springfox-2.3.0_exhaustive_a.rsf) = 292
+The Mojo value is 292
+
+MoJo(springfox-springfox/springfox-springfox-2.3.1_hillclimbing_a.rsf,springfox-springfox/springfox-springfox-2.3.1_hillclimbing_b.rsf) = 315
+
+MoJo(springfox-springfox/springfox-springfox-2.3.1_hillclimbing_b.rsf,springfox-springfox/springfox-springfox-2.3.1_hillclimbing_a.rsf) = 304
+The Mojo value is 304
+
+MoJo(springfox-springfox/springfox-springfox-2.3.1_ga_a.rsf,springfox-springfox/springfox-springfox-2.3.1_ga_b.rsf) = 316
+
+MoJo(springfox-springfox/springfox-springfox-2.3.1_ga_b.rsf,springfox-springfox/springfox-springfox-2.3.1_ga_a.rsf) = 312
+The Mojo value is 312
+
+MoJo(springfox-springfox/springfox-springfox-2.3.1_exhaustive_a.rsf,springfox-springfox/springfox-springfox-2.3.1_exhaustive_b.rsf) = 317
+
+MoJo(springfox-springfox/springfox-springfox-2.3.1_exhaustive_b.rsf,springfox-springfox/springfox-springfox-2.3.1_exhaustive_a.rsf) = 274
+The Mojo value is 274
+
+MoJo(springfox-springfox/springfox-springfox-2.4.0_hillclimbing_a.rsf,springfox-springfox/springfox-springfox-2.4.0_hillclimbing_b.rsf) = 319
+
+MoJo(springfox-springfox/springfox-springfox-2.4.0_hillclimbing_b.rsf,springfox-springfox/springfox-springfox-2.4.0_hillclimbing_a.rsf) = 311
+The Mojo value is 311
+
+MoJo(springfox-springfox/springfox-springfox-2.4.0_ga_a.rsf,springfox-springfox/springfox-springfox-2.4.0_ga_b.rsf) = 323
+
+MoJo(springfox-springfox/springfox-springfox-2.4.0_ga_b.rsf,springfox-springfox/springfox-springfox-2.4.0_ga_a.rsf) = 303
+The Mojo value is 303
+
+MoJo(springfox-springfox/springfox-springfox-2.4.0_exhaustive_a.rsf,springfox-springfox/springfox-springfox-2.4.0_exhaustive_b.rsf) = 316
+
+MoJo(springfox-springfox/springfox-springfox-2.4.0_exhaustive_b.rsf,springfox-springfox/springfox-springfox-2.4.0_exhaustive_a.rsf) = 305
+The Mojo value is 305
+
+MoJo(springfox-springfox/springfox-springfox-2.5.0_hillclimbing_a.rsf,springfox-springfox/springfox-springfox-2.5.0_hillclimbing_b.rsf) = 329
+
+MoJo(springfox-springfox/springfox-springfox-2.5.0_hillclimbing_b.rsf,springfox-springfox/springfox-springfox-2.5.0_hillclimbing_a.rsf) = 318
+The Mojo value is 318
+
+MoJo(springfox-springfox/springfox-springfox-2.5.0_ga_a.rsf,springfox-springfox/springfox-springfox-2.5.0_ga_b.rsf) = 317
+
+MoJo(springfox-springfox/springfox-springfox-2.5.0_ga_b.rsf,springfox-springfox/springfox-springfox-2.5.0_ga_a.rsf) = 314
+The Mojo value is 314
+
+MoJo(springfox-springfox/springfox-springfox-2.5.0_exhaustive_a.rsf,springfox-springfox/springfox-springfox-2.5.0_exhaustive_b.rsf) = 320
+
+MoJo(springfox-springfox/springfox-springfox-2.5.0_exhaustive_b.rsf,springfox-springfox/springfox-springfox-2.5.0_exhaustive_a.rsf) = 289
+The Mojo value is 289
+
+MoJo(springfox-springfox/springfox-springfox-2.6.0_hillclimbing_a.rsf,springfox-springfox/springfox-springfox-2.6.0_hillclimbing_b.rsf) = 344
+
+MoJo(springfox-springfox/springfox-springfox-2.6.0_hillclimbing_b.rsf,springfox-springfox/springfox-springfox-2.6.0_hillclimbing_a.rsf) = 315
+The Mojo value is 315
+
+MoJo(springfox-springfox/springfox-springfox-2.6.0_ga_a.rsf,springfox-springfox/springfox-springfox-2.6.0_ga_b.rsf) = 334
+
+MoJo(springfox-springfox/springfox-springfox-2.6.0_ga_b.rsf,springfox-springfox/springfox-springfox-2.6.0_ga_a.rsf) = 305
+The Mojo value is 305
+
+MoJo(springfox-springfox/springfox-springfox-2.6.0_exhaustive_a.rsf,springfox-springfox/springfox-springfox-2.6.0_exhaustive_b.rsf) = 342
+
+MoJo(springfox-springfox/springfox-springfox-2.6.0_exhaustive_b.rsf,springfox-springfox/springfox-springfox-2.6.0_exhaustive_a.rsf) = 311
+The Mojo value is 311
+
+MoJo(springfox-springfox/springfox-springfox-2.6.1_hillclimbing_a.rsf,springfox-springfox/springfox-springfox-2.6.1_hillclimbing_b.rsf) = 326
+
+MoJo(springfox-springfox/springfox-springfox-2.6.1_hillclimbing_b.rsf,springfox-springfox/springfox-springfox-2.6.1_hillclimbing_a.rsf) = 296
+The Mojo value is 296
+
+MoJo(springfox-springfox/springfox-springfox-2.6.1_ga_a.rsf,springfox-springfox/springfox-springfox-2.6.1_ga_b.rsf) = 313
+
+MoJo(springfox-springfox/springfox-springfox-2.6.1_ga_b.rsf,springfox-springfox/springfox-springfox-2.6.1_ga_a.rsf) = 295
+The Mojo value is 295
+
+MoJo(springfox-springfox/springfox-springfox-2.6.1_exhaustive_a.rsf,springfox-springfox/springfox-springfox-2.6.1_exhaustive_b.rsf) = 342
+
+MoJo(springfox-springfox/springfox-springfox-2.6.1_exhaustive_b.rsf,springfox-springfox/springfox-springfox-2.6.1_exhaustive_a.rsf) = 329
+The Mojo value is 329
+
+MoJo(springfox-springfox/springfox-springfox-2.7.0_hillclimbing_a.rsf,springfox-springfox/springfox-springfox-2.7.0_hillclimbing_b.rsf) = 390
+
+MoJo(springfox-springfox/springfox-springfox-2.7.0_hillclimbing_b.rsf,springfox-springfox/springfox-springfox-2.7.0_hillclimbing_a.rsf) = 367
+The Mojo value is 367
+
+MoJo(springfox-springfox/springfox-springfox-2.7.0_ga_a.rsf,springfox-springfox/springfox-springfox-2.7.0_ga_b.rsf) = 398
+
+MoJo(springfox-springfox/springfox-springfox-2.7.0_ga_b.rsf,springfox-springfox/springfox-springfox-2.7.0_ga_a.rsf) = 387
+The Mojo value is 387
+
+MoJo(springfox-springfox/springfox-springfox-2.7.0_exhaustive_a.rsf,springfox-springfox/springfox-springfox-2.7.0_exhaustive_b.rsf) = 381
+
+MoJo(springfox-springfox/springfox-springfox-2.7.0_exhaustive_b.rsf,springfox-springfox/springfox-springfox-2.7.0_exhaustive_a.rsf) = 339
+The Mojo value is 339
+
+MoJo(springfox-springfox/springfox-springfox-2.8.0_hillclimbing_a.rsf,springfox-springfox/springfox-springfox-2.8.0_hillclimbing_b.rsf) = 406
+
+MoJo(springfox-springfox/springfox-springfox-2.8.0_hillclimbing_b.rsf,springfox-springfox/springfox-springfox-2.8.0_hillclimbing_a.rsf) = 381
+The Mojo value is 381
+
+MoJo(springfox-springfox/springfox-springfox-2.8.0_ga_a.rsf,springfox-springfox/springfox-springfox-2.8.0_ga_b.rsf) = 419
+
+MoJo(springfox-springfox/springfox-springfox-2.8.0_ga_b.rsf,springfox-springfox/springfox-springfox-2.8.0_ga_a.rsf) = 402
+The Mojo value is 402
+
+MoJo(springfox-springfox/springfox-springfox-2.8.0_exhaustive_a.rsf,springfox-springfox/springfox-springfox-2.8.0_exhaustive_b.rsf) = 416
+
+MoJo(springfox-springfox/springfox-springfox-2.8.0_exhaustive_b.rsf,springfox-springfox/springfox-springfox-2.8.0_exhaustive_a.rsf) = 356
+The Mojo value is 356
+
+MoJo(springfox-springfox/springfox-springfox-2.9.0_hillclimbing_a.rsf,springfox-springfox/springfox-springfox-2.9.0_hillclimbing_b.rsf) = 442
+
+MoJo(springfox-springfox/springfox-springfox-2.9.0_hillclimbing_b.rsf,springfox-springfox/springfox-springfox-2.9.0_hillclimbing_a.rsf) = 430
+The Mojo value is 430
+
+MoJo(springfox-springfox/springfox-springfox-2.9.0_ga_a.rsf,springfox-springfox/springfox-springfox-2.9.0_ga_b.rsf) = 316
+
+MoJo(springfox-springfox/springfox-springfox-2.9.0_ga_b.rsf,springfox-springfox/springfox-springfox-2.9.0_ga_a.rsf) = 340
+The Mojo value is 316
+
+MoJo(springfox-springfox/springfox-springfox-2.9.0_exhaustive_a.rsf,springfox-springfox/springfox-springfox-2.9.0_exhaustive_b.rsf) = 444
+
+MoJo(springfox-springfox/springfox-springfox-2.9.0_exhaustive_b.rsf,springfox-springfox/springfox-springfox-2.9.0_exhaustive_a.rsf) = 441
+The Mojo value is 441
+
+MoJo(springfox-springfox/springfox-springfox-2.9.1_hillclimbing_a.rsf,springfox-springfox/springfox-springfox-2.9.1_hillclimbing_b.rsf) = 412
+
+MoJo(springfox-springfox/springfox-springfox-2.9.1_hillclimbing_b.rsf,springfox-springfox/springfox-springfox-2.9.1_hillclimbing_a.rsf) = 389
+The Mojo value is 389
+
+MoJo(springfox-springfox/springfox-springfox-2.9.1_ga_a.rsf,springfox-springfox/springfox-springfox-2.9.1_ga_b.rsf) = 428
+
+MoJo(springfox-springfox/springfox-springfox-2.9.1_ga_b.rsf,springfox-springfox/springfox-springfox-2.9.1_ga_a.rsf) = 419
+The Mojo value is 419
+
+MoJo(springfox-springfox/springfox-springfox-2.9.1_exhaustive_a.rsf,springfox-springfox/springfox-springfox-2.9.1_exhaustive_b.rsf) = 441
+
+MoJo(springfox-springfox/springfox-springfox-2.9.1_exhaustive_b.rsf,springfox-springfox/springfox-springfox-2.9.1_exhaustive_a.rsf) = 435
+The Mojo value is 435

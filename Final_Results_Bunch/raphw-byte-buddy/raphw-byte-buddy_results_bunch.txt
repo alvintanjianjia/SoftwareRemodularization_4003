@@ -1,0 +1,150 @@
+
+MoJo(raphw-byte-buddy/raphw-byte-buddy-1.9.14_hillclimbing_a.rsf,raphw-byte-buddy/raphw-byte-buddy-1.9.14_hillclimbing_b.rsf) = 892
+
+MoJo(raphw-byte-buddy/raphw-byte-buddy-1.9.14_hillclimbing_b.rsf,raphw-byte-buddy/raphw-byte-buddy-1.9.14_hillclimbing_a.rsf) = 647
+The Mojo value is 647
+
+MoJo(raphw-byte-buddy/raphw-byte-buddy-1.9.14_ga_a.rsf,raphw-byte-buddy/raphw-byte-buddy-1.9.14_ga_b.rsf) = 835
+
+MoJo(raphw-byte-buddy/raphw-byte-buddy-1.9.14_ga_b.rsf,raphw-byte-buddy/raphw-byte-buddy-1.9.14_ga_a.rsf) = 789
+The Mojo value is 789
+
+MoJo(raphw-byte-buddy/raphw-byte-buddy-1.9.14_exhaustive_a.rsf,raphw-byte-buddy/raphw-byte-buddy-1.9.14_exhaustive_b.rsf) = 855
+
+MoJo(raphw-byte-buddy/raphw-byte-buddy-1.9.14_exhaustive_b.rsf,raphw-byte-buddy/raphw-byte-buddy-1.9.14_exhaustive_a.rsf) = 644
+The Mojo value is 644
+
+MoJo(raphw-byte-buddy/raphw-byte-buddy-1.9.15_hillclimbing_a.rsf,raphw-byte-buddy/raphw-byte-buddy-1.9.15_hillclimbing_b.rsf) = 918
+
+MoJo(raphw-byte-buddy/raphw-byte-buddy-1.9.15_hillclimbing_b.rsf,raphw-byte-buddy/raphw-byte-buddy-1.9.15_hillclimbing_a.rsf) = 928
+The Mojo value is 918
+
+MoJo(raphw-byte-buddy/raphw-byte-buddy-1.9.15_ga_a.rsf,raphw-byte-buddy/raphw-byte-buddy-1.9.15_ga_b.rsf) = 899
+
+MoJo(raphw-byte-buddy/raphw-byte-buddy-1.9.15_ga_b.rsf,raphw-byte-buddy/raphw-byte-buddy-1.9.15_ga_a.rsf) = 813
+The Mojo value is 813
+
+MoJo(raphw-byte-buddy/raphw-byte-buddy-1.9.15_exhaustive_a.rsf,raphw-byte-buddy/raphw-byte-buddy-1.9.15_exhaustive_b.rsf) = 869
+
+MoJo(raphw-byte-buddy/raphw-byte-buddy-1.9.15_exhaustive_b.rsf,raphw-byte-buddy/raphw-byte-buddy-1.9.15_exhaustive_a.rsf) = 892
+The Mojo value is 869
+
+MoJo(raphw-byte-buddy/raphw-byte-buddy-1.9.16_hillclimbing_a.rsf,raphw-byte-buddy/raphw-byte-buddy-1.9.16_hillclimbing_b.rsf) = 921
+
+MoJo(raphw-byte-buddy/raphw-byte-buddy-1.9.16_hillclimbing_b.rsf,raphw-byte-buddy/raphw-byte-buddy-1.9.16_hillclimbing_a.rsf) = 837
+The Mojo value is 837
+
+MoJo(raphw-byte-buddy/raphw-byte-buddy-1.9.16_ga_a.rsf,raphw-byte-buddy/raphw-byte-buddy-1.9.16_ga_b.rsf) = 895
+
+MoJo(raphw-byte-buddy/raphw-byte-buddy-1.9.16_ga_b.rsf,raphw-byte-buddy/raphw-byte-buddy-1.9.16_ga_a.rsf) = 906
+The Mojo value is 895
+
+MoJo(raphw-byte-buddy/raphw-byte-buddy-1.9.16_exhaustive_a.rsf,raphw-byte-buddy/raphw-byte-buddy-1.9.16_exhaustive_b.rsf) = 923
+
+MoJo(raphw-byte-buddy/raphw-byte-buddy-1.9.16_exhaustive_b.rsf,raphw-byte-buddy/raphw-byte-buddy-1.9.16_exhaustive_a.rsf) = 855
+The Mojo value is 855
+
+MoJo(raphw-byte-buddy/raphw-byte-buddy-1.9.2_hillclimbing_a.rsf,raphw-byte-buddy/raphw-byte-buddy-1.9.2_hillclimbing_b.rsf) = 791
+
+MoJo(raphw-byte-buddy/raphw-byte-buddy-1.9.2_hillclimbing_b.rsf,raphw-byte-buddy/raphw-byte-buddy-1.9.2_hillclimbing_a.rsf) = 783
+The Mojo value is 783
+
+MoJo(raphw-byte-buddy/raphw-byte-buddy-1.9.2_ga_a.rsf,raphw-byte-buddy/raphw-byte-buddy-1.9.2_ga_b.rsf) = 843
+
+MoJo(raphw-byte-buddy/raphw-byte-buddy-1.9.2_ga_b.rsf,raphw-byte-buddy/raphw-byte-buddy-1.9.2_ga_a.rsf) = 745
+The Mojo value is 745
+
+MoJo(raphw-byte-buddy/raphw-byte-buddy-1.9.2_exhaustive_a.rsf,raphw-byte-buddy/raphw-byte-buddy-1.9.2_exhaustive_b.rsf) = 849
+
+MoJo(raphw-byte-buddy/raphw-byte-buddy-1.9.2_exhaustive_b.rsf,raphw-byte-buddy/raphw-byte-buddy-1.9.2_exhaustive_a.rsf) = 473
+The Mojo value is 473
+
+MoJo(raphw-byte-buddy/raphw-byte-buddy-1.9.3_hillclimbing_a.rsf,raphw-byte-buddy/raphw-byte-buddy-1.9.3_hillclimbing_b.rsf) = 835
+
+MoJo(raphw-byte-buddy/raphw-byte-buddy-1.9.3_hillclimbing_b.rsf,raphw-byte-buddy/raphw-byte-buddy-1.9.3_hillclimbing_a.rsf) = 637
+The Mojo value is 637
+
+MoJo(raphw-byte-buddy/raphw-byte-buddy-1.9.3_ga_a.rsf,raphw-byte-buddy/raphw-byte-buddy-1.9.3_ga_b.rsf) = 854
+
+MoJo(raphw-byte-buddy/raphw-byte-buddy-1.9.3_ga_b.rsf,raphw-byte-buddy/raphw-byte-buddy-1.9.3_ga_a.rsf) = 805
+The Mojo value is 805
+
+MoJo(raphw-byte-buddy/raphw-byte-buddy-1.9.3_exhaustive_a.rsf,raphw-byte-buddy/raphw-byte-buddy-1.9.3_exhaustive_b.rsf) = 624
+
+MoJo(raphw-byte-buddy/raphw-byte-buddy-1.9.3_exhaustive_b.rsf,raphw-byte-buddy/raphw-byte-buddy-1.9.3_exhaustive_a.rsf) = 562
+The Mojo value is 562
+
+MoJo(raphw-byte-buddy/raphw-byte-buddy-1.9.4_hillclimbing_a.rsf,raphw-byte-buddy/raphw-byte-buddy-1.9.4_hillclimbing_b.rsf) = 891
+
+MoJo(raphw-byte-buddy/raphw-byte-buddy-1.9.4_hillclimbing_b.rsf,raphw-byte-buddy/raphw-byte-buddy-1.9.4_hillclimbing_a.rsf) = 912
+The Mojo value is 891
+
+MoJo(raphw-byte-buddy/raphw-byte-buddy-1.9.4_ga_a.rsf,raphw-byte-buddy/raphw-byte-buddy-1.9.4_ga_b.rsf) = 890
+
+MoJo(raphw-byte-buddy/raphw-byte-buddy-1.9.4_ga_b.rsf,raphw-byte-buddy/raphw-byte-buddy-1.9.4_ga_a.rsf) = 759
+The Mojo value is 759
+
+MoJo(raphw-byte-buddy/raphw-byte-buddy-1.9.4_exhaustive_a.rsf,raphw-byte-buddy/raphw-byte-buddy-1.9.4_exhaustive_b.rsf) = 547
+
+MoJo(raphw-byte-buddy/raphw-byte-buddy-1.9.4_exhaustive_b.rsf,raphw-byte-buddy/raphw-byte-buddy-1.9.4_exhaustive_a.rsf) = 441
+The Mojo value is 441
+
+MoJo(raphw-byte-buddy/raphw-byte-buddy-1.9.5_hillclimbing_a.rsf,raphw-byte-buddy/raphw-byte-buddy-1.9.5_hillclimbing_b.rsf) = 634
+
+MoJo(raphw-byte-buddy/raphw-byte-buddy-1.9.5_hillclimbing_b.rsf,raphw-byte-buddy/raphw-byte-buddy-1.9.5_hillclimbing_a.rsf) = 729
+The Mojo value is 634
+
+MoJo(raphw-byte-buddy/raphw-byte-buddy-1.9.5_ga_a.rsf,raphw-byte-buddy/raphw-byte-buddy-1.9.5_ga_b.rsf) = 892
+
+MoJo(raphw-byte-buddy/raphw-byte-buddy-1.9.5_ga_b.rsf,raphw-byte-buddy/raphw-byte-buddy-1.9.5_ga_a.rsf) = 760
+The Mojo value is 760
+
+MoJo(raphw-byte-buddy/raphw-byte-buddy-1.9.5_exhaustive_a.rsf,raphw-byte-buddy/raphw-byte-buddy-1.9.5_exhaustive_b.rsf) = 913
+
+MoJo(raphw-byte-buddy/raphw-byte-buddy-1.9.5_exhaustive_b.rsf,raphw-byte-buddy/raphw-byte-buddy-1.9.5_exhaustive_a.rsf) = 854
+The Mojo value is 854
+
+MoJo(raphw-byte-buddy/raphw-byte-buddy-1.9.6_hillclimbing_a.rsf,raphw-byte-buddy/raphw-byte-buddy-1.9.6_hillclimbing_b.rsf) = 551
+
+MoJo(raphw-byte-buddy/raphw-byte-buddy-1.9.6_hillclimbing_b.rsf,raphw-byte-buddy/raphw-byte-buddy-1.9.6_hillclimbing_a.rsf) = 833
+The Mojo value is 551
+
+MoJo(raphw-byte-buddy/raphw-byte-buddy-1.9.6_ga_a.rsf,raphw-byte-buddy/raphw-byte-buddy-1.9.6_ga_b.rsf) = 841
+
+MoJo(raphw-byte-buddy/raphw-byte-buddy-1.9.6_ga_b.rsf,raphw-byte-buddy/raphw-byte-buddy-1.9.6_ga_a.rsf) = 842
+The Mojo value is 841
+
+MoJo(raphw-byte-buddy/raphw-byte-buddy-1.9.6_exhaustive_a.rsf,raphw-byte-buddy/raphw-byte-buddy-1.9.6_exhaustive_b.rsf) = 873
+
+MoJo(raphw-byte-buddy/raphw-byte-buddy-1.9.6_exhaustive_b.rsf,raphw-byte-buddy/raphw-byte-buddy-1.9.6_exhaustive_a.rsf) = 785
+The Mojo value is 785
+
+MoJo(raphw-byte-buddy/raphw-byte-buddy-1.9.7_hillclimbing_a.rsf,raphw-byte-buddy/raphw-byte-buddy-1.9.7_hillclimbing_b.rsf) = 920
+
+MoJo(raphw-byte-buddy/raphw-byte-buddy-1.9.7_hillclimbing_b.rsf,raphw-byte-buddy/raphw-byte-buddy-1.9.7_hillclimbing_a.rsf) = 899
+The Mojo value is 899
+
+MoJo(raphw-byte-buddy/raphw-byte-buddy-1.9.7_ga_a.rsf,raphw-byte-buddy/raphw-byte-buddy-1.9.7_ga_b.rsf) = 900
+
+MoJo(raphw-byte-buddy/raphw-byte-buddy-1.9.7_ga_b.rsf,raphw-byte-buddy/raphw-byte-buddy-1.9.7_ga_a.rsf) = 885
+The Mojo value is 885
+
+MoJo(raphw-byte-buddy/raphw-byte-buddy-1.9.7_exhaustive_a.rsf,raphw-byte-buddy/raphw-byte-buddy-1.9.7_exhaustive_b.rsf) = 879
+
+MoJo(raphw-byte-buddy/raphw-byte-buddy-1.9.7_exhaustive_b.rsf,raphw-byte-buddy/raphw-byte-buddy-1.9.7_exhaustive_a.rsf) = 817
+The Mojo value is 817
+
+MoJo(raphw-byte-buddy/raphw-byte-buddy-1.9.8_hillclimbing_a.rsf,raphw-byte-buddy/raphw-byte-buddy-1.9.8_hillclimbing_b.rsf) = 885
+
+MoJo(raphw-byte-buddy/raphw-byte-buddy-1.9.8_hillclimbing_b.rsf,raphw-byte-buddy/raphw-byte-buddy-1.9.8_hillclimbing_a.rsf) = 887
+The Mojo value is 885
+
+MoJo(raphw-byte-buddy/raphw-byte-buddy-1.9.8_ga_a.rsf,raphw-byte-buddy/raphw-byte-buddy-1.9.8_ga_b.rsf) = 796
+
+MoJo(raphw-byte-buddy/raphw-byte-buddy-1.9.8_ga_b.rsf,raphw-byte-buddy/raphw-byte-buddy-1.9.8_ga_a.rsf) = 777
+The Mojo value is 777
+
+MoJo(raphw-byte-buddy/raphw-byte-buddy-1.9.8_exhaustive_a.rsf,raphw-byte-buddy/raphw-byte-buddy-1.9.8_exhaustive_b.rsf) = 911
+
+MoJo(raphw-byte-buddy/raphw-byte-buddy-1.9.8_exhaustive_b.rsf,raphw-byte-buddy/raphw-byte-buddy-1.9.8_exhaustive_a.rsf) = 861
+The Mojo value is 861

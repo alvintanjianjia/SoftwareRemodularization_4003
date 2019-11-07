@@ -1,0 +1,150 @@
+
+MoJo(hibernate-hibernate-orm/hibernate-hibernate-orm-5.3.5_hillclimbing_a.rsf,hibernate-hibernate-orm/hibernate-hibernate-orm-5.3.5_hillclimbing_b.rsf) = 7590
+
+MoJo(hibernate-hibernate-orm/hibernate-hibernate-orm-5.3.5_hillclimbing_b.rsf,hibernate-hibernate-orm/hibernate-hibernate-orm-5.3.5_hillclimbing_a.rsf) = 6507
+The Mojo value is 6507
+
+MoJo(hibernate-hibernate-orm/hibernate-hibernate-orm-5.3.5_ga_a.rsf,hibernate-hibernate-orm/hibernate-hibernate-orm-5.3.5_ga_b.rsf) = 6673
+
+MoJo(hibernate-hibernate-orm/hibernate-hibernate-orm-5.3.5_ga_b.rsf,hibernate-hibernate-orm/hibernate-hibernate-orm-5.3.5_ga_a.rsf) = 6689
+The Mojo value is 6673
+
+MoJo(hibernate-hibernate-orm/hibernate-hibernate-orm-5.3.5_exhaustive_a.rsf,hibernate-hibernate-orm/hibernate-hibernate-orm-5.3.5_exhaustive_b.rsf) = 7540
+
+MoJo(hibernate-hibernate-orm/hibernate-hibernate-orm-5.3.5_exhaustive_b.rsf,hibernate-hibernate-orm/hibernate-hibernate-orm-5.3.5_exhaustive_a.rsf) = 7768
+The Mojo value is 7540
+
+MoJo(hibernate-hibernate-orm/hibernate-hibernate-orm-5.3.6_hillclimbing_a.rsf,hibernate-hibernate-orm/hibernate-hibernate-orm-5.3.6_hillclimbing_b.rsf) = 8301
+
+MoJo(hibernate-hibernate-orm/hibernate-hibernate-orm-5.3.6_hillclimbing_b.rsf,hibernate-hibernate-orm/hibernate-hibernate-orm-5.3.6_hillclimbing_a.rsf) = 7578
+The Mojo value is 7578
+
+MoJo(hibernate-hibernate-orm/hibernate-hibernate-orm-5.3.6_ga_a.rsf,hibernate-hibernate-orm/hibernate-hibernate-orm-5.3.6_ga_b.rsf) = 8323
+
+MoJo(hibernate-hibernate-orm/hibernate-hibernate-orm-5.3.6_ga_b.rsf,hibernate-hibernate-orm/hibernate-hibernate-orm-5.3.6_ga_a.rsf) = 8425
+The Mojo value is 8323
+
+MoJo(hibernate-hibernate-orm/hibernate-hibernate-orm-5.3.6_exhaustive_a.rsf,hibernate-hibernate-orm/hibernate-hibernate-orm-5.3.6_exhaustive_b.rsf) = 8115
+
+MoJo(hibernate-hibernate-orm/hibernate-hibernate-orm-5.3.6_exhaustive_b.rsf,hibernate-hibernate-orm/hibernate-hibernate-orm-5.3.6_exhaustive_a.rsf) = 8154
+The Mojo value is 8115
+
+MoJo(hibernate-hibernate-orm/hibernate-hibernate-orm-5.3.7_hillclimbing_a.rsf,hibernate-hibernate-orm/hibernate-hibernate-orm-5.3.7_hillclimbing_b.rsf) = 8452
+
+MoJo(hibernate-hibernate-orm/hibernate-hibernate-orm-5.3.7_hillclimbing_b.rsf,hibernate-hibernate-orm/hibernate-hibernate-orm-5.3.7_hillclimbing_a.rsf) = 7953
+The Mojo value is 7953
+
+MoJo(hibernate-hibernate-orm/hibernate-hibernate-orm-5.3.7_ga_a.rsf,hibernate-hibernate-orm/hibernate-hibernate-orm-5.3.7_ga_b.rsf) = 8710
+
+MoJo(hibernate-hibernate-orm/hibernate-hibernate-orm-5.3.7_ga_b.rsf,hibernate-hibernate-orm/hibernate-hibernate-orm-5.3.7_ga_a.rsf) = 8303
+The Mojo value is 8303
+
+MoJo(hibernate-hibernate-orm/hibernate-hibernate-orm-5.3.7_exhaustive_a.rsf,hibernate-hibernate-orm/hibernate-hibernate-orm-5.3.7_exhaustive_b.rsf) = 8566
+
+MoJo(hibernate-hibernate-orm/hibernate-hibernate-orm-5.3.7_exhaustive_b.rsf,hibernate-hibernate-orm/hibernate-hibernate-orm-5.3.7_exhaustive_a.rsf) = 8005
+The Mojo value is 8005
+
+MoJo(hibernate-hibernate-orm/hibernate-hibernate-orm-5.3.8_hillclimbing_a.rsf,hibernate-hibernate-orm/hibernate-hibernate-orm-5.3.8_hillclimbing_b.rsf) = 6963
+
+MoJo(hibernate-hibernate-orm/hibernate-hibernate-orm-5.3.8_hillclimbing_b.rsf,hibernate-hibernate-orm/hibernate-hibernate-orm-5.3.8_hillclimbing_a.rsf) = 7529
+The Mojo value is 6963
+
+MoJo(hibernate-hibernate-orm/hibernate-hibernate-orm-5.3.8_ga_a.rsf,hibernate-hibernate-orm/hibernate-hibernate-orm-5.3.8_ga_b.rsf) = 7991
+
+MoJo(hibernate-hibernate-orm/hibernate-hibernate-orm-5.3.8_ga_b.rsf,hibernate-hibernate-orm/hibernate-hibernate-orm-5.3.8_ga_a.rsf) = 8689
+The Mojo value is 7991
+
+MoJo(hibernate-hibernate-orm/hibernate-hibernate-orm-5.3.8_exhaustive_a.rsf,hibernate-hibernate-orm/hibernate-hibernate-orm-5.3.8_exhaustive_b.rsf) = 7667
+
+MoJo(hibernate-hibernate-orm/hibernate-hibernate-orm-5.3.8_exhaustive_b.rsf,hibernate-hibernate-orm/hibernate-hibernate-orm-5.3.8_exhaustive_a.rsf) = 8479
+The Mojo value is 7667
+
+MoJo(hibernate-hibernate-orm/hibernate-hibernate-orm-5.3.9_hillclimbing_a.rsf,hibernate-hibernate-orm/hibernate-hibernate-orm-5.3.9_hillclimbing_b.rsf) = 7891
+
+MoJo(hibernate-hibernate-orm/hibernate-hibernate-orm-5.3.9_hillclimbing_b.rsf,hibernate-hibernate-orm/hibernate-hibernate-orm-5.3.9_hillclimbing_a.rsf) = 8830
+The Mojo value is 7891
+
+MoJo(hibernate-hibernate-orm/hibernate-hibernate-orm-5.3.9_ga_a.rsf,hibernate-hibernate-orm/hibernate-hibernate-orm-5.3.9_ga_b.rsf) = 6252
+
+MoJo(hibernate-hibernate-orm/hibernate-hibernate-orm-5.3.9_ga_b.rsf,hibernate-hibernate-orm/hibernate-hibernate-orm-5.3.9_ga_a.rsf) = 8058
+The Mojo value is 6252
+
+MoJo(hibernate-hibernate-orm/hibernate-hibernate-orm-5.3.9_exhaustive_a.rsf,hibernate-hibernate-orm/hibernate-hibernate-orm-5.3.9_exhaustive_b.rsf) = 8032
+
+MoJo(hibernate-hibernate-orm/hibernate-hibernate-orm-5.3.9_exhaustive_b.rsf,hibernate-hibernate-orm/hibernate-hibernate-orm-5.3.9_exhaustive_a.rsf) = 8435
+The Mojo value is 8032
+
+MoJo(hibernate-hibernate-orm/hibernate-hibernate-orm-5.4.0_hillclimbing_a.rsf,hibernate-hibernate-orm/hibernate-hibernate-orm-5.4.0_hillclimbing_b.rsf) = 8689
+
+MoJo(hibernate-hibernate-orm/hibernate-hibernate-orm-5.4.0_hillclimbing_b.rsf,hibernate-hibernate-orm/hibernate-hibernate-orm-5.4.0_hillclimbing_a.rsf) = 8093
+The Mojo value is 8093
+
+MoJo(hibernate-hibernate-orm/hibernate-hibernate-orm-5.4.0_ga_a.rsf,hibernate-hibernate-orm/hibernate-hibernate-orm-5.4.0_ga_b.rsf) = 7746
+
+MoJo(hibernate-hibernate-orm/hibernate-hibernate-orm-5.4.0_ga_b.rsf,hibernate-hibernate-orm/hibernate-hibernate-orm-5.4.0_ga_a.rsf) = 8456
+The Mojo value is 7746
+
+MoJo(hibernate-hibernate-orm/hibernate-hibernate-orm-5.4.0_exhaustive_a.rsf,hibernate-hibernate-orm/hibernate-hibernate-orm-5.4.0_exhaustive_b.rsf) = 6971
+
+MoJo(hibernate-hibernate-orm/hibernate-hibernate-orm-5.4.0_exhaustive_b.rsf,hibernate-hibernate-orm/hibernate-hibernate-orm-5.4.0_exhaustive_a.rsf) = 7247
+The Mojo value is 6971
+
+MoJo(hibernate-hibernate-orm/hibernate-hibernate-orm-5.4.1_hillclimbing_a.rsf,hibernate-hibernate-orm/hibernate-hibernate-orm-5.4.1_hillclimbing_b.rsf) = 7489
+
+MoJo(hibernate-hibernate-orm/hibernate-hibernate-orm-5.4.1_hillclimbing_b.rsf,hibernate-hibernate-orm/hibernate-hibernate-orm-5.4.1_hillclimbing_a.rsf) = 8513
+The Mojo value is 7489
+
+MoJo(hibernate-hibernate-orm/hibernate-hibernate-orm-5.4.1_ga_a.rsf,hibernate-hibernate-orm/hibernate-hibernate-orm-5.4.1_ga_b.rsf) = 7438
+
+MoJo(hibernate-hibernate-orm/hibernate-hibernate-orm-5.4.1_ga_b.rsf,hibernate-hibernate-orm/hibernate-hibernate-orm-5.4.1_ga_a.rsf) = 8078
+The Mojo value is 7438
+
+MoJo(hibernate-hibernate-orm/hibernate-hibernate-orm-5.4.1_exhaustive_a.rsf,hibernate-hibernate-orm/hibernate-hibernate-orm-5.4.1_exhaustive_b.rsf) = 8769
+
+MoJo(hibernate-hibernate-orm/hibernate-hibernate-orm-5.4.1_exhaustive_b.rsf,hibernate-hibernate-orm/hibernate-hibernate-orm-5.4.1_exhaustive_a.rsf) = 8911
+The Mojo value is 8769
+
+MoJo(hibernate-hibernate-orm/hibernate-hibernate-orm-5.4.2_hillclimbing_a.rsf,hibernate-hibernate-orm/hibernate-hibernate-orm-5.4.2_hillclimbing_b.rsf) = 8093
+
+MoJo(hibernate-hibernate-orm/hibernate-hibernate-orm-5.4.2_hillclimbing_b.rsf,hibernate-hibernate-orm/hibernate-hibernate-orm-5.4.2_hillclimbing_a.rsf) = 6887
+The Mojo value is 6887
+
+MoJo(hibernate-hibernate-orm/hibernate-hibernate-orm-5.4.2_ga_a.rsf,hibernate-hibernate-orm/hibernate-hibernate-orm-5.4.2_ga_b.rsf) = 7937
+
+MoJo(hibernate-hibernate-orm/hibernate-hibernate-orm-5.4.2_ga_b.rsf,hibernate-hibernate-orm/hibernate-hibernate-orm-5.4.2_ga_a.rsf) = 6718
+The Mojo value is 6718
+
+MoJo(hibernate-hibernate-orm/hibernate-hibernate-orm-5.4.2_exhaustive_a.rsf,hibernate-hibernate-orm/hibernate-hibernate-orm-5.4.2_exhaustive_b.rsf) = 8839
+
+MoJo(hibernate-hibernate-orm/hibernate-hibernate-orm-5.4.2_exhaustive_b.rsf,hibernate-hibernate-orm/hibernate-hibernate-orm-5.4.2_exhaustive_a.rsf) = 8915
+The Mojo value is 8839
+
+MoJo(hibernate-hibernate-orm/hibernate-hibernate-orm-5.4.3_hillclimbing_a.rsf,hibernate-hibernate-orm/hibernate-hibernate-orm-5.4.3_hillclimbing_b.rsf) = 8157
+
+MoJo(hibernate-hibernate-orm/hibernate-hibernate-orm-5.4.3_hillclimbing_b.rsf,hibernate-hibernate-orm/hibernate-hibernate-orm-5.4.3_hillclimbing_a.rsf) = 8737
+The Mojo value is 8157
+
+MoJo(hibernate-hibernate-orm/hibernate-hibernate-orm-5.4.3_ga_a.rsf,hibernate-hibernate-orm/hibernate-hibernate-orm-5.4.3_ga_b.rsf) = 8438
+
+MoJo(hibernate-hibernate-orm/hibernate-hibernate-orm-5.4.3_ga_b.rsf,hibernate-hibernate-orm/hibernate-hibernate-orm-5.4.3_ga_a.rsf) = 7282
+The Mojo value is 7282
+
+MoJo(hibernate-hibernate-orm/hibernate-hibernate-orm-5.4.3_exhaustive_a.rsf,hibernate-hibernate-orm/hibernate-hibernate-orm-5.4.3_exhaustive_b.rsf) = 7997
+
+MoJo(hibernate-hibernate-orm/hibernate-hibernate-orm-5.4.3_exhaustive_b.rsf,hibernate-hibernate-orm/hibernate-hibernate-orm-5.4.3_exhaustive_a.rsf) = 8012
+The Mojo value is 7997
+
+MoJo(hibernate-hibernate-orm/hibernate-hibernate-orm-5.4.4_hillclimbing_a.rsf,hibernate-hibernate-orm/hibernate-hibernate-orm-5.4.4_hillclimbing_b.rsf) = 8841
+
+MoJo(hibernate-hibernate-orm/hibernate-hibernate-orm-5.4.4_hillclimbing_b.rsf,hibernate-hibernate-orm/hibernate-hibernate-orm-5.4.4_hillclimbing_a.rsf) = 7528
+The Mojo value is 7528
+
+MoJo(hibernate-hibernate-orm/hibernate-hibernate-orm-5.4.4_ga_a.rsf,hibernate-hibernate-orm/hibernate-hibernate-orm-5.4.4_ga_b.rsf) = 8637
+
+MoJo(hibernate-hibernate-orm/hibernate-hibernate-orm-5.4.4_ga_b.rsf,hibernate-hibernate-orm/hibernate-hibernate-orm-5.4.4_ga_a.rsf) = 8498
+The Mojo value is 8498
+
+MoJo(hibernate-hibernate-orm/hibernate-hibernate-orm-5.4.4_exhaustive_a.rsf,hibernate-hibernate-orm/hibernate-hibernate-orm-5.4.4_exhaustive_b.rsf) = 8863
+
+MoJo(hibernate-hibernate-orm/hibernate-hibernate-orm-5.4.4_exhaustive_b.rsf,hibernate-hibernate-orm/hibernate-hibernate-orm-5.4.4_exhaustive_a.rsf) = 8258
+The Mojo value is 8258
